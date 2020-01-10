@@ -1,0 +1,2999 @@
+2873749;;senator, we're making our final approach into coruscant.;;1
+2873752;;i guess i was wrong.;;1
+2873753;;there was no danger at all.;;1
+2873755;;milady, i'm so sorry.;;1
+2873756;;i've failed you, senator.;;1
+2873758;;milady, you're still in danger here.;;1
+2873759;;- i shouldn't have come back. - this vote is very important.;;1
+2873760;;you did your duty. corde did hers. now, come.;;1
+2873762;;i don't know how much longer i can hold off the vote, my friends.;;1
+2873763;;more and more star systems are joining the separatists.;;1
+2873764;;if they do break away...;;1
+2873765;;i will not let this republic that has stood for a thousand years...;;1
+2873766;;be split in two.;;1
+2873767;;my negotiations will not fail.;;1
+2873768;;if they do, you must realize...;;1
+2873769;;there aren't enough jedi to protect the republic.;;1
+2873770;;we're keepers of the peace, not soldiers.;;1
+2873772;;do you think it will really come to war?;;1
+2873773;;the dark side clouds everything.;;1
+2873774;;impossible to see the future is.;;1
+2873775;;the loyalist committee has arrived, your honor.;;1
+2873778;;we will discuss this matter later.;;1
+2873779;;senator amidala, your tragedy on the landing platform...;;1
+2873781;;seeing you alive brings warm feelings to my heart.;;1
+2873782;;do you have any idea who was behind this attack?;;1
+2873783;;our intelligence points to disgruntled spice miners on the moons of naboo.;;1
+2873784;;i think that count dooku was behind it.;;1
+2873785;;he is a political idealist, not a murderer.;;1
+2873786;;you know, milady, count dooku was once a jedi.;;1
+2873787;;he couldn't assassinate anyone. it's not in his character.;;1
+2873788;;but for certain, senator...;;1
+2873789;;in grave danger you are.;;1
+2873790;;masterjedi, may i suggest...;;1
+2873791;;the senator be placed under the protection of your graces?;;1
+2873792;;do you really think that's a wise decision under these stressful times?;;1
+2873793;;chancellor, if i may comment, i do not believe...;;1
+2873794;;the situation is that serious?;;1
+2873795;;no, but i do, senator.;;1
+2873796;;i realize all too well that additional security...;;1
+2873797;;might be disruptive for you...;;1
+2873798;;but perhaps someone you're familiar with.;;1
+2873799;;an old friend, like master kenobi.;;1
+2873801;;he's just returned from a border dispute on ansion.;;1
+2873802;;do it for me, milady. please?;;1
+2873803;;the thought of losing you...;;1
+2873805;;i will have obi-wan report to you immediately, milady.;;1
+2873806;;thank you, master windu.;;1
+2873807;;- you seem a little on edge. - not at all.;;1
+2873808;;i haven't felt you this tense since we fell into that nest of gundarks.;;1
+2873809;;you fell into that nightmare, master...;;1
+2873810;;and i rescued you, remember?;;1
+2873812;;you're sweating. relax. take a deep breath.;;1
+2873813;;i haven't seen her in ten years, master.;;1
+2873815;;- mesa so smilen to seein yousa! - good to see you again, jarjar.;;1
+2873817;;mesa palos here! lookie, lookie, senator.;;1
+2873819;;it's a great pleasure to see you again, milady.;;1
+2873820;;it has been far too long, master kenobi.;;1
+2873822;;- my goodness, you've grown. - so have you.;;1
+2873823;;grown more beautiful, i mean.;;1
+2873824;;well, for a senator, i mean.;;1
+2873825;;ani, you'll always be that little boy i knew on tatooine.;;1
+2873826;;our presence here will be invisible, milady, i can assure you.;;1
+2873827;;i'm captain typho of her majesty's security service.;;1
+2873828;;queen jamillia has been informed of your assignment.;;1
+2873829;;i am grateful you are here, master kenobi.;;1
+2873830;;the situation is more dangerous than the senator will admit.;;1
+2873831;;i don't need more security. i need answers.;;1
+2873832;;i want to know who's trying to kill me.;;1
+2873833;;we are here to protect you, senator, not to start an investigation.;;1
+2873834;;we will find out who's trying to kill you, padmé.;;1
+2873836;;we will not exceed our mandate, my young padawan learner.;;1
+2873837;;i meant that in the interest of protecting her, master, of course.;;1
+2873838;;we will not go through this exercise again, anakin...;;1
+2873839;;and you will pay attention to my lead.;;1
+2873840;;- why? - what?;;1
+2873841;;why else do you think we were assigned to her if not to find the killer?;;1
+2873842;;protection is a job for local security, notjedi.;;1
+2873843;;it's overkill, master. investigation is implied in our mandate.;;1
+2873844;;we will do exactly as the council has instructed.;;1
+2873845;;and you will learn your place, young one.;;1
+2873846;;perhaps with merely your presence...;;1
+2873847;;the mystery surrounding this threat will be revealed.;;1
+2873848;;now, if you'll excuse me...;;1
+2873850;;i know i'll feel better having you here.;;1
+2873851;;i'll have an officer stationed on every floor...;;1
+2873852;;and i'll be in the control center downstairs.;;1
+2873853;;mesa busten wit happiness seein yousa again, ani.;;1
+2873854;;she hardly even recognized me, jarjar.;;1
+2873855;;i've thought about her every day since we parted and...;;1
+2873856;;she's forgotten me completely.;;1
+2873858;;happier den mesa seein her in a longo time.;;1
+2873859;;you're focusing on the negative, anakin. be mindful of your thoughts.;;1
+2873860;;she was pleased to see us.;;1
+2873861;;now, let's check the security.;;1
+2873862;;i hit the ship, but they used a decoy.;;1
+2873863;;we'll have to try something more subtle this time, zam.;;1
+2873864;;my client is getting impatient.;;1
+2873865;;take these. be careful. they're very poisonous.;;1
+2873866;;and, zam, there can be no mistakes this time.;;1
+2873867;;captain typho has more than enough men downstairs.;;1
+2873868;;no assassin would try that way.;;1
+2873869;;- any activity up here? - quiet as a tomb.;;1
+2873870;;i don't like just waiting here for something to happen to her.;;1
+2873871;;- what's going on? - she covered the cameras.;;1
+2873872;;i don't think she liked me watching her.;;1
+2873873;;what is she thinking?;;1
+2873874;;she programmed r2 to warn us if there is an intruder.;;1
+2873875;;there are many other ways to kill a senator.;;1
+2873876;;i know, but we also want to catch this assassin, don't we, master?;;1
+2873877;;you're using her as bait.;;1
+2873878;;it was her idea.;;1
+2873879;;don't worry. no harm will come to her.;;1
+2873880;;i can sense everything going on in that room.;;1
+2873883;;besides, your senses aren't that attuned, my young apprentice.;;1
+2873887;;i don't sleep well anymore.;;1
+2873888;;because of your mother?;;1
+2873889;;i don't know why i keep dreaming about her.;;1
+2873890;;dreams pass in time.;;1
+2873891;;i'd much rather dream about padmé.;;1
+2873892;;just being around her again is... intoxicating.;;1
+2873893;;be mindful of your thoughts, anakin. they betray you.;;1
+2873894;;you've made a commitment to thejedi order...;;1
+2873895;;a commitment not easily broken.;;1
+2873896;;and don't forget, she's a politician. they're not to be trusted.;;1
+2873897;;she's not like the others in the senate, master.;;1
+2873898;;it is my experience that senators focus...;;1
+2873899;;only on pleasing those who fund their campaigns...;;1
+2873900;;and they're in no means scared of forgetting the niceties of democracy...;;1
+2873901;;- in order to get those funds. - not another lecture.;;1
+2873902;;at least not on the economics of politics.;;1
+2873903;;and besides, you're generalizing.;;1
+2873904;;the chancellor doesn't appear to be corrupt.;;1
+2873905;;palpatine is a politician.;;1
+2873906;;i have observed that he is very clever...;;1
+2873907;;in following the passions and the prejudices of the senators.;;1
+2873908;;i think he's a good man...;;1
+2873909;;i sense it too.;;1
+2873911;;are you all right, milady?;;1
+2873914;;- what took you so long? - oh, you know, master.;;1
+2873915;;- i couldn't find a speeder i liked... - there he is.;;1
+2873916;;with the open cockpit and the right speed capabilities.;;1
+2873917;;if you spent as long practicing your saber techniques as you do your wit...;;1
+2873918;;you would rival master yoda as a swordsman.;;1
+2873919;;i thought i already did.;;1
+2873920;;only in your mind, my very young apprentice.;;1
+2873921;;pull up, anakin. pull up!;;1
+2873922;;you know i don't like it when you do that.;;1
+2873923;;sorry, master. i forgot you don't like flying.;;1
+2873924;;i don't mind flying, but what you're doing is suicide!;;1
+2873925;;anakin! how many times have i told you...;;1
+2873926;;stay away from power couplings!;;1
+2873928;;where are you going? he went that way.;;1
+2873929;;master, if we keep this chase going any longer...;;1
+2873930;;that creep is gonna end up deep-fried...;;1
+2873931;;and, personally, i'd like to find out who he is and who he's working for.;;1
+2873932;;this is a shortcut... i think.;;1
+2873933;;well, you've lost him.;;1
+2873934;;i'm deeply sorry, master.;;1
+2873935;;that was some shortcut, anakin.;;1
+2873936;;he went completely the other way.;;1
+2873937;;- once again you've proved... - if you'll excuse me.;;1
+2873938;;i hate it when he does that.;;1
+2873940;;- she went into the club, master. - patience.;;1
+2873941;;- use the force. think. - sorry, master.;;1
+2873942;;- he went in there to hide, not to run. - yes, master.;;1
+2873943;;- next time, try not to lose it. - yes, master.;;1
+2873944;;- this weapon is your life. - i try, master.;;1
+2873945;;why do i get the feeling you're going to be the death of me?;;1
+2873946;;don't say that, master.;;1
+2873947;;you're the closest thing i have to a father.;;1
+2873948;;then why don't you listen to me?;;1
+2873950;;can you see him?;;1
+2873951;;i think he is a she...;;1
+2873952;;and i think she is a changeling.;;1
+2873953;;in that case, be extra careful.;;1
+2873954;;- go and find her. - where are you going, master?;;1
+2873957;;- you wanna buy some death sticks? - you don't want to sell me death sticks.;;1
+2873958;;i don't want to sell you death sticks.;;1
+2873959;;you want to go home and rethink your life.;;1
+2873960;;i want to go home and rethink my life.;;1
+2873962;;jedi business. go back to your drinks.;;1
+2873963;;do you know who it was you were trying to kill?;;1
+2873964;;it was a senator from naboo.;;1
+2873965;;- and who hired you? - it was just a job.;;1
+2873966;;who hired you? tell us.;;1
+2873968;;it was a bounty hunter called...;;1
+2873971;;track down this bounty hunter you must, obi-wan.;;1
+2873972;;most importantly, find out who he's working for.;;1
+2873973;;what about senator amidala? she will still need protecting.;;1
+2873974;;handle that your padawan will.;;1
+2873975;;anakin, escort the senator back to her home planet of naboo.;;1
+2873976;;she'll be safer there. and don't use registered transport.;;1
+2873978;;as the leader of the opposition, it will be very difficult...;;1
+2873979;;to get senator amidala to leave the capital.;;1
+2873980;;until caught this killer is...;;1
+2873981;;our judgment she must respect.;;1
+2873982;;anakin, go to the senate...;;1
+2873983;;and ask chancellor palpatine to speak with her about this matter.;;1
+2873984;;i will talk with her.;;1
+2873985;;senator amidala will not refuse an executive order.;;1
+2873986;;i know her well enough to assure you of that.;;1
+2873987;;thank you, your excellency.;;1
+2873988;;and so, they've finally given you an assignment.;;1
+2873989;;your patience has paid off.;;1
+2873990;;your guidance more than my patience.;;1
+2873991;;you don't need guidance, anakin.;;1
+2873992;;in time, you will learn to trust your feelings.;;1
+2873993;;then you will be invincible.;;1
+2873994;;i have said it many times:;;1
+2873995;;you are the most gifted jedi i have ever met.;;1
+2873996;;thank you, your excellency.;;1
+2873997;;i see you becoming the greatest of all thejedi, anakin...;;1
+2873998;;even more powerful than master yoda.;;1
+2873999;;i am concerned for my padawan.;;1
+2874000;;he is not ready to be given this assignment on his own yet.;;1
+2874001;;the council is confident in its decision, obi-wan.;;1
+2874002;;the boy has exceptional skills.;;1
+2874003;;but he still has much to learn, master.;;1
+2874004;;his abilities have made him, well, arrogant.;;1
+2874006;;a flaw more and more common among jedi.;;1
+2874007;;too sure of themselves they are.;;1
+2874008;;even the older, more experienced ones.;;1
+2874009;;remember, obi-wan, if the prophecy is true...;;1
+2874010;;your apprentice is the only one who can bring the force back into balance.;;1
+2874011;;i'm taking an extended leave of absence.;;1
+2874012;;it will be your responsibility to take my place in the senate.;;1
+2874013;;representative binks, i know i can count on you.;;1
+2874014;;mesa honored to be taking on dissa heavy burden.;;1
+2874015;;mesa accept this with muy, muy humility and...;;1
+2874016;;jarjar, i don't wish to hold you up.;;1
+2874017;;i'm sure you have a great deal to do.;;1
+2874020;;i do not like this idea of hiding.;;1
+2874022;;now that the council has ordered an investigation...;;1
+2874023;;it won't take master obi-wan long to find this bounty hunter.;;1
+2874024;;i haven't worked for a year to defeat the military creation act...;;1
+2874025;;to not be here when its fate is decided.;;1
+2874026;;sometimes we must let go of our pride...;;1
+2874027;;and do what is requested of us.;;1
+2874028;;anakin, you've grown up.;;1
+2874029;;master obi-wan manages not to see it.;;1
+2874030;;don't get me wrong.;;1
+2874031;;obi-wan is a great mentor.;;1
+2874032;;as wise as master yoda and...;;1
+2874033;;as powerful as master windu.;;1
+2874034;;i am truly thankful to be his apprentice.;;1
+2874035;;in some ways... a lot of ways...;;1
+2874036;;i'm really ahead of him.;;1
+2874037;;i'm ready for the trials...;;1
+2874038;;but he feels that i'm too unpredictable.;;1
+2874039;;he won't let me move on.;;1
+2874040;;- that must be frustrating. - it's worse.;;1
+2874041;;he's overly critical. he never listens.;;1
+2874044;;all mentors have a way of seeing more of our faults than we would like.;;1
+2874045;;it's the only way we grow.;;1
+2874048;;don't try to grow up too fast.;;1
+2874049;;but i am grown up.;;1
+2874050;;you said it yourself.;;1
+2874051;;please don't look at me like that.;;1
+2874053;;it makes me feel uncomfortable.;;1
+2874055;;- be safe, milady. - thank you, captain.;;1
+2874056;;take good care of dorme. the threat's on you two now.;;1
+2874057;;he'll be safe with me.;;1
+2874059;;it's not me, milady. i worry about you.;;1
+2874060;;what if they realize you've left the capital?;;1
+2874061;;well, then myjedi protector will have to prove how good he is.;;1
+2874063;;don't do anything without first consulting either myself or the council.;;1
+2874065;;i'll get to the bottom of this plot quickly, milady.;;1
+2874066;;you'll be back here in no time.;;1
+2874067;;i'll be most grateful for your speed, masterjedi.;;1
+2874068;;- it's time to go. - i know.;;1
+2874069;;anakin, may the force be with you.;;1
+2874070;;may the force be with you, master.;;1
+2874072;;this is my first assignment on my own. i am too.;;1
+2874073;;don't worry. we have r2 with us.;;1
+2874074;;i do hope he doesn't try anything foolish.;;1
+2874075;;i'd be more concerned about her doing something than him.;;1
+2874076;;someone to see ya, honey!;;1
+2874077;;jedi, by the looks of him.;;1
+2874080;;take a seat. i'll be right with ya.;;1
+2874081;;- you wanna cup o'jawa juice? - oh, yes. thank you.;;1
+2874083;;so, my friend, what can i do for ya?;;1
+2874084;;you can tell me what this is.;;1
+2874086;;i ain't seen one of these since i was prospectin'...;;1
+2874087;;on subterrel, beyond the outer rim.;;1
+2874088;;can you tell me where it came from?;;1
+2874089;;this baby belongs to them cloners.;;1
+2874090;;what you got here is a kamino saberdart.;;1
+2874091;;i wonder why it didn't show up in the analysis archives.;;1
+2874092;;it's these funny little cuts on the side that give it away.;;1
+2874093;;those analysis droids only focus on symbols.;;1
+2874094;;i should think that you jedi would have more respect...;;1
+2874095;;for the difference between knowledge and...;;1
+2874097;;well, if droids could think...;;1
+2874098;;there'd be none of us here, would there?;;1
+2874099;;kamino. i'm not familiar with it. is it in the republic?;;1
+2874100;;no, no. it's beyond the outer rim.;;1
+2874101;;i'd say about 12 parsecs outside the rishi maze.;;1
+2874102;;should be easy to find, even for those droids in your archives.;;1
+2874103;;these kaminoans keep to themselves.;;1
+2874104;;they're cloners. damn good ones too.;;1
+2874105;;- cloners. are they friendly? - depends.;;1
+2874106;;depends on what, dex?;;1
+2874107;;on how good your manners are...;;1
+2874108;;and how big your... pocketbook is.;;1
+2874109;;- did you call for assistance? - yes, i did.;;1
+2874110;;are you having a problem, master kenobi?;;1
+2874111;;yes, i'm looking for a planetary system called kamino.;;1
+2874112;;it doesn't show up on the archive charts.;;1
+2874113;;kamino. it's not a system i'm familiar with.;;1
+2874114;;are you sure you have the right coordinates?;;1
+2874115;;according to my information, it should appear in this quadrant here...;;1
+2874116;;just south of the rishi maze.;;1
+2874117;;i hate to say it, but it looks like the system you're searching for...;;1
+2874119;;impossible. perhaps the archives are incomplete.;;1
+2874120;;if an item does not appear in our records...;;1
+2874121;;it does not exist.;;1
+2874122;;hey, you! no droids!;;1
+2874125;;must be difficult, having sworn your life to thejedi...;;1
+2874126;;not being able to visit the places you like or do the things you like.;;1
+2874127;;or be with the people that i love.;;1
+2874128;;are you allowed to love?;;1
+2874129;;i thought that was forbidden for a jedi.;;1
+2874132;;compassion, which i would define as unconditional love...;;1
+2874133;;is central to a jedi's life.;;1
+2874134;;so you might say that we are encouraged to love.;;1
+2874135;;you've changed so much.;;1
+2874136;;you haven't changed a bit.;;1
+2874137;;you're exactly the way i remember you in my dreams.;;1
+2874138;;reach out. sense the force around you.;;1
+2874139;;use your feelings you must.;;1
+2874141;;a visitor we have.;;1
+2874144;;i'm sorry to disturb you, master.;;1
+2874145;;what help can i be, obi-wan?;;1
+2874146;;i'm looking for a planet described to me by an old friend.;;1
+2874147;;i trust him, but the systems don't show on the archive maps.;;1
+2874148;;lost a planet master obi-wan has.;;1
+2874151;;gather round the map reader.;;1
+2874153;;and find obi-wan's wayward planet we will.;;1
+2874154;;it ought to be here...;;1
+2874156;;gravity is pulling all the stars in the area towards this spot.;;1
+2874158;;but the star and all the planets...;;1
+2874160;;how can this be?;;1
+2874164;;because someone erased it from the archive memory.;;1
+2874165;;truly wonderful the mind of a child is.;;1
+2874166;;the padawan is right.;;1
+2874167;;go to the center of gravity's pull...;;1
+2874168;;and find your planet you will.;;1
+2874169;;the data must have been erased.;;1
+2874170;;but who could empty information from the archives? isn't that impossible?;;1
+2874171;;dangerous and disturbing this puzzle is.;;1
+2874172;;only a jedi could have erased those files.;;1
+2874173;;but who and why, harder to answer.;;1
+2874174;;meditate on this i will.;;1
+2874175;;i wasn't the youngest queen ever elected...;;1
+2874176;;but now that i think back on it, i'm not sure i was old enough.;;1
+2874177;;i'm not sure i was ready.;;1
+2874178;;the people you served thought you did a good job.;;1
+2874179;;i heard they even tried to amend the constitution...;;1
+2874180;;so you could stay in office.;;1
+2874181;;i was relieved when my two terms were up.;;1
+2874182;;but when the queen asked me to serve as senator...;;1
+2874183;;i couldn't refuse her.;;1
+2874184;;i agree with her. i think the republic needs you.;;1
+2874185;;i'm glad that you chose to serve.;;1
+2874186;;if the senate votes to create an army, it's sure to push us into a civil war.;;1
+2874188;;there hasn't been a full-scale war since the formation of the republic.;;1
+2874189;;do you see any way through negotiations...;;1
+2874190;;to bring the separatists back into the republic?;;1
+2874191;;not if they feel threatened.;;1
+2874192;;they'll turn to the trade federations or the commerce guilds for help.;;1
+2874194;;but after four trials in the supreme court...;;1
+2874195;;nute gunray is still the viceroy of the trade federation.;;1
+2874196;;i fear the senate is powerless to resolve this crisis.;;1
+2874197;;we must keep our faith in the republic.;;1
+2874198;;the day we stop believing democracy can work is the day we lose it.;;1
+2874199;;let's pray that day never comes.;;1
+2874200;;in the meantime, we must consider your own safety.;;1
+2874201;;what is your suggestion, masterjedi?;;1
+2874202;;anakin's not a jedi yet. he's still a padawan learner.;;1
+2874203;;- but i was thinking... - hold on a minute.;;1
+2874205;;i was thinking i would stay in the lake country.;;1
+2874206;;there are some places up there that are very isolated.;;1
+2874207;;excuse me. i'm in charge of security here, milady.;;1
+2874208;;and this is my home. i know it very well. that is why we're here.;;1
+2874209;;i think it would be wise...;;1
+2874210;;if you took advantage of my knowledge in this instance.;;1
+2874212;;perfect. it's settled, then.;;1
+2874213;;there it is, r4, right where it should be.;;1
+2874214;;our missing planet kamino.;;1
+2874216;;the prime minister is expecting you.;;1
+2874217;;- i'm expected? - of course.;;1
+2874218;;he is anxious to meet you.;;1
+2874219;;after all these years...;;1
+2874220;;we were beginning to think you weren't coming.;;1
+2874221;;now, please, this way.;;1
+2874222;;may i present lama su...;;1
+2874223;;prime minister of kamino.;;1
+2874224;;and this is masterjedi...;;1
+2874226;;i trust you're going to enjoy your stay.;;1
+2874228;;and now to business.;;1
+2874229;;you will be delighted to hear that we are on schedule.;;1
+2874230;;200,000 units are ready...;;1
+2874231;;with a million more well on the way.;;1
+2874233;;please tell your master sifo-dyas...;;1
+2874234;;that his order will be met on time.;;1
+2874236;;jedi master sifo-dyas is still...;;1
+2874237;;a leading member of thejedi council, is he not?;;1
+2874238;;master sifo-dyas was killed almost ten years ago.;;1
+2874239;;i'm so sorry to hear that.;;1
+2874240;;but i'm sure he would have been proud of the army we've built for him.;;1
+2874242;;yes, a clone army, and i must say...;;1
+2874243;;one of the finest we've ever created.;;1
+2874244;;tell me, prime minister...;;1
+2874245;;when my master first contacted you about the army...;;1
+2874246;;did he say who it was for?;;1
+2874247;;of course he did.;;1
+2874248;;this army is for the republic.;;1
+2874249;;but you must be anxious to inspect the units for yourself.;;1
+2874250;;that's why i'm here.;;1
+2874251;;we used to come here for school retreat.;;1
+2874252;;we would swim to that island every day.;;1
+2874253;;i love the water.;;1
+2874254;;we used to lie out on the sand and let the sun dry us...;;1
+2874255;;and try to guess the names of the birds singing.;;1
+2874256;;i don't like sand.;;1
+2874257;;it's coarse and rough and irritating...;;1
+2874258;;and it gets everywhere.;;1
+2874260;;here, everything is soft...;;1
+2874263;;i shouldn't have done that.;;1
+2874266;;i'd hoped you would be pleased.;;1
+2874267;;clones can think creatively.;;1
+2874268;;you will find that they are immensely superior to droids.;;1
+2874269;;we take great pride in our combat education and training programs.;;1
+2874270;;this group was created about five years ago.;;1
+2874271;;you mentioned growth acceleration.;;1
+2874272;;oh, yes, it's essential.;;1
+2874273;;otherwise, a mature clone would take a lifetime to grow.;;1
+2874274;;now we can do it in half the time.;;1
+2874276;;they are totally obedient...;;1
+2874277;;taking any order without question.;;1
+2874278;;we modified their genetic structure...;;1
+2874279;;to make them less independent than the original host.;;1
+2874280;;and who was the original host?;;1
+2874281;;a bounty hunter called jango fett.;;1
+2874282;;and where is this bounty hunter now?;;1
+2874283;;oh, we keep him here.;;1
+2874284;;apart from his pay, which is considerable...;;1
+2874285;;fett demanded only one thing:;;1
+2874286;;an unaltered clone for himself.;;1
+2874287;;- curious, isn't it? - "unaltered"?;;1
+2874289;;no tampering with the structure to make it more docile...;;1
+2874290;;and no growth acceleration.;;1
+2874291;;i should very much like to meet this jango fett.;;1
+2874292;;i would be very happy to arrange it for you.;;1
+2874295;;sure you do. you just don't want to tell me.;;1
+2874296;;you gonna use one of your jedi mind tricks on me?;;1
+2874297;;they only work on the weak-minded.;;1
+2874299;;i was 12. his name was palo.;;1
+2874300;;we were both in the legislative youth program.;;1
+2874301;;he was a few years older than i. very cute.;;1
+2874302;;dark, curly hair. dreamy eyes.;;1
+2874303;;all right, i get the picture.;;1
+2874304;;whatever happened to him?;;1
+2874305;;i went into public service. he went on to become an artist.;;1
+2874306;;maybe he was the smart one.;;1
+2874307;;you really don't like politicians, do you?;;1
+2874308;;i like two or three...;;1
+2874309;;but i'm not really sure about one of them.;;1
+2874310;;i don't think the system works.;;1
+2874311;;how would you have it work?;;1
+2874312;;we need a system where the politicians sit down and discuss the problem...;;1
+2874313;;agree what's in the best interest of all the people...;;1
+2874314;;and then do it.;;1
+2874315;;that's exactly what we do.;;1
+2874316;;the trouble is that people don't always agree.;;1
+2874317;;well, then they should be made to.;;1
+2874318;;- by whom? who's gonna make them? - i don't know. someone.;;1
+2874319;;- you? - of course not me.;;1
+2874320;;- but someone. - someone wise.;;1
+2874321;;sounds an awful lot like a dictatorship to me.;;1
+2874322;;well, if it works.;;1
+2874323;;- you're making fun of me. - no.;;1
+2874324;;i'd be much too frightened to tease a senator.;;1
+2874325;;ani, are you all right?;;1
+2874326;;boba, is your father here?;;1
+2874328;;may we see him?;;1
+2874330;;dad, taun we's here.;;1
+2874332;;was your trip productive?;;1
+2874334;;this is jedi master obi-wan kenobi.;;1
+2874335;;he's come to check on our progress.;;1
+2874336;;your clones are very impressive. you must be very proud.;;1
+2874337;;i'm just a simple man trying to make my way in the universe.;;1
+2874338;;ever made your way as far into the interior as coruscant?;;1
+2874339;;- once or twice. - recently?;;1
+2874341;;then you must know master sifo-dyas.;;1
+2874342;;boba, rood eht so-heeck.;;1
+2874345;;is he not thejedi who hired you for this job?;;1
+2874346;;never heard of him.;;1
+2874348;;i was recruited by a man called tyranus on one of the moons of bogden.;;1
+2874350;;do you like your army?;;1
+2874351;;i look forward to seeing them in action.;;1
+2874352;;they'll do their job well. i'll guarantee that.;;1
+2874353;;thank you for your time, jango.;;1
+2874354;;always a pleasure to meet a jedi.;;1
+2874355;;what is it, dad?;;1
+2874356;;pack your things. we're leaving.;;1
+2874357;;and when i got to them, we went into aggressive negotiations.;;1
+2874358;;"aggressive negotiations"? what's that?;;1
+2874359;;well, negotiations with a lightsaber.;;1
+2874360;;if master obi-wan caught me doing this, he'd be very grumpy.;;1
+2874361;;from the moment i met you...;;1
+2874362;;all those years ago...;;1
+2874363;;not a day has gone by when i haven't thought of you.;;1
+2874364;;and now that i'm with you again...;;1
+2874366;;the closer i get to you, the worse it gets.;;1
+2874367;;the thought of not being with you...;;1
+2874369;;i'm haunted by the kiss...;;1
+2874370;;that you should never have given me.;;1
+2874371;;my heart is beating...;;1
+2874372;;hoping that that kiss will not become a scar.;;1
+2874373;;you are in my very soul...;;1
+2874375;;what can i do? i will do anything that you ask.;;1
+2874376;;if you are suffering as much as i am, please, tell me.;;1
+2874378;;we can't. it's... just not possible.;;1
+2874379;;anything is possible, padmé. listen to me.;;1
+2874381;;we live in a real world. come back to it.;;1
+2874382;;you're studying to become a jedi. i'm a senator.;;1
+2874383;;if you follow your thoughts through to conclusion...;;1
+2874384;;it'll take us to a place we cannot go...;;1
+2874385;;regardless of the way we feel about each other.;;1
+2874386;;then you do feel something.;;1
+2874387;;i will not let you give up your future for me.;;1
+2874388;;you are asking me to be rational.;;1
+2874389;;that is something i know i cannot do.;;1
+2874390;;believe me, i wish that i could just wish away my feelings...;;1
+2874392;;i will not give in to this.;;1
+2874394;;it wouldn't have to be that way.;;1
+2874395;;we could keep it a secret.;;1
+2874396;;we'd be living a lie...;;1
+2874397;;one we couldn't keep even if we wanted to.;;1
+2874398;;i couldn't do that.;;1
+2874399;;could you, anakin? could you live like that?;;1
+2874401;;it would destroy us.;;1
+2874402;;tell your council that the first battalions are ready.;;1
+2874403;;and remind them, if they need more troops...;;1
+2874404;;it will take more time to grow them.;;1
+2874405;;i won't forget, and thank you.;;1
+2874408;;scramble code five to coruscant, care of the old folks' home!;;1
+2874409;;i have successfully made contact with the prime minister of kamino.;;1
+2874410;;they are using a bounty hunter named jango fett to create a clone army.;;1
+2874411;;i have a strong feeling that this bounty hunter...;;1
+2874412;;is the assassin we are looking for.;;1
+2874413;;do you think these cloners are involved...;;1
+2874414;;in the plot to assassinate senator amidala?;;1
+2874415;;no, master. there appears to be no motive.;;1
+2874416;;do not assume anything, obi-wan.;;1
+2874417;;clear your mind must be...;;1
+2874418;;if you are to discover the real villains behind this plot.;;1
+2874420;;they say master sifo-dyas placed an order for a clone army...;;1
+2874421;;at the request of the senate almost ten years ago.;;1
+2874422;;i was under the impression he was killed before that.;;1
+2874423;;did the council ever authorize the creation of a clone army?;;1
+2874424;;no. whoever placed that order...;;1
+2874425;;did not have the authorization of thejedi council.;;1
+2874426;;bring him here. question him we will.;;1
+2874427;;yes, master. i will report back when i have him.;;1
+2874428;;blind we are if creation of this clone army...;;1
+2874429;;we could not see.;;1
+2874430;;i think it is time we informed the senate...;;1
+2874431;;that our ability to use the force has diminished.;;1
+2874432;;only the dark lord of the sith knows of our weakness.;;1
+2874433;;if informed the senate is...;;1
+2874434;;multiply our adversaries will.;;1
+2874438;;i don't want to disturb you.;;1
+2874439;;your presence is soothing.;;1
+2874440;;you had another nightmare last night.;;1
+2874441;;jedi don't have nightmares.;;1
+2874443;;i saw my mother.;;1
+2874444;;she is suffering, padmé.;;1
+2874445;;i saw her as clearly as i see you now.;;1
+2874446;;she is in pain.;;1
+2874447;;i know i'm disobeying my mandate to protect you, senator...;;1
+2874448;;but i have to go.;;1
+2874449;;i have to help her.;;1
+2874450;;i'll go with you.;;1
+2874451;;i'm sorry. i don't have a choice.;;1
+2874453;;boba, get on board!;;1
+2874458;;let me help you with that.;;1
+2874459;;what? what do you want?;;1
+2874460;;wait! you're a jedi!;;1
+2874461;;whatever it is, i didn't do it.;;1
+2874462;;i'm looking for shmi skywalker.;;1
+2874466;;you are ani! it is you!;;1
+2874467;;you sure sprouted, huh?;;1
+2874469;;maybe you could help with some deadbeats who owe me a lot of money.;;1
+2874472;;she's not mine-a no more-a. i sold her.;;1
+2874473;;- you sold her? - years ago.;;1
+2874474;;sorry, ani, but you know, business is business.;;1
+2874475;;i sold her to a moisture farmer named lars.;;1
+2874476;;at least i think it was lars.;;1
+2874477;;believe it or not, i heard he freed her and married her!;;1
+2874478;;can ya beat that, eh?;;1
+2874479;;do you know where they are now?;;1
+2874480;;long way from here.;;1
+2874481;;someplace over on the other side of mos eisley, i think.;;1
+2874482;;i'd like to know.;;1
+2874484;;let's go look at my records, huh?;;1
+2874485;;dad! i think we're being tracked!;;1
+2874486;;he must have put a homing device on our hull.;;1
+2874487;;hang on, son. we'll move into the asteroid field...;;1
+2874488;;and we'll have a couple of surprises for him.;;1
+2874491;;he doesn't seem to take a hint, this guy.;;1
+2874493;;get him, dad! fire!;;1
+2874494;;blast! this is why i hate flying!;;1
+2874496;;we'll just have to finish him.;;1
+2874497;;r4, prepare to jettison the spare part canisters.;;1
+2874499;;we won't be seeing him again.;;1
+2874500;;well, r4, i think we've waited long enough.;;1
+2874501;;there's an unusual concentration of federation ships over there, r4.;;1
+2874502;;stay with the ship, r2.;;1
+2874503;;hello. how might i be of service? i am c...;;1
+2874507;;i knew you would return. i knew it!;;1
+2874508;;and miss padmé. oh, my.;;1
+2874510;;bless my circuits! i'm so pleased to see you both.;;1
+2874511;;i've come to see my mother.;;1
+2874512;;i think perhaps we'd better go indoors.;;1
+2874513;;master owen, might i present two most important visitors.;;1
+2874516;;- this is my girlfriend, beru. - hello.;;1
+2874518;;i guess i'm your stepbrother.;;1
+2874519;;i had a feeling you might show up someday.;;1
+2874520;;is my mother here?;;1
+2874523;;shmi is my wife.;;1
+2874524;;we should go inside. we have a lot to talk about.;;1
+2874525;;it was just before dawn. they came out of nowhere.;;1
+2874526;;a hunting party oftusken raiders.;;1
+2874527;;your mother had gone out early, like she always did...;;1
+2874528;;to pick mushrooms that grow on the vaporators.;;1
+2874529;;from the tracks, she was about halfway home...;;1
+2874530;;when they took her.;;1
+2874531;;those tuskens walk like men...;;1
+2874532;;but they're vicious, mindless monsters.;;1
+2874533;;thirty of us went out after her. four of us came back.;;1
+2874534;;i'd be out there with them, but after i lost my leg...;;1
+2874535;;i just couldn't ride anymore until i heal.;;1
+2874536;;i don't want to give up on her...;;1
+2874537;;but she's been gone a month.;;1
+2874538;;there's little hope she's lasted this long.;;1
+2874539;;where are you going?;;1
+2874540;;to find my mother.;;1
+2874541;;your mother's dead, son. accept it.;;1
+2874542;;you're gonna have to stay here.;;1
+2874543;;these are good people, padmé. you'll be safe.;;1
+2874544;;i won't be long.;;1
+2874545;;we must persuade the commerce guild...;;1
+2874546;;and the corporate alliance to sign the treaty.;;1
+2874547;;what about the senator from naboo?;;1
+2874548;;is she dead yet?;;1
+2874549;;i am not signing your treaty until i have her head on my desk.;;1
+2874550;;i am a man of my word, viceroy.;;1
+2874551;;with these new battle droids we've built for you...;;1
+2874552;;you'll have the finest army in the galaxy.;;1
+2874553;;as i explained to you earlier...;;1
+2874554;;i am quite convinced that 10,000 more systems...;;1
+2874555;;will rally to our cause with your support, gentlemen.;;1
+2874556;;what you are proposing could be construed as treason.;;1
+2874557;;the techno union army...;;1
+2874558;;is at your disposal, count.;;1
+2874559;;the banking clan will sign your treaty.;;1
+2874561;;our friends from the trade federation have pledged their support...;;1
+2874562;;and when their battle droids are combined with yours...;;1
+2874563;;we shall have an army greater than any in the galaxy.;;1
+2874564;;thejedi will be overwhelmed.;;1
+2874565;;the republic will agree to any demands we make.;;1
+2874570;;i'm here, mom. you're safe.;;1
+2874571;;you look so handsome.;;1
+2874574;;i'm so proud of you, ani.;;1
+2874576;;now i am complete.;;1
+2874578;;stay with me, mom. everything...;;1
+2874586;;something terrible has happened.;;1
+2874587;;young skywalker is in pain...;;1
+2874589;;the transmitter is working, but we're not receiving a return signal.;;1
+2874590;;coruscant's too far. r4, can you boost the power?;;1
+2874591;;we'll have to try something else.;;1
+2874592;;maybe we can contact anakin on naboo.;;1
+2874594;;anakin, do you copy?;;1
+2874595;;this is obi-wan kenobi. anakin?;;1
+2874596;;he's not on naboo, r4.;;1
+2874597;;i'm going to try and widen the range.;;1
+2874598;;i do hope nothing's happened to him.;;1
+2874599;;that's anakin's tracking signal, all right...;;1
+2874600;;but it's coming from tatooine.;;1
+2874601;;what in the blazes is he doing there?;;1
+2874602;;i told him to stay on naboo.;;1
+2874603;;we haven't got much time.;;1
+2874604;;anakin, do you copy?;;1
+2874605;;this is obi-wan kenobi.;;1
+2874607;;anakin, do you copy?;;1
+2874608;;my long-range transmitter has been knocked out.;;1
+2874609;;retransmit this message to coruscant.;;1
+2874610;;i brought you something.;;1
+2874613;;life seems so much simpler when you're fixing things.;;1
+2874614;;i'm good at fixing things. always was.;;1
+2874616;;why'd she have to die?;;1
+2874617;;why couldn't i save her?;;1
+2874618;;i know i could have!;;1
+2874619;;sometimes there are things no one can fix.;;1
+2874620;;- you're not all-powerful, ani. - well, i should be!;;1
+2874621;;someday i will be.;;1
+2874622;;i will be the most powerfuljedi ever.;;1
+2874624;;i will even learn to stop people from dying.;;1
+2874625;;it's all obi-wan's fault! he's jealous!;;1
+2874626;;he's holding me back!;;1
+2874629;;i killed them all.;;1
+2874631;;every single one of them.;;1
+2874632;;and not just the men...;;1
+2874634;;and the children too.;;1
+2874636;;and i slaughtered them like animals!;;1
+2874638;;to be angry is to be human.;;1
+2874640;;i know i'm better than this.;;1
+2874641;;i know wherever you are it's become a better place.;;1
+2874642;;you were the most loving partner a man could ever have.;;1
+2874643;;good-bye, my darling wife.;;1
+2874645;;i wasn't strong enough to save you, mom.;;1
+2874646;;i wasn't strong enough.;;1
+2874647;;but i promise i won't fail again.;;1
+2874650;;r2? what are you doing here?;;1
+2874651;;it seems that he is carrying a message from an obi-wan kenobi.;;1
+2874652;;master ani, does that name mean anything to you?;;1
+2874653;;anakin, my long-range transmitter has been knocked out.;;1
+2874654;;retransmit this message to coruscant.;;1
+2874655;;i have tracked the bounty hunter, jango fett...;;1
+2874656;;to the droid foundries on geonosis.;;1
+2874657;;the trade federation is to take delivery of a droid army here...;;1
+2874658;;and it is clear that viceroy gunray...;;1
+2874659;;is behind the assassination attempts on senator amidala.;;1
+2874660;;the commerce guilds and the corporate alliance...;;1
+2874661;;have both pledged their armies to count dooku and are forming...;;1
+2874663;;more happening on geonosis, i feel, than has been revealed.;;1
+2874665;;we will deal with count dooku.;;1
+2874666;;the most important thing for you is to stay where you are.;;1
+2874667;;protect the senator at all costs.;;1
+2874668;;that is your first priority.;;1
+2874670;;they'll never get there in time to save him.;;1
+2874671;;they have to come halfway across the galaxy. look.;;1
+2874672;;geonosis is less than a parsec away.;;1
+2874673;;if he's still alive.;;1
+2874674;;are you just gonna sit here and let him die?;;1
+2874675;;- he's your friend, your mentor. - he's like my father!;;1
+2874676;;but you heard master windu. he gave me strict orders to stay here.;;1
+2874677;;he gave you strict orders to protect me...;;1
+2874678;;and i'm going to help obi-wan.;;1
+2874679;;if you plan to protect me, you'll just have to come along.;;1
+2874680;;i'm not worried, r2. it's just i've never flown before.;;1
+2874681;;the commerce guilds are preparing for war. there can be no doubt of that.;;1
+2874682;;count dooku must have made a treaty with them.;;1
+2874683;;the debate is over.;;1
+2874684;;now we need that clone army.;;1
+2874685;;unfortunately, the debate is not over.;;1
+2874686;;the senate will never approve the use of clones...;;1
+2874687;;before the separatists attack.;;1
+2874688;;this is a crisis.;;1
+2874689;;the senate must vote the chancellor emergency powers.;;1
+2874690;;he can then approve the creation of an army.;;1
+2874691;;but what senator would have the courage...;;1
+2874692;;to propose such a radical amendment?;;1
+2874693;;if only senator amidala were here.;;1
+2874695;;oh, no, my friend. this is a mistake, a terrible mistake.;;1
+2874696;;they have gone too far. this is madness.;;1
+2874697;;i thought you were the leader here, dooku.;;1
+2874698;;this had nothing to do with me, i assure you.;;1
+2874699;;i will petition immediately to have you set free.;;1
+2874700;;well, i hope it doesn't take too long. i have work to do.;;1
+2874701;;may i ask why a jedi knight...;;1
+2874702;;is all the way out here on geonosis?;;1
+2874703;;i've been tracking a bounty hunter named jango fett.;;1
+2874704;;do you know him?;;1
+2874705;;there are no bounty hunters here that i am aware of.;;1
+2874706;;the geonosians don't trust them.;;1
+2874707;;who can blame them? but he is here, i can assure you.;;1
+2874708;;it's a great pity our paths have never crossed before, obi-wan.;;1
+2874709;;qui-gon always spoke very highly of you.;;1
+2874710;;i wish he were still alive.;;1
+2874711;;i could use his help right now.;;1
+2874712;;qui-gon jinn would never join you.;;1
+2874713;;don't be so sure, my young jedi.;;1
+2874714;;you forget that he was once my apprentice...;;1
+2874715;;just as you were once his.;;1
+2874716;;he knew all about the corruption in the senate...;;1
+2874717;;but he wouldn't have gone along with it if he had learned the truth as i have.;;1
+2874718;;- the truth? - the truth.;;1
+2874719;;what if i told you that the republic was now under the control...;;1
+2874720;;of the dark lord of the sith?;;1
+2874721;;no, that's not possible. the jedi would be aware of it.;;1
+2874722;;the dark side of the force has clouded their vision, my friend.;;1
+2874723;;hundreds of senators are now under the influence...;;1
+2874724;;of a sith lord called darth sidious.;;1
+2874725;;i don't believe you.;;1
+2874726;;the viceroy of the trade federation...;;1
+2874727;;was once in league with this darth sidious...;;1
+2874728;;but he was betrayed ten years ago by the dark lord.;;1
+2874729;;he came to me for help. he told me everything.;;1
+2874730;;you must join me, obi-wan...;;1
+2874731;;and together we will destroy the sith!;;1
+2874732;;i will never join you, dooku.;;1
+2874733;;it may be difficult to secure your release.;;1
+2874734;;it's-a clear desa separatists made a pact...;;1
+2874735;;wesa desa federation du trade.;;1
+2874737;;in response to this direct threat to the republic...;;1
+2874738;;mesa propose that the senate...;;1
+2874739;;give immediately emergency powers...;;1
+2874740;;to the supreme chancellor.;;1
+2874742;;order! we shall have order!;;1
+2874743;;it is with great reluctance...;;1
+2874744;;that i have agreed to this calling.;;1
+2874745;;i love democracy. i love the republic.;;1
+2874746;;the power you give me...;;1
+2874747;;i will lay down when this crisis has abated.;;1
+2874748;;and as my first act with this new authority...;;1
+2874749;;i will create a grand army of the republic...;;1
+2874750;;to counter the increasing threats of the separatists.;;1
+2874751;;it is done, then.;;1
+2874752;;i will take whatjedi we have left and go to geonosis and help obi-wan.;;1
+2874753;;visit i will the cloners on kamino...;;1
+2874754;;and see this army they have created for the republic.;;1
+2874755;;see those columns of steam straight ahead?;;1
+2874756;;they're exhaust vents of some type.;;1
+2874758;;look, whatever happens out there, follow my lead.;;1
+2874759;;i'm not interested in getting into a war here.;;1
+2874760;;as a member of the senate...;;1
+2874761;;maybe i can find a diplomatic solution to this mess.;;1
+2874763;;i've given up trying to argue with you.;;1
+2874764;;my obtuse little friend, if they had needed our help...;;1
+2874765;;they would have asked for it.;;1
+2874766;;you obviously have a great deal to learn about human behavior.;;1
+2874767;;for a mechanic, you seem to do an excessive amount of thinking.;;1
+2874768;;i am programmed to understand humans!;;1
+2874769;;"what does that mean?";;1
+2874770;;that means i am in charge here!;;1
+2874771;;where are you going now?;;1
+2874772;;you don't know what's out there. have you no sense at all?;;1
+2874775;;do you know where you're going?;;1
+2874783;;you'll get your chance...;;1
+2874786;;i want to go home!;;1
+2874787;;what did i do to deserve this?;;1
+2874788;;i wonder what happened to poor little r2.;;1
+2874789;;he's always getting himself into trouble.;;1
+2874794;;obi-wan's gonna kill me.;;1
+2874798;;i'm not afraid to die.;;1
+2874799;;i've been dying a little bit each day since you came back into my life.;;1
+2874800;;what are you talking about?;;1
+2874803;;i thought we had decided not to fall in love...;;1
+2874804;;that we would be forced to live a lie...;;1
+2874805;;and that it would destroy our lives.;;1
+2874806;;i think our lives are about to be destroyed anyway.;;1
+2874809;;and before we die, i want you to know.;;1
+2874810;;i was beginning to wonder if you'd got my message.;;1
+2874811;;i retransmitted it just as you had requested, master.;;1
+2874812;;then we decided to come and rescue you.;;1
+2874814;;settle down. settle down.;;1
+2874815;;let the executions begin.;;1
+2874816;;i've got a bad feeling about this.;;1
+2874817;;just relax. concentrate. - what about padmé?;;1
+2874818;;she seems to be on top of things.;;1
+2874819;;she can't do that!;;1
+2874820;;shoot her... or something!;;1
+2874822;;this isn't how it's supposed to be!;;1
+2874823;;jango! finish her off!;;1
+2874824;;patience, viceroy, patience. she will die.;;1
+2874826;;how pleasant of you to join us.;;1
+2874829;;but foolish, my old jedi friend.;;1
+2874831;;i don't think so.;;1
+2874833;;my legs aren't moving. i must need maintenance.;;1
+2874834;;what's all this noise? a battle!;;1
+2874835;;there's been some terrible mistake!;;1
+2874836;;i'm programmed for etiquette, not destruction!;;1
+2874838;;oh! what did i say?;;1
+2874839;;oh, dear. i'm terribly sorry about all this.;;1
+2874840;;excuse me. i'm trapped. i can't get up.;;1
+2874841;;- you call this a diplomatic solution? - no, i call it aggressive negotiations.;;1
+2874842;;- uh-oh. - roger, roger.;;1
+2874843;;r2, what are you doing here?;;1
+2874844;;what are you doing?;;1
+2874845;;stop that! you're going to strain something.;;1
+2874847;;now where are you taking me? this is such a drag!;;1
+2874848;;i'm quite beside myself.;;1
+2874849;;r2, please be careful! you're singeing my circuits!;;1
+2874850;;yes, but is my head on straight?;;1
+2874852;;you have fought gallantly...;;1
+2874853;;worthy of recognition in the archives of thejedi order.;;1
+2874857;;and your lives will be spared.;;1
+2874858;;we will not be hostages to be bartered, dooku!;;1
+2874860;;i'm sorry, old friend.;;1
+2874862;;around the survivors a perimeter create.;;1
+2874863;;i've had the most peculiar dream!;;1
+2874865;;rally more systems to his cause he will.;;1
+2874867;;aim right above the fuel cells!;;1
+2874868;;good call, my young padawan.;;1
+2874869;;thejedi have amassed a huge army.;;1
+2874870;;that doesn't seem possible.;;1
+2874871;;how could thejedi come up with an army so quickly?;;1
+2874872;;we must send all available droids into battle.;;1
+2874873;;there are too many.;;1
+2874874;;our communications have been jammed.;;1
+2874875;;pilot, land in that assembly area!;;1
+2874878;;i have five special commando units awaiting your orders, sir.;;1
+2874879;;to the forward command center take me.;;1
+2874880;;attack those federation starships, quickly!;;1
+2874881;;master yoda, all forward positions are advancing.;;1
+2874884;;this is not looking good at all!;;1
+2874885;;we must get the starships back into space.;;1
+2874886;;we have to order a retreat.;;1
+2874887;;my master will never allow the republic...;;1
+2874888;;to get away with this treachery.;;1
+2874889;;i'm sending my warriors to hide in the catacombs.;;1
+2874890;;thejedi must not find our designs for the ultimate weapon.;;1
+2874891;;if they find out what we are planning to build, we're doomed.;;1
+2874892;;i will take the designs with me to coruscant.;;1
+2874893;;they will be much safer there with my master.;;1
+2874894;;concentrate all your fire on the nearest starship.;;1
+2874896;;move all quadrants to sector 515.;;1
+2874898;;it's dooku! shoot him down!;;1
+2874899;;we're out of rockets, sir.;;1
+2874900;;- follow him! - we're gonna need some help!;;1
+2874901;;there isn't time! anakin and i can handle this!;;1
+2874902;;put the ship down!;;1
+2874903;;don't let your personal feelings get in the way!;;1
+2874905;;- lower the ship! - i can't take dooku alone!;;1
+2874906;;i need you! if we catch him, we can end this war right now!;;1
+2874907;;- we have a job to do! - i don't care! put the ship down!;;1
+2874908;;you will be expelled from thejedi order!;;1
+2874909;;- i can't leave her! - come to your senses!;;1
+2874910;;what do you think padmé would do were she in your position?;;1
+2874911;;she would do her duty.;;1
+2874912;;the droid army is in full retreat.;;1
+2874913;;well done, commander. bring me a ship.;;1
+2874914;;you're gonna pay for all thejedi that you killed today, dooku.;;1
+2874915;;we'll take him together.;;1
+2874916;;- i'm taking him now! - no, anakin! no!;;1
+2874917;;as you see, myjedi powers are far beyond yours.;;1
+2874919;;i don't think so.;;1
+2874920;;master kenobi, you disappoint me.;;1
+2874921;;yoda holds you in such high esteem.;;1
+2874922;;surely you can do better.;;1
+2874923;;are you all right?;;1
+2874925;;we'd better get back to the forward command center.;;1
+2874927;;gather what troops you can. we've got to get to that hangar.;;1
+2874928;;get a transport. hurry!;;1
+2874930;;brave of you, boy.;;1
+2874931;;but i would have thought you had learned your lesson.;;1
+2874932;;i am a slow learner.;;1
+2874935;;you have interfered with our affairs for the last time.;;1
+2874936;;powerful you have become, dooku.;;1
+2874937;;the dark side i sense in you.;;1
+2874938;;i've become more powerful than anyjedi.;;1
+2874940;;much to learn you still have.;;1
+2874941;;it is obvious that this contest cannot be decided...;;1
+2874942;;by our knowledge of the force...;;1
+2874943;;but by our skills with a lightsaber.;;1
+2874944;;fought well you have, my old padawan.;;1
+2874945;;this is just the beginning.;;1
+2874946;;the force is with us, master sidious.;;1
+2874947;;welcome home, lord tyranus.;;1
+2874948;;you have done well.;;1
+2874949;;i have good news for you, my lord.;;1
+2874950;;- the war has begun. - excellent.;;1
+2874951;;everything is going as planned.;;1
+2874952;;do you believe what count dooku said about sidious controlling the senate?;;1
+2874953;;it doesn't feel right.;;1
+2874954;;joined the dark side dooku has.;;1
+2874956;;creating mistrust are his ways now.;;1
+2874958;;i feel we should keep a closer eye on the senate.;;1
+2874960;;where is your apprentice?;;1
+2874961;;on his way to naboo, escorting senator amidala home.;;1
+2874962;;i have to admit that without the clones, it would not have been a victory.;;1
+2874965;;master obi-wan, not victory.;;1
+2874966;;the shroud of the dark side has fallen.;;1
+2874967;;begun the clone war has.;;1
+1870084;;tell them we wish to board at once.;;1
+1870085;;with all due respect,;;1
+1870086;;the ambassadors for the supreme chancellor wish to board immediately.;;1
+1870088;;as you know, our blockade is perfectly legal,;;1
+1870089;;and we'd be happy to receive the ambassadors.;;1
+1870090;;i'm tc-14 at your service.;;1
+1870092;;we are greatly honored by your visit, ambassadors.;;1
+1870094;;my master will be with you shortly.;;1
+1870095;;i have a bad feeling about this.;;1
+1870096;;i don't sense anything. it's not about the mission, master.;;1
+1870097;;it's something... elsewhere, elusive.;;1
+1870098;;don't center on your anxieties, obi-wan.;;1
+1870099;;keep your concentration here and now, where it belongs.;;1
+1870100;;but master yoda said i should be mindful of the future.;;1
+1870101;;but not at the expense of the moment.;;1
+1870102;;be mindful of the living force, young padawan.;;1
+1870104;;how do you think this trade viceroy will deal with the chancellor's demands?;;1
+1870105;;these federation types are cowards.;;1
+1870106;;the negotiations will be short.;;1
+1870107;;what? what did you say?;;1
+1870108;;the ambassadors are jedi knights, i believe.;;1
+1870110;;they're here to force a settlement.;;1
+1870111;;distract them. i will contact lord sidious.;;1
+1870113;;i'm not going in there with two jedi.;;1
+1870115;;is it in their nature to make us wait this long?;;1
+1870116;;no. i sense an unusual amount of fear for something as trivial as this trade dispute.;;1
+1870118;;this scheme of yours has failed, lord sidious.;;1
+1870119;;the blockade is finished. we dare not go against these jedi.;;1
+1870120;;viceroy, i don't want this stunted slime in my sight again.;;1
+1870121;;this turn of events is unfortunate.;;1
+1870122;;we must accelerate our plans. begin landing your troops.;;1
+1870123;;my lord, is that legal?;;1
+1870124;;i will make it legal.;;1
+1870126;;the chancellor should never have brought them into this. kill them immediately.;;1
+1870127;;yes. yes, my lord. uh, as you wish.;;1
+1870132;;they must be dead by now.;;1
+1870133;;destroy what's left of them.;;1
+1870135;;- check it out, corporal. we'll cover you. - roger, roger.;;1
+1870137;;what is going on down there?;;1
+1870138;;we lost the transmission, sir.;;1
+1870139;;have you ever encountered a jedi knight before, sir?;;1
+1870140;;well, no, but i don't-seal off the bridge.;;1
+1870141;;yes, sir. that won't be enough, sir.;;1
+1870142;;i want droidekas up here at once!;;1
+1870143;;we will not survive this.;;1
+1870144;;close the blast doors!;;1
+1870145;;that will hold them.;;1
+1870146;;they are still coming through.;;1
+1870148;;where are those droidekas?;;1
+1870150;;they have shield generators!;;1
+1870151;;it's a standoff. let's go.;;1
+1870152;;they're no match for droidekas.;;1
+1870153;;sir! they've gone up the ventilation shaft.;;1
+1870154;;battle droids. it's an invasion army.;;1
+1870155;;this is an odd play for the trade federation.;;1
+1870156;;we've got to warn the naboo and contact chancellor valorum.;;1
+1870157;;let's split up. stow aboard separate ships and meet down on the planet.;;1
+1870158;;you were right about one thing, master.;;1
+1870159;;the negotiations were short.;;1
+1870160;;sir, a transmission from the planet.;;1
+1870161;;it's queen amidala herself.;;1
+1870162;;at last we are getting results.;;1
+1870163;;again you come before us, your highness.;;1
+1870164;;you will not be so pleased when you hear what i have to say, viceroy.;;1
+1870165;;your trade boycott of our planet has ended.;;1
+1870166;;i was not aware of such failure.;;1
+1870167;;i have word that the chancellor's ambassadors are with you now...;;1
+1870168;;and that you have been commanded to reach settlement.;;1
+1870169;;i know nothing of any ambassadors.;;1
+1870170;;you must be mistaken.;;1
+1870172;;the federation has gone too far this time.;;1
+1870173;;we would never do anything without the approval of the senate.;;1
+1870174;;you assume too much.;;1
+1870176;;she's right. the senate will never- it's too late now.;;1
+1870177;;do you think she suspects an attack? i don't know.;;1
+1870178;;but we must move quickly to disrupt all communications down there.;;1
+1870179;;negotiations haven't started because the ambassadors aren't there?;;1
+1870180;;how could that be true?;;1
+1870181;;i have assurances from the chancellor his ambassadors did arrive.;;1
+1870183;;nobody would- senator palpatine.;;1
+1870185;;check the transmission generator.;;1
+1870186;;a communications disruption <i>can mean only one thing: invasion.;;1
+1870187;;the federation would not dare go that far.;;1
+1870188;;the senate would revoke their trade franchise, and they'd be finished.;;1
+1870189;;we must continue to rely on negotiation.;;1
+1870190;;negotiation? we've lost all communications.;;1
+1870191;;and where are the chancellor's ambassadors?;;1
+1870192;;this is a dangerous situation, your highness.;;1
+1870193;;our security volunteers will be no match against a battle-hardened federation army.;;1
+1870194;;i will not condone a course of action that will lead us to war.;;1
+1870195;;- yes, viceroy? - captain, we've searched the ship,;;1
+1870196;;and there is no trace of the jedi.;;1
+1870197;;they may have gotten on one of your landing craft.;;1
+1870198;;if they're down here, sir, we'll find them.;;1
+1870199;;use caution. these jedi are not to be underestimated.;;1
+1870200;;- oh, no! - get away! get out of here!;;1
+1870203;;was'n dat? hey, wait!;;1
+1870204;;oh, mooie-mooie! i love you!;;1
+1870205;;you almost got us killed. are you brainless?;;1
+1870206;;i spake. the ability to speak does not make you intelligent.;;1
+1870207;;now, get out of here. no, no, mesa stay.;;1
+1870208;;mesa culled jarjar binks. mesa your humble servant.;;1
+1870209;;that won't be necessary. oh, but it 'tis.;;1
+1870210;;'tis demanded by the gods, it 'tis.;;1
+1870211;;oh, no! whoo! stay down!;;1
+1870212;;you saved my again.;;1
+1870213;;what's this? a local.;;1
+1870214;;let's get out of here before more droids show up. more?;;1
+1870215;;"more" did you spake?;;1
+1870216;;ex-squeeze-me, but de mostest safest place would be gunga city.;;1
+1870217;;is where i grew up. 'tis a hidden city.;;1
+1870219;;can you take us there? uh, on second thought, no.;;1
+1870220;;not really, no. no?;;1
+1870222;;but, uh, my afraid my've been banished.;;1
+1870223;;my forgotten. da bosses would do terrible tings to me.;;1
+1870224;;terrible tings to me if me goen back dare.;;1
+1870225;;you hear that? yah.;;1
+1870226;;that is the sound of a thousand terrible things heading this way.;;1
+1870227;;if they find us, they will crush us,;;1
+1870228;;grind us into tiny pieces and blast us into oblivion.;;1
+1870229;;oh. yousa point is well seen.;;1
+1870231;;how much further? wesa goen underwater, okeyday?;;1
+1870232;;ah, my warning you.;;1
+1870233;;gungans no liken outsiders, so don't spect a warm welcome.;;1
+1870234;;oh, don't worry. this hasn't been our day forwarm welcomes.;;1
+1870235;;ar, ar, ar! ooh, ooh, ooh, ooh, ooh!;;1
+1870236;;yousa follow me now, okeyday?;;1
+1870237;;so good bein home!;;1
+1870238;;oh, me gusa. hata-hata.;;1
+1870240;;- stopa dare! - heyo-dales, cap'n tarpals.;;1
+1870242;;noah gain, jarjar. yousa goen tada bosses.;;1
+1870243;;yousa in big dudu dis time.;;1
+1870247;;tkk-tkk-tkk-tkk-tkk-tkk-tkk! yousa cannot bees hair.;;1
+1870248;;dis army of mackineeks up dare is new weesong.;;1
+1870249;;a droid army is about to attack the naboo. we must warn them.;;1
+1870250;;wesa no like da naboo. tkk-tkk-tkk-tkk-tkk.;;1
+1870251;;da naboo tink day so smarty.;;1
+1870252;;day tink day brains so big.;;1
+1870253;;once those droids take control of the surface, they will take control of you.;;1
+1870254;;mesa no tink so.;;1
+1870255;;day not know of uss-en.;;1
+1870256;;you and the naboo form a symbiont circle.;;1
+1870257;;what happens to one of you will affect the other. you must understand this.;;1
+1870258;;wesa no carrrre-nn about da naboo.;;1
+1870259;;then speed us on our way.;;1
+1870260;;wesa ganna speed yous away.;;1
+1870261;;we could use a transport.;;1
+1870262;;wesa give yousa una bongo.;;1
+1870263;;hmm? da speediest way tooda naboo...;;1
+1870264;;'tis goen through the planet core.;;1
+1870267;;thank you for your help. we leave in peace.;;1
+1870268;;master, what's a bongo?;;1
+1870269;;a transport, i hope.;;1
+1870270;;deysa setten yousa up.;;1
+1870271;;goen through da planet core? bad bombin'.;;1
+1870272;;mmm... any help here would be hot.;;1
+1870273;;master, we're short on time.;;1
+1870274;;we'll need a navigator to get us through the planet's core.;;1
+1870275;;this gungan may be of help.;;1
+1870276;;what is to become of jarjar binks here?;;1
+1870277;;hisen to be pune-ished.;;1
+1870278;;ohh. i saved his life.;;1
+1870279;;he owes me what you call a ' "life-debt.";;1
+1870280;;your gods demand that his life belongs to me now.;;1
+1870282;;yousa havena liveplay with thisen hisen?;;1
+1870285;;count me outta dis one.;;1
+1870286;;better dead here than dead in da core.;;1
+1870287;;yee gods! what mesa sayin?;;1
+1870288;;dis is nutsen. oh, gooberfish!;;1
+1870289;;why were you banished, jarjar? it's a longo tale-o,;;1
+1870290;;buta small part of it would be mesa... clumsy.;;1
+1870291;;- you were banished because you were clumsy? - yousa might'n be sayin dat.;;1
+1870292;;mesa caused mabbe one, two-y lettle bitty axadentes, huh?;;1
+1870293;;yud-say boom da gassar,;;1
+1870294;;den crashin der boss's heyblibber, den banished.;;1
+1870296;;big gooberfish! huge-o teeth!;;1
+1870297;;- there's always a bigger fish. - mesa tink we goen back now.;;1
+1870298;;the invasion is on schedule, my lord.;;1
+1870299;;i have the senate bogged down in procedures.;;1
+1870300;;they will have no choice but to accept your control of the system.;;1
+1870301;;the queen has great faith that the senate will side with her.;;1
+1870302;;queen amidala is young and naive.;;1
+1870303;;you will find controlling her will not be difficult.;;1
+1870305;;you didn't tell him about the missing jedi.;;1
+1870306;;no need to report that to him until we have something to report.;;1
+1870307;;where wesa goin? don't worry. the force will guide us.;;1
+1870308;;ohh, maxi big, da force.;;1
+1870309;;well, dat smells stinkowiff.;;1
+1870313;;just relax. we're not in trouble yet. what "yet"?;;1
+1870314;;monsters out dare. leak'n in here.;;1
+1870315;;all sink'n and no power? whena yousa tinkin wesa in trouble?;;1
+1870319;;ohh. you overdid it.;;1
+1870320;;horrible. head for that outcropping.;;1
+1870322;;viceroy, we have captured the queen.;;1
+1870325;;how will you explain this invasion to the senate?;;1
+1870326;;the queen and i will sign a treaty that will legitimize our occupation here.;;1
+1870327;;i have assurances it will be ratified by the senate.;;1
+1870328;;i will not cooperate. now, now, your highness.;;1
+1870329;;in time, the suffering of your people will persuade you to see our point of view.;;1
+1870331;;process them. captain, take them to camp 4.;;1
+1870335;;- we should leave the street, your highness. - get their weapons.;;1
+1870336;;whoa! yousa guys bombad!;;1
+1870337;;we're ambassadors for the supreme chancellor.;;1
+1870338;;your negotiations seemed to have failed, ambassador.;;1
+1870339;;the negotiations never took place.;;1
+1870340;;it's urgent that we make contact with the republic.;;1
+1870341;;- they've knocked out all our communications. - do you have transports?;;1
+1870342;;in the main hangar. this way.;;1
+1870343;;- there are too many of them. - that won't be a problem.;;1
+1870344;;your highness, under the circumstances, i suggest you come to coruscant with us.;;1
+1870345;;thank you, ambassador, but my place is with my people.;;1
+1870346;;- they will kill you if you stay. - they wouldn't dare.;;1
+1870347;;they need her to sign a treaty to make this invasion legal. they can't afford to kill her.;;1
+1870348;;there is something else behind all this, your highness.;;1
+1870349;;there's no logic in the federation's move here.;;1
+1870350;;my feelings tell me they will destroy you.;;1
+1870351;;our only hope is for the senate to side with us.;;1
+1870352;;senator palpatine will need your help.;;1
+1870353;;either choice presents great danger... to us all.;;1
+1870354;;we are brave, your highness.;;1
+1870355;;if you are to leave, your highness, it must be now.;;1
+1870356;;then i will plead our case to the senate.;;1
+1870358;;we'll need to free those pilots.;;1
+1870359;;i'll deal with that.;;1
+1870360;;halt! i'm ambassador to the supreme chancellor.;;1
+1870361;;i'm taking these people to coruscant.;;1
+1870362;;- where are you taking them? - to coruscant.;;1
+1870363;;coruscant? uh, that doesn't compute.;;1
+1870364;;uh, wait. you're under arrest.;;1
+1870367;;now, stay here and keep out of trouble.;;1
+1870370;;the shield generator's been hit!;;1
+1870372;;we're losing droids fast.;;1
+1870373;;if we can't get the shield generator fixed, we'll be sitting ducks.;;1
+1870374;;the shields are gone.;;1
+1870376;;that little droid did it. he bypassed the main power drive.;;1
+1870377;;deflector shields up at maximum.;;1
+1870378;;there's not enough power to get us to coruscant. the hyper-drive is leaking.;;1
+1870379;;we'll have to land somewhere to refuel and repair the ship.;;1
+1870381;;small, out of the way, poor. the trade federation have no presence there.;;1
+1870382;;how can you be sure?;;1
+1870383;;it's controlled by the hutts.;;1
+1870384;;you can't take her royal highness there. the hutts are gangsters.;;1
+1870385;;- if they discovered her- - it'd be no different than if we landed...;;1
+1870386;;on a system controlled by the federation,;;1
+1870387;;except that the hutts aren't looking for her, which gives us the advantage.;;1
+1870388;;and queen amidala, has she signed the treaty?;;1
+1870389;;she has disappeared, my lord.;;1
+1870390;;one naboo cruiser got past the blockade.;;1
+1870391;;i want that treaty signed.;;1
+1870393;;it's impossible to locate the ship.;;1
+1870394;;it's out of our range.;;1
+1870395;;not for a sith.;;1
+1870396;;this is my apprentice,;;1
+1870398;;he will find your lost ship.;;1
+1870399;;this is getting out of hand.;;1
+1870400;;now there are two of them.;;1
+1870401;;we should not have made this bargain.;;1
+1870402;;an extremely well-put-together little droid, your highness.;;1
+1870403;;without a doubt, it saved the ship, as well as our lives.;;1
+1870404;;it is to be commended. what is its number?;;1
+1870408;;clean this droid up as best you can.;;1
+1870409;;it deserves our gratitude.;;1
+1870411;;your highness, with your permission,;;1
+1870412;;we're heading for a remote planet called tatooine.;;1
+1870413;;it's in a system far beyond the reach of the trade federation.;;1
+1870414;;i do not agree with the jedi on this.;;1
+1870415;;you must trust my judgment, your highness.;;1
+1870417;;sorry. husa are yousa?;;1
+1870420;;you're a gungan, aren't you?;;1
+1870422;;how'd you end up here with us? my no know.;;1
+1870423;;mesa day starten pitty okeyday witda brisky morning munchen.;;1
+1870424;;den boom! getten berry scared...;;1
+1870425;;and grabben dat jedi, and pow-mesa here.;;1
+1870426;;huh. mesa getten berry, berry scared.;;1
+1870427;;that's it-tatooine. there's a settlement.;;1
+1870428;;land near the outskirts. we don't want to attract attention.;;1
+1870429;;the hyper-drive generator's gone, master. we'll need a new one.;;1
+1870430;;that'll complicate things. be wary.;;1
+1870431;;i sense a disturbance in the force. i feel it also, master.;;1
+1870432;;don't let them send any transmissions.;;1
+1870433;;this sun doen murder to mesa skin.;;1
+1870436;;her highness commands you to take her handmaiden with you.;;1
+1870437;;no more commands from her highness today, captain.;;1
+1870438;;the spaceport is not going to be pleasant.;;1
+1870439;;the queen wishes it.;;1
+1870440;;she's curious about the planet.;;1
+1870441;;this is not a good idea.;;1
+1870442;;stay close to me.;;1
+1870443;;moisture farms, for the most part.;;1
+1870444;;some indigenous tribes and scavengers.;;1
+1870445;;the few spaceports like this one are havens for those that don't wish to be found.;;1
+1870447;;dissen berry berry bad.;;1
+1870448;;oh! icky icky goo!;;1
+1870449;;we'll try one of the smaller dealers.;;1
+1870450;;good day to you.;;1
+1870451;;what do you want?;;1
+1870452;;i need parts for a j-type 327 nubian.;;1
+1870453;;ah, yes! nubian. we have lots of that.;;1
+1870454;;boy, get in here now!;;1
+1870455;;my droid has a readout of what i need.;;1
+1870456;;what took you so long?;;1
+1870457;;i was cleaning the fan switches.;;1
+1870458;;watch the store. i've got some selling to do.;;1
+1870459;;so... let me take thee out back, huh?;;1
+1870460;;ni you'll find what you need.;;1
+1870461;;hmm? don't touch anything.;;1
+1870464;;are you an angel? what?;;1
+1870465;;an angel. i heard the deep space pilots talk about them.;;1
+1870466;;they're the most beautiful creatures in the universe.;;1
+1870467;;they live on the moons of lego, i think.;;1
+1870468;;you're a funny little boy.;;1
+1870469;;how do you know so much?;;1
+1870470;;i listen to all the traders and star pilots who come through here.;;1
+1870471;;i'm a pilot, you know, and someday i'm gonna fly away from this place.;;1
+1870472;;you're a pilot? mm-hmm. all my life.;;1
+1870473;;how long have you been here?;;1
+1870474;;since i was very little. three, i think.;;1
+1870475;;my mom and i were sold to gardulla the hutt,;;1
+1870476;;but she lost us betting on the podraces.;;1
+1870478;;i'm a person, and my name is anakin. i'm sorry.;;1
+1870479;;i don't fully understand. this is a strange place to me.;;1
+1870483;;i got ya. hey!;;1
+1870484;;what? hit the nose.;;1
+1870486;;a t-14 hyper-drive generator. thee in luck.;;1
+1870487;;i'm the only one hereabouts who has one.;;1
+1870488;;but thee might as well buy a new ship. it would be cheaper, huh?;;1
+1870490;;how's thee gonna pay for all this, huh?;;1
+1870491;;i have 20,000 republic dataries.;;1
+1870493;;republic credits are no good out here. i need something more real.;;1
+1870494;;i don't have anything else, but credits will do fine.;;1
+1870495;;no, they won't. credits will do fine.;;1
+1870497;;what, you think you're some kind of jedi, waving your hand around like that?;;1
+1870498;;i'm a toydarian. mind tricks don't work on me. only money.;;1
+1870499;;no money, no parts, no deal.;;1
+1870500;;and no one else has a t-14 hyper-drive, i promise you that.;;1
+1870501;;wouldn't have lasted long anyways if i wasn't so good at building things.;;1
+1870502;;oh! aw! ooh! uh!;;1
+1870503;;ai, ai! whoa, ai! we're leaving. jarjar.;;1
+1870505;;i'm glad to have met you, anakin.;;1
+1870506;;i was glad to meet you too.;;1
+1870508;;outlanders. they think we know nothing.;;1
+1870509;;they seemed nice to me.;;1
+1870511;;then you can go home.;;1
+1870513;;and you're sure there's nothing left on board?;;1
+1870514;;a few containers of supplies.;;1
+1870515;;the queen's wardrobe, maybe, but not enough for you to barter with,;;1
+1870516;;not in the amount you're talking about.;;1
+1870517;;all right. i'm sure another solution will present itself.;;1
+1870518;;i'll check back later.;;1
+1870519;;noah gain! noah gain.;;1
+1870520;;da beings hereabouts, cawazy!;;1
+1870521;;wesa be wobbed un crunched!;;1
+1870522;;not likely. we have nothing of value. that's our problem.;;1
+1870525;;are you going to pay for that?;;1
+1870527;;it costs seven wupiupi.;;1
+1870534;;he's a big-time outlander.;;1
+1870535;;i'd hate to see you diced before we race again.;;1
+1870536;;next time we race, boy, it will be the end of you.;;1
+1870537;;if you weren't a slave, i'd squash you now.;;1
+1870538;;yeah, it'd be a pity if you had to pay for me.;;1
+1870539;;- hi. - hi there.;;1
+1870540;;your buddy here was about to be turned into orange goo.;;1
+1870541;;he picked a fight with a dug, an especially dangerous dug called sebulba.;;1
+1870542;;mesa haten crunchen. das da las ting mesa want.;;1
+1870543;;nevertheless, the boy is right. you were heading into trouble.;;1
+1870544;;thanks, my young friend.;;1
+1870546;;but mesa doen nutten!;;1
+1870547;;this storm will slow them down.;;1
+1870549;;panaka. receiving a message from home.;;1
+1870550;;we'll be right there.;;1
+1870551;;here, you'll like these pallies.;;1
+1870553;;oh, my bones are aching.;;1
+1870554;;storm's coming up, ani. you better get home quick.;;1
+1870555;;do you have shelter? we'll head back to our ship.;;1
+1870556;;is it far? it's on the outskirts.;;1
+1870557;;you'll never reach the outskirts in time.;;1
+1870558;;sandstorms are very, very dangerous.;;1
+1870559;;come on. i'll take you to my place.;;1
+1870561;;mom, i'm home! ahh, dissen cozy.;;1
+1870562;;- these are my friends, mom. - hello.;;1
+1870563;;i'm qui-gon jinn. i'm building a droid. you wanna see?;;1
+1870564;;your son was kind enough to offer us shelter.;;1
+1870565;;come on. i'll show you 3po. oh, mooie-mooie.;;1
+1870566;;isn't he great? he's not finished yet.;;1
+1870568;;you really like him?;;1
+1870569;;he's a protocol droid to help mom. watch.;;1
+1870570;;oh. oh. uh-where is everybody?;;1
+1870573;;i am c-3po, human-cyborg relations.;;1
+1870574;;how might i serve you?;;1
+1870575;;he's perfect. oh. perfect.;;1
+1870576;;when the storm is over, i'll show you my racer. i'm building a podracer.;;1
+1870577;;i'm not sure this floor is entirely stable.;;1
+1870578;;oh, hello. i don't believe we have been introduced.;;1
+1870579;;r2-d2. a pleasure to meet you.;;1
+1870580;;i am c-3po, human-cyborg relations.;;1
+1870581;;i beg your pardon, but what do you mean, naked?;;1
+1870582;;my parts are showing? my goodness! oh!;;1
+1870583;;the death toll is catastrophic.;;1
+1870584;;we must bow to their wishes.;;1
+1870585;;you must contact me.;;1
+1870586;;it's a trick. send no reply.;;1
+1870587;;send no transmissions of any kind.;;1
+1870588;;it sounds like bait to establish a connection trace.;;1
+1870589;;what if it is true, and the people are dying?;;1
+1870590;;either way, we're running out of time.;;1
+1870591;;tatooine is sparsely populated.;;1
+1870592;;if the trace was correct, i will find them quickly, master.;;1
+1870593;;move against the jedi first.;;1
+1870594;;you will then have no difficulty in taking the queen to naboo...;;1
+1870595;;to sign the treaty.;;1
+1870596;;at last we will reveal ourselves to the jedi.;;1
+1870597;;at last we will have revenge.;;1
+1870598;;you have been well-trained, my young apprentice.;;1
+1870599;;they will be no match for you.;;1
+1870600;;all slaves have a transmitter placed inside their bodies somewhere.;;1
+1870601;;i've been working on a scanner to try and locate mine.;;1
+1870602;;any attempt to escape- and they blow you up!;;1
+1870604;;i can't believe there's still slavery in the galaxy.;;1
+1870605;;the republic's antislavery laws-;;1
+1870606;;the republic doesn't exist out here.;;1
+1870607;;we must survive on our own.;;1
+1870609;;has anybody ever seen a podrace?;;1
+1870610;;they have podracing on malastare. very fast, very dangerous.;;1
+1870611;;i'm the only human who can do it.;;1
+1870612;;you must have jedi reflexes if you race pods.;;1
+1870613;;don't do that again.;;1
+1870614;;you're a jedi knight, aren't you?;;1
+1870615;;what makes you think that?;;1
+1870616;;i saw your laser sword. only jedis carry that kind of weapon.;;1
+1870617;;perhaps i killed a jedi and took it from him.;;1
+1870618;;i don't think so.;;1
+1870619;;no one can kill a jedi.;;1
+1870620;;i wish that were so.;;1
+1870621;;i had a dream i was a jedi.;;1
+1870622;;i came back here and freed all the slaves.;;1
+1870623;;have you come to free us? no, i'm afraid not.;;1
+1870624;;i think you have. why else would you be here?;;1
+1870625;;i can see there's no fooling you, anakin.;;1
+1870626;;we're on our way to coruscant, the central system in the republic,;;1
+1870627;;on a very important mission.;;1
+1870628;;how did you end up out here in the outer rim?;;1
+1870629;;our ship was damaged, and we're stranded here until we can repair it.;;1
+1870631;;i can fix anything. i believe you can.;;1
+1870632;;but first we must acquire the parts we need.;;1
+1870633;;wit no-nutten mula to trade.;;1
+1870634;;these junk dealers must have a weakness of some kind.;;1
+1870635;;gambling. everything here revolves around betting on those awful races.;;1
+1870636;;podracing. greed can be a powerful ally.;;1
+1870637;;i built a racer. it's the fastest ever.;;1
+1870638;;there's a big race tomorrow on boonta eve.;;1
+1870639;;- you could enter my pod. - anakin!;;1
+1870640;;- watto won't let you. - watto doesn't know i've built it.;;1
+1870641;;you could make him think it was yours...;;1
+1870642;;and get him to let me pilot it for you.;;1
+1870643;;i don't want you to race. it's awful. i die every time watto makes you do it.;;1
+1870644;;but, mom, i love it.;;1
+1870645;;the prize money would more than pay for the parts they need.;;1
+1870648;;is there anyone friendly to the republic who can help us?;;1
+1870650;;mom, you say the biggest problem in this universe is nobody helps each other.;;1
+1870651;;i'm sure qui-gon doesn't want to put your son in danger.;;1
+1870652;;we'll find some other way.;;1
+1870654;;there is no other way.;;1
+1870655;;i may not like it, but he can help you.;;1
+1870656;;he was meant to help you.;;1
+1870657;;are you sure about this?;;1
+1870658;;trusting our fate to a boy we hardly know?;;1
+1870659;;the queen will not approve.;;1
+1870660;;the queen doesn't need to know.;;1
+1870661;;well, i don't approve.;;1
+1870662;;the boy tells me you want to sponsor him in the race.;;1
+1870663;;how can you do this? not on the republic credits, i think, huh?;;1
+1870664;;my ship will be the entry fee.;;1
+1870666;;not bad, huh? a nubian, huh?;;1
+1870667;;it's in good order, except for the parts i need.;;1
+1870668;;what would the boy ride?;;1
+1870669;;he smashed up my pod in the last race. it will take some long time to fix it.;;1
+1870670;;it wasn't my fault, really. sebulba flashed me with his vents.;;1
+1870671;;i actually saved the pod, mostly.;;1
+1870672;;mmm. that you did, huh.;;1
+1870673;;the boy's good. no doubts there, huh?;;1
+1870674;;i have acquired a pod in a game of chance, the fastest ever built.;;1
+1870675;;i hope you didn't kill anyone i know for it, huh?;;1
+1870676;;so, you supply the pod and the entry fee,;;1
+1870677;;and i supply the boy.;;1
+1870678;;we split the winnings, um, 50-50, i think, huh?;;1
+1870679;;if it's going to be 50-50, i suggest you front the cash for the entry.;;1
+1870681;;you keep all the winnings, minus the cost of the parts i need.;;1
+1870682;;and if we lose, you keep my ship.;;1
+1870683;;either way, you win.;;1
+1870685;;your friend is a foolish one, methinks.;;1
+1870686;;what if this plan fails, master?;;1
+1870687;;we could be stuck here a very long time.;;1
+1870688;;well, it's too dangerous to call for help,;;1
+1870689;;and a ship without a power supply isn't going to get us anywhere.;;1
+1870691;;there's something about this boy.;;1
+1870692;;you should be very proud of your son.;;1
+1870693;;he gives without any thought of reward.;;1
+1870694;;well, he knows nothing of greed.;;1
+1870695;;he has a- he has special powers.;;1
+1870697;;he can see things before they happen.;;1
+1870698;;that's why he appears to have such quick reflexes.;;1
+1870699;;it's a jedi trait.;;1
+1870700;;he deserves better than a slave's life. why, certainly.;;1
+1870701;;had he been born in the republic, we would have identified him early.;;1
+1870702;;the force is unusually strong with him. that much is clear.;;1
+1870703;;who was his father?;;1
+1870704;;there was no father.;;1
+1870705;;i carried him, i gave birth, i raised him.;;1
+1870706;;i can't explain what happened.;;1
+1870707;;can you help him?;;1
+1870709;;i didn't actually come here to free slaves.;;1
+1870712;;wow, a real astro droid.;;1
+1870713;;how did you get so lucky? that isn't the half of it.;;1
+1870714;;i'm in the boonta race tomorrow. what?;;1
+1870716;;you're such a joker, ani.;;1
+1870717;;you've been working on that thing for years. it's never gonna run.;;1
+1870718;;come on. let's go and play ball.;;1
+1870719;;keep racing, ani. you're gonna be bug squash.;;1
+1870721;;keep away from those energy binders.;;1
+1870722;;if your hand gets caught in the beam, it's gonna go numb for hours.;;1
+1870724;;my tongue is fat.;;1
+1870726;;where is da wrench? oh, dare it is.;;1
+1870728;;uh, ani, i'm stuck. ani...;;1
+1870729;;you know, i find that jarjar creature to be a little odd.;;1
+1870730;;you don't even know if this thing's gonna run.;;1
+1870731;;it will. i think it's time we found out.;;1
+1870732;;here, use this power charge. yes, sir!;;1
+1870733;;come on, kitster. let's move away.;;1
+1870736;;uh, hey. my tongue is fat. ani!;;1
+1870737;;you're quite right. he's very odd indeed.;;1
+1870740;;it's working! it's working!;;1
+1870741;;stay still, ani. let me clean this cut.;;1
+1870742;;there's so many. do they all have a system of planets?;;1
+1870744;;has anyone been to 'em all?;;1
+1870746;;i wanna be the first one to see 'em all.;;1
+1870748;;there we are. good as new.;;1
+1870749;;ani, i'm not gonna tell you again.;;1
+1870750;;what are you doing? checking your blood for infections.;;1
+1870751;;go on. you have a big day tomorrow.;;1
+1870754;;i need an analysis of this blood sample i'm sending you.;;1
+1870756;;i need a midi-chlorian count.;;1
+1870757;;the reading is off the chart.;;1
+1870759;;even master yoda doesn't have a midi-chlorian count that high.;;1
+1870761;;what does that mean?;;1
+1870763;;i wanna see your spaceship the moment the race is over.;;1
+1870764;;patience, my blue friend. you'll have your winnings before the suns set.;;1
+1870765;;and we'll be far away from here.;;1
+1870766;;not if your ship belongs to me, i think, huh?;;1
+1870767;;i warn you, no funny business.;;1
+1870768;;you don't think anakin can win? don't get me wrong, no.;;1
+1870769;;i have great faith in the boy.;;1
+1870770;;he's a credit to your race,;;1
+1870771;;but, uh, sebulba there is going to win, i think.;;1
+1870773;;why do you think that?;;1
+1870775;;i am betting heavily on sebulba.;;1
+1870776;;- i'll take that bet. - you what?;;1
+1870777;;i'll wager my new racing pod against, say,;;1
+1870778;;the boy and his mother.;;1
+1870779;;no pod is worth two slaves, not by a long shot.;;1
+1870782;;we'll let fate decide, huh?;;1
+1870783;;i just happen to have a chance cube here.;;1
+1870784;;blue, it's the boy.;;1
+1870785;;red, uh... his mother.;;1
+1870786;;you won this small toss, outlander, but you won't win the race!;;1
+1870787;;so it makes little difference!;;1
+1870788;;better stop your friend's betting or i'll end up owning him too.;;1
+1870789;;what'd he mean by that? i'll tell you later.;;1
+1870792;;space travel sounds rather perilous.;;1
+1870793;;i can assure you, they will never get me onto one of those dreadful starships.;;1
+1870794;;this is so wizard, ani. i'm sure you'll do it this time.;;1
+1870795;;- do what? - finish the race, of course.;;1
+1870796;;- you've never won a race? - well, not exactly.;;1
+1870798;;kitster's right. i will this time.;;1
+1870799;;of course you will.;;1
+1870802;;and a big turnout here from all corners of the outer rim territories.;;1
+1870803;;i see the contestants are making their way out onto the starting grid.;;1
+1870804;;i see ben quadinaros from the tund system.;;1
+1870805;;two-time winner boles roor.;;1
+1870807;;and in the front row, nearside pole position,;;1
+1870810;;to clegg holdfast and his voltec kt9 wasp!;;1
+1870812;;and back again, it's the mighty dud bolt...;;1
+1870813;;with that incredible racing machine, the vulptereen 327.;;1
+1870814;;and hoping for a big win today,;;1
+1870815;;ody mandrell, with his record-setting pit droid team.;;1
+1870816;;and a late entry, young anakin skywalker,;;1
+1870818;;i see the flags are moving out onto the track.;;1
+1870822;;i will, mom. i promise.;;1
+1870824;;you won't walk away from this one...;;1
+1870826;;don't count on it, slime ball.;;1
+1870828;;you all set, ani? yep.;;1
+1870830;;remember, concentrate on the moment.;;1
+1870831;;feel, don't think. use your instincts.;;1
+1870833;;may the force be with you.;;1
+1870838;;hey, it looks like they're clearing the grid.;;1
+1870839;;is he nervous? he's fine.;;1
+1870840;;you jedi are far too reckless. the queen is not...;;1
+1870841;;the queen trusts my judgment, young handmaiden.;;1
+1870843;;you assume too much.;;1
+1870845;;oh, dissen gonna be messy. me no watch'n!;;1
+1870848;;wait. little skywalker has stalled.;;1
+1870849;;well, it looks like quadinaros is having engine trouble also.;;1
+1870851;;- and there goes skywalker! - go, ani, go!;;1
+1870852;;he will be hard-pressed to catch up with the leaders.;;1
+1870855;;looks like a few tusken raiders are camped out on the canyon dune turn.;;1
+1870857;;ooh, there goes quadinaros' power coupling.;;1
+1870860;;- chubba ni chees sebulba! - paketa!;;1
+1870862;;ody mandrell coona wa wunda dungo!;;1
+1870866;;where is master anakin?;;1
+1870867;;look. here he comes.;;1
+1870868;;it looks like skywalker is moving up in the field.;;1
+1870870;;he has to complete two more circuits?;;1
+1870875;;skywalker's spinning out of control!;;1
+1870876;;oh, i don't care what universe you're from. that's gotta hurt!;;1
+1870877;;here he comes! owoo!;;1
+1870878;;at the start of the final lap, sebulba's in the lead,;;1
+1870879;;followed closely by skywalker!;;1
+1870881;;skywalker's been forced onto the service ramp!;;1
+1870884;;- it's skywalker! - sebulba!;;1
+1870885;;amazing! a quick control thrust, and he's back on course!;;1
+1870888;;skywalker's in trouble! sebulba takes the lead!;;1
+1870889;;he's catching sebulba! inkabunga!;;1
+1870890;;careful, ani. careful, ani!;;1
+1870892;;that little human being is out of his mind. punda tah punda!;;1
+1870893;;they're side by side! bangu du bangu!;;1
+1870898;;ya eeka buta! whoo-hoo-hoo!;;1
+1870899;;i can't believe it.;;1
+1870900;;the crowds are going nuts!;;1
+1870901;;oh! ah! oh! ah!;;1
+1870902;;ooh! ah! ooh! ah! ooh! ah! ooh! ah!;;1
+1870904;;mom, i did it! yeah!;;1
+1870907;;we owe you everything, ani.;;1
+1870909;;it's so wonderful, ani.;;1
+1870910;;you have brought hope to those who have none.;;1
+1870911;;i'm so very proud of you.;;1
+1870916;;you knew the boy was going to win. somehow you knew it.;;1
+1870918;;whenever you gamble, my friend, eventually you'll lose.;;1
+1870919;;bring the parts to the main hangar.;;1
+1870920;;i'll come by your shop later on so you can release the boy.;;1
+1870921;;you can't have him. it wasn't a fair bet.;;1
+1870922;;would you like to discuss it with the hutts?;;1
+1870923;;i'm sure they can settle this.;;1
+1870926;;well, we have all the essential parts we need.;;1
+1870927;;i'm going back. some unfinished business. i won't be long.;;1
+1870928;;why do i sense we've picked up another pathetic life-form?;;1
+1870929;;it's the boy who's responsible for getting us these parts.;;1
+1870930;;get this hyper-drive generator installed.;;1
+1870931;;yes, master. that shouldn't take long.;;1
+1870933;;hey. these are yours.;;1
+1870935;;mom, we sold the pod!;;1
+1870936;;look at all the money we have! my goodness!;;1
+1870937;;but that's so wonderful, ani. and he has been freed.;;1
+1870938;;- what? - you're no longer a slave.;;1
+1870939;;did you hear that?;;1
+1870940;;now you can make your dreams come true, ani.;;1
+1870942;;will you take him with you?;;1
+1870943;;is he to become a jedi? yes.;;1
+1870944;;our meeting was not a coincidence.;;1
+1870945;;nothing happens by accident.;;1
+1870946;;you mean i get to come with you in your starship?;;1
+1870948;;training to become a jedi is not an easy challenge,;;1
+1870949;;and even if you succeed, it's a hard life.;;1
+1870950;;but i wanna go. it's what i've always dreamed of doing.;;1
+1870951;;can i go, mom?;;1
+1870953;;this path has been placed before you.;;1
+1870954;;the choice is yours alone.;;1
+1870955;;i wanna do it.;;1
+1870956;;then pack your things. we haven't much time.;;1
+1870959;;is she free too?;;1
+1870960;;i tried to free your mother, ani, but watto wouldn't have it.;;1
+1870961;;you're coming with us, aren't you, mom?;;1
+1870962;;son, my place is here. my future is here.;;1
+1870963;;it is time for you to let go.;;1
+1870964;;i don't want things to change.;;1
+1870965;;but you can't stop the change...;;1
+1870966;;any more than you can stop the suns from setting.;;1
+1870967;;oh, i love you.;;1
+1870970;;i'll watch after him. you have my word.;;1
+1870971;;will you be all right?;;1
+1870973;;oh! oh, my. oh!;;1
+1870975;;well, 3po, i've been freed...;;1
+1870976;;and i'm going away in a starship.;;1
+1870977;;master anakin, you are my maker and i wish you well.;;1
+1870978;;however, i should prefer it if i were a little more completed.;;1
+1870979;;i'm sorry i wasn't able to finish you, 3po, give you coverings and all.;;1
+1870980;;i'm gonna miss working on you. you've been a great pal.;;1
+1870981;;i'll make sure mom doesn't sell you or anything.;;1
+1870985;;i can't do it, mom. i just can't do it.;;1
+1870987;;will i ever see you again?;;1
+1870988;;what does your heart tell you?;;1
+1870992;;then we will see each other again.;;1
+1870993;;i will come back and free you, mom.;;1
+1870996;;and don't look back.;;1
+1870998;;- qui-gon, sir, wait! i'm tired! - anakin! drop!;;1
+1870999;;go! tell them to take off!;;1
+1871002;;over there. fly low.;;1
+1871003;;are you all right?;;1
+1871006;;i'm not sure, but it was well-trained in the jedi arts.;;1
+1871007;;my guess is it was after the queen.;;1
+1871008;;what are we gonna do about it?;;1
+1871009;;we shall be patient.;;1
+1871010;;anakin skyalker, meet obi-wan kenobi.;;1
+1871012;;you're a jedi too? pleased to meet you.;;1
+1871013;;your queen is lost, your people are starving,;;1
+1871014;;and you, governor, are going to die...;;1
+1871015;;much sooner than your people, i'm afraid.;;1
+1871016;;this invasion will gain you nothing.;;1
+1871017;;we're a democracy. the people have decided.;;1
+1871019;;my troops are in position to begin searching the swamps...;;1
+1871020;;for these rumored underwater villages.;;1
+1871021;;they will not stay hidden for long.;;1
+1871022;;the death toll is catastrophic.;;1
+1871023;;we must bow to their wishes.;;1
+1871024;;you must contact me.;;1
+1871027;;you come from a warm planet, ani.;;1
+1871028;;a little too warm for my taste.;;1
+1871031;;the queen is worried.;;1
+1871032;;her people are suffering, dying.;;1
+1871033;;she must convince the senate to intervene, or...;;1
+1871034;;i'm not sure what'll happen.;;1
+1871035;;i made this for you...;;1
+1871036;;so you'd remember me.;;1
+1871037;;i carved it out of a japor snippet.;;1
+1871038;;it'll bring you good fortune.;;1
+1871040;;but i don't need this to remember you by.;;1
+1871041;;many things will change when we reach the capital, ani,;;1
+1871042;;but my caring for you will remain.;;1
+1871043;;i care for you, too, only i...;;1
+1871045;;coruscant. the entire planet is one big city.;;1
+1871046;;there's chancellor valorum's shuttle.;;1
+1871047;;and look over there. senator palpatine is waiting for us.;;1
+1871048;;it is a great gift to see you alive, your majesty.;;1
+1871049;;with the communications breakdown, we've been very concerned.;;1
+1871050;;i'm anxious to hear your report on the situation.;;1
+1871051;;may i present supreme chancellor valorum.;;1
+1871052;;welcome, your highness. it's an honor to finally meet you in person.;;1
+1871053;;thank you, supreme chancellor.;;1
+1871054;;i must relay to you how distressed everyone is over the current situation.;;1
+1871055;;i've called for a special session of the senate to hear your position.;;1
+1871056;;i'm grateful for your concern, chancellor.;;1
+1871057;;there is a question of procedure,;;1
+1871058;;but i'm confident we can overcome it.;;1
+1871059;;i must speak with the jedi council immediately.;;1
+1871060;;the situation has become much more complicated.;;1
+1871062;;the queen's a bein' grossly nice, mesa tinks.;;1
+1871064;;there is no civility, only politics.;;1
+1871065;;the republic is not what it once was.;;1
+1871066;;the senate is full of greedy, squabbling delegates.;;1
+1871067;;there is no interest...;;1
+1871068;;in the common good.;;1
+1871069;;i must be frank, your majesty.;;1
+1871070;;there is little chance the senate will act on the invasion.;;1
+1871071;;chancellor valorum seems to think there is hope.;;1
+1871072;;if i may say so, your majesty, the chancellor has little real power.;;1
+1871073;;he is mired by baseless accusations of corruption.;;1
+1871074;;the bureaucrats are in charge now. what options have we?;;1
+1871075;;our best choice would be to push for the election...;;1
+1871076;;of a stronger supreme chancellor,;;1
+1871077;;one who could control the bureaucrats...;;1
+1871078;;and give us justice.;;1
+1871079;;you could call for a vote of no confidence...;;1
+1871081;;he has been our strongest supporter.;;1
+1871082;;our only other choice would be to submit a plea to the courts.;;1
+1871083;;the courts take even longer to decide things than the senate.;;1
+1871084;;our people are dying, senator.;;1
+1871085;;we must do something quickly to stop the federation.;;1
+1871086;;to be realistic, your majesty,;;1
+1871087;;i think we're going to have to accept federation control for the time being.;;1
+1871088;;that is something i cannot do.;;1
+1871089;;he was trained in the jedi arts.;;1
+1871090;;my only conclusion can be that it was a sith lord.;;1
+1871091;;impossible. the sith have been extinct for a millennium.;;1
+1871092;;i do not believe the sith could have returned without us knowing.;;1
+1871093;;ah, hard to see, the dark side is.;;1
+1871094;;we will use all our resources to unravel this mystery.;;1
+1871095;;we will discover the identity of your attacker.;;1
+1871096;;may the force be with you.;;1
+1871098;;more to say have you?;;1
+1871099;;with your permission, my master,;;1
+1871100;;i have encountered a vergence in the force.;;1
+1871101;;a vergence, you say?;;1
+1871102;;located around a person?;;1
+1871104;;his cells have the highest concentration of midi-chlorians i have seen in a life-form.;;1
+1871105;;it is possible he was conceived by the midi-chlorians.;;1
+1871106;;you refer to the prophecy...;;1
+1871107;;of the one who will bring balance to the force.;;1
+1871108;;you believe it's this boy?;;1
+1871109;;i don't presume to- but you do.;;1
+1871110;;revealed your opinion is.;;1
+1871111;;i request the boy be tested, master.;;1
+1871112;;oh? trained as a jedi you request for him, hmm?;;1
+1871113;;finding him was the will of the force.;;1
+1871114;;i have no doubt of that.;;1
+1871115;;bring him before us, then.;;1
+1871116;;the boy's here to see padmé.;;1
+1871118;;i'm sorry, ani, but padmé's not here right now.;;1
+1871120;;anakin skywalker to see padmé, your highness.;;1
+1871121;;i've sent padmé on an errand.;;1
+1871122;;i'm on my way to the jedi temple to start my training, i hope.;;1
+1871123;;i may never see her again, so i came to say good-bye.;;1
+1871124;;we will tell her for you.;;1
+1871125;;we are sure her heart goes with you.;;1
+1871126;;thank you, your highness.;;1
+1871127;;the chair recognizes the senator from the sovereign system of naboo.;;1
+1871128;;supreme chancellor, delegates of the senate,;;1
+1871129;;a tragedy has occurred...;;1
+1871130;;which started right here with the taxation of trade routes...;;1
+1871131;;and has now engulfed our entire planet...;;1
+1871132;;in the oppression of the trade federation.;;1
+1871134;;i object to the senator's statements.;;1
+1871135;;the chair does not recognize the senator from the trade federation at this time.;;1
+1871136;;to state our allegations, i present queen amidala,;;1
+1871137;;recently elected ruler of the naboo,;;1
+1871138;;who speaks on our behalf.;;1
+1871139;;honorable representatives of the republic,;;1
+1871140;;i come to you under the gravest of circumstances.;;1
+1871141;;the naboo system has been invaded by the droid armies of the trade-;;1
+1871142;;i object! there is no proof!;;1
+1871144;;we recommend a commission be sent to naboo to ascertain the truth.;;1
+1871145;;the congress of malastare concurs...;;1
+1871146;;with the honorable delegate from the trade federation.;;1
+1871147;;a commission must be appointed. the point...;;1
+1871148;;excuse me, chancellor. enter the bureaucrat.;;1
+1871149;;the true rulers of the republic.;;1
+1871150;;and on the payroll of the trade federation, i might add.;;1
+1871151;;this is where chancellor valorum's strength will disappear.;;1
+1871152;;the point is conceded.;;1
+1871153;;will you defer your motion to allow a commission...;;1
+1871154;;to explore the validity of your accusations?;;1
+1871155;;i will not defer.;;1
+1871156;;i've come before you to resolve this attack on our sovereignty now.;;1
+1871157;;i was not elected to watch my people suffer and die...;;1
+1871158;;while you discuss this invasion in a committee.;;1
+1871159;;if this body is not capable of action,;;1
+1871160;;i suggest new leadership is needed.;;1
+1871161;;i move for a vote of no confidence...;;1
+1871162;;in chancellor valorum's leadership.;;1
+1871163;;vote now! vote now!;;1
+1871164;;vote now! vote now!;;1
+1871165;;vote now! vote now! order!;;1
+1871166;;now they will elect a new chancellor,;;1
+1871168;;one who will not let our tragedy continue.;;1
+1871169;;the boy will not pass the council's test, master. he's too old.;;1
+1871170;;anakin will become a jedi, i promise you.;;1
+1871171;;do not defy the council, master, not again.;;1
+1871172;;i shall do what i must, obi-wan.;;1
+1871173;;if you would just follow the code, you would be on the council.;;1
+1871174;;they will not go along with you this time.;;1
+1871175;;you still have much to learn, my young apprentice.;;1
+1871185;;see through you we can.;;1
+1871186;;be mindful of your feelings.;;1
+1871187;;your thoughts dwell on your mother.;;1
+1871188;;i miss her. mmm.;;1
+1871189;;afraid to lose her, i think, mmm?;;1
+1871190;;what has that got to do with anything?;;1
+1871192;;fear is the path to the dark side.;;1
+1871193;;fear leads to anger. anger leads to hate.;;1
+1871194;;hate leads to suffering.;;1
+1871195;;i sense much fear in you.;;1
+1871196;;yousa tinking yousa people ganna die?;;1
+1871198;;gungans get pasted too, eh?;;1
+1871200;;gungans no dyin' without a fight.;;1
+1871202;;wesa got a grand army.;;1
+1871203;;dat's why you no liken us, mesa tinks.;;1
+1871206;;senator palpatine has been nominated to succeed valorum...;;1
+1871208;;a surprise, to be sure, but a welcome one.;;1
+1871209;;your majesty, if i am elected, i promise to put an end to corruption.;;1
+1871210;;who else has been nominated?;;1
+1871211;;bail antilles of alderaan and ainlee teem of malastare.;;1
+1871212;;i feel confident our situation will create a strong sympathy vote for us.;;1
+1871213;;i will be chancellor.;;1
+1871214;;i fear by the time you have control of the bureaucrats,;;1
+1871215;;there'll be nothing left of our people, our way of life.;;1
+1871216;;i understand your concern, your majesty.;;1
+1871217;;unfortunately, the federation has possession of our planet.;;1
+1871218;;senator, this is your arena.;;1
+1871219;;i feel i must return to mine.;;1
+1871220;;i've decided to go back to naboo.;;1
+1871221;;go back? but, your majesty, be realistic.;;1
+1871222;;they'll force you to sign the treaty.;;1
+1871223;;i will sign no treaty, senator.;;1
+1871224;;my fate will be no different than that of our people.;;1
+1871227;;please, your majesty, stay here where it's safe.;;1
+1871228;;it is clear to me now that the republic no longer functions.;;1
+1871229;;i pray you will bring sanity and compassion back to the senate.;;1
+1871230;;the force is strong with him.;;1
+1871231;;he is to be trained, then?;;1
+1871232;;no, he will not be trained.;;1
+1871234;;he is too old.;;1
+1871235;;he is the chosen one. you must see it.;;1
+1871236;;mmm. clouded this boy's future is.;;1
+1871237;;i will train him, then.;;1
+1871238;;i take anakin as my padawan learner.;;1
+1871239;;an apprentice you have, qui-gon.;;1
+1871240;;impossible to take on a second.;;1
+1871241;;the code forbids it.;;1
+1871242;;obi-wan is ready. i am ready to face the trials.;;1
+1871243;;our own counsel we will keep on who is ready.;;1
+1871245;;and he has much to learn of the living force, but he is capable.;;1
+1871246;;there is little more he can learn from me.;;1
+1871248;;will be decided later.;;1
+1871249;;now is not the time for this.;;1
+1871250;;the senate is voting for a new supreme chancellor,;;1
+1871251;;and queen amidala is returning home,;;1
+1871252;;which will put pressure on the federation and could widen the confrontation.;;1
+1871253;;and draw out the queen's attacker.;;1
+1871254;;go with the queen to naboo and discover the identity of this dark warrior.;;1
+1871255;;this is the clue we need...;;1
+1871256;;to unravel the mystery of the sith.;;1
+1871257;;may the force be with you.;;1
+1871258;;it's not disrespect, master. it's the truth.;;1
+1871259;;from your point of view.;;1
+1871260;;the boy is dangerous. they all sense it. why can't you?;;1
+1871261;;his fate is uncertain. he's not dangerous.;;1
+1871262;;the council will decide anakin's future.;;1
+1871263;;that should be enough for you. now get on board.;;1
+1871264;;qui-gon, sir, i don't want to be a problem.;;1
+1871265;;you won't be, ani.;;1
+1871266;;i'm not allowed to train you, so i want you to watch me and be mindful.;;1
+1871267;;your focus determines your reality.;;1
+1871268;;stay close to me and you'll be safe.;;1
+1871270;;i heard yoda talking about midi-chlorians.;;1
+1871271;;i've been wondering- what are midi-chlorians?;;1
+1871272;;midi-chlorians are a microscopic life-form...;;1
+1871273;;that resides within all living cells.;;1
+1871274;;they live inside me? inside your cells, yes.;;1
+1871275;;and we are symbionts with them. symbionts?;;1
+1871276;;life-forms living together for mutual advantage.;;1
+1871277;;without the midi-chlorians, life could not exist...;;1
+1871278;;and we would have no knowledge of the force.;;1
+1871279;;they continually speak to us,;;1
+1871280;;telling us the will of the force.;;1
+1871281;;when you learn to quiet your mind,;;1
+1871282;;you'll hear them speaking to you.;;1
+1871284;;with time and training, ani, you will. you will.;;1
+1871285;;your majesty, it is our pleasure to continue to serve and protect you.;;1
+1871286;;i welcome your help.;;1
+1871287;;senator palpatine fears that the federation means to destroy me.;;1
+1871288;;i assure you i will not allow that to happen.;;1
+1871291;;is the planet secure?;;1
+1871292;;we have taken over the last pockets of primitive life-forms.;;1
+1871293;;we are in complete control of the planet now.;;1
+1871294;;good. i will see to it that in the senate things stay as they are.;;1
+1871295;;i am sending my apprentice, darth maul, to join you.;;1
+1871298;;those are the forward stabilizers.;;1
+1871299;;and those two control the pitch?;;1
+1871300;;you catch on pretty quick.;;1
+1871301;;as soon as we land,;;1
+1871302;;the federation will arrest you and force you to sign the treaty.;;1
+1871303;;i agree. i'm not sure what you wish to accomplish by this.;;1
+1871304;;i will take back what's ours.;;1
+1871305;;there are too few of us, your highness.;;1
+1871306;;we have no army.;;1
+1871307;;and i can only protect you. i can't fight a war for you.;;1
+1871310;;yes. i need your help.;;1
+1871311;;i have one battleship on my scope.;;1
+1871312;;it's a droid control ship.;;1
+1871313;;they've probably spotted us.;;1
+1871314;;we haven't much time.;;1
+1871315;;jarjar is on his way to the gungan city, master. good.;;1
+1871316;;do you think the queen's idea will work?;;1
+1871317;;the gungans will not be easily swayed.;;1
+1871318;;and we cannot use our power to help her.;;1
+1871319;;i'm-i'm sorry for my behavior, master.;;1
+1871320;;it's not my place to disagree with you about the boy.;;1
+1871321;;and i am grateful you think i'm ready to take the trials.;;1
+1871322;;you've been a good apprentice, obi-wan.;;1
+1871323;;and you're a much wiser man than i am.;;1
+1871324;;i foresee you will become a great jedi knight.;;1
+1871326;;the gungan city is deserted.;;1
+1871327;;some kinda fight, mesa tinks.;;1
+1871328;;do you think they have been taken to the camps?;;1
+1871329;;more likely they were wiped out.;;1
+1871330;;mesa no tink so. do you know where they are, jarjar?;;1
+1871331;;when in trouble, gungans go to sacred place.;;1
+1871332;;mesa show you. come on. mesa show you!;;1
+1871333;;your honor, queen amidala of the naboo.;;1
+1871334;;uh, h-heyo dadee, big boss nass, your honor.;;1
+1871336;;who's da uss-en uthers?;;1
+1871337;;i am queen amidala of the naboo.;;1
+1871338;;i come before you in peace.;;1
+1871340;;yousa bringen da mackineeks.;;1
+1871342;;we have searched you out because we wish to form an alliance.;;1
+1871345;;i am queen amidala. huh?;;1
+1871346;;this is my decoy,;;1
+1871347;;my protection, my loyal bodyguard.;;1
+1871348;;i'm sorry for my deception, but it was necessary to protect myself.;;1
+1871349;;although we do not always agree, your honor,;;1
+1871350;;our two great societies have always lived in peace.;;1
+1871351;;- ah. - the trade federation...;;1
+1871352;;has destroyed all that we have worked so hard to build.;;1
+1871353;;if we do not act quickly, all will be lost forever.;;1
+1871354;;i ask you to help us.;;1
+1871355;;no, i beg you to help us.;;1
+1871356;;we are your humble servants.;;1
+1871357;;our fate is in your hands.;;1
+1871360;;yousa no tinken yousa greater den da gungans?;;1
+1871366;;we've sent our patrols.;;1
+1871367;;we already located their starship in the swamp.;;1
+1871368;;it won't be long, my lord.;;1
+1871369;;this is an unexpected move for her.;;1
+1871371;;lord maul, be mindful.;;1
+1871372;;let them make the first move.;;1
+1871377;;good. they made it.;;1
+1871379;;jarjar bring uss-en and da naboo together.;;1
+1871380;;ah, no, no, no.;;1
+1871381;;so, wesa make you...;;1
+1871385;;your highness. what is the situation?;;1
+1871386;;almost everyone's in camps.;;1
+1871387;;a few hundred police and guards have formed an underground resistance movement.;;1
+1871388;;i brought back as many of the leaders as i could.;;1
+1871389;;the federation army's also much larger than we thought, and much stronger.;;1
+1871390;;your highness, this is a battle i do not think that we can win.;;1
+1871391;;the battle is a diversion.;;1
+1871392;;the gungans must draw the droid army away from the cities.;;1
+1871394;;we can enter the city using the secret passages on the waterfall side.;;1
+1871395;;once we get to the main entrance,;;1
+1871396;;captain panaka will create a diversion.;;1
+1871397;;then we can enter the palace and capture the viceroy.;;1
+1871398;;without the viceroy, they will be lost and confused.;;1
+1871399;;what do you think, master jedi?;;1
+1871400;;the viceroy will be well-guarded.;;1
+1871401;;the difficulty is getting into the throne room.;;1
+1871402;;once we're inside, we shouldn't have a problem.;;1
+1871403;;there is a possibility, with this diversion, many gungans will be killed.;;1
+1871404;;wesa ready to do our-san part.;;1
+1871405;;we have a plan which should immobilize the droid army.;;1
+1871406;;we will send what pilots we have...;;1
+1871407;;to knock out the droid control ship orbiting the planet.;;1
+1871408;;a well-conceived plan. however, there's great risk.;;1
+1871409;;the weapons on your fighters may not penetrate the shields.;;1
+1871410;;there's an even bigger danger.;;1
+1871411;;if the viceroy escapes, your highness,;;1
+1871412;;he will return with another droid army.;;1
+1871413;;well, that is why we must not fail to get the viceroy.;;1
+1871414;;everything depends on it.;;1
+1871415;;she is more foolish than i thought.;;1
+1871416;;we are sending all troops to meet this army assembling near the swamp.;;1
+1871417;;it appears to be made up of primitives.;;1
+1871418;;this will work to our advantage.;;1
+1871419;;i have your approval to proceed, then, my lord?;;1
+1871423;;starting up the shield.;;1
+1871425;;once we get inside, you find a safe place to hide and stay there.;;1
+1871428;;i thought the battle was going to take place far from here.;;1
+1871429;;this is too close.;;1
+1871431;;quick! get to your ships!;;1
+1871434;;- fighters straight ahead. - roger, bravo leader.;;1
+1871438;;activate the droids. yes, sir.;;1
+1871443;;my guess is the viceroy's in the throne room.;;1
+1871444;;red group! blue group! everybody, this way!;;1
+1871445;;hey, wait for me!;;1
+1871446;;stay where you are. you'll be safe there.;;1
+1871447;;- but i- - stay in that cockpit.;;1
+1871448;;- we'll handle this. - we'll take the long way.;;1
+1871449;;we gotta do something, r2.;;1
+1871450;;i'm trying to! i don't know where the trigger is!;;1
+1871451;;oops, wrong one. maybe it's this one.;;1
+1871452;;nope. wait. here it is.;;1
+1871455;;it's on automatic pilot.;;1
+1871456;;try to override it.;;1
+1871457;;we don't have time for this, captain.;;1
+1871458;;look! there they are.;;1
+1871459;;that's where the autopilot's taking us.;;1
+1871460;;huh? waaah! aah! aah!;;1
+1871462;;aaah! hmm! dumb droid. take that!;;1
+1871463;;get off! get off! get off! get off!;;1
+1871466;;the deflector shield is too strong.;;1
+1871468;;whoa! r2, get us off this autopilot.;;1
+1871469;;it's gonna get us both killed.;;1
+1871470;;you did it, r2!;;1
+1871471;;okay, let's go left.;;1
+1871473;;qui-gon told me to stay in this cockpit, so that's what i'm gonna do.;;1
+1871474;;i'll try spinning. that's a good trick.;;1
+1871476;;i know we're in trouble.just hang on.;;1
+1871487;;give me a lift! aaah! oh!;;1
+1871490;;jarjar, usen da booma!;;1
+1871491;;what? mesa no have a booma!;;1
+1871492;;here. taken dis one.;;1
+1871493;;whoa! whoa! whoa! whoa! whoa! aah!;;1
+1871499;;jarjar! jump, jarjar, jump!;;1
+1871500;;put down your weapons. they win this round.;;1
+1871501;;we're hit, r2! aah!;;1
+1871503;;i'm trying to stop! i'm trying to stop!;;1
+1871505;;oops. this is not good.;;1
+1871507;;no giben up, general jarjar.;;1
+1871508;;mesa tink of something.;;1
+1871509;;- hands up. - my give up.;;1
+1871511;;your little insurrection is at an end, your highness.;;1
+1871512;;time for you to sign the treaty and end this pointless debate in the senate.;;1
+1871514;;your occupation here has ended.;;1
+1871515;;after her. this one's a decoy.;;1
+1871518;;now, viceroy, we will discuss a new treaty.;;1
+1871519;;yes! we have power.;;1
+1871524;;- oops. - we're losing power.;;1
+1871525;;there seems to be a problem with the main reactor. impossible!;;1
+1871526;;nothing can get through our shield.;;1
+1871527;;let's get outta here.;;1
+1871528;;what's that? it's blowing up from the inside!;;1
+1871529;;we didn't hit it.;;1
+1871530;;now, this is podracing.;;1
+1871531;;- look, one of ours, out of the main hold! - whoo!;;1
+1871532;;- whoo! - yeah! - hee-hee!;;1
+1871535;;the control ship has been destroyed. look!;;1
+1871537;;no, it-it's too late.;;1
+1871540;;promise me you will train the boy.;;1
+1871542;;he is the chosen one.;;1
+1871543;;he... will bring balance.;;1
+1871546;;you're going to have to go back to the senate and explain all this.;;1
+1871547;;i think you can kiss your trade franchise good-bye.;;1
+1871548;;we are indebted to you for your bravery, obi-wan kenobi.;;1
+1871549;;and you, young skyalker.;;1
+1871550;;we will watch your career with great interest.;;1
+1871551;;congratulations on your election, chancellor.;;1
+1871552;;your boldness has saved our people, your majesty.;;1
+1871553;;it's you who should be congratulated.;;1
+1871554;;together we shall bring peace and prosperity to the republic.;;1
+1871555;;confer on you the level of jedi knight the council does.;;1
+1871556;;but agree with your taking this boy as your padawan learner...;;1
+1871558;;qui-gon believed in him.;;1
+1871559;;the chosen one the boy may be.;;1
+1871561;;grave danger i fear in his training.;;1
+1871562;;master yoda, i gave qui-gon my word.;;1
+1871563;;i will train anakin.;;1
+1871565;;without the approval of the council, if i must.;;1
+1871566;;qui-gon's defiance i sense in you.;;1
+1871567;;need that you do not.;;1
+1871568;;agree with you the council does.;;1
+1871569;;your apprentice skywalker will be.;;1
+1871570;;what will happen to me now?;;1
+1871571;;the council have granted me permission to train you.;;1
+1871572;;you will be a jedi, i promise.;;1
+1871573;;there's no doubt the mysterious warrior was a sith.;;1
+1871574;;mmm. always two there are.;;1
+1871575;;no more, no less.;;1
+1871576;;a master and an apprentice.;;1
+1871577;;but which was destroyed?;;1
+1871578;;the master or the apprentice?;;1
+3875851;;lock onto him, r2.;;1
+3875852;;master, general grievous's ship is directly ahead...;;1
+3875853;;the one crawling with vulture droids.;;1
+3875854;;oh, i see it. oh, this is going to be easy.;;1
+3875855;;- oddball, do you copy? - copy, red leader.;;1
+3875856;;mark my position. form your squad up behind me.;;1
+3875857;;we're on your tail, general kenobi.;;1
+3875858;;set s-foils in attack position.;;1
+3875859;;this is where the fun begins.;;1
+3875860;;let them pass between us.;;1
+3875861;;they're all over me. get them off my...;;1
+3875862;;- i'm gonna go help them out. - no.;;1
+3875863;;no, they are doing their job so we can do ours.;;1
+3875865;;- they overshot us. - they're coming around.;;1
+3875867;;no, no, no, no... no, nothing too fancy.;;1
+3875868;;surge all power units, r2. stand by reverse thrusters.;;1
+3875869;;we got 'em, r2.;;1
+3875870;;flying is for droids.;;1
+3875871;;- i'm hit. anakin? - i see them. buzz droids.;;1
+3875872;;r4, be careful. you have a...;;1
+3875874;;they're shutting down all the controls.;;1
+3875875;;- move to the right so i can get a clear shot at them. - the mission.;;1
+3875876;;get to the command ship. get the chancellor. i'm running out of tricks here.;;1
+3875877;;oh! in the name of...;;1
+3875878;;- hold your fire! you're not helping here. - i agree. bad idea.;;1
+3875879;;i can't see a thing. my cockpit's fogging.;;1
+3875880;;they're all over me. anakin!;;1
+3875881;;- move to the right. - hold on, anakin. you're gonna get us both killed.;;1
+3875882;;get out of here. there's nothing more you can do.;;1
+3875883;;i'm not leaving without you, master.;;1
+3875886;;r2, hit the buzz droid's center eye.;;1
+3875887;;- yeah, you got him! - great, r2.;;1
+3875888;;the general's command ship is dead ahead.;;1
+3875889;;well, haveyou noticed the shields are still up?;;1
+3875891;;oh, i have a bad feeling about this.;;1
+3875892;;there they are. get them.;;1
+3875893;;r2, locate the chancellor.;;1
+3875894;;the chancellor's signal is coming from right there...;;1
+3875895;;the observation platform at the top of that spire.;;1
+3875896;;i sense count dooku.;;1
+3875897;;- i sense a trap. - next move?;;1
+3875899;;r2, go back. i need you to stay with the ship.;;1
+3875900;;here. take this and wait for orders.;;1
+3875901;;what's the situation, captain?;;1
+3875902;;two jedi have landed in the main hangar bay. we're tracking them.;;1
+3875903;;just as count dooku predicted.;;1
+3875905;;drop your weapons. i said drop 'em.;;1
+3875906;;- roger. - roger, roger.;;1
+3875908;;those are jedi fighters all right.;;1
+3875909;;- did you press the stop button? - no. did you?;;1
+3875910;;- no. - well, there's more than one way out of here.;;1
+3875911;;we don't want to get out.;;1
+3875912;;we want to get moving. r2, activate elevator 31174.;;1
+3875913;;- come in, r2. - what that?;;1
+3875914;;r2, do you copy?;;1
+3875915;;r2, activate the elevator number...;;1
+3875917;;get back to work. that nothin'.;;1
+3875918;;activate the elevator 31174.;;1
+3875920;;always on the move.;;1
+3875921;;r2, switch on the comlink.;;1
+3875922;;r2, can you hear me?;;1
+3875926;;stop. stop. r2, we need to be going up.;;1
+3875928;;r2, do you copy?;;1
+3875929;;r2, do you hear me? r2, we need to be going up, not down.;;1
+3875932;;you stupid little astro droid.;;1
+3875935;;my eyes! my eyes!;;1
+3875936;;- what was that all about? - well, r2 has been...;;1
+3875937;;- uh, no loose wire jokes. - did i say anything?;;1
+3875938;;- he's trying. - i didn't say anything.;;1
+3875939;;- chancellor. - are you all right?;;1
+3875941;;- this time we will do it together. - i was about to say that.;;1
+3875942;;get help. you're no match for him. he's a sith lord.;;1
+3875943;;chancellor palpatine, sith lords are our speciality.;;1
+3875945;;we don't want to make a mess of things in front of the chancellor.;;1
+3875946;;you won't get away this time, dooku.;;1
+3875947;;i've been looking forward to this.;;1
+3875948;;my powers have doubled since the last time we met, count.;;1
+3875949;;good. twice the pride, double the fall.;;1
+3875951;;i sense great fear in you, skywalker.;;1
+3875952;;you have hate. you have anger.;;1
+3875953;;butyou don't use them.;;1
+3875959;;you did well, anakin.;;1
+3875960;;he was too dangerous to be kept alive.;;1
+3875961;;yes, but he was an unarmed prisoner.;;1
+3875962;;i shouldn't have done that. it's not the jedi way.;;1
+3875963;;it is only natural. he cut off your arm, and you wanted revenge.;;1
+3875964;;it wasn't the first time, anakin.;;1
+3875965;;remember what you told me about your mother and the sand people?;;1
+3875966;;now we must leave before more security droids arrive.;;1
+3875967;;anakin, there's no time.;;1
+3875968;;we must get off this ship before it's too late.;;1
+3875969;;- he seems to be all right. - leave him, or we'll never make it.;;1
+3875970;;his fate will be the same as ours.;;1
+3875972;;all batteries, fire! fire!;;1
+3875974;;r2, activate elevator 3224.;;1
+3875975;;- reverse stabilizers. - reversing stabilizers.;;1
+3875977;;fire the emergency booster engines.;;1
+3875978;;we're leveling out, sir.;;1
+3875980;;easy. we're in a bit of a situation here.;;1
+3875981;;- did i miss something? - hold on.;;1
+3875982;;- what is that? - uh, oops.;;1
+3875983;;r2. r2, shut down the elevator.;;1
+3875985;;let's see if we can find something in the hangar bay that's still flyable.;;1
+3875986;;r2, get down here.;;1
+3875988;;general, we found the jedi.;;1
+3875989;;- they're in hallway 328. - activate ray shields.;;1
+3875991;;wait a minute. how did this happen?;;1
+3875992;;- we're smarter than this. - apparently not.;;1
+3875993;;- i say patience. - patience?;;1
+3875994;;yes. r2 will be along in a few moments...;;1
+3875995;;and then... he'll release the ray shields.;;1
+3875999;;doyou have a plan "b"?;;1
+3876000;;ah, yes. the negotiator.;;1
+3876001;;general kenobi. we've been waiting for you.;;1
+3876003;;- that wasn't much of a rescue. - you're welcome.;;1
+3876006;;i was expecting someone with your reputation to be a little... older.;;1
+3876007;;general grievous. you're shorter than i expected.;;1
+3876009;;we have a job to do, anakin. try not to upset him.;;1
+3876010;;your lightsabers will make a fine addition to my collection.;;1
+3876011;;not this time. and this time, you won't escape.;;1
+3876016;;- stay at your stations! - whoa!;;1
+3876017;;get him! get him!;;1
+3876020;;- don't bother with them. keep the ship in orbit. - yes, sir.;;1
+3876021;;you lose, general kenobi.;;1
+3876022;;get out ofhere! run!;;1
+3876023;;time to abandon ship.;;1
+3876024;;all the escape pods have been launched.;;1
+3876025;;grievous. can you fly a cruiser like this?;;1
+3876026;;- you mean, do i know how to land what's left of this thing? - well?;;1
+3876027;;well, under the circumstances, i'd say the ability to pilot this thing is irrelevant.;;1
+3876029;;open all hatches. extend all flaps and drag fins.;;1
+3876031;;not to worry. we are still flying half a ship.;;1
+3876032;;now we're really picking up speed.;;1
+3876034;;- we're in the atmosphere. - grab that. keep us level.;;1
+3876037;;5000. fire ships on the left and the right.;;1
+3876038;;- we'll take you in. - copy that.;;1
+3876039;;- landing strip, straight ahead. - we're coming in too hot.;;1
+3876041;;- areyou coming, master? - oh, no. i'm not brave enough for politics.;;1
+3876042;;i have to report to the council.;;1
+3876043;;besides, someone needs to be the poster boy.;;1
+3876044;;hold on. this whole operation was your idea.;;1
+3876045;;let us not forget, anakin, that you rescued me from the buzz droids.;;1
+3876046;;and you killed count dooku, and you rescued the chancellor...;;1
+3876047;;carrying me unconscious on your back.;;1
+3876048;;all because of your training.;;1
+3876049;;anakin, let's be fair. today you were the hero...;;1
+3876050;;and you deserve your glorious day with the politicians.;;1
+3876051;;all right. but you owe me one, and not for saving your skin for the 10th time.;;1
+3876052;;ninth time. that business on cato neimoidia doesn't...doesn't count.;;1
+3876053;;i'll see you at the briefing.;;1
+3876054;;chancellor palpatine, are you all right?;;1
+3876055;;yes. thanks to your two jedi knights.;;1
+3876056;;they killed count dooku, but general grievous has escaped once again.;;1
+3876057;;general grievous will run and hide, as he always does. he's a coward.;;1
+3876058;;but with count dooku dead, he is the leader of the droid army.;;1
+3876059;;and i assure you, the senate will vote to continue the war as long as grievous is alive.;;1
+3876060;;then the jedi council will make finding grievous our highest priority.;;1
+3876061;;- watch it. - excuse me.;;1
+3876062;;- come along, r2. - the republic cannot praise you enough.;;1
+3876063;;thank you, senator organa.;;1
+3876064;;well, it couldn't possibly be as bad as all that.;;1
+3876065;;now there i agree with you.;;1
+3876066;;in fact, i could do with a tune-up myself.;;1
+3876067;;but the fighting will continue until general grievous is spare parts.;;1
+3876068;;well, i will do everything i can in the senate.;;1
+3876069;;- excuse me. - certainly.;;1
+3876071;;i've missed you, padmé.;;1
+3876072;;there were whispers that you'd been killed.;;1
+3876074;;it feels like we've been apart for a lifetime.;;1
+3876075;;and it might have been, ifthe chancellor hadn't been kidnapped.;;1
+3876076;;i don't think they would have ever brought us back from the outer rim sieges.;;1
+3876077;;- wait. not here. - yes, here.;;1
+3876078;;i'm...i'm tired of all this deception. i don't care if they know we're married.;;1
+3876079;;anakin, don't say things like that.;;1
+3876080;;areyou all right? you're trembling.;;1
+3876082;;something wonderful has happened.;;1
+3876085;;well, that's won... that's wonderful.;;1
+3876086;;what are we gonna do?;;1
+3876087;;we're not gonna worry about anything right now. all right?;;1
+3876088;;this is a happy moment.;;1
+3876089;;the happiest moment of my life.;;1
+3876092;;i suggest you move the separatist leaders to mustafar.;;1
+3876093;;it will be done, my lord.;;1
+3876094;;the end of the war is near, general.;;1
+3876095;;but the loss ofcount dooku...;;1
+3876096;;his death was a necessary loss.;;1
+3876097;;soon i will have a new apprentice...;;1
+3876098;;one far younger and more powerful.;;1
+3876099;;ani, i want to have our baby back home on naboo.;;1
+3876100;;we can go to the lake country where no one will know...;;1
+3876101;;where we can be safe.;;1
+3876102;;i can go early and fix up the baby's room.;;1
+3876103;;i know the perfect spot. right by the gardens.;;1
+3876104;;you are so... beautiful.;;1
+3876105;;it's only because i'm so in love.;;1
+3876107;;no, it's because i'm so in love with you.;;1
+3876108;;so love has blinded you?;;1
+3876109;;well, that's not exactly what i meant.;;1
+3876110;;but it's probably true.;;1
+3876114;;i remember when i gave this toyou.;;1
+3876115;;how long is it gonna take for us to be honest with each other?;;1
+3876116;;it was a dream.;;1
+3876118;;like the ones i used to have about my mother...;;1
+3876119;;just before she died.;;1
+3876121;;and it was about you.;;1
+3876123;;it was only a dream.;;1
+3876124;;you die in childbirth.;;1
+3876127;;it was only a dream.;;1
+3876128;;i won't let this one become real.;;1
+3876129;;this baby will change our lives.;;1
+3876130;;i doubt the queen will continue to allow me to serve in the senate.;;1
+3876131;;and if the council discovers you're the father, you'll be expelled...;;1
+3876132;;i...i know. i know.;;1
+3876133;;doyou think obi-wan might be able to help us?;;1
+3876134;;we don't need his help.;;1
+3876135;;our baby is a blessing.;;1
+3876138;;they're of pain, suffering.;;1
+3876140;;yourselfyou speak of, or someoneyou know?;;1
+3876144;;careful you must be when sensing the future, anakin.;;1
+3876145;;the fear of loss is a path to the dark side.;;1
+3876146;;i won't let these visions come true, master yoda.;;1
+3876147;;death is a natural part of life.;;1
+3876148;;rejoice for those around you who transform into the force.;;1
+3876149;;mourn them, do not. miss them, do not.;;1
+3876150;;attachment leads to jealousy.;;1
+3876151;;the shadow of greed that is.;;1
+3876152;;what must i do, master yoda?;;1
+3876153;;train yourself to let go...;;1
+3876154;;of everything you fear to lose.;;1
+3876155;;you've missed the report on the outer rim sieges.;;1
+3876156;;i'm sorry. i was held up.;;1
+3876157;;- i have no excuse. - in short, they are going very well.;;1
+3876158;;saleucami has fallen, and master vos has moved his troops to boz pity.;;1
+3876160;;the senate is expected...;;1
+3876161;;to vote more executive powers to the chancellor today.;;1
+3876162;;well, that can only mean less deliberating and more action. is that bad?;;1
+3876163;;it'll make it easier for us to end this war.;;1
+3876164;;be careful of your friend palpatine.;;1
+3876165;;be careful of what?;;1
+3876166;;- he has requested your presence. - what for?;;1
+3876167;;- he would not say. - he didn't inform the council?;;1
+3876168;;- that's unusual, isn't it? - all of this is unusual.;;1
+3876169;;and it's making me feel uneasy.;;1
+3876170;;i hope you trust me, anakin.;;1
+3876172;;i need your help, son.;;1
+3876173;;what do you mean?;;1
+3876174;;- i'm depending on you. - for what? i don't understand.;;1
+3876175;;to be the eyes, ears and voice ofthe republic.;;1
+3876177;;i'm appointing you to be my personal representative on the jedi council.;;1
+3876180;;but the council elects its own members. they'll never accept this.;;1
+3876181;;i think they will. they need you.;;1
+3876182;;more than you know.;;1
+3876183;;allow this appointment lightly the council does not.;;1
+3876184;;disturbing is this move by chancellor palpatine.;;1
+3876186;;you are on this council, but we do not grant you the rank of master.;;1
+3876188;;how can you do this? this is outrageous.;;1
+3876190;;how can you be on the council and not be a master?;;1
+3876191;;take a seat, young skywalker.;;1
+3876193;;we have surveyed all systems in the republic...;;1
+3876194;;but have found no sign of general grievous.;;1
+3876195;;hiding in the outer rim grievous is.;;1
+3876196;;the outlying systems you must sweep.;;1
+3876197;;we do not have many ships to spare.;;1
+3876198;;what about the droid attack on the wookiees?;;1
+3876199;;it is critical we send an attack group there immediately.;;1
+3876200;;he's right. it's a system we cannot afford to lose.;;1
+3876202;;good relations with the wookiees i have.;;1
+3876203;;it's settled then. yoda will take a battalion of clones...;;1
+3876204;;to reinforce the wookiees on kashyyyk.;;1
+3876205;;may the force be with us all.;;1
+3876206;;what kind of nonsense is this?;;1
+3876207;;put me on the council and not make me a master?;;1
+3876208;;it's never been done in the history of the jedi. it's insulting.;;1
+3876209;;oh, calm down, anakin. you have been given a great honor.;;1
+3876210;;to be on the council atyour age... it's never happened before.;;1
+3876211;;the fact of the matter is you are too close to the chancellor.;;1
+3876212;;the council doesn't like it when he interferes in jedi affairs.;;1
+3876213;;- i swear to you, i didn't ask to be put on the council. - but it's what you wanted.;;1
+3876214;;your friendship with chancellor palpatine seems to have paid off.;;1
+3876215;;that has nothing to do with this.;;1
+3876216;;the only reason the council has approved your appointment...;;1
+3876217;;is because the chancellor trusts you.;;1
+3876218;;- and? - anakin, i am on your side.;;1
+3876219;;- i didn't want to putyou in this situation. - what situation?;;1
+3876220;;the council wants you to report on all the chancellor's dealings.;;1
+3876221;;they want to know what he's up to.;;1
+3876222;;they want me to spy on the chancellor?;;1
+3876223;;- but that's treason. - we are at war, anakin.;;1
+3876224;;why didn't the council give me this assignment when we were in session?;;1
+3876225;;this assignment is not to be on record.;;1
+3876226;;the chancellor is not a bad man, obi-wan.;;1
+3876227;;he befriended me. he's watched out for me ever since i arrived here.;;1
+3876228;;that is why you must help us.;;1
+3876229;;anakin, our allegiance is to the senate, not to its leader...;;1
+3876230;;who has managed to stay in office long after his term has expired.;;1
+3876231;;the senate demanded that he stay longer.;;1
+3876232;;yes, but use your feelings, anakin. something is out of place.;;1
+3876233;;you're asking me to do something against the jedi code...;;1
+3876234;;against the republic, against a mentor and a friend.;;1
+3876235;;that's what's out of place here. why are you asking this ofme?;;1
+3876236;;the council is asking you.;;1
+3876237;;anakin did not take to his new assignment with much enthusiasm.;;1
+3876238;;it's very dangerous, putting them together.;;1
+3876239;;i don't think the boy can handle it.;;1
+3876240;;i don't trust him.;;1
+3876241;;with all due respect, master, is he not the chosen one?;;1
+3876242;;is he not to destroy the sith and bring balance to the force?;;1
+3876243;;so the prophecy says.;;1
+3876244;;a prophecy that misread could have been.;;1
+3876245;;he will not let me down.;;1
+3876247;;i hope right you are.;;1
+3876248;;sometimes i wonder what's happening to the jedi order.;;1
+3876249;;i think this war is destroying the principles of the republic.;;1
+3876250;;have you ever considered that we may be on the wrong side?;;1
+3876251;;what do you mean?;;1
+3876252;;what if the democracywe thought we were serving no longer exists...;;1
+3876253;;and the republic has become the very evil we've been fighting to destroy?;;1
+3876254;;i don't believe that.;;1
+3876255;;and you're sounding like a separatist.;;1
+3876256;;this war represents a failure to listen.;;1
+3876257;;nowyou're closer to the chancellor than anyone.;;1
+3876258;;please, ask him to stop the fighting and let diplomacy resume.;;1
+3876259;;don't ask me to do that.;;1
+3876260;;make a motion in the senate, where that kind ofa request belongs.;;1
+3876261;;- what is it? - nothing.;;1
+3876262;;don't do this. don't shut me out. let me help you.;;1
+3876264;;like you did by the lake on naboo.;;1
+3876265;;so long ago, when there was nothing but our love.;;1
+3876266;;no politics, no plotting, nowar.;;1
+3876267;;- you wanted to see me, chancellor. - yes, anakin. come closer.;;1
+3876268;;i have good news.;;1
+3876269;;our clone intelligence units have discovered the location of general grievous.;;1
+3876270;;he's hiding in the utapau system.;;1
+3876272;;we'll be able to capture that monster and end this war.;;1
+3876273;;i would worry about the collective wisdom of the council...;;1
+3876274;;if it didn't select you for this assignment.;;1
+3876275;;you're the best choice, by far.;;1
+3876279;;you know i'm not able to rely on the jedi council.;;1
+3876280;;if they haven't included you in their plot, they soon will.;;1
+3876281;;i'm not sure i understand.;;1
+3876282;;you must sense what i have come to suspect.;;1
+3876283;;the jedi council want control ofthe republic.;;1
+3876284;;they're planning to betray me.;;1
+3876285;;- i don't think that... - anakin.;;1
+3876287;;you know, don't you?;;1
+3876288;;- i know they don't trust you. - hmm. or the senate.;;1
+3876289;;or the republic, or democracy, for that matter.;;1
+3876290;;i have to admit, my trust in them has been shaken.;;1
+3876292;;they asked you to do something...;;1
+3876293;;that made you feel dishonest, didn't they?;;1
+3876294;;they asked you to spy on me, didn't they?;;1
+3876296;;i don't know what to say.;;1
+3876297;;remember back to your early teachings.;;1
+3876298;;all who gain power are afraid to lose it.;;1
+3876299;;- even the jedi. - the jedi use their power for good.;;1
+3876300;;good is a point of view, anakin.;;1
+3876301;;the sith and the jedi are similar in almost everyway...;;1
+3876302;;including their quest for greater power.;;1
+3876303;;the sith rely on their passion for their strength.;;1
+3876304;;they think inwards... only about themselves.;;1
+3876305;;and the jedi don't?;;1
+3876306;;the jedi are selfless. they only care about others.;;1
+3876307;;-=the last fantasy=- proudly presents;;1
+3876308;;did you ever hear the tragedy of darth plagueis the wise?;;1
+3876309;;- no. - i thought not.;;1
+3876310;;it's not a story the jedi would tell you.;;1
+3876311;;it's a sith legend.;;1
+3876313;;was a dark lord of the sith so powerful and so wise...;;1
+3876314;;he could use the force to influence the midi-chlorians...;;1
+3876316;;he had such a knowledge ofthe dark side...;;1
+3876317;;he could even keep the ones he cared about...;;1
+3876319;;he could actually... save people from death?;;1
+3876320;;the dark side of the force is a pathway to many abilities...;;1
+3876321;;some consider to be unnatural.;;1
+3876322;;wh...what happened to him?;;1
+3876323;;he became so powerful...;;1
+3876324;;the only thing he was afraid of was...;;1
+3876326;;which eventually, of course, he did.;;1
+3876327;;unfortunately, he taught his apprentice everything he knew.;;1
+3876328;;then his apprentice killed him in his sleep.;;1
+3876330;;he could save others from death...;;1
+3876332;;is it possible to learn this power?;;1
+3876333;;not from a jedi.;;1
+3876335;;palpatine thinks general grievous is on utapau?;;1
+3876336;;a partial message was intercepted in a diplomatic packet...;;1
+3876337;;- from the chairman of utapau. - hmm.;;1
+3876338;;act on this we must.;;1
+3876339;;the capture of general grievous will end this war.;;1
+3876340;;quickly and decisively we should proceed.;;1
+3876341;;the chancellor has requested... that i lead the campaign.;;1
+3876342;;the council will make up its own mind who is to go...;;1
+3876344;;a master is needed, with more experience.;;1
+3876345;;i concur. master kenobi should go.;;1
+3876346;;- i agree. - aye.;;1
+3876349;;the droids have started up their main power generators.;;1
+3876350;;- then now the time is, commander. - yes, sir.;;1
+3876353;;- you're gonna need me on this one, master. - oh, i agree.;;1
+3876354;;- however, it may turn out just to be a wild bantha chase. - master.;;1
+3876355;;i've disappointed you. uh, i haven't been very appreciative ofyour training.;;1
+3876356;;i've been arrogant, and i apologize.;;1
+3876357;;i've just been so frustrated with the council.;;1
+3876358;;you are strong and wise, anakin, and i am very proud of you.;;1
+3876359;;i have trained you since you were a small boy.;;1
+3876360;;i have taught you everything i know.;;1
+3876361;;and you have become a far greater jedi than i could ever hope to be.;;1
+3876362;;but be patient, anakin.;;1
+3876363;;it will not be long before the council makes you a jedi master.;;1
+3876364;;obi-wan. may the force be with you.;;1
+3876365;;good-bye, old friend. may the force be with you.;;1
+3876366;;fortunately, most of the cities are concentrated on this small continent here.;;1
+3876367;;- on the far side. - i'll keep them distracted until you get there.;;1
+3876368;;- just don't take too long. - come on. when have i ever let you down?;;1
+3876370;;the burden is on me not to destroy all the droids until you arrive.;;1
+3876373;;don't give up, padmé.;;1
+3876374;;obi-wan's been here, hasn't he?;;1
+3876375;;he came by this morning.;;1
+3876376;;what did he want?;;1
+3876377;;he's worried about you.;;1
+3876378;;he says you've been under a lot of stress.;;1
+3876380;;lost? what do you mean?;;1
+3876381;;obi-wan and the council don't trust me.;;1
+3876382;;they trustyou with their lives.;;1
+3876384;;i'm not the jedi i should be.;;1
+3876386;;and i know i shouldn't.;;1
+3876387;;you expect too much of yourself.;;1
+3876388;;- i found a way to save you. - save me?;;1
+3876390;;is that what's bothering you?;;1
+3876391;;i won't lose you, padmé.;;1
+3876392;;i'm not gonna die in childbirth, ani.;;1
+3876393;;i promise you. no, i promise you.;;1
+3876395;;what brings you to our remote sanctuary?;;1
+3876397;;there's no war here... unless you brought it with you.;;1
+3876398;;with your kind permission, i should like some fuel...;;1
+3876399;;and to use your city as a base as i search nearby systems for general grievous.;;1
+3876400;;he is here. we are being held hostage.;;1
+3876401;;- they are watching us. - i understand.;;1
+3876402;;tenth level, thousands of battle droids.;;1
+3876403;;tell your people to take shelter.;;1
+3876404;;if you have warriors, now is the time.;;1
+3876405;;take the fighter back to the ship. tell cody i've made contact.;;1
+3876406;;- is he bringing additional warriors? - he didn't say.;;1
+3876407;;it won't be long before the armies of the republic track us here.;;1
+3876408;;i am sending you to the mustafar system in the outerrim.;;1
+3876409;;it is a volcanic planet.;;1
+3876410;;- you will be safe there. - safe?;;1
+3876411;;hmph! chancellor palpatine managed to escape your grip, general.;;1
+3876412;;without count dooku, i have doubts about your ability to keep us safe.;;1
+3876414;;you have not found yourself in my grip.;;1
+3876415;;your ship is waiting.;;1
+3876418;;you are a bold one.;;1
+3876421;;i will deal with this jedi slime myself.;;1
+3876424;;i've been trained in your jedi arts by count dooku.;;1
+3876427;;you must realize you are doomed.;;1
+3876428;;oh, i don't think so.;;1
+3876432;;master windu, may i interrupt?;;1
+3876433;;general kenobi has made contact with general grievous...;;1
+3876434;;and we have begun our attack.;;1
+3876436;;anakin, deliver this report to the chancellor.;;1
+3876437;;his reaction will give us a clue to his intentions.;;1
+3876439;;i sense a plot to destroy the jedi.;;1
+3876440;;the dark side of the force surrounds the chancellor.;;1
+3876441;;if he does not give up his emergency powers after the destruction of grievous...;;1
+3876442;;then he should be removed from office.;;1
+3876443;;the jedi council would have to take control of the senate...;;1
+3876444;;in order to secure a peaceful transition.;;1
+3876445;;to a dark place this line of thought will carry us.;;1
+3876446;;hmm. great care we must take.;;1
+3876448;;we've just received a report from master kenobi.;;1
+3876449;;he has engaged general grievous.;;1
+3876450;;we can only hope that master kenobi is up to the challenge.;;1
+3876451;;i should be there with him.;;1
+3876452;;it's upsetting to me to see that the council...;;1
+3876453;;doesn't seem to fully appreciate your talents.;;1
+3876454;;don't you wonder why they won't make you a jedi master?;;1
+3876455;;i wish i knew.;;1
+3876456;;more and more i get the feeling that...;;1
+3876457;;i'm being excluded from the council.;;1
+3876458;;i know there are things about the force that they're not telling me.;;1
+3876459;;they don't trust you, anakin.;;1
+3876460;;they see your future.;;1
+3876461;;they know your power will be too strong to control.;;1
+3876462;;you must break through the fog of lies the jedi have created around you.;;1
+3876463;;let me help you to know the subtleties of the force.;;1
+3876464;;how do you know the ways ofthe force?;;1
+3876465;;my mentor taught me everything about the force.;;1
+3876466;;even the nature of the dark side.;;1
+3876467;;you know the dark side?;;1
+3876469;;if one is to understand the great mystery...;;1
+3876470;;one must study all its aspects...;;1
+3876471;;not just the dogmatic narrow view ofthejedi.;;1
+3876472;;if you wish to become a complete and wise leader...;;1
+3876473;;you must embrace a larger view of the force.;;1
+3876474;;be careful of the jedi, anakin.;;1
+3876476;;can you achieve a power greater than any jedi.;;1
+3876477;;learn to know the dark side of the force...;;1
+3876478;;and you will be able to save yourwife...;;1
+3876480;;what did you say?;;1
+3876481;;use my knowledge. i beg you.;;1
+3876482;;you're the sith lord.;;1
+3876483;;i know what's been troubling you. listen to me.;;1
+3876484;;don't continue to be a pawn of the jedi council.;;1
+3876485;;ever since i've known you, you've been searching for a life...;;1
+3876486;;greater than that ofan ordinary jedi.;;1
+3876487;;a life of significance...;;1
+3876489;;- areyou going to kill me? - i would certainly like to.;;1
+3876490;;i know you would.;;1
+3876491;;i can feel your anger.;;1
+3876492;;it gives you focus...;;1
+3876494;;- i'm going to turn you over to the jedi council. - of course. you should.;;1
+3876495;;but you're not sure of their intentions, areyou?;;1
+3876496;;i will quickly discover the truth of all this.;;1
+3876497;;you have great wisdom, anakin.;;1
+3876498;;know the power of the dark side.;;1
+3876499;;power to save padmé.;;1
+3876502;;master windu, i must talk to you.;;1
+3876503;;skywalker, we just received word that obi-wan has destroyed general grievous.;;1
+3876504;;we're on our way to make sure the chancellor returns emergency power back to the senate.;;1
+3876505;;he won't give up his power. i've just learned a terrible truth.;;1
+3876506;;i think chancellor palpatine is a sith lord.;;1
+3876508;;yes. the one we've been looking for.;;1
+3876509;;- how do you know this? - he knows the ways of the force.;;1
+3876510;;he's been trained to use the dark side.;;1
+3876511;;- are you sure? - absolutely.;;1
+3876512;;then our worst fears have been realized.;;1
+3876513;;we must move quickly if the jedi order is to survive.;;1
+3876514;;master, the chancellor is very powerful.;;1
+3876515;;you'll need my help if you're going to arrest him.;;1
+3876516;;for you own good, stay out ofthis affair.;;1
+3876517;;i sense a great deal of confusion in you, young skywalker.;;1
+3876518;;there is much fear that clouds your judgment.;;1
+3876519;;- i must go, master. - no.;;1
+3876520;;if what you've told me is true...;;1
+3876521;;you will have gained my trust.;;1
+3876522;;but for now, remain here.;;1
+3876523;;wait in the council chambers until we return.;;1
+3876525;;you do know, don't you...;;1
+3876526;;if the jedi destroy me...;;1
+3876527;;any chance of saving her will be lost.;;1
+3876528;;master windu. i take it general grievous has been destroyed then.;;1
+3876529;;i must say you're here sooner than expected.;;1
+3876530;;in the name of the galactic senate of the republic...;;1
+3876531;;you're under arrest, chancellor.;;1
+3876532;;are you threatening me, master jedi?;;1
+3876533;;the senate will decide your fate.;;1
+3876534;;- i am the senate. - not yet.;;1
+3876536;;you are under arrest, my lord.;;1
+3876537;;anakin, i told you it would come to this.;;1
+3876539;;the jedi are taking over.;;1
+3876540;;the oppression of the sith will never return.;;1
+3876543;;no. no. you will die!;;1
+3876545;;he is the traitor!;;1
+3876546;;i have the power to save the one you love.;;1
+3876548;;don't listen to him, anakin!;;1
+3876549;;don't let him kill me.;;1
+3876550;;i can't hold it any longer.;;1
+3876551;;i...i...i...i can't. i...i...i'm weak.;;1
+3876554;;help me. help me!;;1
+3876555;;i...i...i can't hold on any longer.;;1
+3876556;;i am going to end this once and for all.;;1
+3876558;;he must stand trial.;;1
+3876559;;he has control of the senate and the courts.;;1
+3876560;;he's too dangerous to be left alive.;;1
+3876561;;i'm too weak. oh. don't kill me. please.;;1
+3876562;;it's not the jedi way.;;1
+3876566;;- please don't! - no!;;1
+3876569;;what have i done?;;1
+3876570;;you're fulfilling your destiny, anakin.;;1
+3876572;;learn to use the dark side of the force.;;1
+3876573;;i will do whatever you ask.;;1
+3876575;;just help me save padmé's life.;;1
+3876576;;i can't live without her.;;1
+3876577;;to cheat death is a power only one has achieved...;;1
+3876578;;but if we work together...;;1
+3876579;;i know we can discover the secret.;;1
+3876584;;the force is strong with you.;;1
+3876585;;a powerful sith you will become.;;1
+3876586;;henceforth you shall be known as...;;1
+3876591;;because the council did not trust you, my young apprentice...;;1
+3876592;;i believe you are the only jedi with no knowledge of this plot.;;1
+3876593;;when the jedi learn what has transpired here...;;1
+3876594;;they will kill us...;;1
+3876595;;along with all the senators.;;1
+3876597;;the council's next move willbe against the senate.;;1
+3876599;;including your friend obi-wan kenobi...;;1
+3876600;;is now an enemy of the republic.;;1
+3876602;;we must move quickly.;;1
+3876603;;the jedi are relentless.;;1
+3876604;;if they are not all destroyed, it will be civil war without end.;;1
+3876605;;first i want you to go to the jedi temple.;;1
+3876606;;we will catch them off-balance.;;1
+3876607;;do what must be done, lord vader.;;1
+3876608;;do not hesitate. show no mercy.;;1
+3876609;;only then will you be strong enough with the dark side...;;1
+3876611;;what about the other jedi spread across the galaxy?;;1
+3876612;;their betrayal will be dealt with.;;1
+3876613;;afteryou have killed all the jedi in the temple...;;1
+3876614;;go to the mustafar system.;;1
+3876615;;wipe out viceroy gunray...;;1
+3876616;;and the other separatist leaders.;;1
+3876617;;once more the sith will rule the galaxy!;;1
+3876619;;we shall have... peace.;;1
+3876622;;all red units, let's move it!;;1
+3876623;;come on. let's go!;;1
+3876624;;commander, contact your troops.;;1
+3876625;;tell them to move to the higher levels.;;1
+3876627;;oh, by the way, i think you'll be needing this.;;1
+3876628;;thank you, cody. now let's get a move on. we've got a battle to win here.;;1
+3876629;;- hyah! - yes, sir.;;1
+3876631;;the time has come.;;1
+3876637;;it will be done, my lord.;;1
+3876638;;it will be done, my lord.;;1
+3876639;;master skywalker, there are too many of them.;;1
+3876640;;what are we going to do?;;1
+3876641;;the chancellor's office indicated master anakin returned to the jedi temple.;;1
+3876642;;don't worry. i... i'm sure he'll be all right.;;1
+3876643;;- what's going on here? - there's been a rebellion, sir.;;1
+3876644;;don't worry. the situation is under control.;;1
+3876645;;i'm sorry, sir. it's time for you to leave.;;1
+3876646;;and so it is.;;1
+3876649;;don't worry about him. let him go.;;1
+3876650;;all these wookiees are dead. move to the east.;;1
+3876654;;miss you i will.;;1
+3876655;;hopefully we'll be able to intercept a fewjedi...;;1
+3876656;;before they walk into this catastrophe.;;1
+3876658;;sir, no one could have survived that fall.;;1
+3876659;;start loading your men on the ships.;;1
+3876661;;emergency code 91 3.;;1
+3876662;;i have no contact on any frequency.;;1
+3876664;;- repeat. - master kenobi.;;1
+3876665;;senator organa. my clone troops turned on me. i need help.;;1
+3876666;;we have just rescued master yoda.;;1
+3876667;;it appears this ambush has happened everywhere.;;1
+3876668;;we're sending you our coordinates.;;1
+3876669;;hush! not so loud.;;1
+3876670;;are you all right? i heard there was an attack on the jedi temple.;;1
+3876671;;- you could see the smoke from here. - i'm fine. i'm fine.;;1
+3876672;;- i came to see if you and the baby are safe. - what's happening?;;1
+3876673;;the jedi have tried to overthrow the republic.;;1
+3876674;;i can't believe that.;;1
+3876675;;i saw master windu attempt to assassinate the chancellor myself.;;1
+3876676;;oh, anakin. what are you gonna do?;;1
+3876677;;i will not betray the republic.;;1
+3876678;;my loyalties lie with the chancellor...;;1
+3876679;;and with the senate and with you.;;1
+3876682;;many jedi have been killed.;;1
+3876683;;we can only hope that he's remained loyal to the chancellor.;;1
+3876685;;have faith, my love.;;1
+3876686;;everything will soon be set right.;;1
+3876687;;the chancellor has given me a very important mission.;;1
+3876688;;the separatists have gathered on the mustafar system.;;1
+3876689;;i'm going there to end this war.;;1
+3876690;;wait for me until i return.;;1
+3876691;;things will be different. i promise.;;1
+3876692;;-=the last fantasy=- proudly presents;;1
+3876693;;please, wait for me.;;1
+3876694;;well, he is under a lot ofstress, r2.;;1
+3876695;;take care, my little friend.;;1
+3876696;;oh, my lady, is there anything i might do?;;1
+3876697;;no, thank you, 3po.;;1
+3876698;;oh. i... i feel so helpless.;;1
+3876699;;how many other jedi have managed to survive?;;1
+3876700;;heard from no one have we.;;1
+3876701;;i saw thousands of troops attack the jedi temple.;;1
+3876702;;that's why i went looking for yoda.;;1
+3876703;;have we had any contact from the temple?;;1
+3876704;;received a coded retreat message we have.;;1
+3876705;;it requests all jedi to return to the temple.;;1
+3876706;;- it says the war is over. - well, then we must go back.;;1
+3876707;;if there are any stragglers, they will fall into the trap and be killed.;;1
+3876708;;hmm. suggest dismantling the coded signal, doyou?;;1
+3876709;;yes, master. there is too much at stake.;;1
+3876711;;and a little more knowledge might light ourway.;;1
+3876712;;the plan has gone as you had promised, my lord.;;1
+3876713;;you have done well, viceroy.;;1
+3876714;;when my new apprentice darth vader arrives...;;1
+3876715;;he will take care of you.;;1
+3876716;;we're receiving a message from the chancellor's office, sir.;;1
+3876717;;- send it through. - yes, sir.;;1
+3876718;;senator organa, the supreme chancellor requests your presence...;;1
+3876719;;at a special session of congress.;;1
+3876720;;- i will be there. - he'll be expecting you.;;1
+3876721;;- could be a trap. - i don't think so.;;1
+3876722;;the chancellor will not be able to control the thousands of star systems...;;1
+3876723;;without keeping the senate intact.;;1
+3876724;;ifa special session of congress there is...;;1
+3876725;;easier for us to enter the jedi temple it will be.;;1
+3876726;;r2, stay with the ship.;;1
+3876727;;welcome, lord vader. we've been expecting you.;;1
+3876728;;and the jedi rebellion has been foiled.;;1
+3876729;;- what's happened? - the chancellor's been elaborating...;;1
+3876730;;on a plot by the jedi to overthrow the senate.;;1
+3876731;;the remaining jedi will be hunted down and defeated.;;1
+3876732;;not even the younglings survived.;;1
+3876733;;killed not by clones...;;1
+3876735;;by a lightsaber he was.;;1
+3876736;;who? who could have done this?;;1
+3876737;;the attempt on my life...;;1
+3876738;;has left me scarred...;;1
+3876740;;but i assure you.;;1
+3876741;;my resolve has never been stronger!;;1
+3876743;;in order to ensure the security...;;1
+3876745;;the republic will be reorganized...;;1
+3876746;;into the first galactic empire!;;1
+3876749;;so this is how liberty dies.;;1
+3876751;;the war is over.;;1
+3876752;;lord sidious promised us peace. we onlywant...;;1
+3876753;;i have recalibrated the code, warning all surviving jedi to stay away.;;1
+3876755;;to discover the recalibration a long time it will take.;;1
+3876757;;there is something i must know.;;1
+3876758;;if into the security recordings you go...;;1
+3876759;;only pain will you find.;;1
+3876760;;i must know the truth, master.;;1
+3876763;;you have done well, my new apprentice.;;1
+3876765;;go and bring peace to the empire.;;1
+3876766;;i can't watch any more.;;1
+3876767;;destroy the sith we must.;;1
+3876768;;send me to kill the emperor.;;1
+3876769;;i will not kill anakin.;;1
+3876770;;to fight this lord sidious, strong enough you are not.;;1
+3876771;;he is like my brother. i cannot do it.;;1
+3876772;;twisted by the dark side young skywalker has become.;;1
+3876773;;the boy you trained, gone he is.;;1
+3876774;;consumed by darth vader.;;1
+3876775;;i do not know where the emperor has sent him.;;1
+3876776;;i don't know where to look.;;1
+3876777;;use your feelings, obi-wan, and find him you will.;;1
+3876778;;when was the last time you saw him?;;1
+3876779;;- yesterday. - and do you know where he is now?;;1
+3876781;;padmé, i need your help.;;1
+3876782;;- he is in grave danger. - from the sith?;;1
+3876785;;anakin has turned to the dark side.;;1
+3876786;;you're wrong. how could you even say that?;;1
+3876787;;i have seen a... a security hologram...;;1
+3876790;;not anakin. he couldn't.;;1
+3876791;;he was deceived by a lie. we all were.;;1
+3876792;;it appears that the chancellor is behind everything, including the war.;;1
+3876793;;palpatine is the sith lord we've been looking for.;;1
+3876794;;after the death of count dooku, anakin became his new apprentice.;;1
+3876795;;i don't believe you.;;1
+3876798;;i must find him.;;1
+3876799;;you're going to kill him, aren't you?;;1
+3876800;;he has become a very great threat.;;1
+3876802;;anakin is the father, isn't he?;;1
+3876804;;milady, let me come with you.;;1
+3876805;;there's no danger. the fighting's over. and this is personal.;;1
+3876806;;as you wish, milady, but i strongly disagree.;;1
+3876807;;i'll be all right, captain. this is something i must do myself.;;1
+3876808;;besides, 3po will look after me.;;1
+3876811;;i think i'm beginning to get the hang of this flying business. hmm.;;1
+3876812;;the separatists have been taken care of, my master.;;1
+3876813;;it is finished then.;;1
+3876814;;you have restored peace and justice to the galaxy.;;1
+3876815;;send a message to the ships ofthe trade federation.;;1
+3876816;;all droid units must shut down immediately.;;1
+3876817;;very good, my lord.;;1
+3876818;;i saw your ship.;;1
+3876819;;- what are you doing out here? - i was so worried about you.;;1
+3876820;;obi-wan told me terrible things.;;1
+3876822;;he said you've turned to the dark side.;;1
+3876825;;obi-wan is trying to turn you against me.;;1
+3876826;;- he cares about us. - us?;;1
+3876828;;he wants to helpyou.;;1
+3876829;;anakin, all i want is your love.;;1
+3876830;;love won't saveyou, padmé.;;1
+3876831;;- only my new powers can do that. - at what cost?;;1
+3876832;;you're a good person. don't do this.;;1
+3876833;;i won't loseyou the way i lost my mother.;;1
+3876834;;i am becoming more powerful than any jedi has ever dreamed of.;;1
+3876835;;and i'm doing it for you. to protect you.;;1
+3876836;;come away with me.;;1
+3876837;;help me raise our child.;;1
+3876838;;- leave everything else behind while we still can. - don't you see?;;1
+3876839;;we don't have to run away anymore.;;1
+3876840;;i have brought peace to the republic.;;1
+3876841;;i am more powerful than the chancellor.;;1
+3876842;;i...i can overthrow him.;;1
+3876843;;and together, you and i can rule the galaxy...;;1
+3876844;;make things the way we want them to be.;;1
+3876845;;i don't believe what i'm hearing.;;1
+3876846;;obi-wan was right. you've changed.;;1
+3876847;;i don't want to hear any more about obi-wan.;;1
+3876848;;the jedi turned against me. don't you turn against me.;;1
+3876849;;i don't know you anymore.;;1
+3876851;;you're breaking my heart.;;1
+3876852;;you're going down a path i can't follow.;;1
+3876854;;because of what you've done.;;1
+3876855;;what you plan to do.;;1
+3876856;;stop. stop now. come back.;;1
+3876857;;- i love you. - liar!;;1
+3876859;;you're with him! you brought him here to kill me.;;1
+3876860;;- no. - let her go, anakin.;;1
+3876863;;you turned her against me!;;1
+3876864;;you have done that yourself.;;1
+3876865;;you will not take her from me!;;1
+3876866;;your anger and your lust for power have already done that.;;1
+3876867;;you have allowed this dark lord to twist your mind, until now-;;1
+3876868;;until now you have become the very thing you swore to destroy.;;1
+3876869;;don't lecture me, obi-wan.;;1
+3876870;;i see through the lies of the jedi.;;1
+3876871;;i do not fear the dark side as you do.;;1
+3876872;;i have brought peace...;;1
+3876874;;and security to my new empire.;;1
+3876876;;don't make me kill you.;;1
+3876877;;anakin, my allegiance is to the republic, to democracy!;;1
+3876878;;if you're not with me...;;1
+3876879;;then you're my enemy.;;1
+3876880;;only a sith deals in absolutes.;;1
+3876881;;i will do what i must.;;1
+3876883;;i hear a new apprentice you have, emperor.;;1
+3876884;;or should i call you darth sidious?;;1
+3876888;;your arrogance blinds you, masteryoda.;;1
+3876890;;the full power of the dark side.;;1
+3876891;;i have waited a long time...;;1
+3876893;;my little green friend.;;1
+3876894;;at last the jedi are no more.;;1
+3876895;;not if anything to say about it i have.;;1
+3876897;;at an end your rule is.;;1
+3876898;;and not short enough it was.;;1
+3876899;;if so powerful you are...;;1
+3876901;;you will not stop me.;;1
+3876902;;darth vaderwill become more powerful than either of us.;;1
+3876903;;faith in your new apprentice misplaced may be.;;1
+3876904;;as is your faith in the dark side ofthe force.;;1
+3876905;;hurry. careful timing we will need.;;1
+3876906;;activate your homing beacon when you're ready.;;1
+3876907;;there's no sign of his body, sir.;;1
+3876908;;- then he is not dead. - double your search.;;1
+3876909;;yes, sir. right away, sir.;;1
+3876910;;tell captain kagi to prepare my shuttle for immediate takeoff.;;1
+3876911;;- yes, master. - i sense lord vader is in danger.;;1
+3876912;;into exile i must go.;;1
+3876914;;i have failed you, anakin.;;1
+3876915;;i have failed you.;;1
+3876916;;i should have known the jedi were plotting to take over.;;1
+3876917;;anakin, chancellor palpatine is evil!;;1
+3876918;;from my point of view, the jedi are evil.;;1
+3876919;;well, then you are lost!;;1
+3876920;;this is the end for you, my master.;;1
+3876921;;it's over, anakin. i have the high ground.;;1
+3876922;;you underestimate my power.;;1
+3876924;;you were the chosen one!;;1
+3876925;;it was said that you would destroy the sith, not join them!;;1
+3876926;;bring balance to the force...;;1
+3876927;;not leave it in darkness!;;1
+3876929;;you were my brother, anakin.;;1
+3876932;;um, we have miss padmé on board.;;1
+3876933;;yes. please, please hurry.;;1
+3876934;;we should leave this dreadful place.;;1
+3876936;;is anakin all right?;;1
+3876937;;your majesty, this way.;;1
+3876940;;get a medical capsule immediately.;;1
+3876941;;yes, sir. right away.;;1
+3876942;;excuse me, master yoda.;;1
+3876943;;obi-wan kenobi has made contact.;;1
+3876944;;we'll take her to the medical center. quickly.;;1
+3876945;;medically, she's completely healthy.;;1
+3876946;;for reasons we can't explain, we are losing her.;;1
+3876947;;- she's dying? - we don't know why.;;1
+3876948;;she has lost the will to live.;;1
+3876949;;we need to operate quickly if we are to save the babies.;;1
+3876957;;- it's a girl. - leia.;;1
+3876959;;there's good in him.;;1
+3876964;;can you hear me?;;1
+3876968;;is she all right?;;1
+3876969;;it seems, in your anger, you killed her.;;1
+3876970;;i? i couldn't have.;;1
+3876971;;she was alive. i felt it!;;1
+3876973;;hidden, safe the children must be kept.;;1
+3876974;;we must take them somewhere where the sith will not sense their presence.;;1
+3876975;;hmm. split up they should be.;;1
+3876976;;my wife and i will take the girl.;;1
+3876977;;we've always talked of adopting a baby girl.;;1
+3876978;;she will be loved with us.;;1
+3876979;;and what of the boy?;;1
+3876980;;to tatooine. to his family send him.;;1
+3876981;;i will take the child and watch over him.;;1
+3876982;;until the time is right, disappear we will.;;1
+3876983;;master kenobi, wait a moment.;;1
+3876984;;in your solitude on tatooine, training i have foryou.;;1
+3876986;;an old friend has learned the path to immortality.;;1
+3876987;;one who has returned from the netherworld of the force.;;1
+3876990;;how to commune with him i will teach you.;;1
+3876991;;- captain antilles. - yes, your highness?;;1
+3876992;;i'm placing these droids in your care.;;1
+3876993;;treat them well. clean them up.;;1
+3876994;;have the protocol droid's mind wiped.;;1
