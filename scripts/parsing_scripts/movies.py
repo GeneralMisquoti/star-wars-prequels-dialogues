@@ -1,6 +1,7 @@
 from enum import Enum
 from typing import List, Set, Dict, Union
 import re
+
 from character import Character
 
 names = ["phantom_menace", "attack_of_the_clones", "revenge_of_the_sith"]
@@ -53,12 +54,15 @@ class MovieData:
 		and yet still be a distinct character
 	"""
 
+	default_blacklist_substrings = ['INT. ', 'EXT. ', '- DAY', '- NIGHT']
+	default_ignored = ['TOWARD CAMERA', 'PAN DOWN', 'PAN', "EPISODE 1 THE PHANTOM MENACE", "PAST CAMERA"]
+
 	def __init__(
 			self,
 			character_pattern: re.Pattern = '',
 			quote_pattern: re.Pattern = '',
 			ignored: List[str] = (),
-			blacklist_substrings=('INT. ', 'EXT. ', '- DAY', '- NIGHT'),
+			blacklist_substrings=default_blacklist_substrings,
 			mappings: Dict[str, str] = dict(),
 			short_characters: Set[str] = set()
 	):
@@ -68,6 +72,12 @@ class MovieData:
 		self.blacklist_substrings = blacklist_substrings
 		self.mappings = mappings
 		self.short_characters = short_characters
+
+	def set_ignored_with_defaults(self, new):
+		self.ignored = new + self.default_ignored
+
+	def set_blacklist_with_defaults(self, new):
+		self.blacklist_substrings = new + self.default_blacklist_substrings
 
 	def filter(self, character: Union[Character, str]) -> bool:
 		if isinstance(character, Character):
@@ -103,13 +113,20 @@ class Movie:
 		data = MovieData()
 		if self.which == WhichMovie.PHANTOM_MENACE:
 			data.quote_pattern = re.compile(r'^([A-Z\-\s0-9\.]+)\s*:\s*(.*$)')
-			data.character_pattern = re.compile(r'([A-Z0-9][A-Z0-9 \-\.]*[A-Z0-9])')
-			data.ignored = ['TITLE CARD', 'A R', 'V.O', 'O.S', 'DROID SARGEANT', 'EXPLOSION', 'EIRTAE', 'PROTOCOL DROID',
+			data.character_pattern = re.compile(r'([A-Z0-9][A-Z0-9 \-\.\']*[A-Z0-9])')
+			data.set_ignored_with_defaults(['TITLE CARD', 'A R', 'V.O', 'O.S', 'DROID SARGEANT', 'EXPLOSION', 'EIRTAE', 'PROTOCOL DROID',
 							'SANDO AQUA MONSTER', 'JAR', 'WHEN YOUSA TINK WESA IN TROUBLE', '327 N', '523 A', '000 R',
-							'BATTLE DROIDS', 'WHEEL DROIDS', 'SECOND QUEEN']
+							'BATTLE DROIDS', 'WHEEL DROIDS', 'SECOND QUEEN'])
 			data.mappings = {
 				'DOFINE': 'CAPTAIN DAULTRAY DOFINE',
-				'PALPATINE': 'SUPREME CHANCELLOR PALPATINE'
+				'PALPATINE': 'SUPREME CHANCELLOR PALPATINE',
+				'QUI-GON': 'QUI-GON JINN',
+				'OBI-WAN': 'OBI-WAN KENOBI',
+				'AMIDALA': 'PADMÉ NABERRIE AMIDALA',
+				'PADME': 'PADMÉ NABERRIE AMIDALA',
+				'ANAKIN': 'ANAKIN SKYWALKER',
+				'PANAKA': 'CAPTAIN PANAKA',
+				'TARPALS': 'CAPTAIN TARPALS'
 			}
 			data.short_characters = {"A", "B"}
 		elif self.which == WhichMovie.ATTACK_OF_THE_CLONES:

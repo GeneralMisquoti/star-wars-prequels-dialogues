@@ -20,7 +20,7 @@ class Quote:
 		return cls(text, quote, character)
 
 	def __repr__(self):
-		return f'<"{self.quote}" author="{self.character}">'
+		return f'<{self.character}: {self.quote if len(self.quote) < 20 else f"{self.quote[:20]}..."}>'
 
 
 class SerializeQuote:
