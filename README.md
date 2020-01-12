@@ -11,3 +11,6 @@
 
 2. ISDB
 - character speaking
+
+3. starwars.fandom.com
+- based on ISDB data get link to character 

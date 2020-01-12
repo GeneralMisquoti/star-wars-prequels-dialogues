@@ -13,7 +13,7 @@ if not parsed_scripts.exists() or not parsed_scripts.is_dir():
 
 class MyEncoder(JSONEncoder):
     def default(self, o):
-        return o.__dict__
+        return {k: v for k, v in o.__dict__.items() if k[0] != '_'}
 
 
 def save_quotes(movie: WhichMovie, characters, quotes: List[SerializeQuote]):

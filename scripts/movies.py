@@ -1,13 +1,16 @@
 from enum import Enum
 from typing import List, Set, Dict, Union
 import re
+import movie_data
 
 from character import Character
+from quote import QuoteCleanPattern
 
 names = ["phantom_menace", "attack_of_the_clones", "revenge_of_the_sith"]
 
 
 class WhichMovie(Enum):
+	NA = -1
 	PHANTOM_MENACE = 0
 	ATTACK_OF_THE_CLONES = 1
 	REVENGE_OF_THE_SITH = 2
@@ -54,17 +57,16 @@ class MovieData:
 		and yet still be a distinct character
 	"""
 
-	default_blacklist_substrings = ['INT. ', 'EXT. ', '- DAY', '- NIGHT']
-	default_ignored = ['TOWARD CAMERA', 'PAN DOWN', 'PAN', "EPISODE 1 THE PHANTOM MENACE", "PAST CAMERA"]
-
 	def __init__(
 			self,
-			character_pattern: re.Pattern = '',
-			quote_pattern: re.Pattern = '',
-			ignored: List[str] = (),
-			blacklist_substrings=default_blacklist_substrings,
+			character_pattern: re.Pattern,
+			quote_pattern: re.Pattern,
+			ignored: List[str],
+			blacklist_substrings,
 			mappings: Dict[str, str] = dict(),
-			short_characters: Set[str] = set()
+			short_characters: Set[str] = set(),
+			quote_clean_patterns: List[QuoteCleanPattern] = [],
+			which=WhichMovie.NA
 	):
 		self.character_pattern = character_pattern
 		self.quote_pattern = quote_pattern
@@ -72,12 +74,8 @@ class MovieData:
 		self.blacklist_substrings = blacklist_substrings
 		self.mappings = mappings
 		self.short_characters = short_characters
-
-	def set_ignored_with_defaults(self, new):
-		self.ignored = new + self.default_ignored
-
-	def set_blacklist_with_defaults(self, new):
-		self.blacklist_substrings = new + self.default_blacklist_substrings
+		self.which = which
+		self.quote_clean_patterns = quote_clean_patterns
 
 	def filter(self, character: Union[Character, str]) -> bool:
 		if isinstance(character, Character):
@@ -96,6 +94,28 @@ class MovieData:
 		assert self.quote_pattern != ""
 		assert self.ignored != ()
 
+	def __repr__(self):
+		return f'<MovieData for="{self.which}">'
+
+
+def load_data(which: WhichMovie) -> MovieData:
+	try:
+		movie = [movie_data.phantom_menace, movie_data.attack_of_the_clones, movie_data.revenge_of_the_sith][
+			which.value]
+	except IndexError as e:
+		raise NotAPrequel(str(e))
+	data = MovieData(
+		movie.character_pattern,
+		movie.quote_pattern,
+		ignored=movie.ignored,
+		blacklist_substrings=movie.blacklist,
+		mappings=movie.mappings,
+		which=which,
+		quote_clean_patterns=movie.quote_clean_patterns
+	)
+
+	return data
+
 
 class Movie:
 	def __init__(self, name: str):
@@ -103,40 +123,14 @@ class Movie:
 			raise NotAPrequel
 		self.name: str = name
 		self.which: WhichMovie = name_dict[name]
-		self.data: MovieData = self.create_data()
+		self.data: MovieData = load_data(self.which)
 
 	def assert_ready(self):
 		assert self.data
 		self.data.assert_ready()
 
-	def create_data(self):
-		data = MovieData()
-		if self.which == WhichMovie.PHANTOM_MENACE:
-			data.quote_pattern = re.compile(r'^([A-Z\-\s0-9\.]+)\s*:\s*(.*$)')
-			data.character_pattern = re.compile(r'([A-Z0-9][A-Z0-9 \-\.\']*[A-Z0-9])')
-			data.set_ignored_with_defaults(['TITLE CARD', 'A R', 'V.O', 'O.S', 'DROID SARGEANT', 'EXPLOSION', 'EIRTAE', 'PROTOCOL DROID',
-							'SANDO AQUA MONSTER', 'JAR', 'WHEN YOUSA TINK WESA IN TROUBLE', '327 N', '523 A', '000 R',
-							'BATTLE DROIDS', 'WHEEL DROIDS', 'SECOND QUEEN'])
-			data.mappings = {
-				'DOFINE': 'CAPTAIN DAULTRAY DOFINE',
-				'PALPATINE': 'SUPREME CHANCELLOR PALPATINE',
-				'QUI-GON': 'QUI-GON JINN',
-				'OBI-WAN': 'OBI-WAN KENOBI',
-				'AMIDALA': 'PADMÉ NABERRIE AMIDALA',
-				'PADME': 'PADMÉ NABERRIE AMIDALA',
-				'ANAKIN': 'ANAKIN SKYWALKER',
-				'PANAKA': 'CAPTAIN PANAKA',
-				'TARPALS': 'CAPTAIN TARPALS'
-			}
-			data.short_characters = {"A", "B"}
-		elif self.which == WhichMovie.ATTACK_OF_THE_CLONES:
-			return None
-		elif self.which == WhichMovie.REVENGE_OF_THE_SITH:
-			return None
-		else:
-			raise NotAPrequel(self.name)
-
-		return data
+	def __repr__(self):
+		return f'<Movie "{self.name}">'
 
 
 class Movies:
@@ -152,6 +146,9 @@ class Movies:
 
 	def __contains__(self, item: str):
 		return item in names
+
+	def __repr__(self):
+		return f'<Movies num={len(self.movies)}>'
 
 
 movies = Movies(names)

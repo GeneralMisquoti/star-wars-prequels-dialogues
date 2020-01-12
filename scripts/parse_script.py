@@ -1,7 +1,7 @@
 import re
 
 from movies import CachedMovie, Movie
-from quote import Quote, SerializeQuote
+from quote import Quote, SerializeQuote, QuoteBuilder
 from typing import Dict, List, Union, Tuple, Optional
 
 
@@ -16,11 +16,13 @@ class CharacterManager:
 		""" mapping from character's index to a list of its quotes """
 		self.mappings: Dict[str, int] = dict()
 		""" mapping from one of character's names to its index """
+		self.quotes_count = 0
+		self.quote_builder = QuoteBuilder(self.movie.data.quote_clean_patterns)
 
 	def serialized_quotes(self) -> List[SerializeQuote]:
-		return [SerializeQuote(q.quote, self.mappings[q.character]) for x in self.quotes.values() for q in x]
+		return [SerializeQuote(q.quote, self.characters[self.mappings[q.character]]) for x in self.quotes.values() for q in x]
 
-	def __add_character(self, c: str) -> int:
+	def __add_character(self, c: str, speaking=True) -> int:
 		existing_character_index = self.find_character_containing_word(c)
 		if existing_character_index:
 			# Character exists
@@ -31,33 +33,37 @@ class CharacterManager:
 			else:
 				pass
 
-		i = len(self.characters)
-		self.characters[i] = c
-		self.mappings[c] = i
-		self.quotes[i] = []
-		return i
+		if speaking:
+			i = len(self.characters)
+			self.characters[i] = c
+			self.mappings[c] = i
+			self.quotes[i] = []
+			return i
+		else:
+			return -1
 
-	def add_character(self, character: str) -> Optional[int]:
+	def add_character(self, character: str, speaking=True) -> Optional[int]:
 		""" :return: None if character is ignored """
 		character = self.character_mapped(character)
 		if character in self.mappings:
 			return self.mappings[character]
 		elif character is None:
 			return None
-		return self.__add_character(character)
+		return self.__add_character(character, speaking=speaking)
 
-	def add_quote(self, c: str, q: str, line: str):
+	def add_quote(self, c: str, q: str):
 		character = self.character_mapped(c)
 		if character is None:
 			return
 
-		quote = Quote(c, q, line)
+		quote = self.quote_builder(c, q, self.quotes_count)
 		character_index = self.mappings.get(character, None)
 
 		if character_index is None:
 			character_index = self.__add_character(character)
 
 		self.quotes[character_index].append(quote)
+		self.quotes_count += 1
 
 	def find_character_containing_word(self, character: str) -> Union[None, int]:
 		"""
@@ -114,13 +120,19 @@ class CharacterManager:
 			found_not_empty = False
 			i = len(characters)
 			for quote in self.quotes[c]:
-				if quote.quote.strip() == "": continue
+				if quote.quote.strip() in ["", "-"]:
+					continue
+				if len(quote.quote) < 5:
+					print(f'Suspiciously short quote: {quote}')
 				found_not_empty = True
-				q = SerializeQuote(quote.quote.strip(), i)
-				quotes.append(q)
+				quote.id = i
+				quotes.append(quote)
 			if found_not_empty:
 				i = len(characters)
 				characters.append(self.characters[c])
+
+		quotes = sorted(quotes, key=lambda q: q.id)
+		quotes = list(map(SerializeQuote.from_quote, quotes))
 
 		return characters, quotes
 
@@ -129,27 +141,22 @@ def parse_script(movie: str, scr_text: str) -> Tuple[List[str], List[SerializeQu
 	movie = CachedMovie(movie)
 	manager = CharacterManager(movie)
 
-	# Loop through every line in script
-	for line in (x for x in scr_text.splitlines() if x != ''):
-		# This assumes only one quote per line!
-		find_quote_result = re.search(movie.data.quote_pattern, line)
+	# This assumes only one quote per line!
+	find_quote_results = re.findall(movie.data.quote_pattern, scr_text)
 
-		# Findall (instead of search) because there may be
-		# more than one character on a single line
-		find_character_result = re.findall(movie.data.character_pattern, line)
+	# Findall (instead of search) because there may be
+	# more than one character on a single line
+	find_character_results = set(re.findall(movie.data.character_pattern, scr_text))
+	find_character_results = list(map(lambda x: x.strip(), filter(movie.data.filter, find_character_results)))
 
-		if find_quote_result:
-			c = find_quote_result.group(1).strip()
-			q = find_quote_result.group(2).strip()
-			manager.add_quote(c, q, line)
+	for quote in find_quote_results:
+		c: str = quote[0].strip()
+		q: str = quote[1].strip()
+		manager.add_quote(c, q)
 
-		elif find_character_result:
-
-			# Remove characters from data.ignored
-			find_character_result = map(lambda x: x.strip(), filter(movie.data.filter, find_character_result))
-
-			for c in find_character_result:
-				manager.add_character(c)
+	for character in find_character_results:
+		character: str
+		manager.add_character(character, speaking=False)
 
 	return manager.serialize()
 
