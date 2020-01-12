@@ -1,9 +1,8 @@
 from enum import Enum
-from typing import List, Set, Dict, Union
+from typing import List, Set, Dict
 import re
 import movie_data
 
-from character import Character
 from quote import QuoteCleanPattern
 
 names = ["phantom_menace", "attack_of_the_clones", "revenge_of_the_sith"]
@@ -55,6 +54,15 @@ class MovieData:
 
 	:param short_characters: are characters that names' could be a substring of other names
 		and yet still be a distinct character
+
+	:param quote_clean_patterns: these are set of instructions on how to match and what to replace with that match
+		Useful in Attack of the Clones where the dialogues contain tabs and newlines that need to be replaced with spaces.
+
+	:param which: used for logging to determine for which movie this data is used for
+
+	:param strict: list of strings that even though may be contained in larger strings of characters,
+		if present as speaking, form stand-alone characters, e.g.: "CLONE SERGEANT" is not "AT-ST CLONE SERGEANT",
+		but "DOOKU" is "COUNT DOOKU"
 	"""
 
 	def __init__(
@@ -65,6 +73,7 @@ class MovieData:
 			blacklist_substrings,
 			mappings: Dict[str, str] = dict(),
 			short_characters: Set[str] = set(),
+			strict: List[str] = [],
 			quote_clean_patterns: List[QuoteCleanPattern] = [],
 			which=WhichMovie.NA
 	):
@@ -76,11 +85,10 @@ class MovieData:
 		self.short_characters = short_characters
 		self.which = which
 		self.quote_clean_patterns = quote_clean_patterns
+		self.strict = strict
 
-	def filter(self, character: Union[Character, str]) -> bool:
-		if isinstance(character, Character):
-			character = character.name
-		elif not isinstance(character, str):
+	def filter(self, character: str) -> bool:
+		if not isinstance(character, str):
 			raise Exception("Invalid type")
 
 		if character in self.ignored:
@@ -110,6 +118,7 @@ def load_data(which: WhichMovie) -> MovieData:
 		ignored=movie.ignored,
 		blacklist_substrings=movie.blacklist,
 		mappings=movie.mappings,
+		strict=movie.strict,
 		which=which,
 		quote_clean_patterns=movie.quote_clean_patterns
 	)

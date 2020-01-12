@@ -2,16 +2,16 @@
   "characters": [
     "QUI-GON JINN",
     "CAPTAIN",
-    "NUTE",
+    "NUTE GUNRAY",
     "OBI-WAN KENOBI",
     "CAPTAIN DAULTRAY DOFINE",
-    "RUNE",
+    "RUNE HAAKO",
     "TEY HOW",
     "PADMÉ NABERRIE AMIDALA",
     "SUPREME CHANCELLOR PALPATINE",
     "CAPTAIN PANAKA",
-    "BIBBLE",
-    "JAR JAR",
+    "SIO BIBBLE",
+    "JAR JAR BINKS",
     "CAPTAIN TARPALS",
     "BOSS NASS",
     "DARTH SIDIOUS",
@@ -23,8 +23,8 @@
     "VENDOR",
     "SEBULBA",
     "JIRA",
-    "SHMI",
-    "THREEPIO",
+    "SHMI SKYWALKER",
+    "C-3PO",
     "DARTH MAUL",
     "KITSTER",
     "WALD",
@@ -32,24 +32,23 @@
     "SEEK",
     "FODE",
     "BEED",
-    "JABBA",
+    "JABBA THE HUTT",
     "FANTA",
-    "ODY",
+    "ODY MANDRELL",
     "GREEDO",
     "PILOT",
-    "VALORUM",
+    "CHANCELLOR VALORUM",
     "MACE WINDU",
     "KI-ADI",
-    "YODA",
+    "MASTER YODA",
     "RABE",
     "LOTT DOD",
     "AKS MOE",
-    "MAS AMEDDA",
-    "BAIL ORGANA",
-    "MAD AMEDDA",
+    "VICE CHAIRMAN MAS AMEDDA",
+    "PRINCE BAIL ORGANA",
     "ASSEMBLY",
     "GUNGAN LOOKOUT",
-    "GENERAL CEEL",
+    "GUNGAN GENERAL CEEL",
     "FIGHTER PILOT",
     "BRAVO TWO",
     "SABE",
@@ -4211,6 +4210,10 @@
     },
     {
       "character": 44,
+      "quote": "The motion has been seconded by Bail Organa of Alderaan."
+    },
+    {
+      "character": 44,
       "quote": "Thew Supreme Chancellor requests a recess. Tomorrow we will begin the vote."
     },
     {
@@ -4223,74 +4226,70 @@
     },
     {
       "character": 46,
-      "quote": "The motion has been seconded by Bail Organa of Alderaan."
-    },
-    {
-      "character": 47,
       "quote": "Vote now! Vote now! Vote now!"
     },
     {
-      "character": 48,
+      "character": 47,
       "quote": "Daza comen!"
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "Energize the shields."
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "Retreat! Retreat!"
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "Mesa hopen dissa working for da Queen."
     },
     {
-      "character": 50,
+      "character": 49,
       "quote": "Better find a new hiding place, kid. I'm taking this ship."
     },
     {
-      "character": 51,
+      "character": 50,
       "quote": "Roger, Bravo Leader."
     },
     {
-      "character": 51,
+      "character": 50,
       "quote": "Roger, Bravo Leader."
     },
     {
-      "character": 51,
+      "character": 50,
       "quote": "What's that?? It's blowing up from the inside."
     },
     {
-      "character": 51,
+      "character": 50,
       "quote": "He flew into the hold, behind the deflector shield and blasted the main reactor..."
     },
     {
-      "character": 52,
+      "character": 51,
       "quote": "I will not be signing any treaty, Viceroy, because you've lost!"
     },
     {
-      "character": 53,
+      "character": 52,
       "quote": "Where's your pilot?"
     },
     {
-      "character": 53,
+      "character": 52,
       "quote": "You're the pilot?"
     },
     {
-      "character": 53,
+      "character": 52,
       "quote": "Let me see your identification!"
     },
     {
-      "character": 53,
+      "character": 52,
       "quote": "You! Come out of there or we'll blast you!"
     },
     {
-      "character": 54,
+      "character": 53,
       "quote": "Look! One of ours! Outta the main hold!!"
     },
     {
-      "character": 54,
+      "character": 53,
       "quote": "Amazing... They don't teach that in the academy."
     }
   ]

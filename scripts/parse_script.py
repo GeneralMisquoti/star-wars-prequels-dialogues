@@ -1,12 +1,16 @@
 import re
 
-from movies import CachedMovie, Movie
+from movies import CachedMovie, Movie, WhichMovie
 from quote import Quote, SerializeQuote, QuoteBuilder
 from typing import Dict, List, Union, Tuple, Optional
 
 
 class CharacterManager:
 	""" Manages characters ;) """
+	numerals = [
+			"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+			"ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT", "NINE"
+	]
 
 	def __init__(self, movie: Movie):
 		self.movie = movie  #: xd
@@ -29,33 +33,67 @@ class CharacterManager:
 			for q in x
 		]
 
-	def __add_character(self, c: str, speaking=True) -> int:
-		existing_character_index = self.find_character_containing_word(c)
-		if existing_character_index:
+	def __add_character(self, character: str, speaking=True) -> int:
+		existing_character_index = self.find_character_containing_word(character)
+		if existing_character_index == -1:
+			# Name ends in number so even though a shorter character
+			# name may fit inside it it should be treated as a different character.
+			# So add it.
+			pass
+		elif existing_character_index is not None:
 			# Character exists
 			existing_character = self.characters[existing_character_index]
-			if len(existing_character) < len(c):
-				self.replace_with_longer(c, existing_character)
+			if len(existing_character) < len(character):
+				self.replace_with_longer(character, existing_character)
 				return existing_character_index
 			else:
-				pass
+				return existing_character_index
+		else:
+			# Character containing this word not found, but what if the
+			# character itself is a larger string that could potentially
+			# contain a substring of an existing character; therefore adding
+			# more information?
+
+			# - Ok, but what when "AT-ST CLONE SERGEANT" is someone else than "CLONE SERGEANT"?
+			# - Well then if that character is speaking then add it as stand-alone character ;)
+			if not speaking:
+				# - Well but what if it's not speaking and still overwrites...
+				# - Fuck you eat sheeit
+				for i, c in self.characters.items():
+					# - Oh so I'll add another data parameter for this then...
+					# - Sure, why not go ahead
+					if c not in self.movie.data.strict:
+						# - But then why does a ..."DROID" match a ..."DROIDS"
+						# - Why don't you go f...
+						c_split = c.split(" ")
+						character_split = character.split(" ")
+						if all((c_ in character_split for c_ in c_split)):
+							# - But this still does not work
+							# - Well you have to update `self.find_character_containing_word`
+							self.characters[i] = character
+							return i
 
 		if speaking:
 			i = len(self.characters)
-			self.characters[i] = c
-			self.mappings[c] = i
+			self.characters[i] = character
+			self.mappings[character] = i
 			self.quotes[i] = []
 			return i
 		else:
 			return -1
 
 	def add_character(self, character: str, speaking=True) -> Optional[int]:
-		""" :return: None if character is ignored """
+		"""
+		:param character: name
+		:param speaking: whether found in quote or stand-alone
+		:return: None if character is ignored
+		"""
 		character = self.character_mapped(character)
+		if character is None:
+			return None
 		if character in self.mappings:
 			return self.mappings[character]
-		elif character is None:
-			return None
+
 		return self.__add_character(character, speaking=speaking)
 
 	def add_quote(self, c: str, q: str):
@@ -77,12 +115,19 @@ class CharacterManager:
 		:param character: Returns index of character whose one of
 			the words in its names is equal to it
 		"""
+		if character in self.movie.data.strict:
+			return None
+		if character.split(" ")[-1] in self.numerals:
+			return -1
 		for i in self.characters:
 			c = self.characters[i]
-			if character in c and len(character) > 3:  # len for "A", "B" characters
+			c_split = c.split(" ")
+			if character in c:
+				if c_split[-1] in self.numerals:
+					return -1
 				return i
-			for word in c.split(" "):
-				if word == character and len(word) > 3:
+			for word in c_split:
+				if word == character:
 					return i
 		else:
 			return None
@@ -99,21 +144,24 @@ class CharacterManager:
 		"""
 		if character in self.movie.data.ignored:
 			return None
+		if any((x in character for x in self.movie.data.blacklist_substrings)):
+			return None
 		character = character.strip()
-		for word in character.split(" "):
-			if word in self.movie.data.mappings:
-				return self.movie.data.mappings[word]
+		split_character = character.split(" ")
+		if split_character[-1] not in self.numerals:
+			for word in split_character:
+				if word in self.movie.data.mappings:
+					return self.movie.data.mappings[word]
+		for name in self.movie.data.mappings:
+			if name == character:
+				return self.movie.data.mappings[name]
 		else:
 			if character in self.mappings:
 				return self.characters[self.mappings[character]]
-			else:
-				existing_characters_index = self.find_character_containing_word(character)
-				if existing_characters_index is not None:
-					return self.characters[existing_characters_index]
-				else:
-					return character
 
-	def serialize(self):
+		return character
+
+	def serialize(self, which=WhichMovie.NA):
 		"""
 		We don't want characters who don't speak.
 		We can't just delete them, since we depend on the indexing.
@@ -129,6 +177,9 @@ class CharacterManager:
 			for quote in self.quotes[c]:
 				if quote.quote.strip() in ["", "-"]:
 					continue
+
+				if len(quote.quote) < 4:
+					print(f'Suspiciously short quote: "{quote}"')
 				found_not_empty = True
 				quote.id = i
 				quotes.append(quote)
@@ -160,4 +211,4 @@ def parse_script(movie: str, scr_text: str) -> Tuple[List[str], List[SerializeQu
 		character: str
 		manager.add_character(character, speaking=False)
 
-	return manager.serialize()
+	return manager.serialize(which=movie.which)

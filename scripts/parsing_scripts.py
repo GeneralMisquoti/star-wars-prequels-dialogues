@@ -12,8 +12,8 @@ for file in source_dir.glob('*.html'):
 	filename = file.stem
 
 	#TODO: enable more movies
-	if movie_dict[WhichMovie.PHANTOM_MENACE] != filename:
-		continue
+	# if movie_dict[WhichMovie.PHANTOM_MENACE] != filename:
+	# 	continue
 	movie = name_dict.get(filename, None)
 	if movie is None:
 		raise Exception(f'Unknown html file "{filename}" in directory (not a prequel movie).')
