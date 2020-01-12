@@ -7,20 +7,27 @@ from typing import Dict, List, Union, Tuple, Optional
 
 class CharacterManager:
 	""" Manages characters ;) """
+
 	def __init__(self, movie: Movie):
 		self.movie = movie  #: xd
 		""" A Movie the Manager uses to get regex data etc.  """
 		self.characters: Dict[int, str] = dict()  #: xd
-		""" mapping from character's index to its name """
+		""" Mapping from character's index to its name. """
 		self.quotes: Dict[int, List[Quote]] = dict()
-		""" mapping from character's index to a list of its quotes """
+		""" Mapping from character's index to a list of its quo.tes """
 		self.mappings: Dict[str, int] = dict()
-		""" mapping from one of character's names to its index """
+		""" Mapping from one of character's names to its index. """
 		self.quotes_count = 0
+		""" Used to sort quotes later by order. """
 		self.quote_builder = QuoteBuilder(self.movie.data.quote_clean_patterns)
+		""" A cached object with specified regex deletion/clean patterns. """
 
 	def serialized_quotes(self) -> List[SerializeQuote]:
-		return [SerializeQuote(q.quote, self.characters[self.mappings[q.character]]) for x in self.quotes.values() for q in x]
+		return [
+			SerializeQuote(q.quote, self.mappings[q.character])
+			for x in self.quotes.values()
+			for q in x
+		]
 
 	def __add_character(self, c: str, speaking=True) -> int:
 		existing_character_index = self.find_character_containing_word(c)
@@ -122,8 +129,6 @@ class CharacterManager:
 			for quote in self.quotes[c]:
 				if quote.quote.strip() in ["", "-"]:
 					continue
-				if len(quote.quote) < 5:
-					print(f'Suspiciously short quote: {quote}')
 				found_not_empty = True
 				quote.id = i
 				quotes.append(quote)
@@ -141,11 +146,8 @@ def parse_script(movie: str, scr_text: str) -> Tuple[List[str], List[SerializeQu
 	movie = CachedMovie(movie)
 	manager = CharacterManager(movie)
 
-	# This assumes only one quote per line!
 	find_quote_results = re.findall(movie.data.quote_pattern, scr_text)
 
-	# Findall (instead of search) because there may be
-	# more than one character on a single line
 	find_character_results = set(re.findall(movie.data.character_pattern, scr_text))
 	find_character_results = list(map(lambda x: x.strip(), filter(movie.data.filter, find_character_results)))
 
@@ -159,4 +161,3 @@ def parse_script(movie: str, scr_text: str) -> Tuple[List[str], List[SerializeQu
 		manager.add_character(character, speaking=False)
 
 	return manager.serialize()
-
