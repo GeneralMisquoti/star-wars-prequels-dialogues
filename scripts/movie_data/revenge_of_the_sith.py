@@ -9,6 +9,7 @@ ignored = default_ignored + ["HOLOGRAM OF DARTH SIDIOUS", "HUNDREDS OF CLONE TRO
 mappings = {
 	'CLONE SERGEANT': 'CLONE SERGEANT',
 	'BATTLE DROID': 'BATTLE DROID',
+	'MACE': 'MACE WINDU',
 	**default_mappings
 }
 strict = default_strict + ["CLONE SERGEANT", "BATTLE DROID"]

@@ -14,12 +14,13 @@
     "SUPER BATTLE DROID G21",
     "BAIL ORGANA",
     "PADMÉ NABERRIE AMIDALA",
+    "DARTH SIDIOUS",
     "MASTER YODA",
     "FANG ZAR",
     "SENATORS MON MOTHMA",
     "GIDDEAN DANU",
     "TERR TANEEL",
-    "MACE",
+    "MACE WINDU",
     "CAPTAIN TYPHO",
     "MOTEE",
     "CLONE COMMANDER GREE",
@@ -29,8 +30,6 @@
     "JAR JAR BINKS",
     "WRANGLER",
     "NUTE GUNRAY",
-    "MACE WINDU",
-    "DARTH SIDIOUS",
     "CLONE COMMANDER BACARA",
     "AAYLA SECURA",
     "CLONE COMMANDER BLY",
@@ -3597,738 +3596,790 @@
     },
     {
       "character": 14,
+      "quote": "General Grievous, I suggest you move the Separatist leaders to Mustafar."
+    },
+    {
+      "character": 14,
+      "quote": "The end of the war is near, General, and I promise you, victory is assured."
+    },
+    {
+      "character": 14,
+      "quote": "His death was a necessary loss, which will ensure our"
+    },
+    {
+      "character": 14,
+      "quote": "Commander Cody, the time has come. Execute Order Sixty-Six."
+    },
+    {
+      "character": 14,
+      "quote": "Commander 1138..."
+    },
+    {
+      "character": 14,
+      "quote": "The time has come. Execute Order Sixty-Six."
+    },
+    {
+      "character": 14,
+      "quote": "Execute Order Sixty-Six."
+    },
+    {
+      "character": 14,
+      "quote": "The time has come. Execute Order Sixty-Six."
+    },
+    {
+      "character": 14,
+      "quote": "You have done well, Viceroy. When my new apprentice, Darth Vader, arrives, he will take care of you."
+    },
+    {
+      "character": 14,
+      "quote": "Good... good... You have done well, my new apprentice. Do you feel your power growing?"
+    },
+    {
+      "character": 14,
+      "quote": "Now, Lord Vader, now go and bring peace to the Empire."
+    },
+    {
+      "character": 14,
+      "quote": "It is finished, then. You have restored peace and justice to the galaxy. You have done well, Lord Vader."
+    },
+    {
+      "character": 14,
+      "quote": "Send a message to the ships of the Trade Federation."
+    },
+    {
+      "character": 14,
+      "quote": "Master Yoda, you survived."
+    },
+    {
+      "character": 14,
+      "quote": "Your arrogance blinds you, Master Yoda. Now you will experience the full power of the dark side."
+    },
+    {
+      "character": 14,
+      "quote": "I have waited a long time for this moment, my little green friend. At last, the Jedi are no more."
+    },
+    {
+      "character": 14,
+      "quote": "You will not stop me. Darth Vader will become more powerful than either of us."
+    },
+    {
+      "character": 14,
+      "quote": "Anakin! Anakin! There he is. He's still alive. Get a medical capsule, immediately."
+    },
+    {
+      "character": 14,
+      "quote": "Good. Good."
+    },
+    {
+      "character": 14,
+      "quote": "Lord Vader, can you hear me?"
+    },
+    {
+      "character": 14,
+      "quote": "I'm afraid she died.... it seems in your anger, you killed her."
+    },
+    {
+      "character": 15,
       "quote": "Premonitions... premonitions... Hmmmm... these visions you have..."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Yourself you speak of, or someone you know?"
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "close to you?"
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Careful you must be when sensing the future, Anakin. The fear of loss is a path to the dark side."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Death is a natural part of life. Rejoice for those around you who transform into the Force. Mourn them, do not. Miss them, do not. Attachment leads to jealousy. The shadow of greed, that is."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Train yourself to let go of everything you fear to lose."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Allow this appointment lightly, the Council does not. Disturbing is this move by Chancellor Palpatine."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Hiding in the Outer Rim, Grievous is. The outlying systems, you must sweep."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Master Kenobi, our spies contact, you must, and then wait."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Go, I will. Good relations with the Wookiees, I have."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Too much under the sway of the Chancellor, he is. Much anger there is in him. Too much pride in his powers."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "A prophecy... that misread could have been."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "I hope right you are. And now destroy the Droid armies on Kashyyyk, I will. May the Force be with you."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Act on this, we must. The capture of General Grievous will end this war. Quickly and decisively we should proceed."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "A Master is needed, with more experience."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Obi-Wan, my choice is."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "I agree."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Then now the time is, Commander."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "To a dark place this line of thought will carry us. Hmmmmm. great care we must take."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Stink, this mud does. A moment to bathe, give me."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Not far, are we, from the emergency ship. Quickly..."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Good-bye. Chewbacca and Tarfful, miss you I will. Good friends you are. For your help, much gratitude and respect, I have."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Master Kenobi, dark times are these. Good to see you. it is."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "With the help of the Wookiees, barely escape, I did."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Heard from no one, have we."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Received a coded retreat message, we have."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Suggest dismantling the coded signal, do you?"
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "I agree. In a dark place we find ourselves... a little more knowledge might light our way."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "If a special session of Congress there is, easier for us to enter the Jedi Temple it will be."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Dismantle the coded signal quickly. That group back there, soon discovered will be."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Killed not by clones, this Padawan. By a lightsaber, he was."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Good... For the Clones to discover the recalibration, a long time it will take. To change it back, longer still. Hurry."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "If into the security recordings you go, only pain will you find."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Destroy the Sith, we must."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "To fight this Lord Sidious, strong enough, you are not."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Twisted by the dark side, young Skywalker has become. The boy you trained, gone he is... Consumed by Darth Vader."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "To question, no time there is."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Use your feelings, Obi-Wan, and find him, you will. Visit the new Emperor, my task is. May the Force be with you."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "I hear a new apprentice, you have. Emperor, or should I call you Darth Sidious."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Surprised?"
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Not if anything I have to say about it, Lord Sidious."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "At an end your rule is and not short enough it was, I must say."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "If so powerful you are, why leave??"
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Faith in your new apprentice, misplaced may be, as is your faith in the dark side of the Force."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Destroy you I will, just as Master Kenobi, your apprentice will destroy."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Hurry. Careful timing we will need."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Into exile I must go. Failed, I have."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Failed to stop the Sith Lord, I have. Still much to learn, there is..."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Eternal consciousness."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "to become one with the Force, and influence still have... A power greater than all, it is."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "A great Jedi Master, you have become, Qui-Gon Jinn. Your apprentice I gratefully become."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Save them, we must. They are our last hope."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Pregnant, she must still appear. Hidden, safe, the children must be kept."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Split up, they should be."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "To Tatooine. To his family, send him."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Strong the Force runs, in the Skywalker line. Hope, we can... Done, it is. Until the time is right, disappear we will."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "Master Kenobi, wait a moment. In your solitude on Tatooine, training I have for you."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "An old friend has learned the path to immortality."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "One who has returned from the netherworld of the Force to train me... your old Master, Qui-Gon Jinn."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "The secret of the Ancient Order of the Whills, he studied. How to commune with him. I will teach you."
     },
     {
-      "character": 14,
+      "character": 15,
       "quote": "How to join the Force, he will train you. Your consciousness you will retain, when one with the Force. Even your physical self, perhaps."
     },
     {
-      "character": 15,
+      "character": 16,
       "quote": "When did this happen?"
     },
     {
-      "character": 15,
+      "character": 16,
       "quote": "We have so many Senators on our side, surely that will pursuade the Chancellor."
     },
     {
-      "character": 15,
+      "character": 16,
       "quote": "But surely..."
     },
     {
-      "character": 16,
+      "character": 17,
       "quote": "Why bother? As a practical matter, the Senate no longer exists."
     },
     {
-      "character": 16,
+      "character": 17,
       "quote": "We are not Separatists trying to leave the Republic. We are loyalists, trying to preserve democracy in the Republic."
     },
     {
-      "character": 16,
+      "character": 17,
       "quote": "The Chancellor has played the Senators well. They know where the power lies, and they will do whatever it takes to share in it. Palpatine has become a dictator and we have helped him to do it."
     },
     {
-      "character": 16,
+      "character": 17,
       "quote": "That means those closest to you... even family... no one can be told."
     },
     {
-      "character": 16,
+      "character": 17,
       "quote": "We are hoping to form an alliance in the Senate to stop the Chancellor from further subverting the constitution, that's all."
     },
     {
-      "character": 16,
+      "character": 17,
       "quote": "We don't know where the Jedi stand in all this."
     },
     {
-      "character": 17,
+      "character": 18,
       "quote": "The constitution is in shreds. Amendment after amendment... executive directives, sometimes a dozen in one day."
     },
     {
-      "character": 18,
+      "character": 19,
       "quote": "What are you suggesting?"
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "Anakin Skywalker, we have approved your appointment to the Council as the Chancellor's personal representative."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "You are on this Council, but we do not grant you the rank of Master."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "Take a seat, young Skywalker."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "We cannot take ships from the front line."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "It is critical we send an attack group there, immediately!"
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "Skywalker, your assignment is here with the Chancellor, and Kenobi must find General Grievous."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "It is settled then. Yoda will take a battalion of clones to reinforce the Wookiees on Kashyyyk. May the Force be with us all."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "It's very dangerous, putting them together. I don't think the boy can handle it. I don't trust him."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "I wish I did."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "So the prophecy says."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "How could the Chancellor have come by this information and we know nothing about it? We have had contact with Baron Papanoida and he said no one was there."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "The Council will make up its own mind who is to go, not the Chancellor."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "Given our resources, I recommend we send only one Jedi... Master Kenobi."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "Very well. Council is adjourned."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle droids he may have with him."
     },
     {
-      "character": 19,
+      "character": 20,
+      "quote": "I sense a plot to destroy the Jedi. The dark side of the Force surrounds the Chancellor."
+    },
+    {
+      "character": 20,
+      "quote": "A Sith Lord?"
+    },
+    {
+      "character": 20,
+      "quote": "In the name of the Galactic Senate of the Republic, you are under arrest, Chancellor."
+    },
+    {
+      "character": 20,
       "quote": "The Senate will decide your fate."
     },
     {
-      "character": 19,
+      "character": 20,
       "quote": "Not yet!"
     },
     {
       "character": 20,
-      "quote": "Rest well. My Lady."
-    },
-    {
-      "character": 20,
-      "quote": "My Lady, let me come with you."
-    },
-    {
-      "character": 20,
-      "quote": "As you wish, My Lady... but I strongly disagree."
-    },
-    {
-      "character": 21,
-      "quote": "Yes, my lady."
-    },
-    {
-      "character": 22,
-      "quote": "The droids have started up their main power generators."
-    },
-    {
-      "character": 22,
-      "quote": "Yes, sir."
-    },
-    {
-      "character": 22,
-      "quote": "Yes, My Lord."
-    },
-    {
-      "character": 22,
-      "quote": "It will be done, My Lord."
-    },
-    {
-      "character": 23,
-      "quote": "That would be dangerous."
-    },
-    {
-      "character": 23,
-      "quote": "When you present the \"petition of the two thousand\" to the Chancellor, things may change."
-    },
-    {
-      "character": 24,
-      "quote": "Patience, Senator."
-    },
-    {
-      "character": 25,
-      "quote": "Fortunately, most of the cities are concentrated on this small continent here... on the far side."
-    },
-    {
-      "character": 25,
-      "quote": "Come on, boss, when have I ever let you down?"
-    },
-    {
-      "character": 25,
-      "quote": "That was Anakin who was late. I believe."
-    },
-    {
-      "character": 25,
-      "quote": "I'm counting on you."
-    },
-    {
-      "character": 25,
-      "quote": "Master Windu, may I interrupt? General Kenobi has made contact with General Grievous, and we have begun our attack."
-    },
-    {
-      "character": 25,
-      "quote": "Very good, sir."
-    },
-    {
-      "character": 25,
-      "quote": "Oh, by the way, I think you'll be needing this."
-    },
-    {
-      "character": 25,
-      "quote": "Yes, sir!"
-    },
-    {
-      "character": 25,
-      "quote": "It will be done, My Lord."
-    },
-    {
-      "character": 25,
-      "quote": "Blast him!"
-    },
-    {
-      "character": 26,
-      "quote": "Helloo Annie. Good en to see yousa..."
-    },
-    {
-      "character": 26,
-      "quote": "Oopsin da Chancellor!! So sorry, Your Highness, sir."
-    },
-    {
-      "character": 27,
-      "quote": "You need transportation."
-    },
-    {
-      "character": 27,
-      "quote": "I will get it for you."
-    },
-    {
-      "character": 27,
-      "quote": "Boga. She answers to Boga."
-    },
-    {
-      "character": 28,
-      "quote": "Safe? Chancellor Palpatine managed to escape your grip, General, without Count Dooku. I have doubts about your ability to keep us safe."
-    },
-    {
-      "character": 28,
-      "quote": "The plan has gone as you had promised, My Lord."
-    },
-    {
-      "character": 28,
-      "quote": "Welcome, Lord Vader. We've been expecting you."
-    },
-    {
-      "character": 28,
-      "quote": "The war is over. Lord Sidious promised us peace... we only want..."
-    },
-    {
-      "character": 29,
-      "quote": "I sense a plot to destroy the Jedi. The dark side of the Force surrounds the Chancellor."
-    },
-    {
-      "character": 29,
-      "quote": "A Sith Lord?"
-    },
-    {
-      "character": 29,
-      "quote": "In the name of the Galactic Senate of the Republic, you are under arrest, Chancellor."
-    },
-    {
-      "character": 29,
       "quote": "You are under arrest, My Lord."
     },
     {
-      "character": 30,
-      "quote": "Commander Cody, the time has come. Execute Order Sixty-Six."
+      "character": 21,
+      "quote": "Rest well. My Lady."
     },
     {
-      "character": 30,
-      "quote": "Execute Order Sixty-Six."
+      "character": 21,
+      "quote": "My Lady, let me come with you."
     },
     {
-      "character": 30,
-      "quote": "The time has come. Execute Order Sixty-Six."
+      "character": 21,
+      "quote": "As you wish, My Lady... but I strongly disagree."
     },
     {
-      "character": 30,
-      "quote": "You have done well, Viceroy. When my new apprentice, Darth Vader, arrives, he will take care of you."
+      "character": 22,
+      "quote": "Yes, my lady."
     },
     {
-      "character": 30,
-      "quote": "Anakin! Anakin! There he is. He's still alive. Get a medical capsule, immediately."
+      "character": 23,
+      "quote": "The droids have started up their main power generators."
     },
     {
-      "character": 30,
-      "quote": "Good. Good."
-    },
-    {
-      "character": 30,
-      "quote": "Lord Vader, can you hear me?"
-    },
-    {
-      "character": 30,
-      "quote": "I'm afraid she died.... it seems in your anger, you killed her."
-    },
-    {
-      "character": 31,
+      "character": 23,
       "quote": "Yes, sir."
     },
     {
-      "character": 31,
+      "character": 23,
+      "quote": "Yes, My Lord."
+    },
+    {
+      "character": 23,
       "quote": "It will be done, My Lord."
     },
     {
-      "character": 32,
+      "character": 24,
+      "quote": "That would be dangerous."
+    },
+    {
+      "character": 24,
+      "quote": "When you present the \"petition of the two thousand\" to the Chancellor, things may change."
+    },
+    {
+      "character": 25,
+      "quote": "Patience, Senator."
+    },
+    {
+      "character": 26,
+      "quote": "Fortunately, most of the cities are concentrated on this small continent here... on the far side."
+    },
+    {
+      "character": 26,
+      "quote": "Come on, boss, when have I ever let you down?"
+    },
+    {
+      "character": 26,
+      "quote": "That was Anakin who was late. I believe."
+    },
+    {
+      "character": 26,
+      "quote": "I'm counting on you."
+    },
+    {
+      "character": 26,
+      "quote": "Master Windu, may I interrupt? General Kenobi has made contact with General Grievous, and we have begun our attack."
+    },
+    {
+      "character": 26,
+      "quote": "Very good, sir."
+    },
+    {
+      "character": 26,
+      "quote": "Oh, by the way, I think you'll be needing this."
+    },
+    {
+      "character": 26,
+      "quote": "Yes, sir!"
+    },
+    {
+      "character": 26,
+      "quote": "It will be done, My Lord."
+    },
+    {
+      "character": 26,
+      "quote": "Blast him!"
+    },
+    {
+      "character": 27,
+      "quote": "Helloo Annie. Good en to see yousa..."
+    },
+    {
+      "character": 27,
+      "quote": "Oopsin da Chancellor!! So sorry, Your Highness, sir."
+    },
+    {
+      "character": 28,
+      "quote": "You need transportation."
+    },
+    {
+      "character": 28,
+      "quote": "I will get it for you."
+    },
+    {
+      "character": 28,
+      "quote": "Boga. She answers to Boga."
+    },
+    {
+      "character": 29,
+      "quote": "Safe? Chancellor Palpatine managed to escape your grip, General, without Count Dooku. I have doubts about your ability to keep us safe."
+    },
+    {
+      "character": 29,
+      "quote": "The plan has gone as you had promised, My Lord."
+    },
+    {
+      "character": 29,
+      "quote": "Welcome, Lord Vader. We've been expecting you."
+    },
+    {
+      "character": 29,
+      "quote": "The war is over. Lord Sidious promised us peace... we only want..."
+    },
+    {
+      "character": 30,
+      "quote": "Yes, sir."
+    },
+    {
+      "character": 30,
+      "quote": "It will be done, My Lord."
+    },
+    {
+      "character": 31,
       "quote": "Steady. steady..."
     },
     {
-      "character": 32,
+      "character": 31,
       "quote": "Bly, do you think they're Droids?"
     },
     {
-      "character": 33,
+      "character": 32,
       "quote": "No."
     },
     {
-      "character": 34,
+      "character": 33,
       "quote": "It will be done, My Lord."
     },
     {
-      "character": 35,
+      "character": 34,
       "quote": "There they are. Land on the nearest platform."
     },
     {
-      "character": 36,
+      "character": 35,
       "quote": "Master Skywalker, there are too many of them. What are we going to do?"
     },
     {
-      "character": 37,
+      "character": 36,
       "quote": "There's been a rebellion. Don't worry, sir, the situation is under control."
     },
     {
-      "character": 37,
+      "character": 36,
       "quote": "I'm sorry, sir. No one is allowed entry."
     },
     {
-      "character": 37,
+      "character": 36,
       "quote": "It's time for you to leave, sir."
     },
     {
-      "character": 37,
+      "character": 36,
       "quote": "Did you find something?"
     },
     {
-      "character": 37,
+      "character": 36,
       "quote": "It's nothing, nothing. All these Wookiees are dead. Move to the east."
     },
     {
-      "character": 38,
+      "character": 37,
       "quote": "Get him! Shoot him!"
     },
     {
-      "character": 39,
+      "character": 38,
       "quote": "Everyone out of there!"
     },
     {
-      "character": 40,
+      "character": 39,
       "quote": "Wookiee good... eat Wookiee."
     },
     {
-      "character": 40,
+      "character": 39,
       "quote": "It's nothing, nothing."
     },
     {
-      "character": 40,
+      "character": 39,
       "quote": "Right you are, Chewbacca. Faster that will be."
     },
     {
-      "character": 41,
+      "character": 40,
       "quote": "Yes, sir."
     },
     {
-      "character": 41,
+      "character": 40,
       "quote": "No one could have survived that fall."
     },
     {
-      "character": 41,
+      "character": 40,
       "quote": "Yes, sir."
     },
     {
-      "character": 42,
+      "character": 41,
       "quote": "Identification..."
     },
     {
-      "character": 43,
+      "character": 42,
       "quote": "Yes, sir. We've encountered no opposition. The clones are still a bit confused. It appears no one is in command."
     },
     {
-      "character": 43,
+      "character": 42,
       "quote": "Yes, Your Highness."
     },
     {
-      "character": 44,
+      "character": 43,
       "quote": "Did you find Kenobi?"
     },
     {
-      "character": 44,
+      "character": 43,
       "quote": "Start loading your men on the ship."
     },
     {
-      "character": 44,
+      "character": 43,
       "quote": "Yes sir. Right away."
     },
     {
-      "character": 45,
+      "character": 44,
       "quote": "Hush! Not so loud!"
     },
     {
-      "character": 46,
+      "character": 45,
       "quote": "Senator Organa... the Supreme Chancellor of the Republic requests your presence at a special session of Congress."
     },
     {
-      "character": 46,
+      "character": 45,
       "quote": "Very well. He will be expecting you."
     },
     {
-      "character": 46,
+      "character": 45,
       "quote": "Then he is not dead."
     },
     {
-      "character": 46,
+      "character": 45,
       "quote": "Yes, Master."
     },
     {
-      "character": 47,
+      "character": 46,
       "quote": "Welcome back, Senator. May I see your clearance?"
     },
     {
-      "character": 47,
+      "character": 46,
       "quote": "Thank you, you may proceed. We will take custody of the Jedi."
     },
     {
-      "character": 47,
+      "character": 46,
       "quote": "It would be better if they stayed with you."
     },
     {
-      "character": 48,
+      "character": 47,
       "quote": "Stop! Enough, this is not right!"
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "The Separatists are taken care of, My Master."
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "Thank you, My Master."
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "Very good, My Lord."
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "Yes, My Master."
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "Where is Padme? Is she safe, is she all right?"
     },
     {
-      "character": 49,
+      "character": 48,
       "quote": "I couldn't have! She was alive! I felt her! She was alive! It's impossible! No!!!"
     },
     {
-      "character": 50,
+      "character": 49,
       "quote": "There is no sign of his body, sir."
     },
     {
-      "character": 50,
+      "character": 49,
       "quote": "Yes sir. Right away, sir."
     },
     {
-      "character": 51,
+      "character": 50,
       "quote": "Patience. You will have time. I did not. When I became one with the Force I made a great discovery. With my training, you will be able to merge with the Force at will. Your physical self will fade away, but you will still retain your consciousness. You will become more powerful than any Sith."
     },
     {
-      "character": 51,
+      "character": 50,
       "quote": "The ability to defy oblivion can be achieved, but only for oneself. It was accomplished by a Shaman of the Whills. It is a state acquired through compassion, not greed."
     },
     {
-      "character": 51,
+      "character": 50,
       "quote": "You will learn to let go of everything. No attachment, no thought of self. No physical self."
     },
     {
-      "character": 52,
+      "character": 51,
       "quote": "Medically, she is completely healthy. For reasons we can't explain, we are losing her."
     },
     {
-      "character": 52,
+      "character": 51,
       "quote": "We don't know why. She has lost the will to live. We need to operate quickly if we are to save the babies."
     },
     {
-      "character": 52,
+      "character": 51,
       "quote": "She's carrying twins."
     },
     {
-      "character": 52,
+      "character": 51,
       "quote": "It's a boy."
     },
     {
-      "character": 52,
+      "character": 51,
       "quote": "... and a girl."
     },
     {
-      "character": 52,
+      "character": 51,
       "quote": "My Lord, the construction is finished... he lives."
     }
   ]
