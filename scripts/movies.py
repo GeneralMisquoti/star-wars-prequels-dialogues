@@ -159,6 +159,9 @@ class Movies:
 	def __repr__(self):
 		return f'<Movies num={len(self.movies)}>'
 
+	def __len__(self):
+		return len(self.movies)
+
 
 movies = Movies(names)
 

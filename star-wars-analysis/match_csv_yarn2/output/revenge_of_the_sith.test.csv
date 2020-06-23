@@ -1,0 +1,1233 @@
+sentence_id,from,to,dialogue,transcript,yarn_id
+0,ANAKIN,R2D2,"Lock onto them, Artoo.","Lock onto him, R2.",875851
+1,ANAKIN,OBI-WAN,"Master, General Grievous's ship is directly ahead.","Master, General Grievous's ship is directly ahead...",875852
+2,ANAKIN,OBI-WAN,The one crawling with vulture droids.,the one crawling with vulture droids.,875853
+3,OBI-WAN,ANAKIN,I see it.,"Oh, I see it. Oh, this is going to be easy.",875854
+4,OBI-WAN,ANAKIN,"Oh, this is going to be easy.","Oh, I see it. Oh, this is going to be easy.",875854
+5,OBI-WAN,ODD BALL,"Odd Ball, do you copy?","- Oddball, do you copy? - Copy, Red Leader.",875855
+6,ODD BALL,OBI-WAN,"Copy, Red Leader.","- Oddball, do you copy? - Copy, Red Leader.",875855
+7,OBI-WAN,ODD BALL,Mark my position and form your squad up behind me.,Mark my position. Form your squad up behind me.,875856
+8,ODD BALL,OBI-WAN,"We're on your tail, General Kenobi.","We're on your tail, General Kenobi.",875857
+9,ODD BALL,OBI-WAN,Set S-foils in attack position.,Set S-foils in attack position.,875858
+10,ANAKIN,OBI-WAN,This is where the fun begins.,This is where the fun begins.,875859
+11,OBI-WAN,RED GROUP,Let them pass between us.,Let them pass between us.,875860
+12,ODD BALL,RED GROUP,They're all over me.,They're all over me. Get them off my...,875861
+13,ODD BALL,RED GROUP,Get them off my-.,They're all over me. Get them off my...,875861
+14,ANAKIN,OBI-WAN,I'm gonna go help them out.,- I'm gonna go help them out. - No.,875862
+15,OBI-WAN,ANAKIN,No.,- I'm gonna go help them out. - No.,875862
+16,OBI-WAN,ANAKIN,No.,- I'm gonna go help them out. - No.,875862
+17,OBI-WAN,ANAKIN,They are doing their job so we can do ours.,"No, they are doing their job so we can do ours.",875863
+18,ANAKIN,OBI-WAN,Missiles.,Missiles. Pull up.,875864
+19,ANAKIN,OBI-WAN,Pull up.,Missiles. Pull up.,875864
+20,OBI-WAN,ANAKIN,They overshot us.,- They overshot us. - They're coming around.,875865
+21,ANAKIN,OBI-WAN,They're coming around.,- They overshot us. - They're coming around.,875865
+22,OBI-WAN,R4,"All right, R4.","All right, R4.",875866
+23,OBI-WAN,R4,"No, no, no,no-, no.","No, no, no, no... No, nothing too fancy.",875867
+24,OBI-WAN,R4,Nothing too fancy.,"No, no, no, no... No, nothing too fancy.",875867
+25,ANAKIN,R2D2,"Surge all power units, R2.","Surge all power units, R2. Stand by reverse thrusters.",875868
+26,ANAKIN,R2D2,Stand by reverse thrusters.,"Surge all power units, R2. Stand by reverse thrusters.",875868
+27,ANAKIN,R2D2,"We got 'em, R2.","We got 'em, R2.",875869
+28,OBI-WAN,OBI-WAN,Flying is for droids.,Flying is for droids.,875870
+29,OBI-WAN,ANAKIN,I'm hit.,- I'm hit. Anakin? - I see them. Buzz droids.,875871
+30,OBI-WAN,ANAKIN,Anakin?,- I'm hit. Anakin? - I see them. Buzz droids.,875871
+31,ANAKIN,OBI-WAN,I see them.,- I'm hit. Anakin? - I see them. Buzz droids.,875871
+32,ANAKIN,OBI-WAN,Buzz droids.,- I'm hit. Anakin? - I see them. Buzz droids.,875871
+33,OBI-WAN,R4,"R4, be careful.","R4, be careful. You have a...",875872
+34,OBI-WAN,R4,You have a-.,"R4, be careful. You have a...",875872
+35,OBI-WAN,OBI-WAN,"Oh, dear.","Oh, dear.",875873
+36,OBI-WAN,ANAKIN,They're shutting down all the controls.,They're shutting down all the controls.,875874
+37,ANAKIN,OBI-WAN,Move to the right so I can get a clear shot at them.,- Move to the right so I can get a clear shot at them. - The mission.,875875
+38,OBI-WAN,ANAKIN,The mission.,- Move to the right so I can get a clear shot at them. - The mission.,875875
+39,OBI-WAN,ANAKIN,Get to the command ship.,Get to the command ship. Get the chancellor. I'm running out of tricks here.,875876
+40,OBI-WAN,ANAKIN,Get the chancellor.,Get to the command ship. Get the chancellor. I'm running out of tricks here.,875876
+41,OBI-WAN,ANAKIN,I'm running out of tricks here.,Get to the command ship. Get the chancellor. I'm running out of tricks here.,875876
+42,OBI-WAN,ANAKIN,In the name of- Hold your fire!,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
+43,OBI-WAN,ANAKIN,You're not helping.,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
+44,ANAKIN,OBI-WAN,I agree.,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
+45,ANAKIN,OBI-WAN,Bad idea.,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
+46,OBI-WAN,ANAKIN,I can't see a thing.,I can't see a thing. My cockpit's fogging.,875879
+47,OBI-WAN,ANAKIN,My cockpit's fogging.,I can't see a thing. My cockpit's fogging.,875879
+48,OBI-WAN,ANAKIN,They're all over me.,They're all over me. Anakin!,875880
+49,OBI-WAN,ANAKIN,Anakin!,They're all over me. Anakin!,875880
+50,ANAKIN,OBI-WAN,Move to the right.,"- Move to the right. - Hold on, Anakin. You're gonna get us both killed.",875881
+51,OBI-WAN,ANAKIN,"Hold on, Anakin.","- Move to the right. - Hold on, Anakin. You're gonna get us both killed.",875881
+52,OBI-WAN,ANAKIN,You're gonna get us both killed.,"- Move to the right. - Hold on, Anakin. You're gonna get us both killed.",875881
+53,OBI-WAN,ANAKIN,Get out of here.,Get out of here. There's nothing more you can do.,875882
+54,OBI-WAN,ANAKIN,There's nothing more you can do.,Get out of here. There's nothing more you can do.,875882
+55,ANAKIN,OBI-WAN,"I'm not leaving without you, Master.","I'm not leaving without you, Master.",875883
+56,ANAKIN,R2D2,"Get him, R2.","Get him, R2.",875884
+57,ANAKIN,R2D2,Watch out.,Watch out.,875885
+58,OBI-WAN,R2D2,"R2, hit the buzz droid's centre eye.","R2, hit the buzz droid's center eye.",875886
+59,ANAKIN,R2D2,"Yeah, you got him!","- Yeah, you got him! - Great, R2.",875887
+60,OBI-WAN,R2D2,"Great, Artoo.","- Yeah, you got him! - Great, R2.",875887
+61,ANAKIN,OBI-WAN,The General's Command Ship is dead ahead.,The general's command ship is dead ahead.,875888
+62,R2D2,GROUP,SCREAM
+63,OBI-WAN,ANAKIN,"Well, have you noticed the shields are still up?","Well, haveyou noticed the shields are still up?",875889
+64,ANAKIN,OBI-WAN,"Sorry, Master.","Sorry, Master.",875890
+65,OBI-WAN,ANAKIN,"Oh, I have a bad feeling about this.","Oh, I have a bad feeling about this.",875891
+66,BATTLE DROID,NA,There they are.,There they are. Get them.,875892
+67,BATTLE DROID,NA,Get 'em.,There they are. Get them.,875892
+68,OBI-WAN,R2D2,"Artoo, locate the Chancellor.","R2, locate the chancellor.",875893
+69,OBI-WAN,ANAKIN,The Chancellor's signal is coming from right there.,The chancellor's signal is coming from right there...,875894
+70,OBI-WAN,ANAKIN,The observation platform at the top of that spire.,the observation platform at the top of that spire.,875895
+71,ANAKIN,OBI-WAN,I sense Count Dooku.,I sense Count Dooku.,875896
+72,OBI-WAN,ANAKIN,I sense a trap.,- I sense a trap. - Next move?,875897
+73,ANAKIN,OBI-WAN,Next move?,- I sense a trap. - Next move?,875897
+74,OBI-WAN,ANAKIN,Spring the trap.,Spring the trap.,875898
+75,ANAKIN,R2D2,"Artoo, go back.","R2, go back. I need you to stay with the ship.",875899
+76,ANAKIN,R2D2,I need you to stay with the ship.,"R2, go back. I need you to stay with the ship.",875899
+77,OBI-WAN,R2D2,"Here, take this, and wait for orders.",Here. Take this and wait for orders.,875900
+78,GENERAL GRIEVOUS,CAPTAIN,"What's the situation, Captain?","What's the situation, Captain?",875901
+79,CAPTAIN,GENERAL GRIEVOUS,TWO Jedi have landed in the main hangar bay.,Two Jedi have landed in the main hangar bay. We're tracking them.,875902
+80,CAPTAIN,GENERAL GRIEVOUS,We're tracking them.,Two Jedi have landed in the main hangar bay. We're tracking them.,875902
+81,GENERAL GRIEVOUS,CAPTAIN,Just as Count Dooku predicted.,Just as Count Dooku predicted.,875903
+82,ANAKIN,OBI-WAN,Destroyers!,Destroyers.,875904
+83,BATTLE DROID,"OBI-WAN, ANAKIN",Drop your weapons!,Drop your weapons. I said drop 'em.,875905
+84,BATTLE DROID,"OBI-WAN, ANAKIN",I said drop 'em.,Drop your weapons. I said drop 'em.,875905
+85,BATTLE DROID,"OBI-WAN, ANAKIN",Roger roger rogerroger.,"Roger, roger.",875907
+86,BATTLE DROID,NA,Those are Jedi fighters all right.,Those are Jedi fighters all right.,875908
+87,OBI-WAN,ANAKIN,Did you press the stop button?,- Did you press the stop button? - No. Did you?,875909
+88,ANAKIN,OBI-WAN,"No, did you?",- Did you press the stop button? - No. Did you?,875909
+89,OBI-WAN,ANAKIN,No!,"- No. - Well, there's more than one way out of here.",875910
+90,ANAKIN,OBI-WAN,"Well, there's more than one way out of here.","- No. - Well, there's more than one way out of here.",875910
+91,OBI-WAN,ANAKIN,"We don't want to get out, we want to get moving.",We don't want to get out.,875911
+92,OBI-WAN,R2D2,Artoo.,We don't want to get out.,875911
+93,OBI-WAN,R2D2,Activate elevator.,"We want to get moving. R2, activate elevator 31174.",875912
+94,OBI-WAN,R2D2,3-1-1-7-4.,"We want to get moving. R2, activate elevator 31174.",875912
+95,OBI-WAN,R2D2,"Come in, Artoo.","- Come in, R2. - What that?",875913
+96,SUPER BATTLE DROID 1,NA,What's that?,"- Come in, R2. - What that?",875913
+97,OBI-WAN,R2D2,"Artoo, do you copy?","R2, do you copy?",875914
+98,OBI-WAN,R2D2,"Artoo, activate the elevator number 31174.",31174.,875916
+99,SUPER BATTLE DROID 2,NA,Get back to work.,Get back to work. That nothin'.,875917
+100,SUPER BATTLE DROID 2,NA,That nothing.,Get back to work. That nothin'.,875917
+101,OBI-WAN,R2D2,Activate the elevator number 31174.,Activate the elevator 31174.,875918
+102,OBI-WAN,R2D2,Artoo?,Activate the elevator 31174.,875918
+103,OBI-WAN,OBI-WAN,Always on the move.,Always on the move.,875920
+104,OBI-WAN,R2D2,"Artoo, switch on the comlink.","R2, switch on the comlink.",875921
+105,OBI-WAN,R2D2,"Artoo, can you hear me?","R2, can you hear me?",875922
+106,OBI-WAN,R2D2,Artoo.,"R2, can you hear me?",875922
+107,OBI-WAN,R2D2,"Stop, stop!","R2, can you hear me?",875922
+108,OBI-WAN,R2D2,"Artoo, we need to be going up.","R2, can you hear me?",875922
+109,DROID 1,ANAKIN,"Hands up, Jedi!","R2, can you hear me?",875922
+110,OBI-WAN,R2D2,"Artoo, do you copy?","R2, can you hear me?",875922
+111,OBI-WAN,R2D2,"Artoo, do you hear me?","R2, can you hear me?",875922
+112,OBI-WAN,R2D2,"Artoo, we need to be going up, not down.","R2, can you hear me?",875922
+113,SUPER BATTLE DROID 1,R2D2,Hey you!,"R2, can you hear me?",875922
+114,OBI-WAN,R2D2,"Now, that's better.","R2, can you hear me?",875922
+115,SUPER BATTLE DROID 1,R2D2,You stupid little astro droid!,"R2, can you hear me?",875922
+116,DROID 1,NA,Uh oh.,"R2, can you hear me?",875922
+117,OBI-WAN,ANAKIN,"Oh, it's you.","R2, can you hear me?",875922
+118,SUPER BATTLE DROID,NA,My eyes my eyes!,"R2, can you hear me?",875922
+119,ANAKIN,OBI-WAN,What was that all about?,Whoa!,875924
+120,OBI-WAN,ANAKIN,"Well, Artoo has been.",Whoa!,875924
+121,ANAKIN,OBI-WAN,No loose wire jokes.,Whoa!,875924
+122,OBI-WAN,ANAKIN,Did I say anything?,Whoa!,875924
+123,ANAKIN,OBI-WAN,He's trying!,"Stop. Stop. R2, we need to be going up.",875926
+124,OBI-WAN,ANAKIN,I didn't say anything!,"R2, do you hear me? R2, we need to be going up, not down.",875929
+125,OBI-WAN,PALPATINE,Chancellor.,Uh-oh.,875933
+126,ANAKIN,PALPATINE,Are you all right?,- Chancellor. - Are you all right?,875939
+127,PALPATINE,"OBI-WAN, ANAKIN",Count Dooku.,Count Dooku.,875940
+128,OBI-WAN,ANAKIN,This time we will do it together.,- This time we will do it together. - I was about to say that.,875941
+129,ANAKIN,OBI-WAN,I was about to say that.,- This time we will do it together. - I was about to say that.,875941
+130,PALPATINE,"OBI-WAN, ANAKIN",Get help!,Get help. You're no match for him. He's a Sith lord.,875942
+131,PALPATINE,"OBI-WAN, ANAKIN",You're no match for him.,Get help. You're no match for him. He's a Sith lord.,875942
+132,PALPATINE,"OBI-WAN, ANAKIN",He's a Sith Lord.,Get help. You're no match for him. He's a Sith lord.,875942
+133,OBI-WAN,PALPATINE,"Chancellor Palpatine, Sith Lords are our specialty.","Chancellor Palpatine, Sith lords are our speciality.",875943
+134,COUNT DOOKU,"OBI-WAN, ANAKIN","Your swords, please.","Your swords, please.",875944
+135,COUNT DOOKU,"OBI-WAN, ANAKIN",We don't want to make a mess of things in front of the Chancellor.,We don't want to make a mess of things in front of the chancellor.,875945
+136,OBI-WAN,COUNT DOOKU,"You won't get away this time, Dooku.","You won't get away this time, Dooku.",875946
+137,COUNT DOOKU,"OBI-WAN, ANAKIN",I've been looking forward to this.,I've been looking forward to this.,875947
+138,ANAKIN,COUNT DOOKU,"My powers have doubled since the last time we met, Count.","My powers have doubled since the last time we met, Count.",875948
+139,COUNT DOOKU,ANAKIN,Good.,"Good. Twice the pride, double the fall.",875949
+140,COUNT DOOKU,ANAKIN,"Twice the pride, double the fall.","Good. Twice the pride, double the fall.",875949
+141,PALPATINE,NA,Get-,Get...,875950
+142,COUNT DOOKU,ANAKIN,"I sense great fear in you, Skywalker.","I sense great fear in you, Skywalker.",875951
+143,COUNT DOOKU,ANAKIN,"You have hate, you have anger, but you don't use them.",You have hate. You have anger.,875952
+144,PALPATINE,ANAKIN,"Good, Anakin, good.","Good, Anakin. Good.",875954
+145,PALPATINE,ANAKIN,Kill him.,Kill him.,875955
+146,PALPATINE,ANAKIN,Kill him now!,Kill him now.,875956
+147,ANAKIN,PALPATINE,I shouldn't.,I shouldn't.,875957
+148,PALPATINE,ANAKIN,Do it!,Do it.,875958
+149,PALPATINE,ANAKIN,"You did well, Anakin.","You did well, Anakin.",875959
+150,PALPATINE,ANAKIN,He was too dangerous to be kept alive.,He was too dangerous to be kept alive.,875960
+151,ANAKIN,PALPATINE,"Yes, but he was an unarmed prisoner.","Yes, but he was an unarmed prisoner.",875961
+152,ANAKIN,PALPATINE,"I shouldn't have done that, Chancellor.",I shouldn't have done that. It's not the Jedi way.,875962
+153,ANAKIN,PALPATINE,It's not the Jedi way.,I shouldn't have done that. It's not the Jedi way.,875962
+154,PALPATINE,ANAKIN,It is only natural.,"It is only natural. He cut off your arm, and you wanted revenge.",875963
+155,PALPATINE,ANAKIN,"He cut off your arm, and you wanted revenge.","It is only natural. He cut off your arm, and you wanted revenge.",875963
+156,PALPATINE,ANAKIN,"It wasn't the first time, Anakin.","It wasn't the first time, Anakin.",875964
+157,PALPATINE,ANAKIN,Remember what you told me about your mother and the Sand People.,Remember what you told me about your mother and the Sand People?,875965
+158,PALPATINE,ANAKIN,"Now, we must leave before more security droids arrive.",Now we must leave before more security droids arrive.,875966
+159,PALPATINE,ANAKIN,"Anakin, there is no time.","Anakin, there's no time.",875967
+160,PALPATINE,ANAKIN,We must get off the ship before it's too late.,We must get off this ship before it's too late.,875968
+161,ANAKIN,PALPATINE,He seems to be all right.,"- He seems to be all right. - Leave him, or we'll never make it.",875969
+162,PALPATINE,ANAKIN,"Leave him, or we'll never make it.","- He seems to be all right. - Leave him, or we'll never make it.",875969
+163,ANAKIN,PALPATINE,His fate will be the same as ours.,His fate will be the same as ours.,875970
+164,GENERAL GRIEVOUS,PILOT,Prepare for attack.,Prepare for attack!,875971
+165,PILOT,NA,All batteries fire!,"All batteries, fire! Fire!",875972
+166,PILOT,NA,Fire!,"All batteries, fire! Fire!",875972
+167,ANAKIN,PALPATINE,"Elevator's not working,",Elevator's not working.,875973
+168,ANAKIN,R2D2,Artoo.,Elevator's not working.,875973
+169,ANAKIN,R2D2,Activate Elevator 3224.,"R2, activate elevator 3224.",875974
+170,PILOT,NA,Reverse stabilizers.,- Reverse stabilizers. - Reversing stabilizers.,875975
+171,DROID PILOT,NA,Reversing stabilizers,- Reverse stabilizers. - Reversing stabilizers.,875975
+172,R2D2,NA,YELL
+173,PILOT,NA,Magnetize!,Magnetize! Magnetize!,875976
+174,PILOT,NA,Magnetize!,Magnetize! Magnetize!,875976
+175,GENERAL GRIEVOUS,PILOT,Fire the emergency booster engines.,Fire the emergency booster engines.,875977
+176,PILOT,GENERAL GRIEVOUS,"We're leveling out, sir.","We're leveling out, sir.",875978
+177,ANAKIN,OBI-WAN,Easy.,"We're leveling out, sir.",875978
+178,ANAKIN,OBI-WAN,We're in a bit of a situation.,"We're leveling out, sir.",875978
+179,OBI-WAN,ANAKIN,Did I miss something?,- Did I miss something? - Hold on.,875981
+180,ANAKIN,OBI-WAN,Hold on.,- Did I miss something? - Hold on.,875981
+181,OBI-WAN,ANAKIN,What is that?,"- What is that? - Uh, oops.",875982
+182,ANAKIN,OBI-WAN,"Uh, oops.","- What is that? - Uh, oops.",875982
+183,ANAKIN,R2D2,"Artoo, Artoo, shut down the elevator!","- What is that? - Uh, oops.",875982
+184,OBI-WAN,ANAKIN,Too late!,"- What is that? - Uh, oops.",875982
+185,OBI-WAN,ANAKIN,Jump!,"- What is that? - Uh, oops.",875982
+186,OBI-WAN,ANAKIN,Let's see if we can find something in the hangar bay that's still flyable.,Let's see if we can find something in the hangar bay that's still flyable.,875985
+187,OBI-WAN,ANAKIN,Come on.,Let's see if we can find something in the hangar bay that's still flyable.,875985
+188,ANAKIN,R2D2,"Artoo, get down here.","R2, get down here.",875986
+189,ANAKIN,R2D2,"Artoo, do you copy?","R2, doyou copy?",875987
+190,BODYGUARD,GENERAL GRIEVOUS,"General, we found the Jedi.","General, we found the Jedi.",875988
+191,BODYGUARD,GENERAL GRIEVOUS,They're in hallway 328.,- They're in hallway 328. - Activate ray shields.,875989
+192,GENERAL GRIEVOUS,NA,Activate ray shields.,- They're in hallway 328. - Activate ray shields.,875989
+193,ANAKIN,OBI-WAN,Ray shields!,Ray shields.,875990
+194,OBI-WAN,ANAKIN,"Wait a minute, how'd this happen!",Wait a minute. How did this happen?,875991
+195,OBI-WAN,ANAKIN,We're smarter than this.,- We're smarter than this. - Apparently not.,875992
+196,ANAKIN,OBI-WAN,Apparently not.,- We're smarter than this. - Apparently not.,875992
+197,ANAKIN,OBI-WAN,I say patience.,- I say patience. - Patience?,875993
+198,OBI-WAN,ANAKIN,Patience?,- I say patience. - Patience?,875993
+199,ANAKIN,OBI-WAN,"Yes, Artoo will be along in a few moments and then he'll release the ray shields.",and then... he'll release the ray shields.,875995
+200,ANAKIN,OBI-WAN,See!,See? No problem.,875996
+201,ANAKIN,OBI-WAN,No problem.,See? No problem.,875996
+202,SUPER BATTLE DROID,"ANAKIN, OBI-WAN, PALPATINE",Don't move.,Don't move.,875997
+203,OBI-WAN,ANAKIN,Do you have a plan B?,Don't move.,875997
+204,GENERAL GRIEVOUS,OBI-WAN,Ah yes.,Don't move.,875997
+205,GENERAL GRIEVOUS,OBI-WAN,"The Negotiator, General Kenobi.",Don't move.,875997
+206,GENERAL GRIEVOUS,OBI-WAN,We've been waiting for you.,General Kenobi. We've been waiting for you.,876001
+207,GENERAL GRIEVOUS,OBI-WAN,That wasn't much of a rescue.,- That wasn't much of a rescue. - You're welcome.,876003
+208,GENERAL GRIEVOUS,ANAKIN,And Anakin Skywalker.,Anakin Skywalker.,876005
+209,GENERAL GRIEVOUS,ANAKIN,I was expecting someone with your reputation to be a little older.,I was expecting someone with your reputation to be a little... older.,876006
+210,ANAKIN,GENERAL GRIEVOUS,General Grievous.,General Grievous. You're shorter than I expected.,876007
+211,ANAKIN,GENERAL GRIEVOUS,You're shorter than I expected.,General Grievous. You're shorter than I expected.,876007
+212,GENERAL GRIEVOUS,ANAKIN,Jedi scum.,Jedi scum.,876008
+213,OBI-WAN,ANAKIN,We have a job to do.,"We have a job to do, Anakin. Try not to upset him.",876009
+214,OBI-WAN,ANAKIN,"Anakin, try not to upset him.","We have a job to do, Anakin. Try not to upset him.",876009
+215,GENERAL GRIEVOUS,"ANAKIN, OBI-WAN",Your lightsabers will make a fine addition to my collection.,Your lightsabers will make a fine addition to my collection.,876010
+216,OBI-WAN,GENERAL GRIEVOUS,Not this time.,"Not this time. And this time, you won't escape.",876011
+217,OBI-WAN,GENERAL GRIEVOUS,And this time you won't escape.,"Not this time. And this time, you won't escape.",876011
+218,ANAKIN,R2D2,Artoo.,"Not this time. And this time, you won't escape.",876011
+219,GENERAL GRIEVOUS,NA,Crush them!,"Not this time. And this time, you won't escape.",876011
+220,GENERAL GRIEVOUS,NA,Make them suffer!,"Not this time. And this time, you won't escape.",876011
+221,GENERAL GRIEVOUS,NA,Stay at your stations.,- Stay at your stations! - Whoa!,876016
+222,R2D2,R2D2,[rapid beeping]
+223,GENERAL GRIEVOUS,NA,Don't bother with them.,"- Don't bother with them. Keep the ship in orbit. - Yes, sir.",876020
+224,GENERAL GRIEVOUS,NA,Keep the ship in orbit.,"- Don't bother with them. Keep the ship in orbit. - Yes, sir.",876020
+225,GENERAL GRIEVOUS,OBI-WAN,"You lose, General Kenobi.","You lose, General Kenobi.",876021
+226,GENERAL GRIEVOUS,GENERAL GRIEVOUS,Time to abandon ship.,Time to abandon ship.,876023
+227,ANAKIN,OBI-WAN,All the escape pods have been launched.,All the escape pods have been launched.,876024
+228,OBI-WAN,ANAKIN,Grievous.,Grievous. Can you fly a cruiser like this?,876025
+229,OBI-WAN,ANAKIN,Can you fly a cruiser like this?,Grievous. Can you fly a cruiser like this?,876025
+230,ANAKIN,OBI-WAN,"You mean, do I know how to land what's left of this thing?","- You mean, do I know how to land what's left of this thing? - Well?",876026
+231,OBI-WAN,ANAKIN,Well?,"- You mean, do I know how to land what's left of this thing? - Well?",876026
+232,ANAKIN,OBI-WAN,"Under the circumstances, I'd say the ability to pilot this thing is irrelevant.","Well, under the circumstances, I'd say the ability to pilot this thing is irrelevant.",876027
+233,ANAKIN,OBI-WAN,Strap yourselves in.,Strap yourselves in.,876028
+234,ANAKIN,OBI-WAN,"Open all hatches, extend all flaps, and drag fins.",Open all hatches. Extend all flaps and drag fins.,876029
+235,R2D2,"ANAKIN, OBI-WAN",UH OH
+236,ANAKIN,OBI-WAN,We lost something.,We lost something.,876030
+237,OBI-WAN,ANAKIN,"Not to worry, we're still flying half a ship.",Not to worry. We are still flying half a ship.,876031
+238,ANAKIN,OBI-WAN,Now we're really picking up speed.,Now we're really picking up speed.,876032
+239,OBI-WAN,ANAKIN,Eight plus sixty.,Eight plus 60.,876033
+240,OBI-WAN,ANAKIN,We're in the atmosphere.,- We're in the atmosphere. - Grab that. Keep us level.,876034
+241,ANAKIN,OBI-WAN,Grab that.,- We're in the atmosphere. - Grab that. Keep us level.,876034
+242,ANAKIN,OBI-WAN,Keep us level.,- We're in the atmosphere. - Grab that. Keep us level.,876034
+243,OBI-WAN,ANAKIN,Steady.,Steady.,876035
+244,ANAKIN,R2D2,"Easy, Artoo.","Easy, R2.",876036
+245,OBI-WAN,ANAKIN,Five thousand.,5000. Fire ships on the left and the right.,876037
+246,OBI-WAN,ANAKIN,Fire ships on the left and the right.,5000. Fire ships on the left and the right.,876037
+247,MALE VOICE,NA,We'll take you in,- We'll take you in. - Copy that.,876038
+248,OBI-WAN,NA,Copy that.,- We'll take you in. - Copy that.,876038
+249,OBI-WAN,ANAKIN,Landing strip's straight ahead.,"- Landing strip, straight ahead. - We're coming in too hot.",876039
+250,ANAKIN,OBI-WAN,We're coming in too hot.,"- Landing strip, straight ahead. - We're coming in too hot.",876039
+251,OBI-WAN,ANAKIN,Another happy landing.,Another happy landing.,876040
+252,ANAKIN,OBI-WAN,"Are you coming, Master?","- Areyou coming, Master? - Oh, no. I'm not brave enough for politics.",876041
+253,OBI-WAN,ANAKIN,Oh no.,"- Areyou coming, Master? - Oh, no. I'm not brave enough for politics.",876041
+254,OBI-WAN,ANAKIN,I'm not brave enough for politics.,"- Areyou coming, Master? - Oh, no. I'm not brave enough for politics.",876041
+255,OBI-WAN,ANAKIN,I have to report to the Council.,I have to report to the council.,876042
+256,OBI-WAN,ANAKIN,"Besides, someone needs to be the poster boy.","Besides, someone needs to be the poster boy.",876043
+257,ANAKIN,OBI-WAN,"Hold on, this whole operation was your idea.",Hold on. This whole operation was your idea.,876044
+258,OBI-WAN,ANAKIN,"Let us not forget, Anakin, that you rescued me from the Buzz Droids.","Let us not forget, Anakin, that you rescued me from the buzz droids.",876045
+259,OBI-WAN,ANAKIN,And you killed Count Dooku.,"And you killed Count Dooku, and you rescued the chancellor...",876046
+260,OBI-WAN,ANAKIN,"And you rescued the Chancellor, carrying me unconscious on your back.",carrying me unconscious on your back.,876047
+261,ANAKIN,OBI-WAN,All because of your training.,All because of your training.,876048
+262,OBI-WAN,ANAKIN,"Anakin, let's be fair.","Anakin, let's be fair. Today you were the hero...",876049
+263,OBI-WAN,ANAKIN,"Today, you were the hero and you deserve your glorious day with the politicians.",and you deserve your glorious day with the politicians.,876050
+264,ANAKIN,OBI-WAN,All right.,"All right. But you owe me one, and not for saving your skin for the 10th time.",876051
+265,ANAKIN,OBI-WAN,But you owe me one.,"All right. But you owe me one, and not for saving your skin for the 10th time.",876051
+266,ANAKIN,OBI-WAN,and not for saving your skin for the tenth time.,"All right. But you owe me one, and not for saving your skin for the 10th time.",876051
+267,OBI-WAN,ANAKIN,Ninth time.,Ninth time. That business on Cato Neimoidia doesn't...doesn't count.,876052
+268,OBI-WAN,ANAKIN,that business on Cato Nemoidia doesn't- doesn't count.,Ninth time. That business on Cato Neimoidia doesn't...doesn't count.,876052
+269,OBI-WAN,ANAKIN,I'll see you at the briefing.,I'll see you at the briefing.,876053
+270,MACE WINDU,PALPATINE,"Chancellor Palpatine, are you all right?","Chancellor Palpatine, are you all right?",876054
+271,PALPATINE,MACE WINDU,"Yes, thanks to your two Jedi Knights.",Yes. Thanks to your two Jedi knights.,876055
+272,PALPATINE,MACE WINDU,"They killed Count Dooku, but General Grievous has escaped once again.","They killed Count Dooku, but General Grievous has escaped once again.",876056
+273,MACE WINDU,PALPATINE,"General Grievous will run and hide, as he always does.","General Grievous will run and hide, as he always does. He's a coward.",876057
+274,MACE WINDU,PALPATINE,He's a coward.,"General Grievous will run and hide, as he always does. He's a coward.",876057
+275,PALPATINE,MACE WINDU,"But with Count Dooku dead, he is the leader of the Droid Army, and I assure you, the Senate will vote to continue the war as long as Grievous is alive.","And I assure you, the senate will vote to continue the war as long as Grievous is alive.",876059
+276,MACE WINDU,PALPATINE,Then the Jedi Council will make finding Grievous our highest priority.,Then the Jedi Council will make finding Grievous our highest priority.,876060
+277,THREEPIO,R2D2,"Come along, R2",Then the Jedi Council will make finding Grievous our highest priority.,876060
+278,BAIL ORGANA,ANAKIN,The Republic cannot praise you enough.,"- Come along, R2. - The Republic cannot praise you enough.",876062
+279,ANAKIN,BAIL ORGANA,"Thank you, Senator Organa.","Thank you, Senator Organa.",876063
+280,THREEPIO,R2D2,It couldn't possibly be as bad as all that.,"Well, it couldn't possibly be as bad as all that.",876064
+281,THREEPIO,R2D2,"Well, there, I agree with you.",Now there I agree with you.,876065
+282,THREEPIO,R2D2,"In fact, I could do with a tune-up myself.","In fact, I could do with a tune-up myself.",876066
+283,ANAKIN,BAIL ORGANA,But the fighting will continue until General Grievous is spare parts.,But the fighting will continue until General Grievous is spare parts.,876067
+284,BAIL ORGANA,ANAKIN,"Well, I will do everything I can with the Senate.","Well, I will do everything I can in the senate.",876068
+285,ANAKIN,BAIL ORGANA,Excuse me.,- Excuse me. - Certainly.,876069
+286,BAIL ORGANA,ANAKIN,Certainly.,- Excuse me. - Certainly.,876069
+287,PADME,ANAKIN,"Oh, Anakin!","Oh, Anakin.",876070
+288,ANAKIN,PADME,"I've missed you, Padme.","I've missed you, Padmé.",876071
+289,PADME,ANAKIN,There were whispers.,There were whispers that you'd been killed.,876072
+290,PADME,ANAKIN,that you'd been killed.,There were whispers that you'd been killed.,876072
+291,ANAKIN,PADME,I'm all right.,I'm all right.,876073
+292,ANAKIN,PADME,It feels like we've been apart for a lifetime.,It feels like we've been apart for a lifetime.,876074
+293,ANAKIN,PADME,And it might have been.,"And it might have been, ifthe chancellor hadn't been kidnapped.",876075
+294,ANAKIN,PADME,If the Chancellor hadn't been kidnapped.,"And it might have been, ifthe chancellor hadn't been kidnapped.",876075
+295,ANAKIN,PADME,I don't think they would have ever brought us back from the Outer Rim sieges.,I don't think they would have ever brought us back from the outer rim sieges.,876076
+296,PADME,ANAKIN,"Wait, not here.","- Wait. Not here. - Yes, here.",876077
+297,ANAKIN,PADME,"Yes, here!","- Wait. Not here. - Yes, here.",876077
+298,ANAKIN,PADME,I'm tired of all this deception.,I'm...I'm tired of all this deception. I don't care if they know we're married.,876078
+299,ANAKIN,PADME,I don't care if they know we're married.,I'm...I'm tired of all this deception. I don't care if they know we're married.,876078
+300,PADME,ANAKIN,"Anakin, don't say things like that.","Anakin, don't say things like that.",876079
+301,ANAKIN,PADME,Are you all right?,Areyou all right? You're trembling.,876080
+302,ANAKIN,PADME,You're trembling.,Areyou all right? You're trembling.,876080
+303,ANAKIN,PADME,What's going on?,What's going on?,876081
+304,PADME,ANAKIN,Something wonderful has happened.,Something wonderful has happened.,876082
+305,PADME,ANAKIN,"Ani, I'm pregnant.","Ani, I'm pregnant.",876083
+306,ANAKIN,PADME,That's.,That's...,876084
+307,ANAKIN,PADME,Well that's wonderful.,"Well, that's won... That's wonderful.",876085
+308,PADME,ANAKIN,What are we gonna do?,What are we gonna do?,876086
+309,ANAKIN,PADME,"We're not going to worry about anything right now, all right?",We're not gonna worry about anything right now. All right?,876087
+310,ANAKIN,PADME,This is a happy moment.,This is a happy moment.,876088
+311,ANAKIN,PADME,The happiest moment of my life.,The happiest moment of my life.,876089
+312,GENERAL GRIEVOUS,PALPATINE,"Yes, Lord Sidious.","Yes, Lord Sidious?",876090
+313,PALPATINE,GENERAL GRIEVOUS,General Grievous.,General Grievous...,876091
+314,PALPATINE,GENERAL GRIEVOUS,I suggest you move the separatist leaders to Mustafar.,I suggest you move the separatist leaders to Mustafar.,876092
+315,GENERAL GRIEVOUS,PALPATINE,"It will be done, My Lord.","It will be done, my lord.",876093
+316,PALPATINE,GENERAL GRIEVOUS,"The end of the war is near, General.","The end of the war is near, General.",876094
+317,GENERAL GRIEVOUS,PALPATINE,But the loss of Count Dooku?,But the loss ofCount Dooku...,876095
+318,PALPATINE,GENERAL GRIEVOUS,His death was a necessary loss.,His death was a necessary loss.,876096
+319,PALPATINE,GENERAL GRIEVOUS,Soon I will have a new apprentice- one far younger and more powerful.,one far younger and more powerful.,876098
+320,PADME,ANAKIN,"Ani, I want to have our baby back home on Naboo.","Ani, I want to have our baby back home on Naboo.",876099
+321,PADME,ANAKIN,We can go to the lake country where no one will know.,We can go to the lake country where no one will know...,876100
+322,PADME,ANAKIN,where we can be safe.,where we can be safe.,876101
+323,PADME,ANAKIN,I can go early and fix up the baby's room.,I can go early and fix up the baby's room.,876102
+324,PADME,ANAKIN,"I know the perfect spot, right by the gardens.",I know the perfect spot. Right by the gardens.,876103
+325,ANAKIN,PADME,You are so beautiful!,You are so... beautiful.,876104
+326,PADME,ANAKIN,It's only because I'm so in love.,It's only because I'm so in love.,876105
+327,ANAKIN,PADME,"No, no, it's because I'm so in love with you.","No, it's because I'm so in love with you.",876107
+328,PADME,ANAKIN,So love has blinded you?,So love has blinded you?,876108
+329,ANAKIN,PADME,"Well, that's not exactly what I meant.","Well, that's not exactly what I meant.",876109
+330,PADME,ANAKIN,But it's probably true!,But it's probably true.,876110
+331,PADME,ANAKIN,"Anakin, help me!","Anakin, help me!",876111
+332,PADME,ANAKIN,What's bothering you?,What's bothering you?,876112
+333,ANAKIN,PADME,Nothing.,Nothing.,876113
+334,ANAKIN,PADME,I remember when I gave this to you.,I remember when I gave this toyou.,876114
+335,PADME,ANAKIN,How long is it going to take for us to be honest with each other?,How long is it gonna take for us to be honest with each other?,876115
+336,ANAKIN,PADME,It was a dream.,It was a dream.,876116
+337,PADME,ANAKIN,Bad?,Bad?,876117
+338,ANAKIN,PADME,Like the ones I used to have about my mother just before she died.,just before she died.,876119
+339,PADME,ANAKIN,And?,And?,876120
+340,ANAKIN,PADME,And it was about you.,And it was about you.,876121
+341,PADME,ANAKIN,Tell me.,Tell me.,876122
+342,ANAKIN,PADME,It was only a dream.,It was only a dream.,876123
+343,ANAKIN,PADME,You die in childbirth.,You die in childbirth.,876124
+344,PADME,ANAKIN,And the baby?,And the baby?,876125
+345,ANAKIN,PADME,I don't know.,I don't know.,876126
+346,PADME,ANAKIN,It was only a dream.,It was only a dream.,876127
+347,ANAKIN,PADME,I won't let this one become real.,I won't let this one become real.,876128
+348,PADME,ANAKIN,This baby will change our lives.,This baby will change our lives.,876129
+349,PADME,ANAKIN,"I doubt the Queen will continue to allow me to serve in the Senate, and if the Council discovers you are the father, you will be expelled-.",I doubt the queen will continue to allow me to serve in the senate.,876130
+350,ANAKIN,PADME,"I know, I know.",I...I know. I know.,876132
+351,PADME,ANAKIN,Do you think Obi-Wan might be able to help us?,Doyou think Obi-Wan might be able to help us?,876133
+352,ANAKIN,PADME,We don't need his help.,We don't need his help.,876134
+353,ANAKIN,PADME,Our baby is a blessing.,Our baby is a blessing.,876135
+354,YODA,ANAKIN,Premonitions.,Premonitions? Premonitions. Hmm.,876136
+355,YODA,ANAKIN,premonitions.,Premonitions? Premonitions. Hmm.,876136
+356,YODA,ANAKIN,Hm.,Premonitions? Premonitions. Hmm.,876136
+357,YODA,ANAKIN,these visions you have.,Thesevisions you have...,876137
+358,ANAKIN,YODA,"They are of pain, suffering, death.","They're of pain, suffering.",876138
+359,YODA,ANAKIN,"Yourself you speak of, or someone you know?","Yourselfyou speak of, or someoneyou know?",876140
+360,ANAKIN,YODA,Someone.,Someone.,876141
+361,YODA,ANAKIN,close to you?,Close toyou?,876142
+362,ANAKIN,YODA,Yes.,Yes.,876143
+363,YODA,ANAKIN,"Careful you must be when sensing the future, Anakin.","Careful you must be when sensing the future, Anakin.",876144
+364,YODA,ANAKIN,The fear of loss is a path to the dark side.,The fear of loss is a path to the dark side.,876145
+365,ANAKIN,YODA,"I won't let these visions come true, Master Yoda.","I won't let these visions come true, Master Yoda.",876146
+366,YODA,ANAKIN,Death is a natural part of life.,Death is a natural part of life.,876147
+367,YODA,ANAKIN,Rejoice for those around you who transform into the Force.,Rejoice for those around you who transform into the Force.,876148
+368,YODA,ANAKIN,"Mourn them, do not.","Mourn them, do not. Miss them, do not.",876149
+369,YODA,ANAKIN,"Miss them, do not.","Mourn them, do not. Miss them, do not.",876149
+370,YODA,ANAKIN,Attachment leads to jealousy.,Attachment leads to jealousy.,876150
+371,YODA,ANAKIN,"The shadow of greed, that is.",The shadow of greed that is.,876151
+372,ANAKIN,YODA,"What must I do, Master Yoda?","What must I do, Master Yoda?",876152
+373,YODA,ANAKIN,Train yourself to let go of everything you fear to lose.,of everything you fear to lose.,876154
+374,OBI-WAN,ANAKIN,You missed the report on the Outer Rim sieges.,You've missed the report on the outer rim sieges.,876155
+375,ANAKIN,OBI-WAN,"I'm sorry, I was held up.",I'm sorry. I was held up.,876156
+376,ANAKIN,OBI-WAN,I have no excuse.,"- I have no excuse. - In short, they are going very well.",876157
+377,OBI-WAN,ANAKIN,"In short, they are going very well.","- I have no excuse. - In short, they are going very well.",876157
+378,OBI-WAN,ANAKIN,"Saleucami has fallen, and Master Vos has moved his troops to Boz Pity.","Saleucami has fallen, and Master Vos has moved his troops to Boz Pity.",876158
+379,ANAKIN,OBI-WAN,What's wrong then?,"What's wrong, then?",876159
+380,OBI-WAN,ANAKIN,The Senate is expected to vote more executive powers to the Chancellor today.,to vote more executive powers to the chancellor today.,876161
+381,ANAKIN,OBI-WAN,"Well, that can only mean less deliberating and more action.","Well, that can only mean less deliberating and more action. Is that bad?",876162
+382,ANAKIN,OBI-WAN,Is that bad?,"Well, that can only mean less deliberating and more action. Is that bad?",876162
+383,ANAKIN,OBI-WAN,It will make it easier for us to end this war.,It'll make it easier for us to end this war.,876163
+384,OBI-WAN,ANAKIN,Be careful of your friend Palpatine.,Be careful of your friend Palpatine.,876164
+385,ANAKIN,OBI-WAN,Be careful of what?,Be careful of what?,876165
+386,OBI-WAN,ANAKIN,He has requested your presence.,- He has requested your presence. - What for?,876166
+387,ANAKIN,OBI-WAN,What for?,- He has requested your presence. - What for?,876166
+388,OBI-WAN,ANAKIN,He would not say.,- He would not say. - He didn't inform the council?,876167
+389,ANAKIN,OBI-WAN,He didn't inform the Council?,- He would not say. - He didn't inform the council?,876167
+390,ANAKIN,OBI-WAN,"That's unusual, isn't it?","- That's unusual, isn't it? - All of this is unusual.",876168
+391,OBI-WAN,ANAKIN,"All of this is unusual, and it's making me feel uneasy.",And it's making me feel uneasy.,876169
+392,PALPATINE,ANAKIN,"I hope you trust me, Anakin.","I hope you trust me, Anakin.",876170
+393,ANAKIN,PALPATINE,Of course.,Of course.,876171
+394,PALPATINE,ANAKIN,"I need your help, son.","I need your help, son.",876172
+395,ANAKIN,PALPATINE,What do you mean?,What do you mean?,876173
+396,PALPATINE,ANAKIN,I'm depending on you.,- I'm depending on you. - For what? I don't understand.,876174
+397,ANAKIN,PALPATINE,For what?,- I'm depending on you. - For what? I don't understand.,876174
+398,ANAKIN,PALPATINE,I don't understand.,- I'm depending on you. - For what? I don't understand.,876174
+399,PALPATINE,ANAKIN,"To be the eyes, ears and voice of the Republic.","To be the eyes, ears and voice ofthe Republic.",876175
+400,PALPATINE,ANAKIN,Anakin.,Anakin...,876176
+401,PALPATINE,ANAKIN,I'm appointing you to be my personal representative on the Jedi Council.,I'm appointing you to be my personal representative on the Jedi Council.,876177
+402,ANAKIN,PALPATINE,Me?,Me? A master?,876178
+403,ANAKIN,PALPATINE,A Master?,Me? A master?,876178
+404,ANAKIN,PALPATINE,"I am overwhelmed, sir, but the Council elects its own members.",But the council elects its own members. They'll never accept this.,876180
+405,ANAKIN,PALPATINE,They'll never accept this.,But the council elects its own members. They'll never accept this.,876180
+406,PALPATINE,ANAKIN,I think they will.,I think they will. They need you.,876181
+407,PALPATINE,ANAKIN,they need you more than you know.,More than you know.,876182
+408,YODA,ANAKIN,"Allow this appointment lightly, the Council does not.",Allow this appointment lightly the council does not.,876183
+409,YODA,ANAKIN,Disturbing is this move by Chancellor Palpatine.,Disturbing is this move by Chancellor Palpatine.,876184
+410,ANAKIN,YODA,I understand.,I understand.,876185
+411,MACE WINDU,ANAKIN,"You are on this Council, but we do not grant you the rank of Master.","You are on this council, but we do not grant you the rank of master.",876186
+412,ANAKIN,MACE WINDU,What?,What?,876187
+413,ANAKIN,MACE WINDU,How can you do this?,How can you do this? This is outrageous.,876188
+414,ANAKIN,MACE WINDU,"This is outrageous, it's unfair.",How can you do this? This is outrageous.,876188
+415,ANAKIN,MACE WINDU,How can you be on the Council and not be a Master?,How can you be on the council and not be a master?,876190
+416,MACE WINDU,ANAKIN,"Take a seat, young Skywalker.","Take a seat, young Skywalker.",876191
+417,ANAKIN,MACE WINDU,"Forgive me, Master.","Forgive me, Master.",876192
+418,KI-ADI-MUNDI,GROUP,"We have surveyed all systems in the Republic, but have found no sign of General Grievous.",but have found no sign of General Grievous.,876194
+419,YODA,KI-ADI-MUNDI,"Hiding in the Outer Rim, Grievous is.",Hiding in the outer rim Grievous is.,876195
+420,YODA,KI-ADI-MUNDI,"The outlying systems, you must sweep.",The outlying systems you must sweep.,876196
+421,OBI-WAN,YODA,We do not have many ships to spare.,We do not have many ships to spare.,876197
+422,KI-ADI-MUNDI,YODA,What about the droid attack on the Wookiees?,What about the droid attack on the Wookiees?,876198
+423,MACE WINDU,YODA,"It is critical we send an attack group there, immediately!",It is critical we send an attack group there immediately.,876199
+424,OBI-WAN,YODA,"He's right, that is a system we cannot afford to lose.",He's right. It's a system we cannot afford to lose.,876200
+425,YODA,MACE WINDU,"Go, I will.",Go I will.,876201
+426,YODA,MACE WINDU,"Good relations with the Wookiees, I have.",Good relations with the Wookiees I have.,876202
+427,MACE WINDU,"YODA, KI-ADI-MUNDI, OBI-WAN, ANAKIN",It is settled then.,It's settled then. Yoda will take a battalion of clones...,876203
+428,MACE WINDU,"YODA, KI-ADI-MUNDI, OBI-WAN, ANAKIN",Yoda will take a battalion of clones to reinforce the Wookiees on Kashyyyk.,to reinforce the Wookiees on Kashyyyk.,876204
+429,MACE WINDU,"YODA, KI-ADI-MUNDI, OBI-WAN, ANAKIN",May the Force be with us all.,May the Force be with us all.,876205
+430,ANAKIN,OBI-WAN,"What kind of nonsense is this, put me on the Council and not make me a Master!",What kind of nonsense is this?,876206
+431,ANAKIN,OBI-WAN,That's never been done in the history of the Jedi.,It's never been done in the history of the Jedi. It's insulting.,876208
+432,ANAKIN,OBI-WAN,It's insulting!,It's never been done in the history of the Jedi. It's insulting.,876208
+433,OBI-WAN,ANAKIN,"Calm down, Anakin.","Oh, calm down, Anakin. You have been given a great honor.",876209
+434,OBI-WAN,ANAKIN,You have been given a great honor.,"Oh, calm down, Anakin. You have been given a great honor.",876209
+435,OBI-WAN,ANAKIN,To be on the Council at your age.,To be on the council atyour age... it's never happened before.,876210
+436,OBI-WAN,ANAKIN,It's never happened before.,To be on the council atyour age... it's never happened before.,876210
+437,OBI-WAN,ANAKIN,The fact of the matter is you're too close to the Chancellor.,The fact of the matter is you are too close to the chancellor.,876211
+438,OBI-WAN,ANAKIN,The Council doesn't like it when he interferes in Jedi affairs.,The council doesn't like it when he interferes in Jedi affairs.,876212
+439,ANAKIN,OBI-WAN,"I swear to you, I didn't ask to be put on the Council.","- I swear to you, I didn't ask to be put on the council. - But it's what you wanted.",876213
+440,OBI-WAN,ANAKIN,But it's what you wanted!,"- I swear to you, I didn't ask to be put on the council. - But it's what you wanted.",876213
+441,OBI-WAN,ANAKIN,Your friendship with Chancellor Palpatine seems to have paid off.,Your friendship with Chancellor Palpatine seems to have paid off.,876214
+442,ANAKIN,OBI-WAN,That has nothing to do with this.,That has nothing to do with this.,876215
+443,OBI-WAN,ANAKIN,The only reason the Council has approved your appointment is because the Chancellor trusts you.,The only reason the council has approved your appointment...,876216
+444,ANAKIN,OBI-WAN,And?,"- And? - Anakin, I am on your side.",876218
+445,OBI-WAN,ANAKIN,"Anakin, I am on your side.","- And? - Anakin, I am on your side.",876218
+446,OBI-WAN,ANAKIN,I didn't want to put you in this situation.,- I didn't want to putyou in this situation. - What situation?,876219
+447,ANAKIN,OBI-WAN,What situation?,- I didn't want to putyou in this situation. - What situation?,876219
+448,OBI-WAN,ANAKIN,The Council wants you to report on all of the Chancellor's dealings.,The council wants you to report on all the chancellor's dealings.,876220
+449,OBI-WAN,ANAKIN,They want to know what he's up to.,They want to know what he's up to.,876221
+450,ANAKIN,OBI-WAN,They want me to spy on the Chancellor?,They want me to spy on the chancellor?,876222
+451,ANAKIN,OBI-WAN,That's treason!,"- But that's treason. - We are at war, Anakin.",876223
+452,OBI-WAN,ANAKIN,"We are at war, Anakin.","- But that's treason. - We are at war, Anakin.",876223
+453,ANAKIN,OBI-WAN,Why didn't the Council give me this assignment when we were in session?,Why didn't the council give me this assignment when we were in session?,876224
+454,OBI-WAN,ANAKIN,This assignment is not to be on record.,This assignment is not to be on record.,876225
+455,ANAKIN,OBI-WAN,"The Chancellor is not a bad man, Obi-Wan.","The chancellor is not a bad man, Obi-Wan.",876226
+456,ANAKIN,OBI-WAN,He befriended me.,He befriended me. He's watched out for me ever since I arrived here.,876227
+457,ANAKIN,OBI-WAN,He's watched out for me ever since I arrived here.,He befriended me. He's watched out for me ever since I arrived here.,876227
+458,OBI-WAN,ANAKIN,That is why you must help us.,That is why you must help us.,876228
+459,OBI-WAN,ANAKIN,"Anakin, our allegiance is to the Senate, not to its leader who has managed to stay in office long after his term has expired.",who has managed to stay in office long after his term has expired.,876230
+460,ANAKIN,OBI-WAN,The Senate demanded that he stay longer.,The senate demanded that he stay longer.,876231
+461,OBI-WAN,ANAKIN,"Yes, but use your feelings, Anakin.","Yes, but use your feelings, Anakin. Something is out of place.",876232
+462,OBI-WAN,ANAKIN,Something is out of place.,"Yes, but use your feelings, Anakin. Something is out of place.",876232
+463,ANAKIN,OBI-WAN,You're asking me to do something against the Jedi Code.,You're asking me to do something against the Jedi code...,876233
+464,ANAKIN,OBI-WAN,Against the Republic.,"against the Republic, against a mentor and a friend.",876234
+465,ANAKIN,OBI-WAN,Against a mentor.,"against the Republic, against a mentor and a friend.",876234
+466,ANAKIN,OBI-WAN,and a friend.,"against the Republic, against a mentor and a friend.",876234
+467,ANAKIN,OBI-WAN,That's what's out of place here.,That's what's out of place here. Why are you asking this ofme?,876235
+468,ANAKIN,OBI-WAN,Why are you asking this of me?,That's what's out of place here. Why are you asking this ofme?,876235
+469,OBI-WAN,ANAKIN,The Council is asking you.,The council is asking you.,876236
+470,OBI-WAN,"MACE WINDU, YODA",Anakin did not take to his assignment with much enthusiasm.,Anakin did not take to his new assignment with much enthusiasm.,876237
+471,MACE WINDU,OBI-WAN,"It's very dangerous, putting them together.","It's very dangerous, putting them together.",876238
+472,MACE WINDU,OBI-WAN,I don't think the boy can handle it.,I don't think the boy can handle it.,876239
+473,MACE WINDU,OBI-WAN,I don't trust him.,I don't trust him.,876240
+474,OBI-WAN,MACE WINDU,"With all due respect, Master, is he not the Chosen One?","With all due respect, Master, is he not the chosen one?",876241
+475,OBI-WAN,MACE WINDU,Is he not to destroy the Sith and bring balance to the Force?,Is he not to destroy the Sith and bring balance to the Force?,876242
+476,MACE WINDU,OBI-WAN,So the prophecy says.,So the prophecy says.,876243
+477,YODA,"OBI-WAN, MACE WINDU",A prophecy.,A prophecy that misread could have been.,876244
+478,YODA,"OBI-WAN, MACE WINDU",that misread could have been.,A prophecy that misread could have been.,876244
+479,OBI-WAN,YODA,He will not let me down.,He will not let me down.,876245
+480,OBI-WAN,YODA,He never has.,He never has.,876246
+481,YODA,OBI-WAN,I hope right you are.,I hope right you are.,876247
+482,ANAKIN,PADME,"Sometimes, I wonder what's happening to the Jedi Order.",Sometimes I wonder what's happening to the Jedi order.,876248
+483,ANAKIN,PADME,I think this war is destroying the principles of the Republic.,I think this war is destroying the principles of the Republic.,876249
+484,PADME,ANAKIN,Have you ever considered that we may be on the wrong side?,Have you ever considered that we may be on the wrong side?,876250
+485,ANAKIN,PADME,What do you mean?,What do you mean?,876251
+486,PADME,ANAKIN,"What if the democracy we thought we were serving no longer exists, and the Republic has become the very evil we've been fighting to destroy?",and the Republic has become the very evil we've been fighting to destroy?,876253
+487,ANAKIN,PADME,I don't believe that.,I don't believe that.,876254
+488,ANAKIN,PADME,And you're sounding like a Separatist!,And you're sounding like a separatist.,876255
+489,PADME,ANAKIN,This war represents a failure to listen.,This war represents a failure to listen.,876256
+490,PADME,ANAKIN,"Now, you're closer to the Chancellor than anyone.",Nowyou're closer to the chancellor than anyone.,876257
+491,PADME,ANAKIN,"Please, ask him to stop the fighting and let diplomacy resume.","Please, ask him to stop the fighting and let diplomacy resume.",876258
+492,ANAKIN,PADME,Don't ask me to do that.,Don't ask me to do that.,876259
+493,ANAKIN,PADME,"Make a motion in the Senate, where that kind of a request belongs.","Make a motion in the senate, where that kind ofa request belongs.",876260
+494,PADME,ANAKIN,What is it?,- What is it? - Nothing.,876261
+495,ANAKIN,PADME,Nothing.,- What is it? - Nothing.,876261
+496,PADME,ANAKIN,Don't do this.,Don't do this. Don't shut me out. Let me help you.,876262
+497,PADME,ANAKIN,don't shut me out.,Don't do this. Don't shut me out. Let me help you.,876262
+498,PADME,ANAKIN,Let me help you.,Don't do this. Don't shut me out. Let me help you.,876262
+499,PADME,ANAKIN,Hold me.,Hold me.,876263
+500,PADME,ANAKIN,"like you did by the lake on Naboo, so long ago.",Like you did by the lake on Naboo.,876264
+501,PADME,ANAKIN,when there was nothing but our love.,"So long ago, when there was nothing but our love.",876265
+502,PADME,ANAKIN,"No politics, no plotting.","No politics, no plotting, nowar.",876266
+503,PADME,ANAKIN,no war.,"No politics, no plotting, nowar.",876266
+504,ANAKIN,PALPATINE,"You wanted to see me, Chancellor.","- You wanted to see me, Chancellor. - Yes, Anakin. Come closer.",876267
+505,PALPATINE,ANAKIN,"Yes, Anakin!","- You wanted to see me, Chancellor. - Yes, Anakin. Come closer.",876267
+506,PALPATINE,ANAKIN,Come closer.,"- You wanted to see me, Chancellor. - Yes, Anakin. Come closer.",876267
+507,PALPATINE,ANAKIN,I have good news.,I have good news.,876268
+508,PALPATINE,ANAKIN,Our Clone Intelligence Units have discovered the location of General Grievous.,Our clone intelligence units have discovered the location of General Grievous.,876269
+509,PALPATINE,ANAKIN,He's hiding in the Utapau system.,He's hiding in the Utapau system.,876270
+510,ANAKIN,PALPATINE,"At last, we'll be able to capture that monster and end this war.",We'll be able to capture that monster and end this war.,876272
+511,PALPATINE,ANAKIN,I would worry about the collective wisdom of the Council if they didn't select you for this assignment.,I would worry about the collective wisdom of the council...,876273
+512,PALPATINE,ANAKIN,"You are the best choice, by far.","You're the best choice, by far.",876275
+513,PALPATINE,ANAKIN,"Sit down,","You're the best choice, by far.",876275
+514,PALPATINE,NA,Leave us.,Leave us.,876277
+515,PALPATINE,ANAKIN,"Anakin, you know I'm not able to rely on the Jedi Council.",you know I'm not able to rely on the Jedi Council.,876279
+516,PALPATINE,ANAKIN,"If they haven't included you in their plot, they soon will.","If they haven't included you in their plot, they soon will.",876280
+517,ANAKIN,PALPATINE,I'm not sure I understand.,I'm not sure I understand.,876281
+518,PALPATINE,ANAKIN,You must sense what I have come to suspect.,You must sense what I have come to suspect.,876282
+519,PALPATINE,ANAKIN,the Jedi Council want control of the Republic.,The Jedi Council want control ofthe Republic.,876283
+520,PALPATINE,ANAKIN,they're planning to betray me.,They're planning to betray me.,876284
+521,ANAKIN,PALPATINE,I don't think.,- I don't think that... - Anakin.,876285
+522,PALPATINE,ANAKIN,"Anakin, search your feelings.",Search your feelings.,876286
+523,PALPATINE,ANAKIN,"You know, don't you?","You know, don't you?",876287
+524,ANAKIN,PALPATINE,I know they don't trust you.,- I know they don't trust you. - Hmm. Or the senate.,876288
+525,PALPATINE,ANAKIN,Or the Senate.,- I know they don't trust you. - Hmm. Or the senate.,876288
+526,PALPATINE,ANAKIN,or the Republic.,- I know they don't trust you. - Hmm. Or the senate.,876288
+527,PALPATINE,ANAKIN,or democracy for that matter.,"Or the Republic, or democracy, for that matter.",876289
+528,ANAKIN,PALPATINE,I have to admit my trust in them has been shaken.,"I have to admit, my trust in them has been shaken.",876290
+529,PALPATINE,ANAKIN,Why?,Why?,876291
+530,PALPATINE,ANAKIN,"They asked you to do something that made you feel dishonest, didn't they?","that made you feel dishonest, didn't they?",876293
+531,PALPATINE,ANAKIN,"They asked you to spy on me, didn't they?","They asked you to spy on me, didn't they?",876294
+532,ANAKIN,PALPATINE,I don't uh.,"I don't, uh...",876295
+533,ANAKIN,PALPATINE,I don't know what to say.,I don't know what to say.,876296
+534,PALPATINE,ANAKIN,Remember back to your early teachings.,Remember back to your early teachings.,876297
+535,PALPATINE,ANAKIN,"""All who gain power are afraid to lose it.",All who gain power are afraid to lose it.,876298
+536,PALPATINE,ANAKIN,""" Even the Jedi.",- Even the Jedi. - The Jedi use their power for good.,876299
+537,ANAKIN,PALPATINE,The Jedi use their power for good.,- Even the Jedi. - The Jedi use their power for good.,876299
+538,PALPATINE,ANAKIN,"Good is a point of view, Anakin.","Good is a point of view, Anakin.",876300
+539,PALPATINE,ANAKIN,"The Sith and the Jedi are similar in almost every way, including their quest for greater power.",including their quest for greater power.,876302
+540,ANAKIN,PALPATINE,The Sith rely on their passion for their strength.,The Sith rely on their passion for their strength.,876303
+541,ANAKIN,PALPATINE,"They think inwards, only about themselves.",They think inwards... only about themselves.,876304
+542,PALPATINE,ANAKIN,And the Jedi don't?,And the Jedi don't?,876305
+543,ANAKIN,PALPATINE,The Jedi are selfless.,The Jedi are selfless. They only care about others.,876306
+544,ANAKIN,PALPATINE,they only care about others.,The Jedi are selfless. They only care about others.,876306
+545,PALPATINE,ANAKIN,Did you ever hear the tragedy of Darth Plagueis the wise?,Did you ever hear the tragedy of Darth Plagueis the Wise?,876308
+546,ANAKIN,PALPATINE,No.,- No. - I thought not.,876309
+547,PALPATINE,ANAKIN,I thought not.,- No. - I thought not.,876309
+548,PALPATINE,ANAKIN,It's not a story the Jedi would tell you.,It's not a story the Jedi would tell you.,876310
+549,PALPATINE,ANAKIN,It's a Sith legend.,It's a Sith legend.,876311
+550,PALPATINE,ANAKIN,"Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midi-chlorians to create life.",he could use the Force to influence the midi-chlorians...,876314
+551,PALPATINE,ANAKIN,He had such a knowledge of the dark side that he could even keep the ones he cared about from dying.,He had such a knowledge ofthe dark side...,876316
+552,ANAKIN,PALPATINE,He could actually save people from death?,He could actually... save people from death?,876319
+553,PALPATINE,ANAKIN,The dark side of the Force is a pathway to many abilities some consider to be unnatural.,some consider to be unnatural.,876321
+554,ANAKIN,PALPATINE,What happened to him?,Wh...What happened to him?,876322
+555,PALPATINE,ANAKIN,He became so powerful.,He became so powerful...,876323
+556,PALPATINE,ANAKIN,"the only thing he was afraid of was losing his power, which eventually, of course, he did.",the only thing he was afraid of was...,876324
+557,PALPATINE,ANAKIN,"Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep.","Unfortunately, he taught his apprentice everything he knew.",876327
+558,PALPATINE,ANAKIN,"It's ironic he could save others from death, but not himself.",but not himself.,876331
+559,ANAKIN,PALPATINE,Is it possible to learn this power?,Is it possible to learn this power?,876332
+560,PALPATINE,ANAKIN,Not from a Jedi.,Not from a Jedi.,876333
+561,KI-ADI-MUNDI,ANAKIN,Palpatine thinks General Grievous is on Utapau?,Palpatine thinks General Grievous is on Utapau?,876335
+562,ANAKIN,"KI-ADI-MUNDI, OBI-WAN, MACE WINDU, YODA, CHEWIE",A partial message was intercepted in a diplomatic packet from the Chairman of Utapau.,A partial message was intercepted in a diplomatic packet...,876336
+563,YODA,"ANAKIN, KI-ADI-MUNDI, OBI-WAN, MACE WINDU, CHEWIE","Act on this, we must.",Act on this we must.,876338
+564,YODA,"ANAKIN, KI-ADI-MUNDI, OBI-WAN, MACE WINDU, CHEWIE",The capture of General Grievous will end this war.,The capture of General Grievous will end this war.,876339
+565,YODA,"ANAKIN, KI-ADI-MUNDI, OBI-WAN, MACE WINDU, CHEWIE",Quickly and decisively we should proceed.,Quickly and decisively we should proceed.,876340
+566,ANAKIN,"KI-ADI-MUNDI, OBI-WAN, MACE WINDU, YODA, CHEWIE",The Chancellor has requested that I lead the campaign.,The chancellor has requested... that I lead the campaign.,876341
+567,MACE WINDU,"KI-ADI-MUNDI, OBI-WAN, ANAKIN, YODA, CHEWIE","The Council will make up its own mind who is to go, not the Chancellor.",The council will make up its own mind who is to go...,876342
+568,YODA,"KI-ADI-MUNDI, OBI-WAN, MACE WINDU, ANAKIN, CHEWIE","A Master is needed, with more experience.","A master is needed, with more experience.",876344
+569,KI-ADI-MUNDI,"OBI-WAN, MACE WINDU, ANAKIN, YODA, CHEWIE",I concur.,I concur. Master Kenobi should go.,876345
+570,KI-ADI-MUNDI,"OBI-WAN, MACE WINDU, ANAKIN, YODA, CHEWIE",Master Kenobi should go.,I concur. Master Kenobi should go.,876345
+571,YODA,"KI-ADI-MUNDI, OBI-WAN, MACE WINDU, ANAKIN, CHEWIE",I agree.,- I agree. - Aye.,876346
+572,KI-ADI-MUNDI,"OBI-WAN, MACE WINDU, ANAKIN, YODA, CHEWIE",Aye,- I agree. - Aye.,876346
+573,MACE WINDU,"KI-ADI-MUNDI, OBI-WAN, ANAKIN, YODA, CHEWIE",Aye Very well.,Verywell. Council adjourned.,876348
+574,MACE WINDU,"KI-ADI-MUNDI, OBI-WAN, ANAKIN, YODA, CHEWIE",Council is adjourned.,Verywell. Council adjourned.,876348
+575,CLONE COMMANDER GREE,YODA,The droids have started up their main power generators.,The droids have started up their main power generators.,876349
+576,YODA,NA,"Then now the time is, Commander.","- Then now the time is, Commander. - Yes, sir.",876350
+577,CHEWIE,NA,GROWL
+578,CLONE COMMANDER GREE,NA,"Yes, sir.","- Then now the time is, Commander. - Yes, sir.",876350
+579,ANAKIN,OBI-WAN,"You're going to need me on this one, Master.","- You're gonna need me on this one, Master. - Oh, I agree.",876353
+580,OBI-WAN,ANAKIN,"Oh, I agree.","- You're gonna need me on this one, Master. - Oh, I agree.",876353
+581,OBI-WAN,ANAKIN,However it may turn out just to be a wild bantha chase.,"- However, it may turn out just to be a wild bantha chase. - Master.",876354
+582,ANAKIN,OBI-WAN,Master!,"- However, it may turn out just to be a wild bantha chase. - Master.",876354
+583,ANAKIN,OBI-WAN,I've disappointed you.,"I've disappointed you. Uh, I haven't been very appreciative ofyour training.",876355
+584,ANAKIN,OBI-WAN,I have not been very appreciative of your training.,"I've disappointed you. Uh, I haven't been very appreciative ofyour training.",876355
+585,ANAKIN,OBI-WAN,I have been arrogant and I apologize.,"I've been arrogant, and I apologize.",876356
+586,ANAKIN,OBI-WAN,I've just been so frustrated with the Council.,I've just been so frustrated with the council.,876357
+587,OBI-WAN,ANAKIN,"You are strong and wise, Anakin, and I am very proud of you.","You are strong and wise, Anakin, and I am very proud of you.",876358
+588,OBI-WAN,ANAKIN,I have trained you since you were a small boy.,I have trained you since you were a small boy.,876359
+589,OBI-WAN,ANAKIN,I have taught you everything I know.,I have taught you everything I know.,876360
+590,OBI-WAN,ANAKIN,And you have become a far greater Jedi than I could ever hope to be.,And you have become a far greater Jedi than I could ever hope to be.,876361
+591,OBI-WAN,ANAKIN,"But be patient, Anakin.","But be patient, Anakin.",876362
+592,OBI-WAN,ANAKIN,It won't be long before the Council makes you a Jedi Master.,It will not be long before the council makes you a Jedi master.,876363
+593,ANAKIN,OBI-WAN,Obi-Wan.,Obi-Wan. May the Force be with you.,876364
+594,ANAKIN,OBI-WAN,May the Force be with you.,Obi-Wan. May the Force be with you.,876364
+595,OBI-WAN,ANAKIN,"Good-bye, old friend.","Good-bye, old friend. May the Force be with you.",876365
+596,OBI-WAN,ANAKIN,May the Force be with you.,"Good-bye, old friend. May the Force be with you.",876365
+597,CLONE COMMANDER CODY,OBI-WAN,"Fortunately, most of the cities are concentrated on this small continent here.","Fortunately, most of the cities are concentrated on this small continent here.",876366
+598,CLONE COMMANDER CODY,OBI-WAN,on the far side.,- On the far side. - I'll keep them distracted until you get there.,876367
+599,OBI-WAN,CLONE COMMANDER CODY,I'll keep them distracted until you get there.,- On the far side. - I'll keep them distracted until you get there.,876367
+600,OBI-WAN,CLONE COMMANDER CODY,Just don't take too long.,- Just don't take too long. - Come on. When have I ever let you down?,876368
+601,CLONE COMMANDER CODY,OBI-WAN,"Come on, when have I ever let you down?",- Just don't take too long. - Come on. When have I ever let you down?,876368
+602,OBI-WAN,CLONE COMMANDER CODY,"Very well, the burden is on me not to destroy all the droids unil you arrive",The burden is on me not to destroy all the droids until you arrive.,876370
+603,OBI-WAN,NA,Save your energy.,Save your energy.,876371
+604,PADME,NA,I can't!,I can't.,876372
+605,OBI-WAN,NA,"Don't give up, Padme.","Don't give up, Padmé.",876373
+606,ANAKIN,PADME,"Obi-Wan's been here, hasn't he?","Obi-Wan's been here, hasn't he?",876374
+607,PADME,ANAKIN,He came by this morning.,He came by this morning.,876375
+608,ANAKIN,PADME,What did he want?,What did he want?,876376
+609,PADME,ANAKIN,He's worried about you.,He's worried about you.,876377
+610,PADME,ANAKIN,He says you're been under a lot of stress.,He says you've been under a lot of stress.,876378
+611,ANAKIN,PADME,I feel lost.,I feel lost.,876379
+612,PADME,ANAKIN,Lost?,Lost? What do you mean?,876380
+613,PADME,ANAKIN,What do you mean?,Lost? What do you mean?,876380
+614,ANAKIN,PADME,Obi-Wan and the Council don't trust me.,Obi-Wan and the council don't trust me.,876381
+615,PADME,ANAKIN,They trust you with their lives.,They trustyou with their lives.,876382
+616,ANAKIN,PADME,Something's happening.,Something's happening.,876383
+617,ANAKIN,PADME,I'm not the Jedi I should be.,I'm not the Jedi I should be.,876384
+618,ANAKIN,PADME,"I want more, and I know I shouldn't.",And I know I shouldn't.,876386
+619,PADME,ANAKIN,You expect too much of yourself.,You expect too much of yourself.,876387
+620,ANAKIN,PADME,I have found a way to save you.,- I found a way to save you. - Save me?,876388
+621,PADME,ANAKIN,Save me?,- I found a way to save you. - Save me?,876388
+622,ANAKIN,PADME,From my nightmares.,From my nightmares.,876389
+623,PADME,ANAKIN,Is that what's bothering you?,Is that what's bothering you?,876390
+624,ANAKIN,PADME,"I won't lose you, Padme.","I won't lose you, Padmé.",876391
+625,PADME,ANAKIN,"I'm not going to die in childbirth, Annie.","I'm not gonna die in childbirth, Ani.",876392
+626,PADME,ANAKIN,I promise you.,"I promise you. No, I promise you.",876393
+627,ANAKIN,PADME,"No, I promise you!","I promise you. No, I promise you.",876393
+628,TION MEDON,OBI-WAN,"Greetings, young Jedi.","Greetings, young Jedi.",876394
+629,TION MEDON,OBI-WAN,What brings you to our remote sanctuary?,What brings you to our remote sanctuary?,876395
+630,OBI-WAN,TION MEDON,"Unfortunately, the war.","Unfortunately, the war.",876396
+631,TION MEDON,OBI-WAN,There's no war here.,There's no war here... unless you brought it with you.,876397
+632,TION MEDON,OBI-WAN,Unless you've brought it with you.,There's no war here... unless you brought it with you.,876397
+633,OBI-WAN,TION MEDON,"With your kind permission, I should like some fuel and to use your city as a base as I search nearby systems for General Grievous.",and to use your city as a base as I search nearby systems for General Grievous.,876399
+634,TION MEDON,OBI-WAN,He is here.,He is here. We are being held hostage.,876400
+635,TION MEDON,OBI-WAN,We are being held hostage.,He is here. We are being held hostage.,876400
+636,TION MEDON,OBI-WAN,They are watching us.,- They are watching us. - I understand.,876401
+637,OBI-WAN,TION MEDON,I understand.,- They are watching us. - I understand.,876401
+638,TION MEDON,OBI-WAN,"Tenth level, thousands of battle droids.","Tenth level, thousands of battle droids.",876402
+639,OBI-WAN,TION MEDON,Tell your people to take shelter.,Tell your people to take shelter.,876403
+640,OBI-WAN,TION MEDON,"If you have warriors, now is the time.","If you have warriors, now is the time.",876404
+641,OBI-WAN,NA,Take the Fighter back to the ship.,Take the fighter back to the ship. Tell Cody I've made contact.,876405
+642,OBI-WAN,NA,I'm staying here.
+643,OBI-WAN,NA,Tell Cody I've made contact.,Take the fighter back to the ship. Tell Cody I've made contact.,876405
+644,ALIEN 2,TION MEDON,Is he bringing additional warriors?,- Is he bringing additional warriors? - He didn't say.,876406
+645,TION MEDON,ALIEN 2,He didn't say.,- Is he bringing additional warriors? - He didn't say.,876406
+646,GENERAL GRIEVOUS,NUTE,It won't be long before the armies of the Republic track us here.,It won't be long before the armies of the Republic track us here.,876407
+647,GENERAL GRIEVOUS,NUTE,I am sending you to the Mustafar system in the Outer Rim.,I am sending you to the Mustafar system in the outerrim.,876408
+648,GENERAL GRIEVOUS,NUTE,It is a volcanic planet.,It is a volcanic planet.,876409
+649,GENERAL GRIEVOUS,NUTE,You will be safe there.,- You will be safe there. - Safe?,876410
+650,NUTE,GENERAL GRIEVOUS,Safe?,- You will be safe there. - Safe?,876410
+651,NUTE,GENERAL GRIEVOUS,"Chancellor Palpatine managed to escape your grip, General, without Count Dooku.","Hmph! Chancellor Palpatine managed to escape your grip, General.",876411
+652,NUTE,GENERAL GRIEVOUS,I have doubts about your ability to keep us safe.,"Without Count Dooku, I have doubts about your ability to keep us safe.",876412
+653,GENERAL GRIEVOUS,NUTE,"Be thankful, Viceroy, you have not found yourself in my grip.",you have not found yourself in my grip.,876414
+654,GENERAL GRIEVOUS,NUTE,Your ship is waiting.,Your ship is waiting.,876415
+655,OBI-WAN,GENERAL GRIEVOUS,"Hello, there!",Hello there.,876416
+656,GENERAL GRIEVOUS,OBI-WAN,"General Kenobi, you are a bold one.",You are a bold one.,876418
+657,GENERAL GRIEVOUS,NA,Kill him!,Kill him.,876419
+658,GENERAL GRIEVOUS,NA,Back away.,Back away.,876420
+659,GENERAL GRIEVOUS,NA,I will deal with this Jedi slime myself.,I will deal with this Jedi slime myself.,876421
+660,OBI-WAN,GENERAL GRIEVOUS,Your move.,Your move.,876422
+661,GENERAL GRIEVOUS,OBI-WAN,You fool.,You fool.,876423
+662,GENERAL GRIEVOUS,OBI-WAN,I have been trained in your Jedi arts by Count Dooku.,I've been trained in your Jedi arts by Count Dooku.,876424
+663,GENERAL GRIEVOUS,OBI-WAN,"Attack, Kenobi.","Attack, Kenobi.",876425
+664,GENERAL GRIEVOUS,OBI-WAN,"Army or not, you must realize you are doomed.",you must realize you are doomed.,876427
+665,OBI-WAN,GENERAL GRIEVOUS,"Oh, I don't think so.","Oh, I don't think so.",876428
+666,CLONE COMMANDER CODY,MACE WINDU,"Master Windu, may I interrupt?","Master Windu, may I interrupt?",765
+667,CLONE COMMANDER CODY,MACE WINDU,"General Kenobi has made contact with General Grievous, and we have begun our attack.",and we have begun our attack.,876434
+668,MACE WINDU,CLONE COMMANDER CODY,"Thank, you Commander.","Thank you, Commander.",876435
+669,MACE WINDU,ANAKIN,"Anakin, deliver this report to the chancellor.","Anakin, deliver this report to the chancellor.",876436
+670,MACE WINDU,ANAKIN,His reaction will give us a clue to his intentions.,His reaction will give us a clue to his intentions.,876437
+671,ANAKIN,MACE WINDU,"Yes, Master.","Yes, Master.",876438
+672,MACE WINDU,"KI-ADI-MUNDI, YODA",I sense a plot to destroy the Jedi.,I sense a plot to destroy the Jedi.,876439
+673,MACE WINDU,"KI-ADI-MUNDI, YODA",The dark side of the Force surrounds the Chancellor.,The dark side of the Force surrounds the chancellor.,876440
+674,KI-ADI-MUNDI,"MACE WINDU, YODA","If he does not give up his emergency powers after the destruction of Grievous, then he should be removed from office.",If he does not give up his emergency powers after the destruction of Grievous...,876441
+675,MACE WINDU,"KI-ADI-MUNDI, YODA",The jedi council would have to take control of the senate in order to secure a peaceful transition.,in order to secure a peaceful transition.,876444
+676,YODA,"MACE WINDU, KI-ADI-MUNDI",To a dark place this line of thought will carry us.,To a dark place this line of thought will carry us.,876445
+677,YODA,"MACE WINDU, KI-ADI-MUNDI",Hmm.,Hmm. Great care we must take.,876446
+678,YODA,"MACE WINDU, KI-ADI-MUNDI",great care we must take.,Hmm. Great care we must take.,876446
+679,ANAKIN,PALPATINE,"Chancellor, we have just received a report from Master Kenobi.",We've just received a report from Master Kenobi.,876448
+680,ANAKIN,PALPATINE,He has engaged General Grievous.,He has engaged General Grievous.,876449
+681,PALPATINE,ANAKIN,We can only hope that Master Kenobi is up to the challenge.,We can only hope that Master Kenobi is up to the challenge.,876450
+682,ANAKIN,PALPATINE,I should be there with him.,I should be there with him.,876451
+683,PALPATINE,ANAKIN,It is upsetting to me to see that the Council doesn't seem to fully appreciate your talents.,doesn't seem to fully appreciate your talents.,876453
+684,PALPATINE,ANAKIN,Don't you wonder why they won't make you a Jedi Master?,Don't you wonder why they won't make you a Jedi master?,876454
+685,ANAKIN,PALPATINE,I wish I knew.,I wish I knew.,876455
+686,ANAKIN,PALPATINE,More and more I get the feeling that I am being excluded from the Council.,More and more I get the feeling that...,876456
+687,ANAKIN,PALPATINE,I know there are things about the Force that they are not telling me.,I know there are things about the Force that they're not telling me.,876458
+688,PALPATINE,ANAKIN,"They don't trust you, Anakin.","They don't trust you, Anakin.",876459
+689,PALPATINE,ANAKIN,They see your future.,They see your future.,876460
+690,PALPATINE,ANAKIN,They know your power will be too strong to control.,They know your power will be too strong to control.,876461
+691,PALPATINE,ANAKIN,You must break through the fog of lies the Jedi have created around you.,You must break through the fog of lies the Jedi have created around you.,876462
+692,PALPATINE,ANAKIN,Let me help you to know the subtleties of the Force.,Let me help you to know the subtleties of the Force.,876463
+693,ANAKIN,PALPATINE,How do you know the ways of the Force?,How do you know the ways ofthe Force?,876464
+694,PALPATINE,ANAKIN,My mentor taught me everything about the Force.,My mentor taught me everything about the Force.,876465
+695,PALPATINE,ANAKIN,even the nature of the dark side.,Even the nature of the dark side.,876466
+696,ANAKIN,PALPATINE,You know the dark side?,You know the dark side?,876467
+697,PALPATINE,ANAKIN,"Anakin, if one is to understand the great mystery, one must study all its aspects, not just the dogmatic, narrow view of the Jedi.",if one is to understand the great mystery...,876469
+698,PALPATINE,ANAKIN,"If you wish to become a complete and wise leader, you must embrace a larger view of the Force.",you must embrace a larger view of the Force.,876473
+699,PALPATINE,ANAKIN,"Be careful of the Jedi, Anakin.","Be careful of the Jedi, Anakin.",876474
+700,PALPATINE,ANAKIN,Only through me can you achieve a power greater than any Jedi.,can you achieve a power greater than any Jedi.,876476
+701,PALPATINE,ANAKIN,Learn to know the dark side of the Force and you will be able to save your wife from certain death.,Learn to know the dark side of the Force...,876477
+702,ANAKIN,PALPATINE,What did you say?,What did you say?,876480
+703,PALPATINE,ANAKIN,"Use my knowledge, I beg you.",Use my knowledge. I beg you.,876481
+704,ANAKIN,PALPATINE,You're the Sith Lord!,You're the Sith lord.,876482
+705,PALPATINE,ANAKIN,I know what has been troubling you.,I know what's been troubling you. Listen to me.,876483
+706,PALPATINE,ANAKIN,Listen to me.,I know what's been troubling you. Listen to me.,876483
+707,PALPATINE,ANAKIN,Don't continue to be a pawn of the Jedi Council!,Don't continue to be a pawn of the Jedi Council.,876484
+708,PALPATINE,ANAKIN,"Ever since I've known you, you've been searching for a life greater than that of an ordinary Jedi.","Ever since I've known you, you've been searching for a life...",876485
+709,PALPATINE,ANAKIN,"a life of significance, of conscience.",of conscience.,876488
+710,PALPATINE,ANAKIN,Are you going to kill me?,- Are you going to kill me? - I would certainly like to.,876489
+711,ANAKIN,PALPATINE,I would certainly like to.,- Are you going to kill me? - I would certainly like to.,876489
+712,PALPATINE,ANAKIN,I know you would.,I know you would.,876490
+713,PALPATINE,ANAKIN,I can feel your anger.,I can feel your anger.,876491
+714,PALPATINE,ANAKIN,"It gives you focus, makes you stronger.",makes you stronger.,876493
+715,ANAKIN,PALPATINE,I am going to turn you over to the Jedi Council.,- I'm going to turn you over to the Jedi Council. - Of course. You should.,876494
+716,PALPATINE,ANAKIN,Of course you should.,- I'm going to turn you over to the Jedi Council. - Of course. You should.,876494
+717,PALPATINE,ANAKIN,"But you're not sure of their intentions, are you?","But you're not sure of their intentions, areyou?",876495
+718,ANAKIN,PALPATINE,I will quickly discover the truth of all this.,I will quickly discover the truth of all this.,876496
+719,PALPATINE,ANAKIN,"You have great wisdom, Anakin.","You have great wisdom, Anakin.",876497
+720,PALPATINE,ANAKIN,Know the power of the dark side.,Know the power of the dark side.,876498
+721,PALPATINE,ANAKIN,The power to save Padme.,Power to save Padmé.,876499
+722,OBI-WAN,OBI-WAN,So uncivilized.
+723,ANAKIN,MACE WINDU,"Master Windu, I must talk to you.","Master Windu, I must talk to you.",876502
+724,MACE WINDU,ANAKIN,"Skywalker, we just received word that Obi-Wan has destroyed General Grievous.","Skywalker, we just received word that Obi-Wan has destroyed General Grievous.",876503
+725,MACE WINDU,ANAKIN,We're on our way to make sure the chancellor returns emergency power back to the senate.,We're on our way to make sure the chancellor returns emergency power back to the senate.,876504
+726,ANAKIN,MACE WINDU,He won't give up his power.,He won't give up his power. I've just learned a terrible truth.,876505
+727,ANAKIN,MACE WINDU,I've just learned a terrible truth.,He won't give up his power. I've just learned a terrible truth.,876505
+728,ANAKIN,MACE WINDU,I think Chancellor Palpatine is a Sith Lord.,I think Chancellor Palpatine is a Sith lord.,876506
+729,MACE WINDU,ANAKIN,A Sith Lord?,A Sith lord?,876507
+730,ANAKIN,MACE WINDU,Yes.,Yes. The one we've been looking for.,876508
+731,ANAKIN,MACE WINDU,The one we have been looking for.,Yes. The one we've been looking for.,876508
+732,MACE WINDU,ANAKIN,How do you know this?,- How do you know this? - He knows the ways of the Force.,876509
+733,ANAKIN,MACE WINDU,He knows the ways of the Force.,- How do you know this? - He knows the ways of the Force.,876509
+734,ANAKIN,MACE WINDU,He has been trained to use the dark side.,He's been trained to use the dark side.,876510
+735,MACE WINDU,ANAKIN,Are you sure?,- Are you sure? - Absolutely.,876511
+736,ANAKIN,MACE WINDU,Absolutely.,- Are you sure? - Absolutely.,876511
+737,MACE WINDU,ANAKIN,Then our worst fears have been realized.,Then our worst fears have been realized.,876512
+738,MACE WINDU,ANAKIN,We must move quickly if the Jedi Order is to survive.,We must move quickly if the Jedi order is to survive.,876513
+739,ANAKIN,MACE WINDU,"Master, the Chancellor is very powerful.","Master, the chancellor is very powerful.",876514
+740,ANAKIN,MACE WINDU,You will need my help if you are going to arrest him.,You'll need my help if you're going to arrest him.,876515
+741,MACE WINDU,ANAKIN,"For your own good, stay out of this affair.","For you own good, stay out ofthis affair.",876516
+742,MACE WINDU,ANAKIN,"I sense a great deal of confusion in you, young Skywalker.","I sense a great deal of confusion in you, young Skywalker.",876517
+743,MACE WINDU,ANAKIN,There is much fear that clouds your judgment.,There is much fear that clouds your judgment.,876518
+744,ANAKIN,MACE WINDU,"I must go, Master.","- I must go, Master. - No.",876519
+745,MACE WINDU,ANAKIN,No.,"- I must go, Master. - No.",876519
+746,MACE WINDU,ANAKIN,"If what you've told me is true, you will have gained my trust.",you will have gained my trust.,876521
+747,MACE WINDU,ANAKIN,"But for now, remain here.","But for now, remain here.",876522
+748,MACE WINDU,ANAKIN,Wait in the council's chambers until we've returned.,Wait in the council chambers until we return.,876523
+749,ANAKIN,MACE WINDU,"Yes, Master.","Yes, Master.",876524
+750,PALPATINE,HEAD,"You do know, don't you, if the Jedi destroy me, any chance of saving her will be lost.",any chance of saving her will be lost.,876527
+751,PALPATINE,MACE WINDU,Master Windu.,Master Windu. I take it General Grievous has been destroyed then.,876528
+752,PALPATINE,MACE WINDU,I take it General Grievous has been destroyed then.,Master Windu. I take it General Grievous has been destroyed then.,876528
+753,PALPATINE,MACE WINDU,"I must say, you're here sooner than expected.",I must say you're here sooner than expected.,876529
+754,MACE WINDU,PALPATINE,"In the name of the Galactic Senate of the Republic, you are under arrest, Chancellor.",In the name of the Galactic Senate of the Republic...,876530
+755,PALPATINE,MACE WINDU,"Are you threatening me, Master Jedi?","Are you threatening me, Master Jedi?",876532
+756,MACE WINDU,PALPATINE,The Senate will decide your fate.,The senate will decide your fate.,876533
+757,PALPATINE,MACE WINDU,I am the Senate!,- I am the senate. - Not yet.,876534
+758,MACE WINDU,PALPATINE,Not yet!,- I am the senate. - Not yet.,876534
+759,PALPATINE,MACE WINDU,"It's treason, then.",It's treason then.,876535
+760,MACE WINDU,PALPATINE,"You are under arrest, My Lord.","You are under arrest, my lord.",876536
+761,PALPATINE,ANAKIN,Anakin!,"Anakin, I told you it would come to this.",876537
+762,PALPATINE,ANAKIN,I told you it would come to this.,"Anakin, I told you it would come to this.",876537
+763,PALPATINE,ANAKIN,I was right.,I was right.,876538
+764,PALPATINE,ANAKIN,The Jedi are taking over.,The Jedi are taking over.,876539
+765,MACE WINDU,PALPATINE,The oppression of the Sith will never return.,The oppression of the Sith will never return.,876540
+766,MACE WINDU,PALPATINE,You have lost.,You have lost.,876541
+767,PALPATINE,MACE WINDU,No!,No.,876542
+768,PALPATINE,MACE WINDU,No!,No.,876542
+769,PALPATINE,MACE WINDU,No!,No.,876542
+770,PALPATINE,MACE WINDU,You will die!,No. No. You will die!,876543
+771,PALPATINE,ANAKIN,He's a traitor.,He's a traitor!,876544
+772,MACE WINDU,ANAKIN,He is a traitor!,He's a traitor!,876544
+773,PALPATINE,ANAKIN,I have the power to save the one you love.,I have the power to save the one you love.,876546
+774,PALPATINE,ANAKIN,You must choose.,You must choose.,876547
+775,MACE WINDU,ANAKIN,"Don't listen to him, Anakin!","Don't listen to him, Anakin!",876548
+776,PALPATINE,ANAKIN,Don't let him kill me.,Don't let him kill me.,876549
+777,PALPATINE,ANAKIN,I can't hold it any longer.,I can't hold it any longer.,876550
+778,PALPATINE,ANAKIN,I can't.,I...I...I...I can't. I...I...I'm weak.,876551
+779,PALPATINE,ANAKIN,I'm weak.,I...I...I...I can't. I...I...I'm weak.,876551
+780,PALPATINE,ANAKIN,I'm too weak.,I'm...I'm too weak.,876552
+781,PALPATINE,ANAKIN,Anakin!,Anakin.,876553
+782,PALPATINE,ANAKIN,Help me.,Help me. Help me!,876554
+783,PALPATINE,ANAKIN,Help me!,Help me. Help me!,876554
+784,PALPATINE,ANAKIN,I can't hold on any longer.,I...I...I can't hold on any longer.,876555
+785,MACE WINDU,"PALPATINE, ANAKIN",I am going to end this once and for all.,I am going to end this once and for all.,876556
+786,ANAKIN,MACE WINDU,You can't.,You can't.,876557
+787,ANAKIN,MACE WINDU,He must stand trial.,He must stand trial.,876558
+788,MACE WINDU,ANAKIN,He has control of the senate and the courts.,He has control of the senate and the courts.,876559
+789,MACE WINDU,ANAKIN,He's too dangerous to be left alive.,He's too dangerous to be left alive.,876560
+790,PALPATINE,MACE WINDU,But I'm too weak.,I'm too weak. Oh. Don't kill me. Please.,876561
+791,PALPATINE,MACE WINDU,Don't kill me.,I'm too weak. Oh. Don't kill me. Please.,876561
+792,PALPATINE,MACE WINDU,Please.,I'm too weak. Oh. Don't kill me. Please.,876561
+793,ANAKIN,MACE WINDU,It is not the Jedi way.,It's not the Jedi way.,876562
+794,ANAKIN,MACE WINDU,He must live.,He must live.,876563
+795,PALPATINE,MACE WINDU,"Please don't, please don't.",Please don't.,876564
+796,ANAKIN,MACE WINDU,I need him.,I need him.,876565
+797,PALPATINE,MACE WINDU,Please don't.,- Please don't! - No!,876566
+798,ANAKIN,MACE WINDU,NO!,- Please don't! - No!,876566
+799,PALPATINE,PALPATINE,Power!,Power!,876567
+800,PALPATINE,PALPATINE,Unlimited power!,Unlimited power!,876568
+801,ANAKIN,ANAKIN,What have I done?,What have I done?,876569
+802,PALPATINE,ANAKIN,"You are fulfilling your destiny, Anakin.","You're fulfilling your destiny, Anakin.",876570
+803,PALPATINE,ANAKIN,Become my apprentice.,Become my apprentice.,876571
+804,PALPATINE,ANAKIN,Learn to use the dark side of the Force.,Learn to use the dark side of the Force.,876572
+805,ANAKIN,PALPATINE,I will do whatever you ask.,I will do whatever you ask.,876573
+806,PALPATINE,ANAKIN,Good.,Good.,876574
+807,ANAKIN,PALPATINE,Just help me save Padme's life.,Just help me save Padmé's life.,876575
+808,ANAKIN,PALPATINE,I can't live without her.,I can't live without her.,876576
+809,PALPATINE,ANAKIN,"To cheat death is a power only one has achieved, but if we work together, I know we can discover the secret.",To cheat death is a power only one has achieved...,876577
+810,ANAKIN,PALPATINE,I pledge myself to your teachings.,to your teachings.,876581
+811,PALPATINE,ANAKIN,Good.,Good.,876582
+812,PALPATINE,ANAKIN,Good.,Good.,876582
+813,PALPATINE,ANAKIN,The Force is strong with you.,The Force is strong with you.,876584
+814,PALPATINE,ANAKIN,A powerful Sith you will become.,A powerful Sith you will become.,876585
+815,PALPATINE,ANAKIN,"Henceforth, you shall be known as Darth.",Darth...,876587
+816,PALPATINE,ANAKIN,Vader.,Vader.,876588
+817,VADER,PALPATINE,Thank you.,"Thankyou, my master.",876589
+818,VADER,PALPATINE,my Master.,"Thankyou, my master.",876589
+819,PALPATINE,VADER,Rise.,Rise.,876590
+820,PALPATINE,VADER,"Because the Council did not trust you, my young apprentice, I believe you are the only Jedi with no knowledge of this plot.",I believe you are the only Jedi with no knowledge of this plot.,876592
+821,PALPATINE,VADER,"When the Jedi learn what has transpired here, they will kill us, along with all the Senators.",When the Jedi learn what has transpired here...,876593
+822,VADER,PALPATINE,I agree.,I agree.,876596
+823,VADER,PALPATINE,The council's next move will be against the Senate.,The council's next move willbe against the senate.,876597
+824,PALPATINE,VADER,"Every single Jedi, including your friend Obi-Wan Kenobi, is now an enemy of the Republic.",is now an enemy of the Republic.,876600
+825,VADER,PALPATINE,"I understand, Master.","I understand, Master.",876601
+826,PALPATINE,VADER,We must move quickly.,We must move quickly.,876602
+827,PALPATINE,VADER,"The Jedi are relentless; if they are not all destroyed, it will be civil war without end.","If they are not all destroyed, it will be civil war without end.",876604
+828,PALPATINE,VADER,"First, I want you to go to the Jedi Temple.",First I want you to go to the Jedi temple.,876605
+829,PALPATINE,VADER,We will catch them off balance.,We will catch them off-balance.,876606
+830,PALPATINE,VADER,"Do what must be done, Lord Vader.","Do what must be done, Lord Vader.",876607
+831,PALPATINE,VADER,Do not hesitate.,Do not hesitate. Show no mercy.,876608
+832,PALPATINE,VADER,Show no mercy.,Do not hesitate. Show no mercy.,876608
+833,PALPATINE,VADER,Only then will you be strong enough with the dark side to save Padme.,Only then will you be strong enough with the dark side...,876609
+834,VADER,PALPATINE,What about the other Jedi spread across the galaxy?,What about the other Jedi spread across the galaxy?,876611
+835,PALPATINE,VADER,Their betrayal will be dealt with.,Their betrayal will be dealt with.,876612
+836,PALPATINE,VADER,"After you have killed all the Jedi in the Temple, go to the Mustafar system.",go to the Mustafar system.,876614
+837,PALPATINE,VADER,Wipe out Viceroy Gunray and the other Separatist leaders.,Wipe out Viceroy Gunray...,876615
+838,PALPATINE,VADER,"Once more, the Sith will rule the galaxy, and we shall have peace.",Once more the Sith will rule the galaxy!,876617
+839,OBI-WAN,CLONE COMMANDER CODY,"Commander, contact your troops.","Commander, contact your troops.",876624
+840,OBI-WAN,CLONE COMMANDER CODY,Tell them to move to the higher levels.,Tell them to move to the higher levels.,876625
+841,CLONE COMMANDER CODY,OBI-WAN,"Very good, sir.","Very good, sir.",876626
+842,CLONE COMMANDER CODY,OBI-WAN,"Oh, by the way, I think you'll be needing this.","Oh, by the way, I think you'll be needing this.",876627
+843,OBI-WAN,CLONE COMMANDER CODY,"Thank you, Cody, Now let's get a move on.","Thank you, Cody. Now let's get a move on. We've got a battle to win here.",876628
+844,OBI-WAN,CLONE COMMANDER CODY,We've got a battle to win here.,"Thank you, Cody. Now let's get a move on. We've got a battle to win here.",876628
+845,CLONE COMMANDER CODY,OBI-WAN,"Yes, sir!","- Hyah! - Yes, sir.",876629
+846,PALPATINE,CLONE COMMANDER CODY,"Commander Cody, the time has come.",the time has come.,876631
+847,PALPATINE,CLONE COMMANDER CODY,Execute Order 66.,Execute order 66.,876632
+848,CLONE COMMANDER CODY,PALPATINE,"Yes, My Lord.","Yes, my lord.",876633
+849,CLONE COMMANDER CODY,PALPATINE,Blast him!,Blast him!,876634
+850,KI-ADI-MUNDI,NA,Come on!,Come on!,876635
+851,PALPATINE,"CLONE PILOT, CLONE COMMANDER GREE",Execute Order 66.,Execute order 66.,876636
+852,CLONE PILOT,PALPATINE,"It will be done, My Lord.","It will be done, my lord.",876637
+853,CLONE COMMANDER GREE,PALPATINE,"It will be done, My Lord.","It will be done, my lord.",876637
+854,YOUNGLING,VADER,"Master Skywalker, there are too many of them.","Master Skywalker, there are too many of them.",876639
+855,YOUNGLING,VADER,What are we going to do?,What are we going to do?,876640
+856,THREEPIO,PADME,The Chancellor's office indicated Master Anakin returned to the Jedi Temple.,The chancellor's office indicated Master Anakin returned to the Jedi temple.,876641
+857,THREEPIO,PADME,"Don't worry, I'm sure he'll be all right.",Don't worry. I... I'm sure he'll be all right.,876642
+858,BAIL ORGANA,CLONE SERGEANT,What's going on here?,"- What's going on here? - There's been a rebellion, sir.",876643
+859,CLONE SERGEANT,BAIL ORGANA,"There's been a rebellion, sir.","- What's going on here? - There's been a rebellion, sir.",876643
+860,CLONE SERGEANT,BAIL ORGANA,"Don't worry, the situation is under control.",Don't worry. The situation is under control.,876644
+861,CLONE SERGEANT,BAIL ORGANA,"I'm sorry, sir.","I'm sorry, sir. It's time for you to leave.",876645
+862,CLONE SERGEANT,BAIL ORGANA,It's time for you to leave.,"I'm sorry, sir. It's time for you to leave.",876645
+863,BAIL ORGANA,CLONE SERGEANT,And so it is.,And so it is.,876646
+864,CLONE COMMANDER APPO,NA,Get him!,Get him!,876647
+865,CLONE COMMANDER APPO,NA,Shoot him!,Get him!,876647
+866,BAIL ORGANA,NA,No!,No!,876648
+867,AT-ST CLONE SERGEANT,NA,Don't worry about him.,Don't worry about him. Let him go.,876649
+868,AT-ST CLONE SERGEANT,NA,Let him go.,Don't worry about him. Let him go.,876649
+869,CLONE SERGEANT,NA,All these Wookiees are dead.,All these Wookiees are dead. Move to the east.,876650
+870,CLONE SERGEANT,NA,Move to the east.,All these Wookiees are dead. Move to the east.,876650
+871,CLONE TROOPER,NA,"Yes, sir.","Yes, sir.",876651
+872,YODA,"CHEWIE, TARFFUL","Good-bye, Tarfull.","Good-bye, Tarfful.",876652
+873,YODA,"CHEWIE, TARFFUL","Good-bye, Chewbacca.","Good-bye, Chewbacca.",876653
+874,YODA,"CHEWIE, TARFFUL","and Tarfful, miss you I will.",Miss you I will.,876654
+875,CHEWIE,YODA,GROWLS TWICE
+876,YODA,"CHEWIE, TARFFUL","Miss you, I will.",Miss you I will.,876654
+877,CHEWIE,"YODA, TARFULL",ROARS EIGHT TIMES IN TOTAL
+878,BAIL ORGANA,NA,Hopefully we will be able to intercept a few Jedi before they walk into this catastrophe.,before they walk into this catastrophe.,876656
+879,CLONE CAPTAIN,CLONE TROOPER,Did you find Kenobi?,Didyou find Kenobi?,876657
+880,CLONE TROOPER,CLONE CAPTAIN,"Sir, no one could have survived that fall.","Sir, no one could have survived that fall.",876658
+881,CLONE CAPTAIN,CLONE TROOPER,Start loading your men on the ships.,Start loading your men on the ships.,876659
+882,CLONE CAPTAIN,CLONE TROOPER,Move it.,Move it.,876660
+883,OBI-WAN,BAIL ORGANA,Emergency Code 913.,Emergency code 91 3.,876661
+884,OBI-WAN,BAIL ORGANA,I have no contact on any frequency.,I have no contact on any frequency.,876662
+885,BAIL ORGANA,OBI-WAN,Master Kenobi.,Master Kenobi.,876663
+886,OBI-WAN,BAIL ORGANA,Repeat.,- Repeat. - Master Kenobi.,876664
+887,BAIL ORGANA,OBI-WAN,Master Kenobi?,- Repeat. - Master Kenobi.,876664
+888,OBI-WAN,BAIL ORGANA,Senator Organa!,Senator Organa. My clone troops turned on me. I need help.,876665
+889,OBI-WAN,BAIL ORGANA,My Clone Troops turned on me.,Senator Organa. My clone troops turned on me. I need help.,876665
+890,OBI-WAN,BAIL ORGANA,I need help.,Senator Organa. My clone troops turned on me. I need help.,876665
+891,BAIL ORGANA,OBI-WAN,We have just rescued Master Yoda.,We have just rescued Master Yoda.,876666
+892,BAIL ORGANA,OBI-WAN,It appears this ambush has happened everywhere.,It appears this ambush has happened everywhere.,876667
+893,BAIL ORGANA,OBI-WAN,We're sending you our coordinates.,We're sending you our coordinates.,876668
+894,THREEPIO,R2D2,Hush!,Hush! Not so loud.,876669
+895,THREEPIO,R2D2,Not so loud!,Hush! Not so loud.,876669
+896,PADME,VADER,Are you all right?,Are you all right? I heard there was an attack on the Jedi temple.,876670
+897,PADME,VADER,I heard there was an attack on the Jedi Temple.,Are you all right? I heard there was an attack on the Jedi temple.,876670
+898,PADME,VADER,you can see the smoke from here.,- You could see the smoke from here. - I'm fine. I'm fine.,876671
+899,VADER,PADME,I'm fine.,- You could see the smoke from here. - I'm fine. I'm fine.,876671
+900,VADER,PADME,I'm fine.,- You could see the smoke from here. - I'm fine. I'm fine.,876671
+901,VADER,PADME,I came to see if you and the baby are safe.,- I came to see if you and the baby are safe. - What's happening?,876672
+902,PADME,VADER,What's happening?,- I came to see if you and the baby are safe. - What's happening?,876672
+903,VADER,PADME,The Jedi have tried to overthrow the Republic.,The Jedi have tried to overthrow the Republic.,876673
+904,PADME,VADER,I can't believe that!,I can't believe that.,876674
+905,VADER,PADME,I saw Master Windu attempt to assassinate the Chancellor myself.,I saw Master Windu attempt to assassinate the chancellor myself.,876675
+906,PADME,VADER,"Oh Anakin, what are you going to do?","Oh, Anakin. What are you gonna do?",876676
+907,VADER,PADME,I will not betray the Republic.,I will not betray the Republic.,876677
+908,VADER,PADME,my loyalties lie with the Chancellor and with the Senate.,My loyalties lie with the chancellor...,876678
+909,VADER,PADME,and with you.,and with the senate and with you.,876679
+910,PADME,VADER,What about Obi-Wan?,What about Obi-Wan?,876680
+911,VADER,PADME,I don't know.,I don't know.,876681
+912,VADER,PADME,Many Jedi have been killed.,Many Jedi have been killed.,876682
+913,VADER,PADME,We can only hope that he's remained loyal to the Chancellor.,We can only hope that he's remained loyal to the chancellor.,876683
+914,PADME,VADER,"Anakin, I'm afraid.","Anakin, I'm afraid.",876684
+915,VADER,PADME,"Have faith, my love.","Have faith, my love.",876685
+916,VADER,PADME,Everything will soon be set right.,Everything will soon be set right.,876686
+917,VADER,PADME,The Chancellor has given me a very important mission.,The chancellor has given me a very important mission.,876687
+918,VADER,PADME,The Separatists have gathered on the Mustafar system.,The separatists have gathered on the Mustafar system.,876688
+919,VADER,PADME,I'm going there to end this war.,I'm going there to end this war.,876689
+920,VADER,PADME,Wait for me until I return.,Wait for me until I return.,876690
+921,VADER,PADME,"Things will be different, I promise.",Things will be different. I promise.,876691
+922,VADER,PADME,"Please, wait for me.","Please, wait for me.",876693
+923,THREEPIO,R2D2,"Well, he is under a lot of stress, Artoo.","Well, he is under a lot ofstress, R2.",876694
+924,THREEPIO,R2D2,"Take care, my little friend.","Take care, my little friend.",876695
+925,THREEPIO,PADME,"My Lady, is there anything I might do?","Oh, my lady, is there anything I might do?",876696
+926,PADME,THREEPIO,"No thank you, Threepio.","No, thank you, 3PO.",876697
+927,THREEPIO,PADME,I feel so helpless.,Oh. I... I feel so helpless.,876698
+928,OBI-WAN,"YODA, BAIL ORGANA",How many other Jedi managed to survive?,How many other Jedi have managed to survive?,876699
+929,YODA,OBI-WAN,"Heard from no one, have we.",Heard from no one have we.,876700
+930,BAIL ORGANA,OBI-WAN,I saw thousands of troops attack the Jedi Temple.,I saw thousands of troops attack the Jedi temple.,876701
+931,BAIL ORGANA,OBI-WAN,That's why I went looking for Yoda.,That's why I went looking for Yoda.,876702
+932,OBI-WAN,YODA,Have we had any contact from the Temple?,Have we had any contact from the temple?,876703
+933,YODA,OBI-WAN,"Received a coded retreat message, we have.",Received a coded retreat message we have.,876704
+934,BAIL ORGANA,OBI-WAN,It requests all Jedi to return to the Temple.,It requests all Jedi to return to the temple.,876705
+935,BAIL ORGANA,OBI-WAN,It says that the war is over.,"- It says the war is over. - Well, then we must go back.",876706
+936,OBI-WAN,YODA,"Well, then we must go back!","- It says the war is over. - Well, then we must go back.",876706
+937,OBI-WAN,YODA,"If there are other stragglers, they will fall into the trap and be killed.","If there are any stragglers, they will fall into the trap and be killed.",876707
+938,YODA,OBI-WAN,"Suggest dismantling the coded signal, do you?","Hmm. Suggest dismantling the coded signal, doyou?",876708
+939,OBI-WAN,YODA,"Yes, Master.","Yes, Master. There is too much at stake.",876709
+940,OBI-WAN,YODA,There is too much at stake.,"Yes, Master. There is too much at stake.",876709
+941,YODA,OBI-WAN,I agree.,I agree.,876710
+942,YODA,OBI-WAN,And a little more knowledge might light our way.,And a little more knowledge might light ourway.,876711
+943,NUTE,PALPATINE,"The plan has gone as you had promised, My Lord.","The plan has gone as you had promised, my lord.",876712
+944,PALPATINE,NUTE,"You have done well, Viceroy.","You have done well, Viceroy.",876713
+945,PALPATINE,NUTE,"When my new apprentice, Darth Vader, arrives, he will take care of you.",he will take care of you.,876715
+946,PILOT,BAIL ORGANA,"We are receiving a message from the Chancellor's office, sir.","We're receiving a message from the chancellor's office, sir.",876716
+947,BAIL ORGANA,PILOT,Send it through.,"- Send it through. - Yes, sir.",876717
+948,PILOT,BAIL ORGANA,"Yes, sir.","- Send it through. - Yes, sir.",876717
+949,MAS AMEDDA,BAIL ORGANA,Senator Organa.,"Senator Organa, the supreme chancellor requests your presence...",876718
+950,MAS AMEDDA,BAIL ORGANA,the Supreme Chancellor of the Republic requests your presence at a special session of Congress.,at a special session of Congress.,876719
+951,BAIL ORGANA,MAS AMEDDA,I will be there.,- I will be there. - He'll be expecting you.,876720
+952,MAS AMEDDA,BAIL ORGANA,He'll be expecting you.,- I will be there. - He'll be expecting you.,876720
+953,BAIL ORGANA,"OBI-WAN, YODA",Could be a trap.,- Could be a trap. - I don't think so.,876721
+954,OBI-WAN,BAIL ORGANA,"No, I don't think so.",- Could be a trap. - I don't think so.,876721
+955,OBI-WAN,BAIL ORGANA,The Chancellor will not be able to control the thousands of star systems without keeping the Senate intact.,The chancellor will not be able to control the thousands of star systems...,876722
+956,YODA,"BAIL ORGANA, OBI-WAN","If a special session of Congress there is, easier for us to enter the Jedi Temple it will be.",Ifa special session of Congress there is...,876724
+957,VADER,R2D2,Artoo.,Ifa special session of Congress there is...,876724
+958,VADER,R2D2,stay with the ship.,"R2, stay with the ship.",876726
+959,NUTE,VADER,"Welcome, Lord Vader.","Welcome, Lord Vader. We've been expecting you.",876727
+960,NUTE,VADER,We've been expecting you.,"Welcome, Lord Vader. We've been expecting you.",876727
+961,PALPATINE,GROUP,and the Jedi Rebellion has been foiled.,And the Jedi rebellion has been foiled.,876728
+962,BAIL ORGANA,PADME,What's happened?,- What's happened? - The chancellor's been elaborating...,876729
+963,PADME,BAIL ORGANA,"The Chancellor's been elaborating on a plot by the Jedi, to overthrow the Senate.",on a plot by the Jedi to overthrow the senate.,876730
+964,PALPATINE,GROUP,The remaining Jedi will be hunted down and defeated.,The remaining Jedi will be hunted down and defeated.,876731
+965,OBI-WAN,YODA,Not even the younglings survived.,Not even the younglings survived.,876732
+966,YODA,OBI-WAN,"Killed not by clones, this Padawan.",this Padawan.,876734
+967,YODA,OBI-WAN,"By a lightsaber, he was.",By a lightsaber he was.,876735
+968,OBI-WAN,YODA,Who?,Who? Who could have done this?,876736
+969,OBI-WAN,YODA,Who could have done this?,Who? Who could have done this?,876736
+970,PALPATINE,GROUP,"The attempt on my life has left me scarred and deformed, but I assure you my resolve has never been stronger.",The attempt on my life...,876737
+971,NUTE,VADER,Stop!,Stop! No!,876742
+972,NUTE,VADER,No!,Stop! No!,876742
+973,PALPATINE,GROUP,"In order to ensure our security and continuing stability, the Republic will be reorganized into the first Galactic Empire, for a safe and secure society",and continuing stability...,876744
+974,PADME,BAIL ORGANA,"So this is how liberty dies, with thunderous applause.",So this is how liberty dies.,876749
+975,NUTE,VADER,The war is over.,The war is over.,876751
+976,NUTE,VADER,Lord Sidious promised us peace.,Lord Sidious promised us peace. We onlywant...,876752
+977,NUTE,VADER,we only want.,Lord Sidious promised us peace. We onlywant...,876752
+978,OBI-WAN,YODA,I've recalibrated the code warning all surviving Jedi to stay away.,"I have recalibrated the code, warning all surviving Jedi to stay away.",876753
+979,YODA,OBI-WAN,"For the Clones to discover the recalibration, a long time it will take.",to discover the recalibration a long time it will take.,876755
+980,OBI-WAN,YODA,"Wait, Master.",Wait. Master.,876756
+981,OBI-WAN,YODA,There is something I must know.,There is something I must know.,876757
+982,YODA,OBI-WAN,"If into the security recordings you go, only pain will you find.",only pain will you find.,876759
+983,OBI-WAN,YODA,"I must know the truth, Master.","I must know the truth, Master.",876760
+984,OBI-WAN,YODA,It can't be.,It can't be.,876761
+985,OBI-WAN,YODA,It can't be.,It can't be.,876761
+986,PALPATINE,VADER,"You have done well, my new apprentice.","You have done well, my new apprentice.",876763
+987,PALPATINE,VADER,"Now, Lord Vader, go and bring peace to the Empire.",go and bring peace to the Empire.,876765
+988,OBI-WAN,YODA,I can't watch anymore,I can't watch any more.,876766
+989,YODA,OBI-WAN,"Destroy the Sith, we must.",Destroy the Sith we must.,876767
+990,OBI-WAN,YODA,Send me to kill the Emperor.,Send me to kill the emperor.,876768
+991,OBI-WAN,YODA,I will not kill Anakin.,I will not kill Anakin.,876769
+992,YODA,OBI-WAN,"To fight this Lord Sidious, strong enough, you are not.","To fight this Lord Sidious, strong enough you are not.",876770
+993,OBI-WAN,YODA,He is like my brother.,He is like my brother. I cannot do it.,876771
+994,OBI-WAN,YODA,I cannot do it.,He is like my brother. I cannot do it.,876771
+995,YODA,OBI-WAN,"Twisted by the dark side, young Skywalker has become.",Twisted by the dark side young Skywalker has become.,876772
+996,YODA,OBI-WAN,"The boy you trained, gone he is.","The boy you trained, gone he is.",876773
+997,YODA,OBI-WAN,Consumed by Darth Vader.,Consumed by Darth Vader.,876774
+998,OBI-WAN,YODA,I do not know where the Emperor has sent him.,I do not know where the emperor has sent him.,876775
+999,OBI-WAN,YODA,I don't know where to look.,I don't know where to look.,876776
+1000,YODA,OBI-WAN,"Use your feelings, Obi-Wan, and find him, you will.","Use your feelings, Obi-Wan, and find him you will.",876777
+1001,OBI-WAN,PADME,When was the last time you saw him?,When was the last time you saw him?,876778
+1002,PADME,OBI-WAN,Yesterday.,- Yesterday. - And do you know where he is now?,876779
+1003,OBI-WAN,PADME,And do you know where he is now?,- Yesterday. - And do you know where he is now?,876779
+1004,PADME,OBI-WAN,No.,No.,876780
+1005,OBI-WAN,PADME,"Padme, I need your help.","Padmé, I need your help.",876781
+1006,OBI-WAN,PADME,He's in grave danger.,- He is in grave danger. - From the Sith?,876782
+1007,PADME,OBI-WAN,From the Sith?,- He is in grave danger. - From the Sith?,876782
+1008,OBI-WAN,PADME,From himself.,From himself.,876783
+1009,OBI-WAN,PADME,"Padme, Anakin has turned to the dark side.",Anakin has turned to the dark side.,876785
+1010,PADME,OBI-WAN,You're wrong!,You're wrong. How could you even say that?,876786
+1011,PADME,OBI-WAN,How could you even say that?,You're wrong. How could you even say that?,876786
+1012,OBI-WAN,PADME,I have seen a security hologram of him killing younglings.,killing younglings.,876789
+1013,PADME,OBI-WAN,Not Anakin!,Not Anakin. He couldn't.,876790
+1014,PADME,OBI-WAN,He couldn't!,Not Anakin. He couldn't.,876790
+1015,OBI-WAN,PADME,He was deceived by a lie.,He was deceived by a lie. We all were.,876791
+1016,OBI-WAN,PADME,We all were.,He was deceived by a lie. We all were.,876791
+1017,OBI-WAN,PADME,"It appears that the Chancellor is behind everything, including the war.","It appears that the chancellor is behind everything, including the war.",876792
+1018,OBI-WAN,PADME,Palpatine is the Sith Lord we've been looking for.,Palpatine is the Sith lord we've been looking for.,876793
+1019,OBI-WAN,PADME,"After the death of Count Dooku, Anakin became his new apprentice.","After the death of Count Dooku, Anakin became his new apprentice.",876794
+1020,PADME,OBI-WAN,I don't believe you.,I don't believe you.,876795
+1021,PADME,OBI-WAN,I can't.,I can't.,876796
+1022,OBI-WAN,PADME,"Padme, I must find him.",I must find him.,876798
+1023,PADME,OBI-WAN,"You're going to kill him, aren't you?","You're going to kill him, aren't you?",876799
+1024,OBI-WAN,PADME,He has become a very great threat.,He has become a very great threat.,876800
+1025,PADME,OBI-WAN,I can't.,I can't.,876801
+1026,OBI-WAN,PADME,"Anakin is the father, isn't he?","Anakin is the father, isn't he?",876802
+1027,OBI-WAN,PADME,I'm so sorry.,I'm so sorry.,876803
+1028,CAPTAIN TYPHO,PADME,"My Lady, let me come with you.","Milady, let me come with you.",876804
+1029,PADME,CAPTAIN TYPHO,There is no danger.,There's no danger. The fighting's over. And this is personal.,876805
+1030,PADME,CAPTAIN TYPHO,"The fighting is over, and.",There's no danger. The fighting's over. And this is personal.,876805
+1031,PADME,CAPTAIN TYPHO,this is personal.,There's no danger. The fighting's over. And this is personal.,876805
+1032,CAPTAIN TYPHO,PADME,"As you wish, My Lady.","As you wish, milady, but I strongly disagree.",876806
+1033,CAPTAIN TYPHO,PADME,but I strongly disagree.,"As you wish, milady, but I strongly disagree.",876806
+1034,PADME,CAPTAIN TYPHO,"I'll be all right, Captain.","I'll be all right, Captain. This is something I must do myself.",876807
+1035,PADME,PADME,This is something I must do myself.,"I'll be all right, Captain. This is something I must do myself.",876807
+1036,PADME,PADME,"Besides, Threepio will look after me.","Besides, 3PO will look after me.",876808
+1037,THREEPIO,THREEPIO,"Oh, dear.","Oh, dear.",876809
+1038,THREEPIO,PADME,"Do you know, that I think I'm beginning to get the hang of this flying business.",I think I'm beginning to get the hang of this flying business. Hmm.,876811
+1039,VADER,PALPATINE,"The Separatists have been taken care of, My Master.","The separatists have been taken care of, my master.",876812
+1040,PALPATINE,VADER,It is finished then.,It is finished then.,876813
+1041,PALPATINE,VADER,You have restored peace and justice to the galaxy.,You have restored peace and justice to the galaxy.,876814
+1042,PALPATINE,VADER,Send a message to the ships of the Trade Federation.,Send a message to the ships ofthe Trade Federation.,876815
+1043,PALPATINE,VADER,All droid units must shut down immediately.,All droid units must shut down immediately.,876816
+1044,VADER,PALPATINE,"Very good, My Lord.","Very good, my lord.",876817
+1045,VADER,PADME,I saw your ship.,I saw your ship.,876818
+1046,VADER,PADME,What are you doing out here?,- What are you doing out here? - I was so worried about you.,876819
+1047,PADME,VADER,I was so worried about you.,- What are you doing out here? - I was so worried about you.,876819
+1048,PADME,VADER,Obi-Wan told me terrible things.,Obi-Wan told me terrible things.,876820
+1049,VADER,PADME,What things?,What things?,876821
+1050,PADME,VADER,He said you have turned to the dark side.,He said you've turned to the dark side.,876822
+1051,PADME,VADER,that you killed younglings.,killed younglings.,876824
+1052,VADER,PADME,Obi-Wan is trying to turn you against me.,Obi-Wan is trying to turn you against me.,876825
+1053,PADME,VADER,He cares about us.,- He cares about us. - Us?,876826
+1054,VADER,PADME,Us?,- He cares about us. - Us?,876826
+1055,PADME,VADER,He knows.,He knows.,876827
+1056,PADME,VADER,He wants to help you.,He wants to helpyou.,876828
+1057,PADME,VADER,"Anakin, all I want is your love.","Anakin, all I want is your love.",876829
+1058,VADER,PADME,"Love won't save you, Padme.","Love won't saveyou, Padmé.",876830
+1059,VADER,PADME,Only my new powers can do that.,- Only my new powers can do that. - At what cost?,876831
+1060,PADME,VADER,At what cost?,- Only my new powers can do that. - At what cost?,876831
+1061,PADME,VADER,You are a good person.,You're a good person. Don't do this.,876832
+1062,PADME,VADER,Don't do this.,You're a good person. Don't do this.,876832
+1063,VADER,PADME,I won't lose you the way I lost my mother!,I won't loseyou the way I lost my mother.,876833
+1064,VADER,PADME,I am becoming more powerful than any Jedi has ever dreamed of and I'm doing it for you.,I am becoming more powerful than any Jedi has ever dreamed of.,876834
+1065,VADER,PADME,To protect you.,And I'm doing it for you. To protect you.,876835
+1066,PADME,VADER,Come away with me.,Come away with me.,876836
+1067,PADME,VADER,Help me raise our child.,Help me raise our child.,876837
+1068,PADME,VADER,Leave everything else behind while we still can.,- Leave everything else behind while we still can. - Don't you see?,876838
+1069,VADER,PADME,"Don't you see, we don't have to run away anymore.",We don't have to run away anymore.,876839
+1070,VADER,PADME,I have brought peace to the Republic.,I have brought peace to the Republic.,876840
+1071,VADER,PADME,I am more powerful than the Chancellor.,I am more powerful than the chancellor.,876841
+1072,VADER,PADME,"I can overthrow him, and together you and I can rule the galaxy.","And together, you and I can rule the galaxy...",876843
+1073,VADER,PADME,Make things the way we want them to be.,make things the way we want them to be.,876844
+1074,PADME,VADER,I don't believe what I'm hearing.,I don't believe what I'm hearing.,876845
+1075,PADME,VADER,Obi-Wan was right.,Obi-Wan was right. You've changed.,876846
+1076,PADME,VADER,You've changed.,Obi-Wan was right. You've changed.,876846
+1077,VADER,PADME,I don't want to hear any more about Obi-Wan.,I don't want to hear any more about Obi-Wan.,876847
+1078,VADER,PADME,The Jedi turned against me.,The Jedi turned against me. Don't you turn against me.,876848
+1079,VADER,PADME,Don't you turn against me.,The Jedi turned against me. Don't you turn against me.,876848
+1080,PADME,VADER,I don't know you anymore.,I don't know you anymore.,876849
+1081,PADME,VADER,"Anakin, you're breaking my heart.",you're breaking my heart.,876851
+1082,PADME,VADER,You're going down a path I can't follow.,You're going down a path I can't follow.,876852
+1083,VADER,PADME,Because of Obi-Wan?,Because of Obi-Wan?,876853
+1084,PADME,VADER,Because of what you've done.,Because of what you've done.,876854
+1085,PADME,VADER,what you plan to do.,What you plan to do.,876855
+1086,PADME,VADER,"Stop, stop now.",Stop. Stop now. Come back.,876856
+1087,PADME,VADER,Come back!,Stop. Stop now. Come back.,876856
+1088,PADME,VADER,I love you.,- I love you. - Liar!,876857
+1089,VADER,PADME,Liar!,- I love you. - Liar!,876857
+1090,PADME,VADER,No!,No.,876858
+1091,VADER,PADME,You're with him.,You're with him! You brought him here to kill me.,876859
+1092,VADER,PADME,You brought him here to kill me!,You're with him! You brought him here to kill me.,876859
+1093,OBI-WAN,VADER,"Let her go, Anakin!","- No. - Let her go, Anakin.",876860
+1094,PADME,VADER,No!,"- No. - Let her go, Anakin.",876860
+1095,PADME,VADER,Anakin.,"- No. - Let her go, Anakin.",876860
+1096,OBI-WAN,VADER,Let her go.,"- No. - Let her go, Anakin.",876860
+1097,VADER,OBI-WAN,You turned her against me.,You turned her against me!,876863
+1098,OBI-WAN,VADER,You have done that yourself.,You have done that yourself.,876864
+1099,VADER,OBI-WAN,You will not take her from me.,You will not take her from me!,876865
+1100,OBI-WAN,VADER,Your anger and your lust for power have already done that.,Your anger and your lust for power have already done that.,876866
+1101,OBI-WAN,VADER,You have allowed this Dark Lord to twist your mind until now.,"You have allowed this dark lord to twist your mind, until now-",876867
+1102,OBI-WAN,VADER,until now you have become the very thing you swore to destroy.,until now you have become the very thing you swore to destroy.,876868
+1103,VADER,OBI-WAN,"Don't lecture me, Obi-Wan.","Don't lecture me, Obi-Wan.",876869
+1104,VADER,OBI-WAN,I see through the lies of the Jedi.,I see through the lies of the Jedi.,876870
+1105,VADER,OBI-WAN,I do not fear the dark side as you do.,I do not fear the dark side as you do.,876871
+1106,VADER,OBI-WAN,"I have brought peace, freedom, justice, and security to my new Empire.",I have brought peace...,876872
+1107,OBI-WAN,VADER,Your new Empire?,Your new empire?,876875
+1108,VADER,OBI-WAN,Don't make me kill you.,Don't make me kill you.,876876
+1109,OBI-WAN,VADER,"Anakin, my allegiance is to the Republic.","Anakin, my allegiance is to the Republic, to democracy!",876877
+1110,OBI-WAN,VADER,to democracy.,"Anakin, my allegiance is to the Republic, to democracy!",876877
+1111,VADER,OBI-WAN,"If you're not with me, then you're my enemy.",then you're my enemy.,876879
+1112,OBI-WAN,VADER,Only a Sith deals in absolutes.,Only a Sith deals in absolutes.,876880
+1113,OBI-WAN,VADER,I will do what I must.,I will do what I must.,876881
+1114,VADER,OBI-WAN,You will try.,You will try.,876882
+1115,YODA,PALPATINE,"I hear a new apprentice, you have.","I hear a new apprentice you have, Emperor.",876883
+1116,YODA,PALPATINE,"Emperor, or should I call you Darth Sidious?",Or should I call you Darth Sidious?,876884
+1117,PALPATINE,YODA,Master Yoda.,Master Yoda.,1310
+1118,PALPATINE,YODA,You survived.,You survived.,876886
+1119,YODA,PALPATINE,Surprised?,Surprised?,876887
+1120,PALPATINE,YODA,"Your arrogance blinds you, Master Yoda.","Your arrogance blinds you, MasterYoda.",876888
+1121,PALPATINE,YODA,Now you will experience the full power of the dark side.,the full power of the dark side.,876890
+1122,PALPATINE,YODA,"I have waited a long time for this moment, my little green friend.",my little green friend.,876893
+1123,PALPATINE,YODA,At last the Jedi are no more.,At last the Jedi are no more.,876894
+1124,YODA,PALPATINE,"Not if anything to say about it, I have.",Not if anything to say about it I have.,876895
+1125,YODA,PALPATINE,At an end your rule is and not short enough it was.,At an end your rule is.,876897
+1126,YODA,PALPATINE,"If so powerful you are, why leave?",why leave?,876900
+1127,PALPATINE,YODA,You will not stop me.,You will not stop me.,876901
+1128,PALPATINE,YODA,Darth Vader will become more powerful than either of us.,Darth Vaderwill become more powerful than either of us.,876902
+1129,YODA,PALPATINE,"Faith in your new apprentice, misplaced may be, as is your faith in the dark side of the Force.",Faith in your new apprentice misplaced may be.,876903
+1130,YODA,BAIL ORGANA,Hurry.,Hurry. Careful timing we will need.,876905
+1131,YODA,BAIL ORGANA,Careful timing we will need.,Hurry. Careful timing we will need.,876905
+1132,BAIL ORGANA,YODA,Activate your homing beacon when you're ready.,Activate your homing beacon when you're ready.,876906
+1133,CLONE COMMANDER THIRE,"MAS AMEDDA, PALPATINE","There is no sign of his body, sir.","There's no sign of his body, sir.",876907
+1134,MAS AMEDDA,CLONE COMMANDER THIRE,Then he is not dead.,- Then he is not dead. - Double your search.,876908
+1135,PALPATINE,CLONE COMMANDER THIRE,Double your search.,- Then he is not dead. - Double your search.,876908
+1136,CLONE COMMANDER THIRE,"MAS AMEDDA, PALPATINE",Yes sir.,"Yes, sir. Right away, sir.",876909
+1137,CLONE COMMANDER THIRE,"MAS AMEDDA, PALPATINE","Right away, sir.","Yes, sir. Right away, sir.",876909
+1138,PALPATINE,MAS AMEDDA,Tell Captain Kagi to prepare my shuttle for immediate takeoff.,Tell Captain Kagi to prepare my shuttle for immediate takeoff.,876910
+1139,MAS AMEDDA,PALPATINE,"Yes, Master.","- Yes, Master. - I sense Lord Vader is in danger.",876911
+1140,PALPATINE,MAS AMEDDA,I sense Lord Vader is in danger.,"- Yes, Master. - I sense Lord Vader is in danger.",876911
+1141,YODA,BAIL ORGANA,Into exile I must go.,Into exile I must go.,876912
+1142,YODA,BAIL ORGANA,"Failed, I have.",Failed I have.,876913
+1143,OBI-WAN,VADER,"I have failed you, Anakin.","I have failed you, Anakin.",876914
+1144,OBI-WAN,VADER,I have failed you.,I have failed you.,876915
+1145,VADER,OBI-WAN,I should have known the Jedi were plotting to take over.,I should have known the Jedi were plotting to take over.,876916
+1146,OBI-WAN,VADER,"Anakin, Chancellor Palpatine is evil.","Anakin, Chancellor Palpatine is evil!",876917
+1147,VADER,OBI-WAN,"From my point of view, the Jedi are evil.","From my point of view, the Jedi are evil.",876918
+1148,OBI-WAN,VADER,"Well, then you are lost!","Well, then you are lost!",876919
+1149,VADER,OBI-WAN,"This is the end for you, My Master.","This is the end for you, my master.",876920
+1150,OBI-WAN,VADER,"It's over, Anakin.","It's over, Anakin. I have the high ground.",876921
+1151,OBI-WAN,VADER,I have the high ground.,"It's over, Anakin. I have the high ground.",876921
+1152,VADER,OBI-WAN,You underestimate my power!,You underestimate my power.,876922
+1153,OBI-WAN,VADER,Don't try it.,Don't try it.,876923
+1154,OBI-WAN,VADER,You were the Chosen One!,You were the chosen one!,876924
+1155,OBI-WAN,VADER,"It was said that you would, destroy the Sith, not join them.","It was said that you would destroy the Sith, not join them!",876925
+1156,OBI-WAN,VADER,"Bring balance to the Force, not leave it in darkness.",Bring balance to the Force...,876926
+1157,VADER,OBI-WAN,I hate you!,I hate you!,876928
+1158,OBI-WAN,VADER,"You were my brother, Anakin.","You were my brother, Anakin.",876929
+1159,OBI-WAN,VADER,I loved you.,I loved you.,876930
+1160,THREEPIO,OBI-WAN,Master Kenobi!,I loved you.,876930
+1161,THREEPIO,OBI-WAN,We have Miss Padme on board.,"Um, we have Miss Padmé on board.",876932
+1162,THREEPIO,OBI-WAN,"Please, please hurry.","Yes. Please, please hurry.",876933
+1163,THREEPIO,OBI-WAN,We should leave this dreadful place.,We should leave this dreadful place.,876934
+1164,PADME,OBI-WAN,Obi-Wan.,Obi-Wan.,876935
+1165,PADME,OBI-WAN,Is Anakin all right?,Is Anakin all right?,876936
+1166,R2D2,R2D2,WHISTLES SOFTLY
+1167,CLONE CAPTAIN,PALPATINE,"Your Majesty, this way.","Your Majesty, this way.",876937
+1168,CLONE CAPTAIN,PALPATINE,There he is.,There he is.,876938
+1169,PALPATINE,CLONE CAPTAIN,He's still alive.,He's still alive.,876939
+1170,PALPATINE,CLONE CAPTAIN,"Get a medical capsule, immediately.",Get a medical capsule immediately.,876940
+1171,CLONE CAPTAIN,PALPATINE,Yes sir.,"Yes, sir. Right away.",876941
+1172,CLONE CAPTAIN,PALPATINE,Right away.,"Yes, sir. Right away.",876941
+1173,BAIL ORGANA,YODA,"Excuse me, Master Yoda.","Excuse me, Master Yoda.",876942
+1174,BAIL ORGANA,YODA,Obi-Wan Kenobi has made contact.,Obi-Wan Kenobi has made contact.,876943
+1175,BAIL ORGANA,OBI-WAN,"We'll take her to the medical center, quickly.",We'll take her to the medical center. Quickly.,876944
+1176,MEDICAL DROID,OBI-WAN,"Medically, she's completely healthy.","Medically, she's completely healthy.",876945
+1177,MEDICAL DROID,OBI-WAN,"For reasons we can't explain, we are losing her.","For reasons we can't explain, we are losing her.",876946
+1178,OBI-WAN,MEDICAL DROID,She's dying?,- She's dying? - We don't know why.,876947
+1179,MEDICAL DROID,OBI-WAN,We don't know why.,- She's dying? - We don't know why.,876947
+1180,MEDICAL DROID,OBI-WAN,She has lost the will to live.,She has lost the will to live.,876948
+1181,MEDICAL DROID,OBI-WAN,We need to operate quickly if we are to save the babies.,We need to operate quickly if we are to save the babies.,876949
+1182,BAIL ORGANA,MEDICAL DROID,Babies?,Babies?,876950
+1183,MEDICAL DROID,BAIL ORGANA,She's carrying twins.,She's carrying twins.,876951
+1184,PADME,OBI-WAN,Luke.,Luke.,876953
+1185,PADME,LUKE,"Oh, Luke.",Luke.,876953
+1186,OBI-WAN,PADME,It's a girl.,- It's a girl. - Leia.,876957
+1187,PADME,OBI-WAN,Leia.,- It's a girl. - Leia.,876957
+1188,PADME,OBI-WAN,Obi-Wan?,Obi-Wan?,876958
+1189,PADME,OBI-WAN,There's good in him.,There's good in him.,876959
+1190,PADME,OBI-WAN,I know.,I know.,876960
+1191,PADME,OBI-WAN,I know there's.,I know there's...,876961
+1192,PADME,OBI-WAN,still.,still...,876962
+1193,PALPATINE,VADER,"Lord Vader, can you hear me?",Can you hear me?,876964
+1194,VADER,PALPATINE,"Yes, Master.","Yes, Master.",876965
+1195,VADER,PALPATINE,Where is Padme?,Where is Padmé?,876966
+1196,VADER,PALPATINE,"Is she safe, is she all right?",Is she all right?,876968
+1197,PALPATINE,VADER,"It seems, in your anger, you killed her.","It seems, in your anger, you killed her.",876969
+1198,VADER,PALPATINE,I?,I? I couldn't have.,876970
+1199,VADER,PALPATINE,I couldn't have.,I? I couldn't have.,876970
+1200,VADER,PALPATINE,She was alive!,She was alive. I felt it!,876971
+1201,VADER,PALPATINE,I felt it!,She was alive. I felt it!,876971
+1202,VADER,PALPATINE,No!,No!,876972
+1203,YODA,"BAIL ORGANA, OBI-WAN","Hidden, safe, the children must be kept.","Hidden, safe the children must be kept.",876973
+1204,OBI-WAN,"YODA, BAIL ORGANA",We must take them somewhere the Sith will not sense their presence.,We must take them somewhere where the Sith will not sense their presence.,876974
+1205,YODA,"BAIL ORGANA, OBI-WAN","Split up, they should be.",Hmm. Split up they should be.,876975
+1206,BAIL ORGANA,"YODA, OBI-WAN",My wife and I will take the girl.,My wife and I will take the girl.,876976
+1207,BAIL ORGANA,"YODA, OBI-WAN",We've always talked of adopting a baby girl.,We've always talked of adopting a baby girl.,876977
+1208,BAIL ORGANA,"YODA, OBI-WAN",She will be loved with us.,She will be loved with us.,876978
+1209,OBI-WAN,"BAIL ORGANA, YODA",And what of the boy?,And what of the boy?,876979
+1210,YODA,OBI-WAN,To Tatooine.,To Tatooine. To his family send him.,876980
+1211,YODA,OBI-WAN,"To his family, send him.",To Tatooine. To his family send him.,876980
+1212,OBI-WAN,"YODA, BAIL ORGANA",I will take the child and watch over him.,I will take the child and watch over him.,876981
+1213,YODA,"BAIL ORGANA, OBI-WAN","Until the time is right, disappear we will.","Until the time is right, disappear we will.",876982
+1214,YODA,OBI-WAN,"Master Kenobi, wait a moment.","Master Kenobi, wait a moment.",876983
+1215,YODA,OBI-WAN,"In your solitude on Tatooine, training I have for you.","In your solitude on Tatooine, training I have foryou.",876984
+1216,OBI-WAN,YODA,Training?,Training?,876985
+1217,YODA,OBI-WAN,An old friend has learned the path to immortality.,An old friend has learned the path to immortality.,876986
+1218,OBI-WAN,YODA,Who?,One who has returned from the netherworld of the Force.,876987
+1219,YODA,OBI-WAN,One who has returned from the netherworld of the Force to train me.,One who has returned from the netherworld of the Force.,876987
+1220,YODA,OBI-WAN,your old Master.,Your old master.,876988
+1221,OBI-WAN,YODA,Qui-Gon?,Qui-Gon?,876989
+1222,YODA,OBI-WAN,How to commune with him.,How to commune with him I will teach you.,876990
+1223,YODA,OBI-WAN,I will teach you.,How to commune with him I will teach you.,876990
+1224,BAIL ORGANA,CAPTAIN ANTILLES,Captain Antilles.,"- Captain Antilles. - Yes, Your Highness?",876991
+1225,CAPTAIN ANTILLES,BAIL ORGANA,"Yes, Your Highness.","- Captain Antilles. - Yes, Your Highness?",876991
+1226,BAIL ORGANA,CAPTAIN ANTILLES,I'm placing these droids in your care.,I'm placing these droids in your care.,876992
+1227,BAIL ORGANA,CAPTAIN ANTILLES,Treat them well.,Treat them well. Clean them up.,876993
+1228,BAIL ORGANA,CAPTAIN ANTILLES,Clean them up.,Treat them well. Clean them up.,876993
+1229,BAIL ORGANA,CAPTAIN ANTILLES,Have the Protocol Droid's mind wiped.,Have the protocol droid's mind wiped.,876994
+1230,THREEPIO,R2D2,What?,What?,876995
+1231,THREEPIO,R2D2,"Oh, no.","Oh, no.",876996

@@ -1,0 +1,10 @@
+[csv]
+blacklist_regexes = [
+    # All caps means probably BEEP etc.
+    '[A-Z\s]+',
+    # [ Beeping ] etc.
+    # [ Beeping ] [ Whistling ] etc.
+    '(\[[\w\s]+\]\s?)*'
+]
+
+[json]
