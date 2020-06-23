@@ -1,11 +1,11 @@
 speaker,addressed,lineorder,combinedline,numberofrows,wordcount,mode,yarn_id
-QUI-GON,MAOI MADAKOR,1,Captain.,1,1,870083
-MAOI MADAKOR,QUI-GON,2,"Yes, sir?",1,2,870083
-QUI-GON,MAOI MADAKOR,3,Tell them we wish to board at once.,2,8,870084
-MAOI MADAKOR,NUTE,4,With all due respect...,1,4,870085
-MAOI MADAKOR,NUTE,5,the ambassadors for the supreme chancellor wish to board immediately. ,1,5,870086
-NUTE,MAOI MADAKOR,6,"Yes, of course. As you know, our blockade is perfectly legal...",4,16,870087;870088
-NUTE,MAOI MADAKOR,7,and we'd be happy to receive the ambassadors.,2,8,870089
+QUI-GON,MAOI MADAKOR,1,Captain.,1,1,,870083
+MAOI MADAKOR,QUI-GON,2,"Yes, sir?",1,2,,870083
+QUI-GON,MAOI MADAKOR,3,Tell them we wish to board at once.,2,8,,870084
+MAOI MADAKOR,NUTE,4,With all due respect...,1,4,,870085
+MAOI MADAKOR,NUTE,5,the ambassadors for the supreme chancellor wish to board immediately. ,1,5,,870086
+NUTE,MAOI MADAKOR,6,"Yes, of course. As you know, our blockade is perfectly legal...",4,16,,870087;870088
+NUTE,MAOI MADAKOR,7,and we'd be happy to receive the ambassadors.,2,8,,870089
 TC-14,"QUI-GON, OBI-WAN",8,"I'm TC-14 at your service. This way, please. We are greatly honoured by your visit, Ambassadors. Make yourselves comfortable. My master will be with you shortly.",7,26,
 OBI-WAN,QUI-GON,9,I have a bad feeling about this.,1,7,
 QUI-GON,OBI-WAN,10,I don't sense anything.,1,4,

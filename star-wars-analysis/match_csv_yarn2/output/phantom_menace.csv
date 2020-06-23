@@ -1,0 +1,1762 @@
+from,to,dialogue,yarn_id
+QUI-GON,MAOI MADAKOR,Captain.,870083
+MAOI MADAKOR,QUI-GON,"Yes, sir?",870083
+QUI-GON,MAOI MADAKOR,Tell them we wish to board at once.,870084
+MAOI MADAKOR,NUTE,With all due respect.,870085
+MAOI MADAKOR,NUTE,the ambassadors for the supreme chancellor wish to board immediately.,870086
+NUTE,MAOI MADAKOR,"Yes, of course.",870087
+NUTE,MAOI MADAKOR,"As you know, our blockade is perfectly legal.",870088
+NUTE,MAOI MADAKOR,and we'd be happy to receive the ambassadors.,870089
+TC-14,"QUI-GON, OBI-WAN",I'm TC-14 at your service.,870090
+TC-14,"QUI-GON, OBI-WAN","This way, please.",870091
+TC-14,"QUI-GON, OBI-WAN","We are greatly honoured by your visit, Ambassadors.",870092
+TC-14,"QUI-GON, OBI-WAN",Make yourselves comfortable.,870093
+TC-14,"QUI-GON, OBI-WAN",My master will be with you shortly.,870094
+OBI-WAN,QUI-GON,I have a bad feeling about this.,870095
+QUI-GON,OBI-WAN,I don't sense anything.,870096
+OBI-WAN,QUI-GON,"It's not about the mission, Master.",870096
+OBI-WAN,QUI-GON,"It's something elsewhere, elusive.",870097
+QUI-GON,OBI-WAN,"Don't center on your anxieties, Obi-Wan.",870098
+QUI-GON,OBI-WAN,"Keep your concentration here and now, where it belongs.",870099
+OBI-WAN,QUI-GON,But Master Yoda said I should be mindful of the future.,870100
+QUI-GON,OBI-WAN,But not at the expense of the moment.,870101
+QUI-GON,OBI-WAN,"Be mindful of the living Force, young Padawan.",870102
+OBI-WAN,QUI-GON,"Yes, Master.",870103
+OBI-WAN,QUI-GON,How do you think this trade viceroy will deal with the chancellor's demands?,870104
+QUI-GON,OBI-WAN,These Federation types are cowards.,870105
+QUI-GON,OBI-WAN,The negotiations will be short.,870106
+NUTE,TC-14,What?,870107
+NUTE,TC-14,What did you say?,870107
+TC-14,"NUTE, DAULTAY","The ambassadors are Jedi knights, I believe.",870108
+DAULTAY,NUTE,I knew it.,870109
+DAULTAY,NUTE,They're here to force a settlement.,870110
+NUTE,DAULTAY,Distract them.,870111
+NUTE,DAULTAY,I will contact Lord Sidious.,870111
+DAULTAY,NUTE,Are you brain-dead?,870112
+DAULTAY,NUTE,I'm not going in there with two Jedi.,870113
+DAULTAY,"TC-14, NUTE",Send a droid.,870114
+OBI-WAN,QUI-GON,Is it in their nature to make us wait this long?,870115
+QUI-GON,OBI-WAN,No.,870116
+QUI-GON,OBI-WAN,I sense an unusual amount of fear.,870116
+QUI-GON,OBI-WAN,for something as trivial as this trade dispute.,870116
+PALPATINE,"NUTE, DAULTAY",What is it?,870117
+DAULTAY,PALPATINE,"This scheme of yours has failed, Lord Sidious.",870118
+DAULTAY,PALPATINE,The blockade is finished.,870119
+DAULTAY,PALPATINE,We dare not go against these Jedi.,870119
+PALPATINE,"NUTE, DAULTAY","Viceroy, I don't want this stunted slime in my sight again.",870120
+PALPATINE,NUTE,This turn of events is unfortunate.,870121
+PALPATINE,NUTE,We must accelerate our plans.,870122
+PALPATINE,NUTE,Begin landing your troops.,870122
+NUTE,PALPATINE,"My lord, is that legal?",870123
+PALPATINE,NUTE,I will make it legal.,870124
+NUTE,PALPATINE,And the Jedi?,870125
+PALPATINE,NUTE,The chancellor should never have brought them into this.,870126
+PALPATINE,NUTE,Kill them immediately.,870126
+NUTE,PALPATINE,"Yes, Yes, my lord.",870127
+NUTE,PALPATINE,As you wish.,870127
+ANTIDAR WILLIAMS,MAOI MADAKOR,"Captain, look!",870128
+MAOI MADAKOR,ANTIDAR WILLIAMS,Shields.,870129
+TC-14,"QUI-GON, OBI-WAN",Sorry.,870130
+QUI-GON,OBI-WAN,Dioxis.,870131
+NUTE,NA,They must be dead by now.,870132
+NUTE,NA,Destroy what's left of them.,870133
+TC-14,NA,Oh!,870134
+TC-14,NA,Excuse me.,870134
+BATTLE DROID,NA,"Check it out, Corporal.",870135
+BATTLE DROID,NA,We'll cover you.,870135
+BATTLE DROID 2,NA,"Roger, roger.",870135
+BATTLE DROID,NA,Uh-oh.,870136
+BATTLE DROID,NA,Blast them.,870136
+NUTE,TEY HOW,What is going on down there?,870137
+TEY HOW,NUTE,"We lost the transmission, sir.",870138
+RUNE,NUTE,"Have you ever encountered a Jedi knight before, sir?",870139
+NUTE,RUNE,"Well, no, but I don't.",870140
+NUTE,TEY HOW,Seal off the bridge.,870140
+TEY HOW,NUTE,"Yes, sir.",870141
+RUNE,NUTE,"That won't be enough, sir.",870141
+NUTE,TEY HOW,I want droidekas,870142
+NUTE,TEY HOW,up here at once!,870142
+RUNE,NUTE,We will not survive this.,870143
+NUTE,TEY HOW,Close the blast doors!,870144
+NUTE,NA,That will hold them.,870145
+RUNE,NUTE,They are still coming through.,870146
+NUTE,RUNE,This is impossible!,870147
+RUNE,NUTE,Where are those droidekas?,870148
+OBI-WAN,QUI-GON,Master!,870149
+OBI-WAN,QUI-GON,Destroyers!,870149
+OBI-WAN,QUI-GON,They have shield generators!,870150
+QUI-GON,OBI-WAN,It's a standoff.,870151
+QUI-GON,OBI-WAN,Let's go.,870151
+RUNE,NUTE,They're no match for droidekas.,870152
+TEY HOW,NUTE,Sir!,870153
+TEY HOW,NUTE,They've gone up the ventilation shaft.,870153
+QUI-GON,OBI-WAN,Battle droids.,870154
+OBI-WAN,QUI-GON,It's an invasion army.,870154
+QUI-GON,OBI-WAN,This is an odd play for the Trade Federation.,870155
+QUI-GON,OBI-WAN,We've got to warn the Naboo and contact Chancellor Valorum.,870156
+QUI-GON,OBI-WAN,Let's split up.,870157
+QUI-GON,OBI-WAN,Stow aboard separate ships and meet down on the planet.,870157
+OBI-WAN,QUI-GON,"You were right about one thing, Master.",870158
+OBI-WAN,QUI-GON,The negotiations were short.,870159
+TEY HOW,NUTE,"Sir, a transmission from the planet.",870160
+RUNE,NUTE,It's Queen Amidala herself.,870161
+NUTE,RUNE,At last we are getting results.,870162
+NUTE,PADME,"Again you come before us, Your Highness.",870163
+PADME,NUTE,"You will not be so pleased when you hear what I have to say, Viceroy.",870164
+PADME,NUTE,Your trade boycott of our planet has ended.,870165
+NUTE,PADME,I was not aware of such failure.,870166
+PADME,NUTE,I have word that the chancellor's ambassadors are with you now.,870167
+PADME,NUTE,and that you have been commanded to reach settlement.,870168
+NUTE,PADME,I know nothing of any ambassadors.,870169
+NUTE,PADME,You must be mistaken.,870170
+PADME,NUTE,"Beware, Viceroy.",870171
+PADME,NUTE,The Federation has gone too far this time.,870172
+NUTE,PADME,We would never do anything without the approval of the senate.,870173
+NUTE,PADME,You assume too much.,870174
+PADME,NUTE,We will see.,870175
+RUNE,NUTE,She's right.,870176
+RUNE,NUTE,The senate will never.,870176
+NUTE,RUNE,It's too late now.,870176
+RUNE,NUTE,Do you think she suspects an attack?,870177
+NUTE,RUNE,I don't know.,870177
+NUTE,RUNE,But we must move quickly to disrupt all communications down there.,870178
+PALPATINE,NA,Negotiations haven't started because the ambassadors aren't there?,870179
+PALPATINE,NA,How could that be true?,870180
+PALPATINE,NA,I have assurances from the chancellor his ambassadors did arrive.,870181
+[DISTORTED VOICE],NA,It must.,870182
+[DISTORTED VOICE],NA,handiwork.,870182
+[DISTORTED VOICE],NA,negotiate.,870182
+[DISTORTED VOICE],NA,ambassadors.,870182
+[DISTORTED VOICE],NA,- nobody would.,870183
+PADME,PALPATINE,Senator Palpatine.,870183
+PADME,PALPATINE,What's happening?,870184
+CAPT. PANAKA,PALPATINE,Check the transmission generator.,870185
+BIBBLE,PADME,A communications disruption can mean only one thing: Invasion.,870186
+PADME,BIBBLE,The Federation would not dare go that far.,870187
+CAPT. PANAKA,"PADME, BIBBLE","The senate would revoke their trade franchise, and they'd be finished.",870188
+PADME,BIBBLE,We must continue to rely on negotiation.,870189
+BIBBLE,PADME,Negotiation?,870190
+BIBBLE,PADME,We've lost all communications.,870190
+BIBBLE,NA,And where are the chancellor's ambassadors?,870191
+CAPT. PANAKA,PADME,"This is a dangerous situation, Your Highness.",870192
+CAPT. PANAKA,PADME,Our security volunteers will be no match.,870193
+CAPT. PANAKA,PADME,against a battle-hardened Federation army.,870193
+PADME,CAPT. PANAKA,I will not condone a course of action that will lead us to war.,870194
+OOM-9,"RUNE, NUTE","Yes, Viceroy?",870195
+RUNE,OOM-9,"Captain, we've searched the ship.",870195
+RUNE,OOM-9,and there is no trace of the Jedi.,870196
+RUNE,OOM-9,They may have gotten on one of your landing craft.,870197
+OOM-9,"RUNE, NUTE","If they're down here, sir, we'll fnd them.",870198
+NUTE,OOM-9,Use caution.,870199
+NUTE,OOM-9,These Jedi are not to be underestimated.,870199
+JAR JAR,QUI-GON,"Oh, no!",870200
+QUI-GON,JAR JAR,Get away!,870200
+QUI-GON,JAR JAR,Get out of here!,870200
+QUI-GON,JAR JAR,Get down!,870201
+JAR JAR,QUI-GON,Was'n dat?,870201
+JAR JAR,QUI-GON,"Hey, wait!",870203
+JAR JAR,QUI-GON,"Oh, mooie-mooie, I love you.",870204
+QUI-GON,JAR JAR,You almost got us killed.,870205
+QUI-GON,JAR JAR,Are you brainless?,870205
+JAR JAR,QUI-GON,I spake.,870206
+QUI-GON,JAR JAR,The ability to speak does not make you intelligent.,870206
+QUI-GON,JAR JAR,"Now, get out of here.",870207
+JAR JAR,QUI-GON,"No, no, mesa stay.",870207
+JAR JAR,QUI-GON,Mesa culled Jar Jar Binks.,870208
+JAR JAR,QUI-GON,Mesa your humble servant.,870208
+QUI-GON,JAR JAR,That won't be necessary.,870209
+JAR JAR,QUI-GON,"Oh, but it 'tis.",870209
+JAR JAR,QUI-GON,"Tis demanded by the gods, it 'tis.",870210
+JAR JAR,QUI-GON,"Oh, no!",870211
+QUI-GON,JAR JAR,Stay down!,870211
+JAR JAR,QUI-GON,You saved my again.,870212
+OBI-WAN,QUI-GON,What's this?,870213
+QUI-GON,OBI-WAN,A local.,870213
+QUI-GON,OBI-WAN,Let's get out of here before more droids show up.,870214
+JAR JAR,QUI-GON,More?,870214
+JAR JAR,QUI-GON,More did you spake?,870215
+JAR JAR,"QUI-GON, OBI-WAN","Ex-squeeze-me, but de mostest safest place would be Gunga City.",870216
+JAR JAR,"QUI-GON, OBI-WAN",Is where I grew up.,870217
+JAR JAR,"QUI-GON, OBI-WAN",Tis a hidden city.,870217
+QUI-GON,JAR JAR,A city?,870218
+JAR JAR,QUI-GON,Uh-huh.,870218
+QUI-GON,JAR JAR,Can you take us there?,870219
+JAR JAR,QUI-GON,"On second thought, no.",870219
+JAR JAR,QUI-GON,"Not really, no.",870220
+QUI-GON,JAR JAR,No?,870220
+JAR JAR,"QUI-GON, OBI-WAN",Tis embarrassing.,870221
+JAR JAR,"QUI-GON, OBI-WAN",but my afraid my've been banished.,870222
+JAR JAR,"QUI-GON, OBI-WAN",My forgotten.,870223
+JAR JAR,"QUI-GON, OBI-WAN",Da bosses would do terrible tings to me.,870223
+JAR JAR,"QUI-GON, OBI-WAN",Terrible tings to me if me goen back dare.,870224
+QUI-GON,JAR JAR,You hear that?,870225
+JAR JAR,QUI-GON,Yah.,870225
+QUI-GON,JAR JAR,That is the sound of a thousand terrible things heading this way.,870226
+OBI-WAN,JAR JAR,"If they find us, they will crush us.",870227
+OBI-WAN,JAR JAR,grind us into tiny pieces and blast us into oblivion.,870228
+JAR JAR,OBI-WAN,Oh.,870229
+JAR JAR,OBI-WAN,Yousa point is well seen.,870229
+JAR JAR,"OBI-WAN, QUI-GON",Dis way.,870230
+JAR JAR,"OBI-WAN, QUI-GON",Hurry!,870230
+QUI-GON,JAR JAR,How much further?,870231
+JAR JAR,"OBI-WAN, QUI-GON","Wesa goen underwater, okeyday?",870231
+JAR JAR,"OBI-WAN, QUI-GON","Ah, my warning you.",870232
+JAR JAR,"OBI-WAN, QUI-GON","Gungans no liken outsiders, so don't spect a warm welcome.",870233
+OBI-WAN,JAR JAR,Don't worry.,870234
+OBI-WAN,JAR JAR,This hasn't been our day for warm welcomes.,870234
+JAR JAR,"OBI-WAN, QUI-GON","Yousa follow me now, okeyday?",870236
+JAR JAR,"OBI-WAN, QUI-GON",So good bein home!,870237
+CAPT. TARPALS,"JAR JAR, OBI-WAN, QUI-GON","Hey, yousa.",870239
+CAPT. TARPALS,"JAR JAR, OBI-WAN, QUI-GON",Stopa dare.,870240
+JAR JAR,CAPT. TARPALS,"Heyo-dales, Cap'n Tarpals.",870240
+JAR JAR,CAPT. TARPALS,Mesa back.,870241
+CAPT. TARPALS,JAR JAR,"Noah gain, Jar Jar.",870242
+CAPT. TARPALS,JAR JAR,Yousa goen tada bosses.,870242
+CAPT. TARPALS,JAR JAR,Yousa in big dudu dis time.,870243
+JAR JAR,JAR JAR,How wude.,870246
+BOSS NASS,"OBI-WAN, QUI-GON",Yousa cannot bees hair.,870246
+BOSS NASS,"OBI-WAN, QUI-GON",Dis army of Mackineeks up dare is new weesong.,870246
+QUI-GON,BOSS NASS,A droid army is about to attack the Naboo.,870249
+QUI-GON,BOSS NASS,We must warn them.,870249
+BOSS NASS,"OBI-WAN, QUI-GON",Wesa no like da Naboo.,870250
+BOSS NASS,"OBI-WAN, QUI-GON",Da Naboo tink day so smarty.,870251
+BOSS NASS,"OBI-WAN, QUI-GON",Day tink day brains so big.,870252
+OBI-WAN,BOSS NASS,"Once those droids take control of the surface, they will take control of you.",870253
+BOSS NASS,"OBI-WAN, QUI-GON",Mesa no tink so.,870254
+BOSS NASS,"OBI-WAN, QUI-GON",Day not know of uss-en.,870255
+OBI-WAN,BOSS NASS,You and the Naboo form a symbiont circle.,870256
+OBI-WAN,BOSS NASS,What happens to one of you will affect the other.,870257
+OBI-WAN,BOSS NASS,You must understand this.,870257
+BOSS NASS,"OBI-WAN, QUI-GON",Wesa no carrrre-nn about da Naboo.,870258
+QUI-GON,BOSS NASS,Then speed us on our way.,870259
+BOSS NASS,"OBI-WAN, QUI-GON",Wesa ganna speed yous away.,870260
+QUI-GON,BOSS NASS,We could use a transport.,870261
+BOSS NASS,"OBI-WAN, QUI-GON",Wesa give yousa una bongo.,870262
+BOSS NASS,"OBI-WAN, QUI-GON",Da speediest way tooda Naboo.,870262
+BOSS NASS,"OBI-WAN, QUI-GON",tis goen through the planet core.,870262
+BOSS NASS,"OBI-WAN, QUI-GON",Now.,870262
+BOSS NASS,"OBI-WAN, QUI-GON",go.,870262
+QUI-GON,BOSS NASS,Thank you for your help.,870262
+QUI-GON,BOSS NASS,We leave in peace.,870262
+OBI-WAN,QUI-GON,"Master, what's a bongo?",870268
+QUI-GON,OBI-WAN,"A transport, I hope.",870269
+JAR JAR,"OBI-WAN, QUI-GON",Deysa setten yousa up.,870270
+JAR JAR,"OBI-WAN, QUI-GON",Goen through da planet core?,870271
+JAR JAR,"OBI-WAN, QUI-GON",Bad bombin'.,870271
+JAR JAR,"OBI-WAN, QUI-GON",Any help here would be hot.,870272
+OBI-WAN,QUI-GON,"Master, we're short on time.",870273
+QUI-GON,OBI-WAN,We'll need a navigator to get us through the planet's core.,870274
+QUI-GON,OBI-WAN,This Gungan may be of help.,870275
+QUI-GON,BOSS NASS,What is to become of Jar Jar Binks here?,870276
+BOSS NASS,QUI-GON,Hisen to be pune-ished.,870277
+QUI-GON,BOSS NASS,I saved his life.,870278
+QUI-GON,BOSS NASS,"He owes me what you call a ""life-debt.",870279
+QUI-GON,BOSS NASS,""" Your gods demand that his life belongs to me now.",870280
+BOSS NASS,JAR JAR,Binks.,870281
+BOSS NASS,JAR JAR,yousa havena liveplay with thisen hisen?,870282
+JAR JAR,BOSS NASS,MM HMM
+BOSS NASS,BOSS NASS,Begone wit him!,870282
+JAR JAR,BOSS NASS,Count me outta dis one.,870285
+JAR JAR,BOSS NASS,Better dead here than dead in da core.,870286
+JAR JAR,JAR JAR,Yee gods!,870287
+JAR JAR,JAR JAR,What mesa sayin?,870287
+JAR JAR,"OBI-WAN, QUI-GON",Dis is nutsen.,870288
+JAR JAR,JAR JAR,"Oh, gooberfish!",870288
+OBI-WAN,JAR JAR,"Why were you banished, Jar Jar?",870289
+JAR JAR,"OBI-WAN, QUI-GON",It's a longo tale-o.,870289
+JAR JAR,"OBI-WAN, QUI-GON",buta a small part of it would be mesa.,870290
+JAR JAR,"OBI-WAN, QUI-GON",clumsy.,870290
+OBI-WAN,JAR JAR,You were banished for being clumsy?,870290
+JAR JAR,"OBI-WAN, QUI-GON",Yousa might'n be sayin dat.,870291
+JAR JAR,"OBI-WAN, QUI-GON","Mesa caused mabee one two-y lettle bitty axadentes, huh?",870292
+JAR JAR,"OBI-WAN, QUI-GON",Yud-say boom da gasser.,870293
+JAR JAR,"OBI-WAN, QUI-GON","den crashin der boss's heyblibber, den banished.",870294
+JAR JAR,"JAR JAR, OBI-WAN, QUI-GON",Uh oh!,870295
+JAR JAR,"JAR JAR, OBI-WAN, QUI-GON",Big gooberfish!,870296
+JAR JAR,"JAR JAR, OBI-WAN, QUI-GON",Huge-o teeth!,870296
+QUI-GON,"JAR JAR, OBI-WAN",There's always a bigger fish.,870297
+JAR JAR,OBI-WAN,Mesa tink we goen back now.,870297
+NUTE,PALPATINE,"The invasion is on schedule, my lord.",870298
+PALPATINE,NUTE,I have the senate bogged down in procedures.,870299
+PALPATINE,NUTE,They will have no choice but to accept your control of the system.,870300
+NUTE,PALPATINE,The queen has great faith that the senate will side with her.,870301
+PALPATINE,NUTE,Queen Amidala is young and naive.,870302
+PALPATINE,NUTE,You will find controlling her will not be difficult.,870303
+NUTE,PALPATINE,"Yes, my lord.",870304
+RUNE,NUTE,You didn't tell him about the missing Jedi.,870305
+NUTE,RUNE,No need to report that to him until we have something to report.,870306
+JAR JAR,"OBI-WAN, QUI-GON",Where wesa goin?,870307
+QUI-GON,JAR JAR,Don't worry.,870307
+QUI-GON,JAR JAR,The Force will guide us.,870307
+JAR JAR,QUI-GON,"Oh, maxi big, da Force.",870308
+JAR JAR,QUI-GON,"Well, dat smells stinkowiff.",870309
+OBI-WAN,QUI-GON,We're losing power.,870310
+JAR JAR,JAR JAR,"Oh, no!",870311
+JAR JAR,"QUI-GON, OBI-WAN",Wesa dyin' here.,870312
+QUI-GON,JAR JAR,Just relax.,870313
+QUI-GON,JAR JAR,We're not in trouble yet.,870313
+JAR JAR,QUI-GON,"What ""yet""?",870313
+JAR JAR,QUI-GON,Monsters out dare.,870314
+JAR JAR,QUI-GON,Leak'n in here.,870314
+JAR JAR,QUI-GON,All sink'n and no power?,870315
+JAR JAR,QUI-GON,Whena yousa tinkin wesa in trouble?,870315
+OBI-WAN,QUI-GON,Power's back.,870316
+JAR JAR,"QUI-GON, OBI-WAN",Monster's back!,870316
+QUI-GON,JAR JAR,Relax.,870316
+OBI-WAN,QUI-GON,You overdid it.,870316
+JAR JAR,JAR JAR,Horrible.,870320
+QUI-GON,OBI-WAN,Head for that outcropping.,870320
+JAR JAR,JAR JAR,"Oh, boy.",870321
+OOM-9,NUTE,"Viceroy, we have captured the queen.",870322
+NUTE,RUNE,"Ah, victory.",870323
+JAR JAR,"OBI-WAN, QUI-GON",Dis'n loverly.,870324
+BIBBLE,NUTE,How will you explain this invasion to the senate?,870325
+NUTE,BIBBLE,The queen and I will sign a treaty that will legitimize our occupation here.,870326
+NUTE,BIBBLE,I have assurances it will be ratifed by the senate.,870327
+SABE,NUTE,I will not cooperate.,870328
+NUTE,SABE,"Now, now, Your Highness.",870328
+NUTE,SABE,"In time, your people's suffering will persuade you to see our point of view.",870329
+NUTE,BATTLE DROID COMMANDER,Commander.,870330
+BATTLE DROID COMMANDER,NUTE,"Yes, sir.",870330
+NUTE,NUTE,Process them.,870331
+BATTLE DROID COMMANDER,NUTE,"Captain, take them to Camp 4.",870331
+BATTLE DROID CAPTAIN,NUTE,"Roger, roger.",870332
+JAR JAR,JAR JAR,Whoops,870333
+QUI-GON,SABE,"We should leave the street, Your Highness.",870335
+CAPT. PANAKA,SABE,Get their weapons.,870335
+JAR JAR,SABE,Yousa guys bombad!,870336
+QUI-GON,"BIBBLE, SABE, CAPT. PANAKA",We're ambassadors for the supreme chancellor.,870337
+BIBBLE,QUI-GON,"Your negotiations seemed to have failed, Ambassador.",870338
+QUI-GON,"BIBBLE, CAPT. PANAKA, SABE",The negotiations never took place.,870339
+QUI-GON,"BIBBLE, CAPT. PANAKA, SABE",It's urgent that we make contact with the Republic.,870340
+CAPT. PANAKA,QUI-GON,They've knocked out all our communications.,870341
+QUI-GON,CAPT. PANAKA,Do you have transports?,870341
+CAPT. PANAKA,QUI-GON,In the main hangar.,870342
+CAPT. PANAKA,QUI-GON,This way.,870342
+CAPT. PANAKA,QUI-GON,There are too many of them.,870343
+QUI-GON,SABE,That won't be a problem.,870343
+QUI-GON,SABE,"Your Highness, under the circumstances, I suggest you come to Coruscant with us.",870344
+SABE,QUI-GON,"Thank you, Ambassador, but my place is with my people.",870345
+QUI-GON,SABE,They will kill you if you stay.,870346
+BIBBLE,QUI-GON,They wouldn't dare.,870346
+CAPT. PANAKA,QUI-GON,They need her to sign a treaty to make this invasion legal.,870347
+CAPT. PANAKA,QUI-GON,They can't afford to kill her.,870347
+QUI-GON,SABE,"There is something else behind all this, Your Highness.",870348
+QUI-GON,SABE,There's no logic in the Federation's move here.,870349
+QUI-GON,SABE,My feelings tell me they will destroy you.,870350
+BIBBLE,SABE,Our only hope is for the senate to side with us.,870351
+BIBBLE,SABE,Senator Palpatine will need your help.,870352
+SABE,"BIBBLE, PADME, CAPT. PANAKA, QUI-GON",Either choice presents great danger.,870353
+SABE,"BIBBLE, PADME, CAPT. PANAKA, QUI-GON",to us all.,870353
+PADME,SABE,"We are brave, Your Highness.",870354
+QUI-GON,SABE,"If you are to leave, Your Highness, it must be now.",870355
+SABE,QUI-GON,Then I will plead our case to the senate.,870356
+SABE,BIBBLE,"Be careful, Governor.",870357
+CAPT. PANAKA,"OBI-WAN, QUI-GON",We'll need to free those pilots.,870358
+OBI-WAN,CAPT. PANAKA,I'll deal with that.,870359
+BATTLE DROID,QUI-GON,Halt.,870360
+QUI-GON,BATTLE DROID,I'm ambassador to the supreme chancellor.,870360
+QUI-GON,BATTLE DROID,I'm taking these people to Coruscant.,870361
+BATTLE DROID,QUI-GON,Where are you taking them?,870362
+QUI-GON,BATTLE DROID,To Coruscant.,870362
+BATTLE DROID,QUI-GON,Coruscant?,870363
+BATTLE DROID,QUI-GON,"Uh, that doesn't compute.",870363
+BATTLE DROID,QUI-GON,"Uh, wait.",870364
+BATTLE DROID,QUI-GON,"Uh, you're under arrest.",870364
+QUI-GON,NA,Come on.,870365
+QUI-GON,NA,Move!,870365
+OBI-WAN,NA,Go!,870366
+OBI-WAN,JAR JAR,"Now, stay here and keep out of trouble.",870367
+JAR JAR,R2D2,"Hello, boyos.",870368
+RIC OLIE,"OBI-WAN, QUI-GON",There's the blockade.,870369
+RIC OLIE,"OBI-WAN, QUI-GON",The shield generator's been hit!,870370
+JAR JAR,R2D2,How wude!,870371
+OBI-WAN,"RIC OLIE, CAPT. PANAKA, QUI-GON",We're losing droids fast.,870372
+CAPT. PANAKA,"RIC OLIE, QUI-GON, OBI-WAN","If we can't get the shield generator fxed, we'll be sitting ducks.",870373
+RIC OLIE,"CAPT. PANAKA, OBI-WAN, QUI-GON",The shields are gone.,870374
+RIC OLIE,"CAPT. PANAKA, OBI-WAN, QUI-GON",The power's back!,870375
+RIC OLIE,"CAPT. PANAKA, OBI-WAN, QUI-GON",That little droid did it.,870376
+RIC OLIE,"CAPT. PANAKA, OBI-WAN, QUI-GON",He bypassed the main power drive.,870376
+RIC OLIE,"CAPT. PANAKA, OBI-WAN, QUI-GON",Deflector shields up at maximum.,870377
+RIC OLIE,"CAPT. PANAKA, OBI-WAN, QUI-GON",There's not enough power to get us to Coruscant.,870378
+RIC OLIE,"CAPT. PANAKA, OBI-WAN, QUI-GON",The hyperdrive is leaking.,870378
+QUI-GON,RIC OLIE,We'll have to land somewhere to refuel and repair the ship.,870379
+OBI-WAN,QUI-GON,"Here, Master.",870380
+OBI-WAN,QUI-GON,Tatooine.,870380
+OBI-WAN,QUI-GON,"It's small, out of the way, poor.",870381
+OBI-WAN,QUI-GON,The Trade Federation have no presence there.,870381
+CAPT. PANAKA,"QUI-GON, OBI-WAN",How can you be sure?,870382
+QUI-GON,CAPT. PANAKA,It's controlled by the Hutts.,870383
+CAPT. PANAKA,"QUI-GON, OBI-WAN",You can't take Her Royal Highness there.,870384
+CAPT. PANAKA,"QUI-GON, OBI-WAN",The Hutts are gangsters.,870384
+CAPT. PANAKA,"QUI-GON, OBI-WAN",If they discovered her.,870385
+QUI-GON,CAPT. PANAKA,It'd be no different than if we landed on a system controlled by the Federation.,870386
+QUI-GON,CAPT. PANAKA,except that the Hutts aren't looking for her.,870387
+QUI-GON,CAPT. PANAKA,which gives us the advantage.,870387
+PALPATINE,NUTE,"And Queen Amidala, has she signed the treaty?",870388
+NUTE,PALPATINE,"She has disappeared, my lord.",870389
+NUTE,PALPATINE,One Naboo cruiser got past the blockade.,870390
+PALPATINE,NUTE,I want that treaty signed.,870391
+NUTE,PALPATINE,My lord.,870392
+NUTE,PALPATINE,it's impossible to locate the ship.,870393
+NUTE,PALPATINE,It's out of our range.,870394
+PALPATINE,NUTE,Not for a Sith.,870395
+PALPATINE,NUTE,This is my apprentice.,870396
+PALPATINE,NUTE,Darth Maul.,870397
+PALPATINE,NUTE,He will find your lost ship.,870398
+NUTE,RUNE,This is getting out of hand.,870399
+NUTE,RUNE,Now there are two of them.,870400
+RUNE,NUTE,We should not have made this bargain.,870401
+CAPT. PANAKA,SABE,"An extremely well-put-together little droid, Your Highness.",870402
+CAPT. PANAKA,SABE,"Without a doubt, it saved the ship, as well as our lives.",870403
+SABE,CAPT. PANAKA,It is to be commended.,870404
+SABE,CAPT. PANAKA,What is its number?,870404
+CAPT. PANAKA,SABE,"R2D2, Your Highness.",870405
+SABE,R2D2,"Thank you,R2D2.",870406
+SABE,PADME,Padme.,870407
+SABE,PADME,Clean this droid up as best you can.,870408
+SABE,PADME,It deserves our gratitude.,870409
+SABE,CAPT. PANAKA,"Continue, Captain.",870410
+QUI-GON,SABE,"Your Highness, with your permission.",870411
+QUI-GON,SABE,we're heading for a remote planet called Tatooine.,870412
+QUI-GON,SABE,It's in a system far beyond the reach of the Trade Federation.,870413
+CAPT. PANAKA,SABE,I do not agree with the Jedi on this.,870414
+QUI-GON,SABE,"You must trust my judgment, Your Highness.",870415
+JAR JAR,PADME,Hello.,870416
+JAR JAR,PADME,Sorry.,870417
+JAR JAR,PADME,Husa are yousa?,870417
+PADME,JAR JAR,I'm Padme,870418
+JAR JAR,PADME,Mesa Jar Jar Binks.,870419
+PADME,JAR JAR,"You're a Gungan, aren't you?",870420
+PADME,JAR JAR,How'd you end up here with us?,870422
+JAR JAR,PADME,My no know.,870422
+JAR JAR,PADME,Mesa day starten pitty okeyday witda brisky morning munchen.,870423
+JAR JAR,PADME,Den boom!,870424
+JAR JAR,PADME,Getten berry scared.,870424
+JAR JAR,PADME,"and grabben dat Jedi, and pow.",870425
+JAR JAR,PADME,mesa here.,870425
+JAR JAR,PADME,"Mesa getten berry, berry scared.",870426
+RIC OLIE,"QUI-GON, OBI-WAN",That's it.,870427
+RIC OLIE,"QUI-GON, OBI-WAN",Tatooine.,870427
+OBI-WAN,"QUI-GON, RIC OLIE",There's a settlement.,870427
+QUI-GON,RIC OLIE,Land near the outskirts.,870428
+QUI-GON,RIC OLIE,We don't want to attract attention.,870428
+OBI-WAN,QUI-GON,"The hyperdrive generator's gone, Master.",870429
+OBI-WAN,QUI-GON,We'll need a new one.,870429
+QUI-GON,OBI-WAN,That'll complicate things.,870430
+QUI-GON,OBI-WAN,Be wary.,870430
+QUI-GON,OBI-WAN,I sense a disturbance in the Force.,870431
+OBI-WAN,QUI-GON,"I feel it also, Master.",870431
+QUI-GON,OBI-WAN,Don't let them send any transmissions.,870432
+JAR JAR,"QUI-GON, OBI-WAN, R2D2",The sun doen murder to mesa skin.,870433
+CAPT. PANAKA,"QUI-GON, OBI-WAN, R2D2, JAR JAR",Wait!,870434
+CAPT. PANAKA,"QUI-GON, OBI-WAN, R2D2, JAR JAR",Wait.,870435
+CAPT. PANAKA,QUI-GON,Her Highness commands you to take her handmaiden with you.,870436
+QUI-GON,CAPT. PANAKA,"No more commands from Her Highness today, Captain.",870437
+QUI-GON,CAPT. PANAKA,The spaceport is not going to be pleasant.,870438
+CAPT. PANAKA,QUI-GON,The queen wishes it.,870439
+CAPT. PANAKA,QUI-GON,She's curious about the planet.,870440
+QUI-GON,CAPT. PANAKA,This is not a good idea.,870441
+QUI-GON,PADME,Stay close to me.,870442
+QUI-GON,"PADME, JAR JAR","Moisture farms, for the most part.",870443
+QUI-GON,"PADME, JAR JAR",Some indigenous tribes and scavengers.,870444
+QUI-GON,"PADME, JAR JAR",The few spaceports like this one.,870445
+QUI-GON,"PADME, JAR JAR",are havens for those that don't wish to be found.,870445
+PADME,QUI-GON,Like us.,870446
+JAR JAR,"QUI-GON, PADME","Dissen berry, berry bad.",870447
+JAR JAR,JAR JAR,"Icky, icky goo!",870448
+QUI-GON,PADME,We'll try one of the smaller dealers.,870449
+WATTO,QUI-GON,Good day to you.,870450
+WATTO,QUI-GON,What do you want?,870451
+QUI-GON,WATTO,I need parts for a J-type 327 Nubian.,870452
+WATTO,QUI-GON,"Ah, yes!",870453
+WATTO,QUI-GON,Nubian.,870453
+WATTO,QUI-GON,We have lots of that.,870453
+WATTO,ANAKIN,"Boy, get in here now!",870454
+QUI-GON,WATTO,My droid has a readout of what I need.,870455
+WATTO,ANAKIN,What took you so long?,870456
+ANAKIN,WATTO,I was cleaning the fan switches.,870457
+WATTO,ANAKIN,Watch the store.,870458
+WATTO,ANAKIN,I've got some selling to do.,870458
+WATTO,QUI-GON,"So, let me take thee out back, huh?",870459
+WATTO,QUI-GON,We'll find what you need.,870460
+QUI-GON,JAR JAR,Don't touch anything.,870460
+ANAKIN,PADME,Are you an angel?,870460
+PADME,ANAKIN,What?,870460
+ANAKIN,PADME,An angel.,870460
+ANAKIN,PADME,I heard the deep space pilots talk about them.,870465
+ANAKIN,PADME,They're the most beautiful creatures in the universe.,870466
+ANAKIN,PADME,"They live on the moons of lego,",870467
+ANAKIN,PADME,I think.,870467
+PADME,ANAKIN,You're a funny little boy.,870468
+PADME,ANAKIN,How do you know so much?,870469
+ANAKIN,PADME,I listen to all the traders and star pilots who come through here.,870470
+ANAKIN,PADME,"I'm a pilot, you know, and someday I'm gonna fly away from this place.",870471
+PADME,ANAKIN,You're a pilot?,870472
+ANAKIN,PADME,Mm-hmm.,870472
+ANAKIN,PADME,All my life.,870472
+PADME,ANAKIN,How long have you been here?,870473
+ANAKIN,PADME,Since I was very little.,870474
+ANAKIN,PADME,"Three, I think.",870474
+ANAKIN,PADME,My mom and I were sold to Gardulla the Hutt.,870475
+ANAKIN,PADME,but she lost us betting on the podraces.,870476
+PADME,ANAKIN,You're a slave?,870477
+ANAKIN,PADME,"I'm a person, and my name is Anakin.",870478
+PADME,ANAKIN,I'm sorry.,870478
+PADME,ANAKIN,I don't fully understand.,870479
+PADME,ANAKIN,This is a strange place to me.,870479
+JAR JAR,NA,Where- Wheres yousa goin?,870479
+JAR JAR,NA,I got ya.,870483
+ANAKIN,JAR JAR,Hey!,870483
+ANAKIN,JAR JAR,Hit the nose.,870484
+WATTO,QUI-GON,A T-14 hyperdrive generator.,870486
+WATTO,QUI-GON,Thee in luck.,870486
+WATTO,QUI-GON,I'm the only one hereabouts who has one.,870487
+WATTO,QUI-GON,But thee might as well buy a new ship.,870488
+WATTO,QUI-GON,"It would be cheaper, I think, huh.",870488
+WATTO,QUI-GON,Saying of which.,870489
+WATTO,QUI-GON,"how's thee gonna pay for all this, huh?",870490
+QUI-GON,WATTO,"I have 20,000 Republic dataries.",870491
+WATTO,QUI-GON,Republic credits?,870492
+WATTO,QUI-GON,Republic credits are no good out here.,870493
+WATTO,QUI-GON,I need something more real.,870493
+WATTO,QUI-GON,"I don't have anything else, but credits will do fine.",870494
+WATTO,QUI-GON,"No, they won't.",870495
+QUI-GON,WATTO,Credits will do fine.,870495
+WATTO,QUI-GON,"No, they won't!",870496
+WATTO,QUI-GON,"What, you think you're some kind of Jedi, waving your hand around like that?",870497
+WATTO,QUI-GON,I'm a Toydarian.,870498
+WATTO,QUI-GON,Mind tricks don't work on me.,870498
+WATTO,QUI-GON,Only money.,870498
+WATTO,QUI-GON,"No money, no parts, no deal.",870499
+WATTO,QUI-GON,"And no one else has a T-14 hyperdrive, I promise you that.",870500
+ANAKIN,PADME,Wouldn't have lasted long anyways if I wasn't so good at building things.,870501
+QUI-GON,PADME,We're leaving.,870501
+QUI-GON,JAR JAR,Jar Jar.,870501
+PADME,ANAKIN,"I'm glad to have met you, Anakin.",870505
+ANAKIN,PADME,I was glad to meet you too.,870506
+JAR JAR,,Wha-wha?,870507
+JAR JAR,,Oh.,870507
+WATTO,ANAKIN,Outlanders.,870508
+WATTO,ANAKIN,They think we know nothing.,870508
+ANAKIN,WATTO,They seemed nice to me.,870509
+WATTO,ANAKIN,Clean the racks.,870510
+WATTO,ANAKIN,Then you can go home.,870511
+ANAKIN,WATTO,Yippee!,870512
+QUI-GON,OBI-WAN,And you're sure there's nothing left on board?,870513
+OBI-WAN,QUI-GON,A few containers of supplies.,870514
+OBI-WAN,QUI-GON,"The queen's wardrobe, maybe, but not enough for you to barter with.",870515
+OBI-WAN,QUI-GON,not in the amount you're talking about.,870516
+QUI-GON,OBI-WAN,All right.,870517
+QUI-GON,OBI-WAN,I'm sure another solution will present itself.,870517
+QUI-GON,OBI-WAN,I'll check back later.,870518
+JAR JAR,QUI-GON,Noah gain.,870519
+JAR JAR,QUI-GON,Noah gain.,870519
+JAR JAR,QUI-GON,"Da beings hereabouts, cawazy!",870520
+JAR JAR,QUI-GON,Wesa be wobbed un crunched.,870521
+QUI-GON,JAR JAR,Not likely.,870522
+QUI-GON,JAR JAR,We have nothing of value.,870522
+QUI-GON,JAR JAR,That's our problem.,870522
+JAR JAR,GRAGRA,Hmm?,870523
+JAR JAR,GRAGRA,"Ah, mooie mooie?",870523
+GRAGRA,JAR JAR,Are you going to pay for that?,870525
+GRAGRA,JAR JAR,It costs seven wupiupi.,870526
+JAR JAR,JAR JAR,Woopie woopie!,870527
+JAR JAR,JAR JAR,Oops.,870527
+SEBULBA,JAR JAR,Is this yours?,870530
+JAR JAR,SEBULBA,"Who, mesa.",870531
+ANAKIN,SEBULBA,"Careful, Sebulba.",870533
+ANAKIN,SEBULBA,He's a big-time outlander.,870534
+ANAKIN,SEBULBA,I'd hate to see you diced before we race again.,870535
+SEBULBA,ANAKIN,"Next time we race, boy, it will be the end of you.",870536
+SEBULBA,ANAKIN,"If you weren't a slave, I'd squash you now.",870537
+ANAKIN,SEBULBA,"Yeah, it'd be a pity if you had to pay for me.",870538
+ANAKIN,QUI-GON,Hi.,870539
+QUI-GON,ANAKIN,Hi there.,870539
+ANAKIN,QUI-GON,Your buddy here was about to be turned into orange goo.,870540
+ANAKIN,QUI-GON,He picked a fight with a Dug.,870541
+ANAKIN,QUI-GON,an especially dangerous Dug called Sebulba.,870541
+JAR JAR,"ANAKIN, QUI-GON, PADME",Mesa haten crunchen.,870542
+JAR JAR,"ANAKIN, QUI-GON, PADME",Das da las ting mesa want.,870542
+QUI-GON,JAR JAR,"Nevertheless, the boy is right.",870543
+QUI-GON,JAR JAR,You were heading into trouble.,870543
+QUI-GON,ANAKIN,"Thanks, my young friend.",870544
+JAR JAR,QUI-GON,But mesa doen nutten!,870546
+OBI-WAN,CAPT. PANAKA,This storm will slow them down.,870547
+CAPT. PANAKA,OBI-WAN,Looks pretty bad.,870548
+CAPT. PANAKA,RIC OLIE,Panaka.,870549
+RIC OLIE,CAPT. PANAKA,Receiving a message from home.,870549
+CAPT. PANAKA,RIC OLIE,We'll be right there.,870550
+ANAKIN,QUI-GON,"Here, you'll like these pallies.",870551
+ANAKIN,QUI-GON,Here.,870552
+QUI-GON,ANAKIN,Thank you.,870552
+JIRA,ANAKIN,"Oh, my bones are aching.",870553
+JIRA,ANAKIN,"Storm's coming up, Ani.",870554
+JIRA,ANAKIN,You better get home quick.,870554
+ANAKIN,"QUI-GON, PADME",Do you have shelter?,870555
+QUI-GON,ANAKIN,We'll head back to our ship.,870555
+ANAKIN,"QUI-GON, PADME",Is it far?,870556
+QUI-GON,ANAKIN,It's on the outskirts.,870556
+ANAKIN,"QUI-GON, PADME, JAR JAR, R2D2",You'll never reach the outskirts in time.,870557
+ANAKIN,"QUI-GON, PADME, JAR JAR, R2D2","Sandstorms are very, very dangerous.",870558
+ANAKIN,"QUI-GON, PADME, JAR JAR, R2D2",Come on.,870559
+ANAKIN,"QUI-GON, PADME, JAR JAR, R2D2",I'll take you to my place.,870559
+ANAKIN,SHMI,Mom!,870560
+ANAKIN,SHMI,"Mom, I'm home!",870561
+JAR JAR,ANAKIN,"Ah, dissen cosy.",870561
+ANAKIN,SHMI,"These are my friends, Mom.",870562
+JAR JAR,SHMI,Hello.,870562
+QUI-GON,SHMI,I'm Qui-Gon Jinn.,870563
+ANAKIN,PADME,I'm building a droid.,870563
+ANAKIN,PADME,You wanna see?,870563
+QUI-GON,SHMI,Your son was kind enough to offer us shelter.,870564
+ANAKIN,PADME,Come on.,870565
+ANAKIN,PADME,I'll show you Threepio.,870565
+ANAKIN,PADME,Isn't he great?,870566
+ANAKIN,PADME,He's not finished yet.,870566
+PADME,ANAKIN,He's wonderful.,870567
+ANAKIN,PADME,You really like him?,870568
+ANAKIN,PADME,He's a protocol droid to help Mom.,870569
+ANAKIN,PADME,Watch.,870569
+THREEPIO,ANAKIN,Where is everybody?,870570
+ANAKIN,ANAKIN,Whoops.,870571
+THREEPIO,"ANAKIN, PADME","Oh, hello.",870572
+THREEPIO,"ANAKIN, PADME","I am C-3PO, human cyborg relations.",870573
+THREEPIO,"ANAKIN, PADME",How might I serve you?,870574
+PADME,ANAKIN,He's perfect.,870575
+THREEPIO,PADME,Oh.,870575
+THREEPIO,PADME,Perfect.,870575
+ANAKIN,PADME,"When the storm is over, I'll show you my racer.",870576
+ANAKIN,PADME,I'm building a Podracer.,870576
+THREEPIO,"ANAKIN, PADME",I'm not sure this floor is entirely stable.,870577
+THREEPIO,R2D2,Hello.,870578
+THREEPIO,R2D2,I don't believe we have been introduced.,870578
+THREEPIO,R2D2,R2D2.,870579
+THREEPIO,R2D2,A pleasure to meet you.,870579
+THREEPIO,R2D2,"I am C-3PO, human cyborg relations.",870580
+THREEPIO,R2D2,"I beg your pardon, but what do you mean, ""naked""?",870581
+THREEPIO,R2D2,My parts are showing?,870582
+THREEPIO,R2D2,My goodness!,870582
+PALPATINE,"SABE, OBI-WAN, QUI-GON",The death toll is catastrophic.,870583
+PALPATINE,"SABE, OBI-WAN, QUI-GON",We must bow to their wishes.,870584
+PALPATINE,"SABE, OBI-WAN, QUI-GON",You must contact me.,870585
+OBI-WAN,SABE,It's a trick.,870586
+OBI-WAN,SABE,Send no reply.,870586
+OBI-WAN,SABE,Send no transmissions of any kind.,870587
+QUI-GON,OBI-WAN,It sounds like bait to establish a connection trace.,870588
+OBI-WAN,QUI-GON,"What if it is true, and the people are dying?",870589
+QUI-GON,OBI-WAN,"Either way, we're running out of time.",870590
+DARTH MAUL,PALPATINE,Tatooine is sparsely populated.,870591
+DARTH MAUL,PALPATINE,"If the trace was correct, I will fnd them quickly, Master.",870592
+PALPATINE,DARTH MAUL,Move against the Jedi first.,870593
+PALPATINE,DARTH MAUL,You will then have no difficulty in taking the queen to Naboo.,870594
+PALPATINE,DARTH MAUL,to sign the treaty.,870595
+DARTH MAUL,PALPATINE,At last we will reveal ourselves to the Jedi.,870596
+DARTH MAUL,PALPATINE,At last we will have revenge.,870597
+PALPATINE,DARTH MAUL,"You have been well-trained, my young apprentice.",870598
+PALPATINE,DARTH MAUL,They will be no match for you.,870599
+SHMI,"QUI-GON, PADME",All slaves have a transmitter placed inside their bodies somewhere.,870600
+ANAKIN,"QUI-GON, PADME",I've been working on a scanner to try and locate mine.,870601
+SHMI,"QUI-GON, PADME, JAR JAR",Any attempt to escape.,870602
+ANAKIN,"QUI-GON, PADME, JAR JAR",And they blow you up!,870602
+ANAKIN,"QUI-GON, PADME, JAR JAR",Boom!,870603
+JAR JAR,"ANAKIN, SHMI",How wude!,870603
+PADME,"SHMI, ANAKIN",I can't believe there's still slavery in the galaxy.,870604
+PADME,"SHMI, ANAKIN",The Republic's antislavery laws.,870605
+SHMI,PADME,The Republic doesn't exist out here.,870606
+SHMI,PADME,We must survive on our own.,870607
+JAR JAR,"QUI-GON, PADME, ANAKIN, SHMI",Xcuse me.,870608
+ANAKIN,"QUI-GON, PADME, JAR JAR",Has anybody ever seen a Podrace?,870609
+QUI-GON,"ANAKIN, PADME, JAR JAR, SHMI",They have Podracing on Malastare.,870610
+QUI-GON,"ANAKIN, PADME, JAR JAR, SHMI","Very fast, very dangerous.",870610
+ANAKIN,"QUI-GON, PADME, JAR JAR",I'm the only human who can do it.,870611
+QUI-GON,ANAKIN,You must have Jedi reflexes if you race pods.,870612
+QUI-GON,JAR JAR,Don't do that again.,870613
+ANAKIN,QUI-GON,"You're a Jedi knight, aren't you?",870614
+QUI-GON,ANAKIN,What makes you think that?,870615
+ANAKIN,QUI-GON,I saw your laser sword.,870616
+ANAKIN,QUI-GON,Only Jedis carry that kind of weapon.,870616
+QUI-GON,ANAKIN,Perhaps I killed a Jedi and took it from him.,870617
+ANAKIN,QUI-GON,I don't think so.,870618
+ANAKIN,QUI-GON,No one can kill a Jedi.,870619
+QUI-GON,ANAKIN,I wish that were so.,870620
+ANAKIN,"QUI-GON, PADME, SHMI",I had a dream I was a Jedi.,870621
+ANAKIN,"QUI-GON, PADME, SHMI",I came back here and freed all the slaves.,870622
+ANAKIN,QUI-GON,Have you come to free us?,870623
+QUI-GON,ANAKIN,"No, I'm afraid not.",870623
+ANAKIN,QUI-GON,I think you have.,870624
+ANAKIN,QUI-GON,Why else would you be here?,870624
+QUI-GON,ANAKIN,"I can see there's no fooling you, Anakin.",870625
+QUI-GON,"ANAKIN, SHMI","We're on our way to Coruscant, the central system in the Republic.",870626
+QUI-GON,"ANAKIN, SHMI",on a very important mission.,870627
+ANAKIN,"QUI-GON, PADME, JAR JAR",How did you end up out here in the outer rim?,870628
+PADME,ANAKIN,"Our ship was damaged, and we're stranded here until we can repair it.",870629
+ANAKIN,"QUI-GON, PADME, JAR JAR",I can help.,870630
+ANAKIN,"QUI-GON, PADME, JAR JAR",I can fix anything.,870631
+QUI-GON,ANAKIN,I believe you can.,870631
+QUI-GON,ANAKIN,But first we must acquire the parts we need.,870632
+JAR JAR,"ANAKIN, QUI-GON, PADME, SHMI",Wit no-nutten mula to trade.,870633
+PADME,"ANAKIN, SHMI, QUI-GON, JAR JAR",These junk dealers must have a weakness of some kind.,870634
+SHMI,"PADME, QUI-GON, JAR JAR",Gambling.,870635
+SHMI,"PADME, QUI-GON, JAR JAR",Everything here revolves around betting on those awful races.,870635
+QUI-GON,SHMI,Podracing.,870636
+QUI-GON,SHMI,Greed can be a powerful ally.,870636
+ANAKIN,"QUI-GON, PADME, JAR JAR",I built a racer.,870637
+ANAKIN,"QUI-GON, PADME, JAR JAR",It's the fastest ever.,870637
+ANAKIN,"QUI-GON, PADME, JAR JAR",There's a big race tomorrow on Boonta Eve.,870638
+ANAKIN,QUI-GON,You could enter my pod.,870639
+SHMI,ANAKIN,"Anakin, Watto won't let you.",870640
+ANAKIN,SHMI,Watto doesn't know I've built it.,870640
+ANAKIN,SHMI,You could make him think it was yours.,870641
+ANAKIN,SHMI,and get him to let me pilot it for you.,870642
+SHMI,ANAKIN,I don't want you to race.,870643
+SHMI,ANAKIN,It's awful.,870643
+SHMI,ANAKIN,I die every time Watto makes you do it.,870643
+ANAKIN,SHMI,"But, Mom, I love it.",870644
+ANAKIN,SHMI,The prize money would more than pay for the parts they need.,870645
+SHMI,ANAKIN,Anakin.,870646
+QUI-GON,ANAKIN,Your mother's right.,870647
+QUI-GON,"ANAKIN, SHMI",Is there anyone friendly to the Republic who can help us?,870648
+SHMI,QUI-GON,No.,870649
+ANAKIN,SHMI,"Mom, you say the biggest problem in this universe is nobody helps each other.",870650
+PADME,SHMI,I'm sure Qui-Gon doesn't want to put your son in danger.,870651
+PADME,SHMI,We'll find some other way.,870652
+SHMI,"QUI-GON, PADME",No.,870653
+SHMI,"QUI-GON, PADME",There is no other way.,870654
+SHMI,"QUI-GON, PADME","I may not like it, but he can help you.",870655
+SHMI,"QUI-GON, PADME",He was meant to help you.,870656
+PADME,QUI-GON,Are you sure about this?,870657
+PADME,QUI-GON,Trusting our fate to a boy we hardly know?,870658
+PADME,QUI-GON,The queen will not approve.,870659
+QUI-GON,PADME,The queen doesn't need to know.,870660
+PADME,QUI-GON,"Well, I don't approve.",870661
+WATTO,QUI-GON,The boy tells me you want to sponsor him in the race.,870662
+WATTO,QUI-GON,How can you do this?,870663
+WATTO,QUI-GON,"Not on the Republic credits, I think.",870663
+QUI-GON,WATTO,My ship will be the entry fee.,870664
+WATTO,QUI-GON,Not bad!,870665
+WATTO,QUI-GON,"Not bad, huh?",870666
+WATTO,QUI-GON,"Nubian, huh?",870666
+QUI-GON,WATTO,"It's in good order, except for the parts I need.",870667
+WATTO,"QUI-GON, ANAKIN",What would the boy ride?,870668
+WATTO,"QUI-GON, ANAKIN",He smashed up my pod in the last race.,870669
+WATTO,"QUI-GON, ANAKIN",It would take some long time to fx it.,870669
+ANAKIN,"WATTO, QUI-GON",It wasn't my fault.,870670
+ANAKIN,"WATTO, QUI-GON",Really.,870670
+ANAKIN,"WATTO, QUI-GON",Sebulba flashed me with his vents.,870670
+ANAKIN,"WATTO, QUI-GON","I actually saved the pod, mostly.",870671
+WATTO,ANAKIN,That you did.,870672
+WATTO,QUI-GON,The boy's good.,870673
+WATTO,QUI-GON,"No doubts there, huh?",870673
+QUI-GON,WATTO,I have acquired a pod in a game of chance.,870674
+QUI-GON,WATTO,The fastest ever built.,870674
+WATTO,QUI-GON,"I hope you didn't kill anyone I know for it, huh?",870675
+WATTO,QUI-GON,"So, you supply the pod and the entry fee.",870676
+WATTO,QUI-GON,and I supply the boy.,870677
+WATTO,QUI-GON,"We split the winnings 50-50, I think, huh?",870678
+QUI-GON,WATTO,If it's going to be 50-50.,870679
+QUI-GON,WATTO,I suggest you front the cash for the entry.,870679
+QUI-GON,WATTO,If we win.,870680
+QUI-GON,WATTO,"you keep all the winnings, minus the cost of the parts I need.",870681
+QUI-GON,WATTO,"And if we lose, you keep my ship.",870682
+QUI-GON,WATTO,"Either way, you win.",870683
+WATTO,QUI-GON,Deal!,870684
+WATTO,ANAKIN,"Your friend is a foolish one, methinks.",870685
+OBI-WAN,QUI-GON,"What if this plan fails, Master?",870686
+OBI-WAN,QUI-GON,We could be stuck here a very long time.,870687
+QUI-GON,OBI-WAN,"Well, it's too dangerous to call for help.",870688
+QUI-GON,OBI-WAN,and a ship without a power supply isn't going to get us anywhere.,870689
+QUI-GON,OBI-WAN,And.,870690
+QUI-GON,OBI-WAN,there's something about this boy.,870691
+QUI-GON,SHMI,You should be very proud of your son.,870692
+QUI-GON,SHMI,He gives without any thought of reward.,870693
+SHMI,QUI-GON,"Well, he knows nothing of greed.",870694
+SHMI,QUI-GON,He has.,870695
+QUI-GON,SHMI,He has special powers.,870695
+SHMI,QUI-GON,Yes.,870696
+QUI-GON,SHMI,He can see things before they happen.,870697
+QUI-GON,SHMI,That's why he appears to have such quick reflexes.,870698
+QUI-GON,SHMI,It's a Jedi trait.,870699
+SHMI,QUI-GON,He deserves better than a slave's life.,870700
+QUI-GON,SHMI,"Had he been born in the Republic, we would have identifed him early.",870701
+QUI-GON,SHMI,The Force is unusually strong with him.,870702
+QUI-GON,SHMI,That much is clear.,870702
+QUI-GON,SHMI,Who was his father?,870703
+SHMI,QUI-GON,There was no father.,870704
+SHMI,QUI-GON,"I carried him, I gave birth, I raised him.",870705
+SHMI,QUI-GON,I can't explain what happened.,870706
+SHMI,QUI-GON,Can you help him?,870707
+QUI-GON,SHMI,I don't know.,870708
+QUI-GON,SHMI,I didn't actually come here to free slaves.,870709
+KITSTER,ANAKIN,Hi Ani!,870710
+ANAKIN,KITSTER,Hi!,870711
+KITSTER,ANAKIN,"Wow, a real astro droid!",870712
+KITSTER,ANAKIN,How do you get so lucky?,870713
+ANAKIN,KITSTER,That isn't the half of it.,870713
+ANAKIN,KITSTER,I'm in the Boonta race tomorrow.,870714
+KITSTER,ANAKIN,What?,870714
+KITSTER,ANAKIN,With this?,870715
+GREEDO,ANAKIN,"You're such a joker, Ani.",870716
+AMEE,ANAKIN,You've been working on that for years.,870717
+MELEE,ANAKIN,It's never gonna run.,870717
+SEEK,ANAKIN,Come on.,870718
+SEEK,ANAKIN,Let's go and play ball.,870718
+SEEK,ANAKIN,"Keep racing, Ani.",870719
+SEEK,ANAKIN,You're gonna be bug squash.,870719
+ANAKIN,JAR JAR,"Hey Jar Jar, keep away from those energy binders.",870721
+ANAKIN,JAR JAR,"If your hand gets caught in the beam, it's gonna go numb for hours.",870722
+JAR JAR,ANAKIN,Sorry.,870723
+JAR JAR,ANAKIN,Okay.,870723
+JAR JAR,JAR JAR,My tongue is fat.,870724
+JAR JAR,JAR JAR,My tongue.,870724
+JAR JAR,JAR JAR,Wrench.,870725
+JAR JAR,JAR JAR,Where is de wrench?,870726
+JAR JAR,JAR JAR,"Oh, dare it is.",870726
+JAR JAR,JAR JAR,I'm stuck.,870726
+THREEPIO,R2D2,"You know, I fnd that Jar Jar creature to be a little odd.",870729
+KITSTER,ANAKIN,You don't even know if this thing's gonna run.,870730
+ANAKIN,KITSTER,It will.,870731
+QUI-GON,"KITSTER, ANAKIN",I think it's time we found out.,870731
+QUI-GON,ANAKIN,"Here, use this power charge.",870732
+ANAKIN,QUI-GON,"Yes, sir!",870732
+QUI-GON,KITSTER,"Come on, Kitster.",870733
+QUI-GON,KITSTER,Let's move away.,870733
+JAR JAR,JAR JAR,My mouth.,870734
+JAR JAR,ANAKIN,"Ani, I'm stuck.",870735
+JAR JAR,"PADME, ANAKIN",Hey.,870736
+JAR JAR,"PADME, ANAKIN",My tongue is fat.,870736
+JAR JAR,"PADME, ANAKIN",Ani.,870741
+THREEPIO,R2D2,You're quite right.,870741
+THREEPIO,R2D2,He's very odd indeed.,870742
+JAR JAR,PADME,Thank you.,870742
+JAR JAR,ANAKIN,Go.,870742
+ANAKIN,"PADME, QUI-GON, JAR JAR",It's working!,870742
+ANAKIN,"PADME, QUI-GON, JAR JAR",It's working!,870742
+QUI-GON,ANAKIN,"Stay still, Ani.",870742
+QUI-GON,ANAKIN,Let me clean this cut.,870742
+ANAKIN,QUI-GON,There's so many.,870743
+ANAKIN,QUI-GON,Do they all have a system of planets?,870743
+QUI-GON,ANAKIN,Most of them.,870743
+ANAKIN,QUI-GON,Has anyone been to 'em all?,870744
+QUI-GON,ANAKIN,Not likely.,870745
+ANAKIN,QUI-GON,I wanna be the frst one to see 'em all.,870746
+SHMI,ANAKIN,"Ani, bedtime!",870747
+QUI-GON,ANAKIN,There we are.,870748
+QUI-GON,ANAKIN,Good as new.,870748
+SHMI,ANAKIN,"Ani, I'm not gonna tell you again.",870749
+ANAKIN,QUI-GON,What are you doing?,870750
+QUI-GON,ANAKIN,Checking your blood for infections.,870750
+QUI-GON,ANAKIN,Go on.,870751
+QUI-GON,ANAKIN,You have a big day tomorrow.,870751
+QUI-GON,ANAKIN,"Sleep well, Ani.",870752
+QUI-GON,OBI-WAN,Obi-Wan?,870753
+OBI-WAN,QUI-GON,"Yes, Master?",870753
+QUI-GON,OBI-WAN,I need an analysis of this blood sample I'm sending you.,870754
+OBI-WAN,QUI-GON,Wait a minute.,870755
+QUI-GON,OBI-WAN,I need a midi-chlorian count.,870756
+OBI-WAN,QUI-GON,The reading is off the chart.,870757
+OBI-WAN,QUI-GON,"Over 20,000.",870758
+OBI-WAN,QUI-GON,Even Master Yoda doesn't have a midi-chlorian count that high.,870759
+QUI-GON,OBI-WAN,No Jedi has.,870760
+OBI-WAN,QUI-GON,What does that mean?,870761
+QUI-GON,OBI-WAN,I'm not sure.,870762
+WATTO,QUI-GON,I wanna see your spaceship the moment the race is over.,870763
+QUI-GON,WATTO,"Patience, my blue friend.",870764
+QUI-GON,WATTO,You'll have your winnings before the suns set.,870764
+QUI-GON,WATTO,And we'll be far away from here.,870765
+WATTO,QUI-GON,"Not if your ship belongs to me, I think, huh?",870766
+WATTO,QUI-GON,"I warn you, no funny business.",870767
+QUI-GON,WATTO,You don't think Anakin can win?,870768
+WATTO,QUI-GON,Don't get me wrongo.,870768
+WATTO,QUI-GON,I have great faith in the boy.,870769
+WATTO,QUI-GON,He's a credit to your race.,870770
+WATTO,QUI-GON,"but Sebulba there is going to win, I think.",870771
+JAR JAR,QUI-GON,"Oh, no!",870772
+QUI-GON,WATTO,Why do you think that?,870773
+WATTO,QUI-GON,He always wins!,870774
+WATTO,QUI-GON,I am betting heavily on Sebulba.,870775
+QUI-GON,WATTO,I'll take that bet.,870776
+WATTO,QUI-GON,You What?,870776
+QUI-GON,WATTO,"I'll wager my new racing pod against, say.",870777
+QUI-GON,WATTO,the boy and his mother.,870778
+WATTO,QUI-GON,"No pod is worth two slaves, not by a long shot.",870779
+QUI-GON,WATTO,"The boy, then.",870780
+WATTO,QUI-GON,"Well, we'll let fate decide, huh?",870780
+WATTO,QUI-GON,I just happen to have a chance cube here.,870783
+WATTO,QUI-GON,"Blue, it's the boy.",870784
+WATTO,QUI-GON,Red.,870785
+WATTO,QUI-GON,his mother.,870785
+WATTO,QUI-GON,"You won this small toss, outlander.",870786
+WATTO,QUI-GON,but you won't win the race!,870786
+WATTO,QUI-GON,So it makes little difference!,870787
+WATTO,ANAKIN,Better stop your friend's betting or I'll end up owning him too.,870788
+ANAKIN,QUI-GON,What'd he mean by that?,870789
+QUI-GON,ANAKIN,I'll tell you later.,870789
+QUI-GON,SHMI,Good morning.,870790
+THREEPIO,R2D2,"Oh, my.",870791
+THREEPIO,R2D2,Space travel sounds rather perilous.,870792
+THREEPIO,R2D2,"I can assure you, they will never get me onto one of those dreadful starships.",870793
+KITSTER,ANAKIN,"This is so wizard, Ani.",870794
+KITSTER,ANAKIN,I'm sure you'll do it this time.,870794
+PADME,"KITSTER, ANAKIN",Do what?,870795
+KITSTER,PADME,"Finish the race, of course.",870795
+PADME,ANAKIN,You've never won a race?,870796
+ANAKIN,PADME,"Well, not exactly.",870796
+PADME,ANAKIN,Not even finished?,870797
+ANAKIN,PADME,Kitster's right.,870798
+ANAKIN,PADME,I will this time.,870798
+QUI-GON,ANAKIN,Of course you will.,870799
+BEED,NA,That's absolutely right.,870801
+BEED,NA,And a big turnout here from all corners of the outer rim territories.,870802
+BEED,NA,I see the contestants are making their way out onto the starting grid.,870803
+FODE,NA,I see Ben Quadinaros from the Tund System.,870804
+BEED,NA,Two-time winner Boles Roor.,870805
+FODE,NA,Sebulba!,870806
+BEED,NA,"And in the front row, nearside pole position.",870807
+BEED,NA,Mawhonic!,870808
+BEED,NA,A hearty hello.,870809
+BEED,NA,to Clegg Holdfast and his Voltec KT9 Wasp!,870810
+BEED,NA,"And back again, it's the mighty Dud Bolt.",870812
+BEED,NA,"with that incredible racing machine, the Vulptereen 327.",870813
+BEED,NA,And hoping for a big win today.,870814
+BEED,NA,"Ody Mandrell, with his record-setting pit droid team.",870815
+BEED,NA,"And a late entry, young Anakin Skywalker.",870816
+BEED,NA,a local boy.,870817
+BEED,NA,I see the flags are moving out onto the track.,870818
+JAR JAR,NA,Pee yusa,870820
+SHMI,ANAKIN,Be safe.,870821
+ANAKIN,SHMI,"I will, Mom.",870822
+ANAKIN,SHMI,I promise.,870822
+SEBULBA,ANAKIN,Uh-oh.,870823
+SEBULBA,ANAKIN,You won't walk away from this one.,870824
+SEBULBA,ANAKIN,you slave scum.,870825
+ANAKIN,SEBULBA,"Don't count on it, slime ball.",870826
+SEBULBA,ANAKIN,You're bantha fodder!,870827
+QUI-GON,ANAKIN,"You all set, Ani?",870828
+ANAKIN,QUI-GON,Yep.,870828
+QUI-GON,ANAKIN,Right.,870829
+QUI-GON,ANAKIN,"Remember, concentrate on the moment.",870830
+QUI-GON,ANAKIN,"Feel, don't think.",870831
+QUI-GON,ANAKIN,Use your instincts.,870831
+ANAKIN,QUI-GON,I will.,870832
+QUI-GON,ANAKIN,May the Force be with you.,870833
+FODE,NA,Jabba the Hutt.,870834
+JABBA,NA,Welcome.,870836
+JABBA,NA,Begin the race!,870837
+FODE,NA,"Hey, looks like they're clearing the grid.",870838
+SHMI,QUI-GON,Is he nervous?,870839
+QUI-GON,SHMI,He's fne.,870839
+PADME,QUI-GON,You Jedi are far too reckless.,870840
+PADME,QUI-GON,The queen is not.,870840
+QUI-GON,PADME,"The queen trusts my judgment, young handmaiden.",870841
+QUI-GON,PADME,You should too.,870842
+PADME,QUI-GON,You assume too much.,870843
+FODE,NA,Start your engines.,870844
+JAR JAR,"PADME, QUI-GON, SHMI","Oh, dissen gonna be messy.",870845
+JAR JAR,"PADME, QUI-GON, SHMI",Me no watch'n!,870845
+R2D2,"PADME, QUI-GON, SHMI",BEEP
+ANAKIN,ANAKIN,"Oh, no!",870847
+ANAKIN,ANAKIN,Nooo!,870847
+FODE,NA,Wait.,870848
+FODE,NA,Little Skywalker has stalled.,870848
+FODE,NA,It looks like Quadinaros is having engine trouble also.,870849
+JAR JAR,NA,"Come on, Ani!",870850
+FODE,NA,And there goes Skywalker!,870851
+JAR JAR,NA,"Go, Ani, go!",870851
+FODE,NA,He will be hard-pressed to catch up with the leaders.,870852
+FODE,NA,Looks like a few Tusken Raiders are camped out.,870852
+FODE,NA,on the canyon dune turn.,870852
+FODE,NA,There goes Quadinaros' power coupling.,870857
+POD RACER,NA,"Oh, no!"
+THREEPIO,"R2D2, KITSTER, GREEDO",Where is Master Anakin?
+PADME,"SHMI, QUI-GON, JAR JAR",Look.,1029
+PADME,"SHMI, QUI-GON, JAR JAR",Here he comes.,870867
+FODE,NA,It looks like Skywalker is moving up in the field.,870868
+KITSTER,NA,Yay!,870869
+KITSTER,NA,Yippee!,870869
+THREEPIO,R2D2,He has to complete two more circuits?,870870
+THREEPIO,R2D2,"Oh, dear.",870871
+FODE,NA,Skywalker's spinning out of control!
+FODE,NA,"Oh, I don't care what universe you're from.",870876
+FODE,NA,That's gotta hurt!,870876
+JAR JAR,"PADME, SHMI, QUI-GON",Here he comes!,870877
+FODE,NA,"At the start of the third and final lap, Sebulba's in the lead.",870878
+FODE,NA,followed closely by Skywalker!,870879
+KITSTER,NA,"Go, Ani!",870880
+FODE,NA,Skywalker's been forced onto the service ramp!,870881
+FODE,NA,It's Skywalker!,870881
+BEED,NA,Sebulba!,870884
+BEED,NA,Amazing!,870885
+BEED,NA,"A quick control thrust, and he's back on course!",870885
+JAR JAR,"PADME, SHMI, QUI-GON",Did he crash-ed?,870886
+FODE,NA,Skywalker's in trouble!,870888
+FODE,NA,Sebulba takes the lead!,870888
+FODE,NA,He's catching Sebulba!,870889
+JAR JAR,NA,"Careful, Ani.",870890
+JAR JAR,NA,"Careful, Ani!",870890
+FODE,NA,That little human being is out of his mind!,870892
+FODE,NA,They're side by side!,870893
+KITSTER,NA,Yippee!,870893
+GREEDO,NA,Yay!,870897
+THREEPIO,R2D2,I can't believe it.,870898
+FODE,NA,The crowds are going nuts!,870898
+JAR JAR,ANAKIN,"Yay, Ani!",870898
+ANAKIN,SHMI,"Mom, I did it!",870898
+ANAKIN,SHMI,Yay!,870903
+JAR JAR,ANAKIN,"Good going, Ani!",870906
+PADME,ANAKIN,"We owe you everything, Ani.",870907
+SHMI,ANAKIN,"It's so wonderful, Ani.",870907
+SHMI,ANAKIN,You have brought hope to those who have none.,870907
+SHMI,ANAKIN,I'm so very proud of you.,870911
+WATTO,QUI-GON,You!,870911
+WATTO,QUI-GON,You swindled me.,870915
+WATTO,QUI-GON,You knew the boy was going to win.,870916
+WATTO,QUI-GON,Somehow you knew it.,870916
+WATTO,QUI-GON,I lost everything.,870917
+QUI-GON,WATTO,"Whenever you gamble, my friend, eventually you lose.",870918
+QUI-GON,WATTO,Bring the parts to the main hangar.,870919
+QUI-GON,WATTO,I'll come by your shop later on so you can release the boy.,870920
+WATTO,QUI-GON,You can't have him.,870921
+WATTO,QUI-GON,It wasn't a fair bet.,870921
+QUI-GON,WATTO,Would you like to discuss it with the Hutts?,870922
+QUI-GON,WATTO,I'm sure they can settle this.,870923
+WATTO,QUI-GON,Take him.,870924
+JAR JAR,OBI-WAN,Hidoe!,870925
+OBI-WAN,QUI-GON,"Well, we have all the essential parts we need.",870926
+QUI-GON,OBI-WAN,I'm going back.,870927
+QUI-GON,OBI-WAN,Some unfinished business.,870927
+QUI-GON,OBI-WAN,I won't be long.,870927
+OBI-WAN,QUI-GON,Why do I sense we've picked up another pathetic life-form?,870928
+QUI-GON,OBI-WAN,It's the boy who's responsible for getting us these parts.,870929
+QUI-GON,OBI-WAN,Get this hyperdrive generator installed.,870930
+OBI-WAN,QUI-GON,"Yes, Master.",870931
+OBI-WAN,QUI-GON,That shouldn't take long.,870931
+QUI-GON,ANIMAL,Come on.,870932
+QUI-GON,ANIMAL,Hup!,870932
+QUI-GON,ANAKIN,Hey.,870933
+QUI-GON,ANAKIN,These are yours.,870933
+ANAKIN,ANAKIN,Yes!,870934
+ANAKIN,SHMI,"Mom, we sold the pod!",870935
+ANAKIN,SHMI,Look at all the money we have!,870936
+SHMI,ANAKIN,My goodness!,870936
+SHMI,ANAKIN,"But that's so wonderful, Ani.",870937
+QUI-GON,"SHMI, ANAKIN",And he has been freed.,870937
+ANAKIN,QUI-GON,What?,870938
+QUI-GON,ANAKIN,You're no longer a slave.,870938
+ANAKIN,SHMI,Did you hear that?,870939
+SHMI,ANAKIN,"Now you can make your dreams come true, Ani.",870940
+SHMI,ANAKIN,You are free.,870941
+SHMI,QUI-GON,Will you take him with you?,870942
+SHMI,QUI-GON,Is he to become a Jedi?,870943
+QUI-GON,SHMI,Yes.,870943
+QUI-GON,SHMI,Our meeting was not a coincidence.,870944
+QUI-GON,SHMI,Nothing happens by accident.,870945
+ANAKIN,QUI-GON,You mean I get to come with you in your starship?,870946
+QUI-GON,ANAKIN,Anakin.,870947
+QUI-GON,ANAKIN,training to become a Jedi is not an easy challenge.,870948
+QUI-GON,ANAKIN,"and even if you succeed, it's a hard life.",870949
+ANAKIN,QUI-GON,But I wanna go.,870950
+ANAKIN,QUI-GON,It's what I've always dreamed of doing.,870950
+ANAKIN,SHMI,"Can I go, Mom?",870951
+SHMI,ANAKIN,Anakin.,870952
+SHMI,ANAKIN,this path has been placed before you.,870953
+SHMI,ANAKIN,The choice is yours alone.,870954
+ANAKIN,SHMI,I wanna do it.,870955
+QUI-GON,ANAKIN,Then pack your things.,870956
+QUI-GON,ANAKIN,We haven't much time.,870956
+ANAKIN,ANAKIN,Yippee!,870957
+ANAKIN,QUI-GON,What about Mom?,870958
+ANAKIN,QUI-GON,Is she free too?,870959
+QUI-GON,ANAKIN,"I tried to free your mother, Ani, but Watto wouldn't have it.",870960
+ANAKIN,SHMI,"You're coming with us, aren't you, Mom?",870961
+SHMI,ANAKIN,"Son, my place is here.",870962
+SHMI,ANAKIN,My future is here.,870962
+SHMI,ANAKIN,It is time for you to let go.,870963
+ANAKIN,SHMI,I don't want things to change.,870964
+SHMI,ANAKIN,But you can't stop the change.,870965
+SHMI,ANAKIN,any more than you can stop the suns from setting.,870966
+SHMI,ANAKIN,I love you.,870967
+SHMI,ANAKIN,Now hurry.,870968
+SHMI,QUI-GON,Thank you.,870969
+QUI-GON,SHMI,I'll watch after him.,870970
+QUI-GON,SHMI,You have my word.,870970
+QUI-GON,SHMI,Will you be all right?,870971
+SHMI,QUI-GON,Yeah.,870972
+THREEPIO,ANAKIN,"Oh, Oh my.",870973
+THREEPIO,ANAKIN,Oh!,870973
+THREEPIO,ANAKIN,"Hello, Master Anakin.",870974
+ANAKIN,THREEPIO,"Well, 3PO, I've been freed.",870975
+ANAKIN,THREEPIO,and I'm going away in a starship.,870976
+THREEPIO,ANAKIN,"Master Anakin, you are my maker and I wish you well.",870977
+THREEPIO,ANAKIN,"However, I should prefer it if I were a little more completed.",870978
+ANAKIN,THREEPIO,"I'm sorry I wasn't able to finish you, 3PO.",870979
+ANAKIN,THREEPIO,give you coverings and all.,870979
+ANAKIN,THREEPIO,I'm gonna miss working on you.,870980
+ANAKIN,THREEPIO,You've been a great pal.,870980
+ANAKIN,THREEPIO,I'll make sure Mom doesn't sell you or anything.,870981
+THREEPIO,ANAKIN,Sell me?,870982
+ANAKIN,THREEPIO,Bye.,870983
+THREEPIO,ANAKIN,"Oh, my.",870984
+ANAKIN,SHMI,"I can't do it, Mom.",870985
+ANAKIN,SHMI,I just can't do it.,870985
+SHMI,ANAKIN,Ani.,870986
+ANAKIN,SHMI,Will I ever see you again?,870987
+SHMI,ANAKIN,What does your heart tell you?,870988
+ANAKIN,SHMI,I hope so.,870989
+ANAKIN,SHMI,Yes.,870990
+ANAKIN,SHMI,I guess.,870991
+SHMI,ANAKIN,Then we will see each other again.,870992
+ANAKIN,SHMI,"I will come back and free you, Mom.",870993
+ANAKIN,SHMI,I promise.,870994
+SHMI,ANAKIN,"Now, be brave.",870995
+SHMI,ANAKIN,and don't look back.,870996
+SHMI,ANAKIN,Don't look back.,870997
+ANAKIN,QUI-GON,"Qui-Gon, sir, wait!",870998
+ANAKIN,QUI-GON,I'm tired!,870998
+QUI-GON,ANAKIN,Anakin!,870998
+QUI-GON,ANAKIN,Drop!,870998
+QUI-GON,ANAKIN,Go!,870999
+QUI-GON,ANAKIN,Tell them to take off!,870999
+CAPT. PANAKA,"RIC OLIE, OBI-WAN",Qui-Gon's in trouble.,871000
+OBI-WAN,RIC OLIE,Take off.,871001
+OBI-WAN,RIC OLIE,Over there.,871002
+OBI-WAN,RIC OLIE,Fly low.,871002
+ANAKIN,QUI-GON,Are you all right?,871003
+QUI-GON,"ANAKIN, OBI-WAN",I think so.,871004
+OBI-WAN,QUI-GON,What was it?,871005
+QUI-GON,"OBI-WAN, ANAKIN",I'm not sure.,871006
+QUI-GON,"OBI-WAN, ANAKIN",but it was well-trained in the Jedi arts.,871006
+R2D2,NA,BEEPS TWICE
+QUI-GON,OBI-WAN,My guess is it was after the queen.,871007
+ANAKIN,QUI-GON,What are we gonna do about it?,871008
+QUI-GON,ANAKIN,We shall be patient.,871009
+QUI-GON,"ANAKIN, OBI-WAN",Anakin Skywalker.,871010
+QUI-GON,"ANAKIN, OBI-WAN",meet Obi-Wan Kenobi.,871010
+ANAKIN,OBI-WAN,Hi!,871011
+ANAKIN,OBI-WAN,You're a Jedi too?,871012
+ANAKIN,OBI-WAN,Pleased to meet you.,871012
+NUTE,BIBBLE,"Your queen is lost, your people are starving.",871013
+NUTE,BIBBLE,"and you, Governor, are going to die.",871014
+NUTE,BIBBLE,"much sooner than your people, I'm afraid.",871015
+BIBBLE,NUTE,This invasion will gain you nothing.,871016
+BIBBLE,NUTE,We're a democracy.,871017
+BIBBLE,NUTE,The people have decided.,871017
+NUTE,NA,Take him away.,871018
+OOM-9,NUTE,My troops are in position to begin searching the swamps.,871019
+OOM-9,NUTE,for these rumoured underwater villages.,871020
+OOM-9,NUTE,They will not stay hidden for long.,871021
+BIBBLE,PADME,The death toll is catastrophic.,871022
+BIBBLE,PADME,We must bow to their wishes.,871023
+BIBBLE,PADME,You must contact me.,871024
+PADME,ANAKIN,You all right?,871025
+ANAKIN,PADME,It's very cold.,871026
+PADME,ANAKIN,"You come from a warm planet, Ani.",871027
+PADME,ANAKIN,A little too warm for my taste.,871028
+PADME,ANAKIN,Space is cold.,871029
+ANAKIN,PADME,You seem sad.,871030
+PADME,ANAKIN,The queen is worried.,871031
+PADME,ANAKIN,"Her people are suffering, dying.",871032
+PADME,ANAKIN,She must convince the senate to intervene or.,871033
+PADME,ANAKIN,I'm not sure what'll happen.,871034
+ANAKIN,PADME,I made this for you.,871035
+ANAKIN,PADME,so you'd remember me.,871036
+ANAKIN,PADME,I carved it out of a japor snippet.,871037
+ANAKIN,PADME,It'll bring you good fortune.,871038
+PADME,ANAKIN,It's beautiful.,871039
+PADME,ANAKIN,But I don't need this to remember you by.,871040
+PADME,ANAKIN,"Many things will change when we reach the capital, Ani.",871041
+PADME,ANAKIN,but my caring for you will remain.,871042
+ANAKIN,PADME,"I care for you, too, only l.",871043
+PADME,ANAKIN,Miss your mother.,871044
+RIC OLIE,ANAKIN,Coruscant.,871045
+RIC OLIE,ANAKIN,The entire planet is one big city.,871045
+RIC OLIE,ANAKIN,There's Chancellor Valorum's shuttle.,871046
+RIC OLIE,ANAKIN,And look over there.,871047
+RIC OLIE,ANAKIN,Senator Palpatine is waiting for us.,871047
+PALPATINE,SABE,"It is a great gift to see you alive, Your Majesty.",871048
+PALPATINE,SABE,"With the communications breakdown, we've been very concerned.",871049
+PALPATINE,SABE,I'm anxious to hear your report on the situation.,871050
+PALPATINE,SABE,May I present Supreme Chancellor Valorum.,871051
+VALORUM,SABE,"Welcome, Your Highness.",871052
+VALORUM,SABE,It's an honour to fnally meet you in person.,871052
+SABE,PALPATINE,"Thank you, Supreme Chancellor.",871053
+VALORUM,SABE,I must relay to you how distressed everyone is over the current situation.,871054
+VALORUM,SABE,I've called for a special session of the senate to hear your position.,871055
+SABE,VALORUM,"I'm grateful for your concern, Chancellor.",871056
+PALPATINE,SABE,There is a question of procedure.,871057
+PALPATINE,SABE,but I'm confdent we can overcome it.,871058
+QUI-GON,VALORUM,I must speak with the Jedi Council immediately.,871059
+QUI-GON,VALORUM,The situation has become much more complicated.,871060
+PADME,ANAKIN,"Ani, come on.",871061
+JAR JAR,ANAKIN,"Da queen's a bein grossly nice, mesa tinks.",871062
+JAR JAR,ANAKIN,Pitty hot.,871063
+PALPATINE,PADME,"There is no civility, only politics.",871064
+PALPATINE,PADME,The Republic is not what it once was.,871065
+PALPATINE,PADME,"The senate is full of greedy, squabbling delegates.",871066
+PALPATINE,PADME,There is no interest in the common good.,871068
+PALPATINE,PADME,"I must be frank, Your Majesty.",871069
+PALPATINE,PADME,There is little chance the senate will act on the invasion.,871070
+PADME,PALPATINE,Chancellor Valorum seems to think there is hope.,871071
+PADME,PALPATINE,"If I may say so, Your Majesty.",871072
+PADME,PALPATINE,the chancellor has little real power.,871072
+PADME,PALPATINE,He is mired by baseless accusations of corruption.,871073
+PADME,PALPATINE,The bureaucrats are in charge now.,871074
+PADME,PALPATINE,What options have we?,871074
+PALPATINE,PADME,Our best choice would be to push for the election.,871075
+PALPATINE,PADME,of a stronger supreme chancellor.,871076
+PALPATINE,PADME,one who could control the bureaucrats.,871077
+PALPATINE,PADME,and give us justice.,871078
+PALPATINE,PADME,You could call for a vote of no confidence in Chancellor Valorum.,871080
+PADME,PALPATINE,He has been our strongest supporter.,871081
+PALPATINE,PADME,Our only other choice would be to submit a plea to the courts.,871082
+PADME,PALPATINE,The courts take even longer to decide things than the senate.,871083
+PADME,PALPATINE,"Our people are dying, Senator.",871084
+PADME,PALPATINE,We must do something quickly to stop the Federation.,871085
+PALPATINE,PADME,"To be realistic, Your Majesty.",871086
+PALPATINE,PADME,I think we're going to have to accept Federation control.,871087
+PALPATINE,PADME,for the time being.,871087
+PADME,PALPATINE,That is something I cannot do.,871088
+QUI-GON,"YODA, MACE WINDU, KI-ADI-MUNDI",He was trained in the Jedi arts.,871089
+QUI-GON,"YODA, MACE WINDU, KI-ADI-MUNDI",My only conclusion can be that it was a Sith lord.,871090
+KI-ADI-MUNDI,QUI-GON,Impossible.,871091
+KI-ADI-MUNDI,QUI-GON,The Sith have been extinct for a millennium.,871091
+MACE WINDU,YODA,I do not believe the Sith could have returned without us knowing.,871092
+YODA,MACE WINDU,"Hard to see, the dark side is.",871093
+MACE WINDU,QUI-GON,We will use all our resources to unravel this mystery.,871094
+MACE WINDU,QUI-GON,We will discover the identity of your attacker.,871095
+MACE WINDU,QUI-GON,May the Force be with you.,871096
+YODA,QUI-GON,Master Qui-Gon.,871097
+YODA,QUI-GON,More to say have you?,871098
+QUI-GON,YODA,"With your permission, my master.",871099
+QUI-GON,YODA,I have encountered a vergence in the Force.,871100
+YODA,QUI-GON,"A vergence, you say.",871101
+MACE WINDU,QUI-GON,Located around a person?,871102
+QUI-GON,MACE WINDU,A boy.,871103
+QUI-GON,MACE WINDU,His cells have the highest concentration of midi-chlorians.,871104
+QUI-GON,MACE WINDU,I have seen in a life-form.,871104
+QUI-GON,MACE WINDU,It is possible he was conceived by the midi-chlorians.,871105
+MACE WINDU,QUI-GON,You refer to the prophecy of the one who will bring balance to the Force.,871107
+MACE WINDU,QUI-GON,You believe it's this boy?,871108
+QUI-GON,MACE WINDU,I don't presume to.,871109
+YODA,QUI-GON,But you do.,871109
+YODA,QUI-GON,Revealed your opinion is.,871110
+QUI-GON,YODA,"I request the boy be tested, Master.",871111
+YODA,QUI-GON,Oh?,871112
+YODA,QUI-GON,"Trained as a Jedi you request for him, hmm?",871112
+QUI-GON,YODA,Finding him was the will of the Force.,871113
+QUI-GON,YODA,I have no doubt of that.,871114
+MACE WINDU,QUI-GON,"Bring him before us, then.",871115
+GUARD,HANDMAIDEN,The boy's here to see Padme.,871116
+HANDMAIDEN,GUARD,Let him in.,871117
+HANDMAIDEN,ANAKIN,"I'm sorry, Ani, but Padme's not here right now.",871118
+PADME,HANDMAIDEN,Who is it?,871119
+HANDMAIDEN,PADME,"Anakin Skywalker to see Padme, Your Highness.",871120
+PADME,ANAKIN,I've sent Padme on an errand.,871121
+ANAKIN,PADME,I'm on my way to the Jedi temple.,871122
+ANAKIN,PADME,"to start my training, I hope.",871122
+ANAKIN,PADME,"I may never see her again, so I came to say goodbye.",871123
+PADME,ANAKIN,We will tell her for you.,871124
+PADME,ANAKIN,We are sure her heart goes with you.,871125
+ANAKIN,PADME,"Thank you, Your Highness.",871126
+VALORUM,NA,The chair recognizes the senator from the sovereign system of Naboo.,871127
+PALPATINE,NA,"Supreme Chancellor, delegates of the senate.",871128
+PALPATINE,NA,a tragedy has occurred.,871129
+PALPATINE,NA,which started right here with the taxation of trade routes.,871130
+PALPATINE,NA,and has now engulfed our entire planet.,871131
+PALPATINE,NA,in the oppression of the Trade Federation.,871132
+LOTT DOD,NA,This is outrageous!,871133
+LOTT DOD,NA,I object to the senator's statements.,871134
+VALORUM,NA,The chair does not recognize the senator from the Trade Federation at this time.,871135
+PALPATINE,NA,"To state our allegations, I present Queen Amidala.",871136
+PALPATINE,NA,recently elected ruler of the Naboo.,871137
+PALPATINE,NA,who speaks on our behalf.,871138
+PADME,NA,Honourable representatives of the Republic.,871139
+PADME,NA,I come to you under the gravest of circumstances.,871140
+PADME,NA,The Naboo system has been invaded by the droid armies of the Trade.,871141
+LOTT DOD,NA,I object!,871142
+LOTT DOD,NA,There is no proof!,871142
+LOTT DOD,NA,This is incredible.,871143
+LOTT DOD,NA,We recommend a commission be sent to Naboo to ascertain the truth.,871144
+AKS MOE,NA,The Congress of Malastare.,871145
+AKS MOE,NA,concurs with the honourable delegate from the Trade Federation.,871146
+AKS MOE,NA,A commission must be appointed.,871147
+VALORUM,NA,The point.,871147
+MAS AMEDDA,VALORUM,"Excuse me, Chancellor.",871148
+PALPATINE,PADME,Enter the bureaucrat.,871148
+PALPATINE,PADME,The true rulers of the Republic.,871149
+PALPATINE,PADME,"And on the payroll of the Trade Federation, I might add.",871150
+PALPATINE,PADME,This is where Chancellor Valorum's strength will disappear.,871151
+VALORUM,PADME,The point is conceded.,871152
+VALORUM,PADME,Will you defer your motion to allow a commission.,871153
+VALORUM,PADME,to explore the validity of your accusations?,871154
+PADME,NA,I will not defer.,871155
+PADME,NA,I've come before you to resolve this attack on our sovereignty now.,871156
+PADME,NA,I was not elected to watch my people suffer and die.,871157
+PADME,NA,while you discuss this invasion in a committee.,871158
+PADME,NA,If this body is not capable of action.,871159
+PADME,NA,I suggest new leadership is needed.,871160
+PADME,NA,I move for a vote of no confdence.,871161
+PADME,NA,in Chancellor Valorum's leadership.,871162
+SENATORS,NA,Vote now!,871163
+SENATORS,NA,Vote now!,871163
+MAS AMEDDA,NA,Order!,871165
+PALPATINE,PADME,Now they will elect a new chancellor.,871166
+PALPATINE,PADME,a strong chancellor.,871167
+PALPATINE,PADME,one who will not let our tragedy continue.,871168
+OBI-WAN,QUI-GON,"The boy will not pass the council's test, Master.",871169
+OBI-WAN,QUI-GON,He's too old.,871169
+QUI-GON,OBI-WAN,"Anakin will become a Jedi, I promise you.",871170
+OB-WAN,QUI-GON,"Do not defy the council, Master, not again.",871171
+QUI-GON,OBI-WAN,"I shall do what I must, Obi-Wan.",871172
+OBI-WAN,QUI-GON,"If you would just follow the code, you would be on the council.",871173
+OBI-WAN,QUI-GON,They will not go along with you this time.,871174
+QUI-GON,OBI-WAN,"You still have much to learn, my young apprentice.",871175
+ANAKIN,MACE WINDU,A ship.,871176
+ANAKIN,MACE WINDU,A cup.,871177
+ANAKIN,MACE WINDU,A ship.,871178
+ANAKIN,MACE WINDU,A speeder.,871179
+YODA,ANAKIN,How feel you?,871181
+ANAKIN,YODA,"Cold, sir.",871182
+YODA,ANAKIN,Afraid are you?,871183
+ANAKIN,YODA,"No, sir.",871184
+YODA,ANAKIN,See through you we can.,871185
+MACE WINDU,ANAKIN,Be mindful of your feelings.,871186
+KI-ADI-MUNDI,ANAKIN,Your thoughts dwell on your mother.,871187
+ANAKIN,KI-ADI-MUNDI,I miss her.,871188
+YODA,ANAKIN,"Afraid to lose her, I think, mmm?",871189
+ANAKIN,YODA,What has that got to do with anything?,871190
+YODA,ANAKIN,Everything.,871191
+YODA,ANAKIN,Fear is the path to the dark side.,871192
+YODA,ANAKIN,Fear leads to anger.,871193
+YODA,ANAKIN,Anger leads to hate.,871193
+YODA,ANAKIN,Hate leads to suffering.,871194
+YODA,ANAKIN,I sense much fear in you.,871195
+JAR JAR,PADME,Yousa tinking yousa people ganna die?,871196
+PADME,JAR JAR,I don't know.,871197
+JAR JAR,PADME,"Gungans get pasted too, eh?",871198
+PADME,JAR JAR,I hope not.,871199
+JAR JAR,PADME,Gungans no die'n without a fght.,871200
+JAR JAR,PADME,Wesa warriors.,871201
+JAR JAR,PADME,Wesa got a grand army.,871202
+JAR JAR,PADME,"Dat's why you no liken us, mesa tinks.",871203
+CAPT. PANAKA,PADME,Your Highness?,871204
+CAPT. PANAKA,PADME,Your Highness.,871205
+CAPT. PANAKA,PADME,Senator Palpatine has been nominated to succeed Valorum.,871206
+CAPT. PANAKA,PADME,as supreme chancellor.,871207
+PALPATINE,PADME,"A surprise, to be sure, but a welcome one.",871208
+PALPATINE,PADME,"Your Majesty, if I am elected, I promise to put an end to corruption.",871209
+PADME,"PALPATINE, CAPT. PANAKA",Who else has been nominated?,871210
+CAPT. PANAKA,PADME,Bail Antilles of Alderaan and Ainlee Teem of Malastare.,871211
+PALPATINE,PADME,I feel confident our situation will create a strong sympathy vote for us.,871212
+PALPATINE,PADME,I will be chancellor.,871213
+PADME,PALPATINE,"I fear by the time you have control of the bureaucrats, Senator.",871214
+PADME,PALPATINE,"there'll be nothing left of our people, our way of life.",871215
+PALPATINE,PADME,"I understand your concern, Your Majesty.",871216
+PALPATINE,PADME,"Unfortunately, the Federation has possession of our planet.",871217
+PADME,PALPATINE,"Senator, this is your arena.",871218
+PADME,PALPATINE,I feel I must return to mine.,871219
+PADME,PALPATINE,I've decided to go back to Naboo.,871220
+PALPATINE,PADME,Go back?,871221
+PALPATINE,PADME,"But, Your Majesty, be realistic.",871221
+PALPATINE,PADME,They'll force you to sign the treaty.,871222
+PADME,PALPATINE,"I will sign no treaty, Senator.",871223
+PADME,PALPATINE,My fate will be no different than that of our people.,871224
+PADME,CAPT. PANAKA,Captain.,871225
+CAPT. PANAKA,PADME,Your Highness.,871225
+PADME,CAPT. PANAKA,Ready my ship.,871226
+PALPATINE,PADME,"Please, Your Majesty.",871227
+PALPATINE,PADME,Stay here where it's safe.,871227
+PADME,PALPATINE,It is clear to me now that the Republic no longer functions.,871228
+PADME,PALPATINE,I pray you will bring sanity and compassion back to the senate.,871229
+KI-ADI-MUNDI,"QUI-GON, ANAKIN, OBI-WAN",The Force is strong with him.,871230
+QUI-GON,"KI-ADI-MUNDI, MACE WINDU, YODA","He is to be trained, then?",871231
+MACE WINDU,QUI-GON,"No, he will not be trained.",871232
+QUI-GON,MACE WINDU,No?,871233
+MACE WINDU,QUI-GON,He is too old.,871234
+QUI-GON,"KI-ADI-MUNDI, MACE WINDU, YODA",He is the chosen one.,871235
+QUI-GON,"KI-ADI-MUNDI, MACE WINDU, YODA",You must see it.,871235
+YODA,QUI-GON,Clouded this boy's future is.,871236
+QUI-GON,YODA,"I will train him, then.",871237
+QUI-GON,YODA,I take Anakin as my Padawan learner.,871238
+YODA,QUI-GON,"An apprentice you have, Qui-Gon.",871239
+YODA,QUI-GON,Impossible to take on a second.,871240
+MACE WINDU,QUI-GON,The code forbids it.,871241
+QUI-GON,YODA,Obi-Wan is ready.,871242
+OBI-WAN,YODA,I am ready to face the trials.,871242
+YODA,"QUI-GON, OBI-WAN",Our own counsel we will keep on who is ready.,871243
+QUI-GON,YODA,He is headstrong and he has much to learn of the living Force.,871244
+QUI-GON,YODA,but he is capable.,871245
+QUI-GON,YODA,There is little more he can learn from me.,871246
+YODA,QUI-GON,Young Skywalker's fate will be decided later.,871248
+MACE WINDU,"QUI-GON, OBI-WAN",Now is not the time for this.,871249
+MACE WINDU,"QUI-GON, OBI-WAN",The senate is voting for a new supreme chancellor.,871250
+MACE WINDU,"QUI-GON, OBI-WAN",and Queen Amidala is returning home.,871251
+MACE WINDU,"QUI-GON, OBI-WAN",which will put pressure on the Federation and could widen the confrontation.,871252
+KI-ADI-MUNDI,"QUI-GON, OBI-WAN",And draw out the queen's attacker.,871253
+MACE WINDU,"QUI-GON, OBI-WAN",Go with the queen to Naboo and discover the identity of this dark warrior.,871254
+MACE WINDU,"QUI-GON, OBI-WAN",This is the clue we need.,871255
+MACE WINDU,"QUI-GON, OBI-WAN",to unravel the mystery of the Sith.,871256
+YODA,"QUI-GON, OBI-WAN",May the Force be with you.,871257
+OBI-WAN,QUI-GON,"It's not disrespect, Master.",871258
+OBI-WAN,QUI-GON,It's the truth.,871258
+QUI-GON,OBI-WAN,From your point of view.,871259
+OBI-WAN,QUI-GON,The boy is dangerous.,871260
+OBI-WAN,QUI-GON,They all sense it.,871260
+OBI-WAN,QUI-GON,Why can't you?,871260
+QUI-GON,OBI-WAN,His fate is uncertain.,871261
+QUI-GON,OBI-WAN,He's not dangerous.,871261
+QUI-GON,OBI-WAN,The council will decide Anakin's future.,871262
+QUI-GON,OBI-WAN,That should be enough for you.,871263
+QUI-GON,OBI-WAN,Now get on board.,871263
+ANAKIN,QUI-GON,"Qui-Gon, sir, I don't want to be a problem.",871264
+QUI-GON,ANAKIN,"You won't be, Ani.",871265
+QUI-GON,ANAKIN,I'm not allowed to train you.,871266
+QUI-GON,ANAKIN,so I want you to watch me and be mindful.,871266
+QUI-GON,ANAKIN,Always remember: Your focus determines your reality.,871267
+QUI-GON,ANAKIN,Stay close to me and you'll be safe.,871268
+ANAKIN,QUI-GON,"Master, sir.",871269
+ANAKIN,QUI-GON,I heard Yoda talking about midi-chlorians.,871270
+ANAKIN,QUI-GON,I've been wondering.,871271
+ANAKIN,QUI-GON,What are midi-chlorians?,871271
+QUI-GON,ANAKIN,Midi-chlorians are a microscopic life-form.,871272
+QUI-GON,ANAKIN,that resides within all living cells.,871273
+ANAKIN,QUI-GON,They live inside me?,871274
+QUI-GON,ANAKIN,"Inside your cells, yes.",871274
+QUI-GON,ANAKIN,And we are symbionts with them.,871275
+ANAKIN,QUI-GON,Symbionts?,871275
+QUI-GON,ANAKIN,Life-forms living together for mutual advantage.,871276
+QUI-GON,ANAKIN,"Without the midi-chlorians, life could not exist.",871277
+QUI-GON,ANAKIN,and we would have no knowledge of the Force.,871278
+QUI-GON,ANAKIN,They continually speak to us.,871279
+QUI-GON,ANAKIN,telling us the will of the Force.,871280
+QUI-GON,ANAKIN,When you learn to quiet your mind.,871281
+QUI-GON,ANAKIN,you'll hear them speaking to you.,871282
+ANAKIN,QUI-GON,I don't understand.,871283
+QUI-GON,ANAKIN,"With time and training, Ani, you will.",871284
+QUI-GON,ANAKIN,You will.,871284
+QUI-GON,PADME,"Your Majesty, it is our pleasure to continue to serve and protect you.",871285
+PADME,QUI-GON,I welcome your help.,871286
+PADME,QUI-GON,Senator Palpatine fears that the Federation means to destroy me.,871287
+QUI-GON,PADME,I assure you I will not allow that to happen.,871288
+JAR JAR,JAR JAR,Wesa goin' home!,871289
+ANAKIN,R2D2,"Come on, Artoo.",871290
+PALPATINE,NUTE,Is the planet secure?,871291
+NUTE,PALPATINE,We have taken over the last pockets of primitive life-forms.,871292
+NUTE,PALPATINE,We are in complete control of the planet now.,871293
+PALPATINE,NUTE,Good.,871294
+PALPATINE,NUTE,I will see to it that in the senate.,871294
+PALPATINE,NUTE,things stay as they are.,871294
+PALPATINE,NUTE,"I am sending my apprentice, Darth Maul, to join you.",871295
+NUTE,PALPATINE,"Yes, my lord.",871296
+RUNE,NUTE,A Sith here?,871297
+RIC OLIE,ANAKIN,Those are the forward stabilizers.,871298
+ANAKIN,RIC OLIE,And those two control the pitch?,871299
+RIC OLIE,ANAKIN,You catch on pretty quick.,871300
+CAPT. PANAKA,PADME,As soon as we land.,871301
+CAPT. PANAKA,PADME,the Federation will arrest you and force you to sign the treaty.,871302
+QUI-GON,PADME,I agree.,871303
+QUI-GON,PADME,I'm not sure what you wish to accomplish by this.,871303
+PADME,"QUI-GON, CAPT. PANAKA",I will take back what's ours.,871304
+CAPT. PANAKA,PADME,"There are too few of us, Your Highness.",871305
+CAPT. PANAKA,PADME,We have no army.,871306
+QUI-GON,PADME,And I can only protect you.,871307
+QUI-GON,PADME,I can't fight a war for you.,871307
+PADME,JAR JAR,Jar Jar Binks.,871308
+JAR JAR,PADME,"Mesa, Your Highness?",871309
+PADME,JAR JAR,Yes.,871310
+PADME,JAR JAR,I need your help.,871310
+RIC OLIE,"OBI-WAN, CAPT. PANAKA",I have one battleship on my scope.,871311
+OBI-WAN,"CAPT. PANAKA, RIC OLIE",It's a droid control ship.,871312
+CAPT. PANAKA,"OBI-WAN, RIC OLIE",They've probably spotted us.,871313
+OBI-WAN,"RIC OLIE, CAPT. PANAKA",We haven't much time.,871314
+OBI-WAN,QUI-GON,"Jar Jar is on his way to the Gungan city, Master.",871315
+QUI-GON,OBI-WAN,Good.,871315
+OBI-WAN,QUI-GON,Do you think the queen's idea will work?,871316
+QUI-GON,OBI-WAN,The Gungans will not be easily swayed.,871317
+QUI-GON,OBI-WAN,And we cannot use our power to help her.,871318
+OBI-WAN,QUI-GON,"I'm sorry for my behaviour, Master.",871319
+OBI-WAN,QUI-GON,It's not my place to disagree with you about the boy.,871320
+OBI-WAN,QUI-GON,And I am grateful you think I'm ready to take the trials.,871321
+QUI-GON,OBI-WAN,"You've been a good apprentice, Obi-Wan.",871322
+QUI-GON,OBI-WAN,And you're a much wiser man than I am.,871323
+QUI-GON,OBI-WAN,I foresee you will become a great Jedi knight.,871324
+JAR JAR,"OBI-WAN, QUI-GON",Desa nobody dare!,871325
+JAR JAR,"OBI-WAN, QUI-GON",The Gungan city is deserted!,871326
+JAR JAR,"OBI-WAN, QUI-GON","Some kinda fight, mesa tinks.",871327
+OBI-WAN,"QUI-GON, CAPT. PANAKA",Do you think they have been taken to the camps?,871328
+CAPT. PANAKA,"QUI-GON, OBI-WAN, JAR JAR",More likely they were wiped out.,871329
+JAR JAR,"QUI-GON, OBI-WAN, CAPT. PANAKA",Mesa no tink so.,871330
+QUI-GON,JAR JAR,"Do you know where they are, Jar Jar?",871330
+JAR JAR,"QUI-GON, OBI-WAN, CAPT. PANAKA","When in trouble, Gungans go to sacred place.",871331
+JAR JAR,"QUI-GON, OBI-WAN, CAPT. PANAKA",Mesa show you.,871332
+JAR JAR,"QUI-GON, OBI-WAN, CAPT. PANAKA",Come on.,871332
+JAR JAR,"QUI-GON, OBI-WAN, CAPT. PANAKA",Mesa show you!,871332
+CAPT. TARPALS,BOSS NASS,"Your Honour, Queen Amidala of the Naboo.",871333
+JAR JAR,BOSS NASS,"Heyo dadee Big Boss Nass, Your Honour.",871334
+BOSS NASS,JAR JAR,Jar Jar Binks.,871335
+BOSS NASS,JAR JAR,Who's da uss-en uthers?,871336
+SABE,BOSS NASS,I am Queen Amidala of the Naboo.,871337
+SABE,BOSS NASS,I come before you in peace.,871338
+BOSS NASS,SABE,"Ah, Naboo biggen.",871339
+BOSS NASS,SABE,Yousa bringen da Mackineeks.,871340
+BOSS NASS,SABE,Yousa all bombad.,871341
+SABE,BOSS NASS,We have searched you out because we wish to form an alliance.,871342
+PADME,BOSS NASS,Your Honour.,871343
+BOSS NASS,PADME,Whosa dis?,871344
+PADME,BOSS NASS,I am Queen Amidala.,871345
+PADME,BOSS NASS,This is my decoy.,871345
+PADME,BOSS NASS,"my protection, my loyal bodyguard.",871347
+PADME,BOSS NASS,"I'm sorry for my deception, but it was necessary to protect myself.",871348
+PADME,BOSS NASS,"Although we do not always agree, Your Honour.",871349
+PADME,BOSS NASS,our two great societies have always lived in peace.,871350
+PADME,BOSS NASS,The Trade Federation has destroyed all that we have worked so hard to build.,871352
+PADME,BOSS NASS,"If we do not act quickly, all will be lost forever.",871353
+PADME,BOSS NASS,I ask you to help us.,871354
+PADME,BOSS NASS,"No, I beg you to help us.",871355
+PADME,BOSS NASS,We are your humble servants.,871356
+PADME,BOSS NASS,Our fate is in your hands.,871357
+BOSS NASS,PADME,Yousa no tinken yousa greater den da Gungans?,871357
+BOSS NASS,PADME,Mesa lika dis!,871361
+BOSS NASS,PADME,Maybe.,871362
+BOSS NASS,PADME,wesa.,871363
+BOSS NASS,PADME,being friends.,871364
+NUTE,PALPATINE,We've sent our patrols.,871366
+NUTE,PALPATINE,We already located their starship in the swamp.,871367
+PALPATINE,NUTE,"It won't be long, my lord.",871368
+PALPATINE,NUTE,This is an unexpected move for her.,871369
+PALPATINE,NUTE,It's too aggressive.,871370
+PALPATINE,DARTH MAUL,"Lord Maul, be mindful.",871371
+PALPATINE,DARTH MAUL,Let them make the first move.,871372
+DARTH MAUL,PALPATINE,"Yes, my master.",871373
+GUNGAN GUARD,ANAKIN,Deysa comin!,871374
+ANAKIN,GUNGAN GUARD,All right!,871375
+ANAKIN,"PADME, OBI-WAN, QUI-GON",They're here!,871376
+PADME,"OBI-WAN, QUI-GON",Good.,871377
+PADME,"OBI-WAN, QUI-GON",They made it.,871377
+BOSS NASS,JAR JAR,Yousa doen grand.,871378
+BOSS NASS,JAR JAR,Jar Jar bring uss-en and da Naboo together.,871379
+JAR JAR,BOSS NASS,"Oh, no, no, no.",871380
+BOSS NASS,JAR JAR,"So, wesa make you.",871381
+BOSS NASS,JAR JAR,bombad general.,871382
+JAR JAR,BOSS NASS,General?,871383
+QUI-GON,CAPT. PANAKA,Captain.,871384
+CAPT. PANAKA,PADME,Your Highness.,871385
+PADME,CAPT. PANAKA,What is the situation?,871385
+CAPT. PANAKA,"PADME, QUI-GON",Almost everyone's in camps.,871386
+CAPT. PANAKA,"PADME, QUI-GON",A few hundred police and guards formed an underground resistance movement.,871387
+CAPT. PANAKA,"PADME, QUI-GON",I brought back as many of the leaders as I could.,871388
+CAPT. PANAKA,"PADME, QUI-GON",The Federation army's also much larger than we thought.,871389
+CAPT. PANAKA,"PADME, QUI-GON",and much stronger.,871389
+CAPT. PANAKA,"PADME, QUI-GON","Your Highness, this is a battle I do not think that we can win.",871390
+PADME,"QUI-GON, CAPT. PANAKA",The battle is a diversion.,871391
+PADME,"QUI-GON, CAPT. PANAKA",The Gungans must draw the droid army away from the cities.,871392
+PADME,R2D2,Artoo.,1648
+PADME,"QUI-GON, CAPT. PANAKA",We can enter the city using the secret passages on the waterfall side.,871394
+PADME,"QUI-GON, CAPT. PANAKA",Once we get to the main entrance.,871395
+PADME,"QUI-GON, CAPT. PANAKA",Captain Panaka will create a diversion.,871396
+PADME,"QUI-GON, CAPT. PANAKA",Then we can enter the palace and capture the viceroy.,871397
+PADME,"QUI-GON, CAPT. PANAKA","Without the viceroy, they will be lost and confused.",871398
+PADME,QUI-GON,"What do you think, Master Jedi?",871399
+QUI-GON,PADME,The viceroy will be well-guarded.,871400
+CAPT. PANAKA,QUI-GON,The diffculty is getting into the throne room.,871401
+CAPT. PANAKA,QUI-GON,"Once we're inside, we shouldn't have a problem.",871402
+QUI-GON,"BOSS NASS, CAPT. PANAKA, PADME","There is a possibility, with this diversion, many Gungans will be killed.",871403
+BOSS NASS,"QUI-GON, PADME, CAPT. PANAKA",Wesa ready to do our-san part.,871404
+BOSS NASS,"QUI-GON, PADME, CAPT. PANAKA",We have a plan which should immobilize the droid army.,871405
+BOSS NASS,"QUI-GON, PADME, CAPT. PANAKA",We will send what pilots we have.,871406
+BOSS NASS,"QUI-GON, PADME, CAPT. PANAKA",to knock out the droid control ship orbiting the planet.,871407
+QUI-GON,PADME,A well-conceived plan.,871408
+QUI-GON,PADME,"However, there's great risk.",871408
+QUI-GON,PADME,The weapons on your fghters may not penetrate the shields.,871409
+OBI-WAN,PADME,And there's an even bigger danger.,871410
+OBI-WAN,PADME,"If the viceroy escapes, Your Highness.",871411
+OBI-WAN,PADME,he will return with another droid army.,871412
+PADME,OBI-WAN,"Well, that is why we must not fail to get the viceroy.",871413
+PADME,OBI-WAN,Everything depends on it.,871414
+PALPATINE,NUTE,She is more foolish than I thought.,871415
+NUTE,PALPATINE,We are sending all troops.,871416
+NUTE,PALPATINE,to meet this army assembling near the swamp.,871416
+NUTE,PALPATINE,It appears to be made up of primitives.,871417
+PALPATINE,NUTE,This will work to our advantage.,871418
+NUTE,PALPATINE,"I have your approval to proceed, then, my lord?",871419
+PALPATINE,NUTE,Wipe them out.,871420
+PALPATINE,NUTE,All of them.,871421
+CAPT. TARPALS,NA,Halt!,871422
+CAPT. TARPALS,NA,Starting up the shield.,871423
+OOM-9,NA,Open fire.,871424
+QUI-GON,ANAKIN,"Once we get inside, you find a safe place to hide and stay there.",871425
+ANAKIN,QUI-GON,Sure.,871426
+QUI-GON,ANAKIN,Stay there.,871426
+BATTLE DROID,NA,"Roger, roger.",871427
+NUTE,RUNE,I thought the battle was going to take place far from here.,871428
+NUTE,RUNE,This is too close.,871429
+QUI-GON,ANAKIN,"Ani, find cover.",871430
+QUI-GON,ANAKIN,Quick!,871431
+PADME,NA,Get to your ships!,871431
+RIC OLIE,NA,Fighters straight ahead.,871434
+WENDIK,NA,"Roger, Bravo Leader.",871434
+ELLBERGER,NA,"Roger, Bravo Leader.",871434
+OOM-9,NA,Cease fre.,871436
+JAR JAR,NA,Steady.,871437
+JAR JAR,NA,Steady.,871437
+DAULTY DOFINE,TEY HOW,Activate the droids.,871438
+TEY HOW,DAULTY DOFINE,"Yes, sir.",871438
+CAPT. TARPALS,JAR JAR,Ouch time.,871439
+CAPT. TARPALS,NA,Fire!,871440
+PADME,CAPT. PANAKA,My guess is the viceroy's in the throne room.,871443
+CAPT. PANAKA,GROUP,Red group!,871444
+CAPT. PANAKA,GROUP,Blue group!,871444
+CAPT. PANAKA,GROUP,"Everybody, this way!",871444
+ANAKIN,QUI-GON,"Hey, wait for me!",871445
+QUI-GON,ANAKIN,"Anakin, stay where you are.",871446
+QUI-GON,ANAKIN,You'll be safe there.,871446
+ANAKIN,QUI-GON,But l.,871447
+QUI-GON,ANAKIN,Stay in that cockpit.,871447
+QUI-GON,ANAKIN,We'll handle this.,871448
+PADME,QUI-GON,We'll take the long way.,871448
+ANAKIN,R2D2,"We gotta do something, Artoo.",871449
+ANAKIN,R2D2,I'm trying to!,871450
+ANAKIN,R2D2,I don't know where the trigger is!,871450
+ANAKIN,R2D2,"Oops, wrong one.",871451
+ANAKIN,R2D2,Maybe it's this one.,871451
+ANAKIN,R2D2,Nope.,871452
+ANAKIN,R2D2,Wait.,871452
+ANAKIN,R2D2,Here it is.,871452
+ANAKIN,R2D2,Yeah!,871453
+PADME,NA,Let's go!,871454
+ANAKIN,R2D2,It's on automatic pilot.,871455
+ANAKIN,R2D2,Try to override it.,871456
+PADME,CAPT. PANAKA,"We don't have time for this, Captain.",871457
+ANAKIN,R2D2,"Look, there they are.",871458
+ANAKIN,R2D2,That's where the autopilot's taking us.,871459
+JAR JAR,NA,Dumb droid.,1737
+JAR JAR,NA,Take that!,871462
+JAR JAR,NA,Get off!,871463
+JAR JAR,NA,Get off!,871463
+JAR JAR,NA,Get off!,871463
+JAR JAR,NA,Get off!,871463
+RIC OLIE,NA,The deflector shield is too strong.,871466
+ANAKIN,R2D2,This is tense!,871467
+ANAKIN,R2D2,"Artoo, get us off this autopilot.",871468
+ANAKIN,R2D2,It's gonna get us both killed.,871469
+ANAKIN,R2D2,"You did it, Artoo!",871470
+ANAKIN,R2D2,Let's go left.,871471
+ANAKIN,R2D2,Go back?,871472
+ANAKIN,R2D2,"Qui-Gon told me to stay in this cockpit, so that's what I'm gonna do.",871473
+ANAKIN,R2D2,I'll try spinning.,871474
+ANAKIN,R2D2,That's a good trick.,871474
+ANAKIN,R2D2,I know we're in trouble.,871476
+ANAKIN,R2D2,Just hang on.,871476
+CAPT. PANAKA,NA,Go!,871477
+CAPT. PANAKA,NA,Ascension guns!,871478
+JAR JAR,NA,Retreat!,871479
+JAR JAR,NA,Retreat!,871479
+JAR JAR,NA,Dis is nutsen.,871480
+JAR JAR,NA,Uh-oh.,871483
+JAR JAR,NA,Big boomers.,871483
+JAR JAR,NA,Uh-oh!,871485
+JAR JAR,NA,Hey!,871486
+JAR JAR,NA,Hey!,871486
+JAR JAR,NA,Give me a lift!,871487
+CAPT. TARPALS,JAR JAR,"Jar Jar, usen da booma!",871490
+JAR JAR,CAPT. TARPALS,What?,871491
+JAR JAR,CAPT. TARPALS,Mesa no have a booma!,871491
+CAPT. TARPALS,JAR JAR,Here.,871492
+CAPT. TARPALS,JAR JAR,Taken dis one.,871492
+CAPT. TARPALS,JAR JAR,Jar Jar!,871499
+CAPT. TARPALS,JAR JAR,"Jump, Jar Jar, jump!",871499
+PADME,CAPT. PANAKA,Put down your weapons.,871500
+PADME,CAPT. PANAKA,They win this round.,871500
+R2D2,ANAKIN,SHRIEK
+ANAKIN,R2D2,"We're hit, Artoo!",871501
+ANAKIN,R2D2,I'm trying to stop!,871503
+ANAKIN,R2D2,I'm trying to stop!,871503
+ANAKIN,R2D2,Everything's overheated.,871504
+ANAKIN,R2D2,Oops.,871505
+ANAKIN,R2D2,This is not good.,871505
+OBI-WAN,NA,NOOOOOOOOOOOOO
+CAPT. TARPALS,NA,"No giben up, General Jar Jar.",871507
+CAPT. TARPALS,NA,Mesa think of something.,871508
+3B3-888,"CAPT. TARPALS, JAR JAR",Hands up.,871509
+JAR JAR,3B3-888,My give up.,871509
+JAR JAR,3B3-888,My give up.,871509
+NUTE,PADME,"Your little insurrection is at an end, Your Highness.",871511
+NUTE,PADME,Time for you to sign the treaty and end.,871512
+NUTE,PADME,this pointless debate in the senate.,871512
+SABE,NUTE,Viceroy!,871513
+SABE,NUTE,Your occupation here has ended.,871514
+SABE,NUTE,After her.,871515
+SABE,NUTE,This one's a decoy.,871515
+PADME,CAPT. PANAKA,Captain!,871516
+CAPT. PANAKA,NA,Jam the doors.,871517
+PADME,NUTE,"Now, Viceroy, we will discuss a new treaty.",871518
+R2D2,ANAKIN,BEEPS THREE TIMES
+ANAKIN,R2D2,Yes!,871519
+ANAKIN,R2D2,We have power.,871519
+ANAKIN,NA,Shields up.,871520
+ANAKIN,NA,Take this!,871521
+ANAKIN,NA,And this!,871522
+ANAKIN,NA,Whoa!,871523
+ANAKIN,NA,Oops.,871524
+TEY HOW,DAULTY DOFINE,We're losing power.,871524
+TEY HOW,DAULTY DOFINE,There seems to be a problem with the main reactor.,871525
+DAULTY DOFINE,TEY HOW,Impossible!,871525
+DAULTY DOFINE,TEY HOW,Nothing can get through our shield.,871526
+ANAKIN,R2D2,Let's get outta here.,871527
+ELLBERGER,NA,What's that?,871528
+ELLBERGER,NA,It's blowing up from the inside!,871528
+RIC OLIE,NA,We didn't hit it.,871529
+ANAKIN,R2D2,"Now, this is Podracing.",871530
+WENDIK,NA,"Look, one of ours, out of the main hold!",871531
+ANAKIN,NA,Whooo!,871531
+ANAKIN,NA,Whooo!,871531
+JAR JAR,CAPT. TARPALS,What the.,871533
+JAR JAR,CAPT. TARPALS,Was'n they doing?,871534
+CAPT. TARPALS,JAR JAR,The control ship has been destroyed.,871535
+CAPT. TARPALS,JAR JAR,Look!,871535
+JAR JAR,NA,They all broke-ed.,871536
+QUI-GON,OBI-WAN,"No, it's too late.",871537
+OBI-WAN,QUI-GON,No.,871538
+QUI-GON,OBI-WAN,Obi-Wan.,871538
+QUI-GON,OBI-WAN,Promise.,871539
+QUI-GON,OBI-WAN,Promise me you will train the boy.,871540
+OBI-WAN,QUI-GON,"Yes, Master.",871541
+OBI-WAN,QUI-GON,He is the chosen one.,871542
+OBI-WAN,QUI-GON,He will bring balance.,871543
+OBI-WAN,QUI-GON,Train him.,871544
+PADME,NUTE,"Now, Viceroy.",871545
+PADME,NUTE,you're going to have to go back to the senate and explain all this.,871546
+CAPT. PANAKA,NUTE,I think you can kiss your trade franchise goodbye.,871547
+PALPATINE,OBI-WAN,"We are indebted to you for your bravery, Obi-Wan Kenobi.",871548
+PALPATINE,ANAKIN,"And you, young Skywalker.",871549
+PALPATINE,ANAKIN,We will watch your career with great interest.,871550
+PADME,PALPATINE,"Congratulations on your election, Chancellor.",871551
+PALPATINE,PADME,"Your boldness has saved our people, Your Majesty.",871552
+PALPATINE,PADME,It's you who should be congratulated.,871553
+PALPATINE,PADME,Together we shall bring peace and prosperity to the Republic.,871554
+YODA,OBI-WAN,Confer on you the level of Jedi knight the council does.,871555
+YODA,OBI-WAN,But agree with your taking this boy as your Padawan learner.,871556
+YODA,OBI-WAN,I do not.,871557
+OBI-WAN,YODA,Qui-Gon believed in him.,871558
+YODA,OBI-WAN,The chosen one the boy may be.,871559
+YODA,OBI-WAN,Nevertheless.,871560
+YODA,OBI-WAN,grave danger I fear in his training.,871561
+OBI-WAN,YODA,"Master Yoda, I gave Qui-Gon my word.",871562
+OBI-WAN,YODA,I will train Anakin.,871563
+OBI-WAN,YODA,"Without the approval of the council, if I must.",871565
+YODA,OBI-WAN,Qui-Gon's defance I sense in you.,871566
+YODA,OBI-WAN,Need that you do not.,871567
+YODA,OBI-WAN,Agree with you the council does.,871568
+YODA,OBI-WAN,Your apprentice Skywalker will be.,871569
+R2D2,OBI-WAN,MOANS TWICE
+ANAKIN,OBI-WAN,What will happen to me now?,871570
+OBI-WAN,ANAKIN,The council have granted me permission to train you.,871571
+OBI-WAN,ANAKIN,"You will be a Jedi, I promise.",871572
+MACE WINDU,YODA,There's no doubt the mysterious warrior was a Sith.,871573
+YODA,MACE WINDU,Always two there are.,871574
+YODA,MACE WINDU,"No more, no less.",871575
+YODA,MACE WINDU,A master and an apprentice.,871576
+MACE WINDU,YODA,But which was destroyed?,871577
+MACE WINDU,YODA,The master or the apprentice?,871578
+JAR JAR,NA,"Hello, everybody!",871579
+BOSS NASS,NA,Peace!,871580

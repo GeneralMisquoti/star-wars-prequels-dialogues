@@ -70,52 +70,6 @@ class CsvRow:
         }
 
     def _split_row(self, row: str) -> List[str]:
-    # def _split_row(self, row: str) -> List[Tuple[int, int]]:
-
-        # def split_with_indices(start: int, end: int, row: str, c=' '):
-        #     """ https://stackoverflow.com/questions/13734451/string-split-with-indices-in-python """
-        #     s = row[start:end]
-        #     if c not in s:
-        #         yield start, end
-        #         return
-        #     p = 0
-        #     for k, g in groupby(s, lambda _x: _x == c):
-        #         q = p + sum(1 for i in g)
-        #         if not k:
-        #             yield p, q
-        #         p = q
-        #
-        # def strip(start: int, end: int, str: str):
-        #     removed_from_the_left = str.lstrip()
-        #     start += len(removed_from_the_left) - len(str)
-        #     removed_from_the_right = str.rstrip()
-        #     if removed_from_the_right[-3:] == "...":
-        #         removed_from_the_right = removed_from_the_right[:-3]
-        #
-        #     end -= len(removed_from_the_right) - len(str)
-        #     return start, end
-        #
-        # splitters = ['.', '!', '?']
-        # split = [(0, len(row))]
-        # for splitter in splitters:
-        #     new_split = []
-        #     for already_start, already_end in split:
-        #         already_split = row[already_start:already_end]
-        #         already_start, already_end = strip(already_start, already_end, already_split)
-        #         new_new_split = list(split_with_indices(already_start, already_end, row, c=splitter))
-        #         if new_new_split == split:
-        #             continue
-        #         for x_start, x_end in new_new_split:
-        #             x_start, x_end = strip(x_start, x_end, row[x_start:x_end])
-        #             if x_end - x_start != 0:
-        #                 if row[x_end] in splitters:  # 'Yes, Master. How do you think this trade viceroy will deal with the chancellor\'s demands?'
-        #                     new_split.append((x_start, x_end+1))
-        #                 else:
-        #                     new_split.append((x_start, x_end+1))
-        #     if len(new_split) != 0:
-        #         split = new_split
-        # test_split = [row[s:e] for s, e in split]
-        # return split
         splitters = ['.', '!', '?']
         split = [row]
         for splitter in splitters:
