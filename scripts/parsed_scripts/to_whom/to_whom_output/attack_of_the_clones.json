@@ -63,7 +63,10 @@
     },
     {
       "character": 0,
-      "quote": "No!... No!... No!..."
+      "quote": "No!... No!... No!...",
+      "to": [
+        "CORDE"
+      ]
     },
     {
       "character": 0,
@@ -79,7 +82,10 @@
     },
     {
       "character": 3,
-      "quote": "Order! We shall have order! The motion for the Republic to commission an army takes precedent, and that is what we will vote on at this time."
+      "quote": "Order! We shall have order! The motion for the Republic to commission an army takes precedent, and that is what we will vote on at this time.",
+      "to": [
+        "GROUP"
+      ]
     },
     {
       "character": 4,
@@ -131,7 +137,10 @@
     },
     {
       "character": 4,
-      "quote": "I don't know how much longer I can hold off the vote, my friends. More and more star systems are joining the separatists."
+      "quote": "I don't know how much longer I can hold off the vote, my friends. More and more star systems are joining the separatists.",
+      "to": [
+        "YODA, MACE WINDU, KI-ADI-MUNDI"
+      ]
     },
     {
       "character": 8,
@@ -139,7 +148,10 @@
     },
     {
       "character": 4,
-      "quote": "No! I will not let that happen!"
+      "quote": "No! I will not let that happen!",
+      "to": [
+        "CORDE"
+      ]
     },
     {
       "character": 8,
@@ -179,7 +191,10 @@
     },
     {
       "character": 0,
-      "quote": "Thank you, Master Yoda. Do you have any idea who was behind the attack?"
+      "quote": "Thank you, Master Yoda. Do you have any idea who was behind the attack?",
+      "to": [
+        "YODA"
+      ]
     },
     {
       "character": 8,
@@ -187,7 +202,10 @@
     },
     {
       "character": 0,
-      "quote": "I don't wish to disagree but I think that Count Dooku was behind it."
+      "quote": "I don't wish to disagree but I think that Count Dooku was behind it.",
+      "to": [
+        "MACE WINDU"
+      ]
     },
     {
       "character": 8,
@@ -195,7 +213,10 @@
     },
     {
       "character": 11,
-      "quote": "He is a political idealist, not a murderer."
+      "quote": "He is a political idealist, not a murderer.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 9,
@@ -211,7 +232,10 @@
     },
     {
       "character": 4,
-      "quote": "Master Jedi, may I suggest that the Senator be placed under the protection of your graces."
+      "quote": "Master Jedi, may I suggest that the Senator be placed under the protection of your graces.",
+      "to": [
+        "YODA, MACE WINDU, KI-ADI-MUNDI"
+      ]
     },
     {
       "character": 12,
@@ -291,11 +315,17 @@
     },
     {
       "character": 14,
-      "quote": "It's a great pleasure to see you again, M'Lady."
+      "quote": "It's a great pleasure to see you again, M'Lady.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "It has been far too long Master Kenobi. I'm so glad our paths have crossed again... but I must warn you that I think your presence here is unnecessary."
+      "quote": "It has been far too long Master Kenobi. I'm so glad our paths have crossed again... but I must warn you that I think your presence here is unnecessary.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -323,11 +353,17 @@
     },
     {
       "character": 0,
-      "quote": "I don't need more security, I need answers. I want to know who is trying to kill me."
+      "quote": "I don't need more security, I need answers. I want to know who is trying to kill me.",
+      "to": [
+        "CAPTAIN TYPHO, OBI-WAN, ANAKIN"
+      ]
     },
     {
       "character": 14,
-      "quote": "We're here to protect you Senator, not to start an investigation."
+      "quote": "We're here to protect you Senator, not to start an investigation.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 15,
@@ -343,19 +379,31 @@
     },
     {
       "character": 14,
-      "quote": "We are not going through this exercise again, Anakin. You will pay attention to my lead."
+      "quote": "We are not going through this exercise again, Anakin. You will pay attention to my lead.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Why?"
+      "quote": "Why?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "What??!!"
+      "quote": "What??!!",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Why else do you think we were assigned to her, if not to find the killer? Protection is a job for local security... not Jedi. It's overkill, Master. Investigation is implied in our mandate."
+      "quote": "Why else do you think we were assigned to her, if not to find the killer? Protection is a job for local security... not Jedi. It's overkill, Master. Investigation is implied in our mandate.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -363,7 +411,10 @@
     },
     {
       "character": 0,
-      "quote": "Perhaps with merely your presence, the mysteries surrounding this threat will be revealed. Now if you will excuse me I will retire."
+      "quote": "Perhaps with merely your presence, the mysteries surrounding this threat will be revealed. Now if you will excuse me I will retire.",
+      "to": [
+        "OBI-WAN, ANAKIN"
+      ]
     },
     {
       "character": 2,
@@ -423,15 +474,24 @@
     },
     {
       "character": 14,
-      "quote": "Captain Typho has more than enough men downstairs. No assassin will try that way. Any activity up here?"
+      "quote": "Captain Typho has more than enough men downstairs. No assassin will try that way. Any activity up here?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Quiet as a tomb. I don't like just waiting here for something to happen to her."
+      "quote": "Quiet as a tomb. I don't like just waiting here for something to happen to her.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "What's going on?"
+      "quote": "What's going on?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -439,23 +499,38 @@
     },
     {
       "character": 14,
-      "quote": "What is she thinking?"
+      "quote": "What is she thinking?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "She programmed Artoo to warn us if there's an intruder."
+      "quote": "She programmed Artoo to warn us if there's an intruder.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "It's not an intruder I'm worried about. There are many other ways to kill a Senator."
+      "quote": "It's not an intruder I'm worried about. There are many other ways to kill a Senator.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "I know, but we also want to catch this assassin. Don't we, Master?"
+      "quote": "I know, but we also want to catch this assassin. Don't we, Master?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "You're using her as bait??"
+      "quote": "You're using her as bait??",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -467,11 +542,17 @@
     },
     {
       "character": 15,
-      "quote": "And yours are?"
+      "quote": "And yours are?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "Possibly."
+      "quote": "Possibly.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -479,11 +560,17 @@
     },
     {
       "character": 15,
-      "quote": "I don't sleep well, anymore."
+      "quote": "I don't sleep well, anymore.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "Because of your mother?"
+      "quote": "Because of your mother?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -491,7 +578,10 @@
     },
     {
       "character": 14,
-      "quote": "Dreams pass in time."
+      "quote": "Dreams pass in time.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -503,7 +593,10 @@
     },
     {
       "character": 15,
-      "quote": "She's not like the others in the Senate, Master."
+      "quote": "She's not like the others in the Senate, Master.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -523,11 +616,17 @@
     },
     {
       "character": 14,
-      "quote": "I sense it, too."
+      "quote": "I sense it, too.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Stay here!"
+      "quote": "Stay here!",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 14,
@@ -539,11 +638,17 @@
     },
     {
       "character": 14,
-      "quote": "What took you so long?"
+      "quote": "What took you so long?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Oh, you know, Master, I couldn't find a speeder I really liked, with an open cockpit... and with the right speed capabilities... and then you know I had to get a really gonzo color..."
+      "quote": "Oh, you know, Master, I couldn't find a speeder I really liked, with an open cockpit... and with the right speed capabilities... and then you know I had to get a really gonzo color...",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -551,7 +656,10 @@
     },
     {
       "character": 15,
-      "quote": "I thought I already did."
+      "quote": "I thought I already did.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -583,7 +691,10 @@
     },
     {
       "character": 15,
-      "quote": "Sorry, Master. Don't worry, this guy's gonna kill himself any minute now!"
+      "quote": "Sorry, Master. Don't worry, this guy's gonna kill himself any minute now!",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -683,7 +794,10 @@
     },
     {
       "character": 14,
-      "quote": "Where are you going?! He went down there, the other way."
+      "quote": "Where are you going?! He went down there, the other way.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -715,7 +829,11 @@
     },
     {
       "character": 14,
-      "quote": "Anakin!"
+      "quote": "Anakin!",
+      "to": [
+        "ANAKIN",
+        "NA"
+      ]
     },
     {
       "character": 15,
@@ -727,7 +845,10 @@
     },
     {
       "character": 15,
-      "quote": "Sorry, Master."
+      "quote": "Sorry, Master.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -735,7 +856,11 @@
     },
     {
       "character": 15,
-      "quote": "Yes, Master."
+      "quote": "Yes, Master.",
+      "to": [
+        "OBI-WAN",
+        "YODA"
+      ]
     },
     {
       "character": 14,
@@ -755,11 +880,17 @@
     },
     {
       "character": 14,
-      "quote": "But, you haven't learned anything, Anakin."
+      "quote": "But, you haven't learned anything, Anakin.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "I try, Master."
+      "quote": "I try, Master.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -767,11 +898,18 @@
     },
     {
       "character": 15,
-      "quote": "Don't say that Master... You're the closest thing I have to a father... I love you. I don't want to cause you pain."
+      "quote": "Don't say that Master... You're the closest thing I have to a father... I love you. I don't want to cause you pain.",
+      "to": [
+        "ANAKIN",
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "Then why don't you listen to me?!"
+      "quote": "Then why don't you listen to me?!",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -791,7 +929,10 @@
     },
     {
       "character": 15,
-      "quote": "Where are you going, Master?"
+      "quote": "Where are you going, Master?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -815,7 +956,10 @@
     },
     {
       "character": 16,
-      "quote": "I want to go home and rethink my life."
+      "quote": "I want to go home and rethink my life.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 15,
@@ -823,11 +967,17 @@
     },
     {
       "character": 14,
-      "quote": "Do you know who it was you were trying to kill?"
+      "quote": "Do you know who it was you were trying to kill?",
+      "to": [
+        "ZAM WESSEL"
+      ]
     },
     {
       "character": 17,
-      "quote": "The Senator from Naboo."
+      "quote": "The Senator from Naboo.",
+      "to": [
+        "OBI-WAN, ANAKIN"
+      ]
     },
     {
       "character": 14,
@@ -835,7 +985,10 @@
     },
     {
       "character": 17,
-      "quote": "It was just a job."
+      "quote": "It was just a job.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 15,
@@ -883,11 +1036,17 @@
     },
     {
       "character": 13,
-      "quote": "Of course, M'lady."
+      "quote": "Of course, M'lady.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I do not like this idea of hiding."
+      "quote": "I do not like this idea of hiding.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -911,7 +1070,10 @@
     },
     {
       "character": 0,
-      "quote": "Annie! No!"
+      "quote": "Annie! No!",
+      "to": [
+        "CORDE"
+      ]
     },
     {
       "character": 15,
@@ -931,11 +1093,17 @@
     },
     {
       "character": 15,
-      "quote": "It's Anakin. When you say Annie it's like I'm still a little boy... and I'm not."
+      "quote": "It's Anakin. When you say Annie it's like I'm still a little boy... and I'm not.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
-      "quote": "I'm sorry, Anakin. It's impossible to deny you've... ...that you've grown up."
+      "quote": "I'm sorry, Anakin. It's impossible to deny you've... ...that you've grown up.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -951,7 +1119,10 @@
     },
     {
       "character": 0,
-      "quote": "That must be frustrating."
+      "quote": "That must be frustrating.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -959,7 +1130,10 @@
     },
     {
       "character": 0,
-      "quote": "I'm sorry... You sounded exactly like that little boy I once knew, when he didn't get his way."
+      "quote": "I'm sorry... You sounded exactly like that little boy I once knew, when he didn't get his way.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 15,
@@ -971,15 +1145,25 @@
     },
     {
       "character": 15,
-      "quote": "I know..."
+      "quote": "I know...",
+      "to": [
+        "ANAKIN",
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "Anakin..."
+      "quote": "Anakin...",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
-      "quote": "Don't try to grow up too fast."
+      "quote": "Don't try to grow up too fast.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -987,11 +1171,17 @@
     },
     {
       "character": 0,
-      "quote": "Please don't look at me like that."
+      "quote": "Please don't look at me like that.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Why not?"
+      "quote": "Why not?",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1003,7 +1193,10 @@
     },
     {
       "character": 0,
-      "quote": "It makes me feel uncomfortable."
+      "quote": "It makes me feel uncomfortable.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -1011,7 +1204,10 @@
     },
     {
       "character": 2,
-      "quote": "Be safe, m'lady."
+      "quote": "Be safe, m'lady.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1019,11 +1215,17 @@
     },
     {
       "character": 18,
-      "quote": "He'll be safe with me."
+      "quote": "He'll be safe with me.",
+      "to": [
+        "PADME, CAPTAIN TYPHO"
+      ]
     },
     {
       "character": 0,
-      "quote": "You'll be fine."
+      "quote": "You'll be fine.",
+      "to": [
+        "DORME"
+      ]
     },
     {
       "character": 18,
@@ -1039,7 +1241,11 @@
     },
     {
       "character": 15,
-      "quote": "Yes, Master."
+      "quote": "Yes, Master.",
+      "to": [
+        "OBI-WAN",
+        "YODA"
+      ]
     },
     {
       "character": 14,
@@ -1055,7 +1261,11 @@
     },
     {
       "character": 0,
-      "quote": "I know."
+      "quote": "I know.",
+      "to": [
+        "ANAKIN",
+        "PADME"
+      ]
     },
     {
       "character": 14,
@@ -1063,7 +1273,10 @@
     },
     {
       "character": 15,
-      "quote": "May the Force be with you, Master."
+      "quote": "May the Force be with you, Master.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 0,
@@ -1123,7 +1336,10 @@
     },
     {
       "character": 15,
-      "quote": "No, no, Mom, no..."
+      "quote": "No, no, Mom, no...",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 15,
@@ -1139,7 +1355,12 @@
     },
     {
       "character": 15,
-      "quote": "Thank you."
+      "quote": "Thank you.",
+      "to": [
+        "HERMIONE",
+        "NA",
+        "OBI-WAN"
+      ]
     },
     {
       "character": 0,
@@ -1167,7 +1388,10 @@
     },
     {
       "character": 0,
-      "quote": "Are you allowed to love? I thought that was forbidden for a Jedi."
+      "quote": "Are you allowed to love? I thought that was forbidden for a Jedi.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -1179,7 +1403,11 @@
     },
     {
       "character": 15,
-      "quote": "You haven't changed a bit. You're exactly the way I remember you in my dreams. I doubt if Naboo has changed much either."
+      "quote": "You haven't changed a bit. You're exactly the way I remember you in my dreams. I doubt if Naboo has changed much either.",
+      "to": [
+        "ANAKIN",
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1187,7 +1415,10 @@
     },
     {
       "character": 15,
-      "quote": "I can't wait to breathe the sweet breeze that comes off the rolling hills. Whenever I try to visualise the Force, those hills are what I see."
+      "quote": "I can't wait to breathe the sweet breeze that comes off the rolling hills. Whenever I try to visualise the Force, those hills are what I see.",
+      "to": [
+        "LAMA SU"
+      ]
     },
     {
       "character": 15,
@@ -1239,7 +1470,12 @@
     },
     {
       "character": 14,
-      "quote": "Thank you."
+      "quote": "Thank you.",
+      "to": [
+        "HERMIONE",
+        "NA",
+        "OBI-WAN"
+      ]
     },
     {
       "character": 22,
@@ -1255,7 +1491,10 @@
     },
     {
       "character": 14,
-      "quote": "You can tell me what this is."
+      "quote": "You can tell me what this is.",
+      "to": [
+        "DEXTER JETTSTER"
+      ]
     },
     {
       "character": 22,
@@ -1291,7 +1530,10 @@
     },
     {
       "character": 14,
-      "quote": "Cloners? Are they friendly?"
+      "quote": "Cloners? Are they friendly?",
+      "to": [
+        "DEXTER JETTSTER"
+      ]
     },
     {
       "character": 22,
@@ -1303,7 +1545,10 @@
     },
     {
       "character": 22,
-      "quote": "On how good your manners are... and how big your pocketbook is..."
+      "quote": "On how good your manners are... and how big your pocketbook is...",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 15,
@@ -1327,7 +1572,10 @@
     },
     {
       "character": 0,
-      "quote": "No! That was the last thing I thought of. My dream was to help in the \"Refugee Relief Movement.\" I never thought of running for elected office. But the more history I studied, the more I realised how much good politicians could do. So when I was eight, I joined the \"Apprentice Legislators\", then later on became a Senatorial advisor, with such a passion that, before I knew it, I was elected Queen. Partly because I scored so high on my education certificate, but for the most part it was my conviction that reform was possible. I wasn't the youngest Queen ever elected, but now that I think back on it, I'm not sure I was old enough. I'm not sure I was ready."
+      "quote": "No! That was the last thing I thought of. My dream was to help in the \"Refugee Relief Movement.\" I never thought of running for elected office. But the more history I studied, the more I realised how much good politicians could do. So when I was eight, I joined the \"Apprentice Legislators\", then later on became a Senatorial advisor, with such a passion that, before I knew it, I was elected Queen. Partly because I scored so high on my education certificate, but for the most part it was my conviction that reform was possible. I wasn't the youngest Queen ever elected, but now that I think back on it, I'm not sure I was old enough. I'm not sure I was ready.",
+      "to": [
+        "CORDE"
+      ]
     },
     {
       "character": 15,
@@ -1403,19 +1651,32 @@
     },
     {
       "character": 23,
-      "quote": "We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it."
+      "quote": "We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it.",
+      "to": [
+        "PADME, SIO BIBBLE",
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "Let's pray that day never comes."
+      "quote": "Let's pray that day never comes.",
+      "to": [
+        "QUEEN JAMILLIA"
+      ]
     },
     {
       "character": 23,
-      "quote": "In the meantime, we must consider your own safety."
+      "quote": "In the meantime, we must consider your own safety.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 24,
-      "quote": "What is your suggestion, Master Jedi?"
+      "quote": "What is your suggestion, Master Jedi?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
@@ -1455,11 +1716,17 @@
     },
     {
       "character": 25,
-      "quote": "Did you call for assistance?"
+      "quote": "Did you call for assistance?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "Yes... yes, I did..."
+      "quote": "Yes... yes, I did...",
+      "to": [
+        "JOCASTA NU"
+      ]
     },
     {
       "character": 25,
@@ -1483,7 +1750,10 @@
     },
     {
       "character": 14,
-      "quote": "Really?"
+      "quote": "Really?",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 25,
@@ -1499,7 +1769,10 @@
     },
     {
       "character": 25,
-      "quote": "Well, I'm sure you didn't call me over here for a history lesson. Are you having a problem, Master Kenobi?"
+      "quote": "Well, I'm sure you didn't call me over here for a history lesson. Are you having a problem, Master Kenobi?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -1507,7 +1780,10 @@
     },
     {
       "character": 25,
-      "quote": "Kamino? It's not a system I'M familiar with... Let me see..."
+      "quote": "Kamino? It's not a system I'M familiar with... Let me see...",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 25,
@@ -1571,7 +1847,10 @@
     },
     {
       "character": 26,
-      "quote": "Aunt Padme!! Aunt Padme!!"
+      "quote": "Aunt Padme!! Aunt Padme!!",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1579,7 +1858,10 @@
     },
     {
       "character": 0,
-      "quote": "I'm so happy to see you! This is Anakin. Anakin, this is Ryoo, and this is Pooja."
+      "quote": "I'm so happy to see you! This is Anakin. Anakin, this is Ryoo, and this is Pooja.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 26,
@@ -1595,15 +1877,25 @@
     },
     {
       "character": 27,
-      "quote": "Hello, Anakin."
+      "quote": "Hello, Anakin.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Hello."
+      "quote": "Hello.",
+      "to": [
+        "YOUNGLINGS",
+        "ANAKIN, PADME"
+      ]
     },
     {
       "character": 28,
-      "quote": "You're just in time for dinner. I hope you're hungry, Anakin."
+      "quote": "You're just in time for dinner. I hope you're hungry, Anakin.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -1627,7 +1919,11 @@
     },
     {
       "character": 28,
-      "quote": "I know, I know... but I had to say it. Now it's done."
+      "quote": "I know, I know... but I had to say it. Now it's done.",
+      "to": [
+        "ANAKIN",
+        "PADME"
+      ]
     },
     {
       "character": 27,
@@ -1639,7 +1935,10 @@
     },
     {
       "character": 28,
-      "quote": "A bodyguard?! Oh, Padme! They didn't tell us it was that serious!"
+      "quote": "A bodyguard?! Oh, Padme! They didn't tell us it was that serious!",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1879,7 +2178,10 @@
     },
     {
       "character": 15,
-      "quote": "I'm sorry. When I'm around you, my mind is no longer my own."
+      "quote": "I'm sorry. When I'm around you, my mind is no longer my own.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1903,7 +2205,10 @@
     },
     {
       "character": 8,
-      "quote": "He has exceptional skills. The Council is confident in its decision, Obi-Wan. If the prophecy is true, he weill be the one to bring balance to the Force."
+      "quote": "He has exceptional skills. The Council is confident in its decision, Obi-Wan. If the prophecy is true, he weill be the one to bring balance to the Force.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -1919,7 +2224,10 @@
     },
     {
       "character": 8,
-      "quote": "Why?"
+      "quote": "Why?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -1951,7 +2259,11 @@
     },
     {
       "character": 0,
-      "quote": "Anakin!!"
+      "quote": "Anakin!!",
+      "to": [
+        "ANAKIN",
+        "NA"
+      ]
     },
     {
       "character": 15,
@@ -1963,7 +2275,10 @@
     },
     {
       "character": 0,
-      "quote": "I don't know."
+      "quote": "I don't know.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -2039,7 +2354,10 @@
     },
     {
       "character": 14,
-      "quote": "I'm expected?"
+      "quote": "I'm expected?",
+      "to": [
+        "TAUN WE"
+      ]
     },
     {
       "character": 33,
@@ -2051,7 +2369,10 @@
     },
     {
       "character": 14,
-      "quote": "Obi-Wan Kenobi."
+      "quote": "Obi-Wan Kenobi.",
+      "to": [
+        "LAMA SU, TAUN WE"
+      ]
     },
     {
       "character": 34,
@@ -2095,11 +2416,17 @@
     },
     {
       "character": 14,
-      "quote": "That's why I'm here."
+      "quote": "That's why I'm here.",
+      "to": [
+        "LAMA SU"
+      ]
     },
     {
       "character": 0,
-      "quote": "I don't know..."
+      "quote": "I don't know...",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -2111,7 +2438,10 @@
     },
     {
       "character": 15,
-      "quote": "They only work on the weak-minded. You are anything but weak-minded."
+      "quote": "They only work on the weak-minded. You are anything but weak-minded.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -2127,11 +2457,17 @@
     },
     {
       "character": 15,
-      "quote": "Maybe he was the smart one."
+      "quote": "Maybe he was the smart one.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "You really don't like politicians, do you?"
+      "quote": "You really don't like politicians, do you?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -2139,7 +2475,10 @@
     },
     {
       "character": 0,
-      "quote": "How would you have it work?"
+      "quote": "How would you have it work?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -2159,23 +2498,39 @@
     },
     {
       "character": 15,
-      "quote": "I don't know. Someone."
+      "quote": "I don't know. Someone.",
+      "to": [
+        "ANAKIN",
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "You?"
+      "quote": "You?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Of course not me."
+      "quote": "Of course not me.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "But someone."
+      "quote": "But someone.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Someone wise."
+      "quote": "Someone wise.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -2183,11 +2538,17 @@
     },
     {
       "character": 15,
-      "quote": "Well, if it works..."
+      "quote": "Well, if it works...",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "You're making fun of me."
+      "quote": "You're making fun of me.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
@@ -2199,7 +2560,10 @@
     },
     {
       "character": 34,
-      "quote": "Magnificent, aren't they?"
+      "quote": "Magnificent, aren't they?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 34,
@@ -2211,7 +2575,10 @@
     },
     {
       "character": 34,
-      "quote": "A bounty hunter called Jango Fett. We felt a Jedi would be the perfect choice, but Sido-Dyas hand- picked Jango Fett himself."
+      "quote": "A bounty hunter called Jango Fett. We felt a Jedi would be the perfect choice, but Sido-Dyas hand- picked Jango Fett himself.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -2227,11 +2594,17 @@
     },
     {
       "character": 14,
-      "quote": "Unaltered?"
+      "quote": "Unaltered?",
+      "to": [
+        "LAMA SU"
+      ]
     },
     {
       "character": 34,
-      "quote": "Pure genetic replication. No tampering with the structure to make it more docile... and no growth acceleration..."
+      "quote": "Pure genetic replication. No tampering with the structure to make it more docile... and no growth acceleration...",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -2243,7 +2616,10 @@
     },
     {
       "character": 14,
-      "quote": "You mentioned growth acceleration..."
+      "quote": "You mentioned growth acceleration...",
+      "to": [
+        "LAMA SU"
+      ]
     },
     {
       "character": 34,
@@ -2263,7 +2639,10 @@
     },
     {
       "character": 14,
-      "quote": "Very impressive."
+      "quote": "Very impressive.",
+      "to": [
+        "LAMA SU"
+      ]
     },
     {
       "character": 34,
@@ -2323,15 +2702,24 @@
     },
     {
       "character": 15,
-      "quote": "Don't go."
+      "quote": "Don't go.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I don't want to disturb you."
+      "quote": "I don't want to disturb you.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "Your presence is soothing."
+      "quote": "Your presence is soothing.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -2339,11 +2727,17 @@
     },
     {
       "character": 15,
-      "quote": "Jedi don't have nightmares."
+      "quote": "Jedi don't have nightmares.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I heard you."
+      "quote": "I heard you.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -2351,7 +2745,10 @@
     },
     {
       "character": 0,
-      "quote": "Annie, I told you I wouldn't let you give up your future for me. I'll go with you. That way you can continue to protect me, and you won't be disobeying your mandate."
+      "quote": "Annie, I told you I wouldn't let you give up your future for me. I'll go with you. That way you can continue to protect me, and you won't be disobeying your mandate.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -2363,15 +2760,24 @@
     },
     {
       "character": 33,
-      "quote": "Boba, is your father here?"
+      "quote": "Boba, is your father here?",
+      "to": [
+        "BOBA FETT"
+      ]
     },
     {
       "character": 33,
-      "quote": "May we see him?"
+      "quote": "May we see him?",
+      "to": [
+        "BOBA FETT"
+      ]
     },
     {
       "character": 35,
-      "quote": "Sure."
+      "quote": "Sure.",
+      "to": [
+        "TAUN WE"
+      ]
     },
     {
       "character": 35,
@@ -2383,11 +2789,17 @@
     },
     {
       "character": 36,
-      "quote": "Fairly."
+      "quote": "Fairly.",
+      "to": [
+        "TAUN WE"
+      ]
     },
     {
       "character": 33,
-      "quote": "This is Jedi Master, Obi-Wan Kenobi. He's come to check on our progress."
+      "quote": "This is Jedi Master, Obi-Wan Kenobi. He's come to check on our progress.",
+      "to": [
+        "LAMA SU, TAUN WE"
+      ]
     },
     {
       "character": 36,
@@ -2395,7 +2807,10 @@
     },
     {
       "character": 14,
-      "quote": "Your clones are very impressive. You must be very proud."
+      "quote": "Your clones are very impressive. You must be very proud.",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 36,
@@ -2407,19 +2822,31 @@
     },
     {
       "character": 14,
-      "quote": "Ever made your way as far into the interior as Coruscant?"
+      "quote": "Ever made your way as far into the interior as Coruscant?",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 36,
-      "quote": "Once or twice."
+      "quote": "Once or twice.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
-      "quote": "Recently?"
+      "quote": "Recently?",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 36,
-      "quote": "Possibly..."
+      "quote": "Possibly...",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -2431,7 +2858,10 @@
     },
     {
       "character": 36,
-      "quote": "Master who?"
+      "quote": "Master who?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -2439,7 +2869,10 @@
     },
     {
       "character": 36,
-      "quote": "Never heard of him. I was recruited by a man called Darth Tyranus on one of the moons of Bogden."
+      "quote": "Never heard of him. I was recruited by a man called Darth Tyranus on one of the moons of Bogden.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -2451,11 +2884,17 @@
     },
     {
       "character": 14,
-      "quote": "Curious..."
+      "quote": "Curious...",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 36,
-      "quote": "Do you like your army?"
+      "quote": "Do you like your army?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -2467,15 +2906,24 @@
     },
     {
       "character": 14,
-      "quote": "I look forward to seeing them in action. Thank you for your time, Jango."
+      "quote": "I look forward to seeing them in action. Thank you for your time, Jango.",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 36,
-      "quote": "Always a pleasure to meet a Jedi."
+      "quote": "Always a pleasure to meet a Jedi.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 35,
-      "quote": "What is it, Dad?"
+      "quote": "What is it, Dad?",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 15,
@@ -2511,7 +2959,10 @@
     },
     {
       "character": 15,
-      "quote": "I'm looking for Shmi Skywalker."
+      "quote": "I'm looking for Shmi Skywalker.",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 37,
@@ -2527,7 +2978,10 @@
     },
     {
       "character": 15,
-      "quote": "My mother..."
+      "quote": "My mother...",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 37,
@@ -2551,7 +3005,10 @@
     },
     {
       "character": 15,
-      "quote": "I'd like to know."
+      "quote": "I'd like to know.",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 37,
@@ -2579,11 +3036,18 @@
     },
     {
       "character": 15,
-      "quote": "Threepio?"
+      "quote": "Threepio?",
+      "to": [
+        "THREEPIO"
+      ]
     },
     {
       "character": 38,
-      "quote": "Oh, my... oh, my! Master Anakin! My goodness, I can hardly believe it! And this must be Miss Padme."
+      "quote": "Oh, my... oh, my! Master Anakin! My goodness, I can hardly believe it! And this must be Miss Padme.",
+      "to": [
+        "ANAKIN",
+        "NA"
+      ]
     },
     {
       "character": 0,
@@ -2591,7 +3055,10 @@
     },
     {
       "character": 15,
-      "quote": "I've come to see my mother."
+      "quote": "I've come to see my mother.",
+      "to": [
+        "THREEPIO"
+      ]
     },
     {
       "character": 38,
@@ -2611,7 +3078,10 @@
     },
     {
       "character": 15,
-      "quote": "I'm Anakin Skywalker. I'm here looking for my mother."
+      "quote": "I'm Anakin Skywalker. I'm here looking for my mother.",
+      "to": [
+        "OWEN LARS"
+      ]
     },
     {
       "character": 39,
@@ -2619,11 +3089,18 @@
     },
     {
       "character": 40,
-      "quote": "Hello."
+      "quote": "Hello.",
+      "to": [
+        "YOUNGLINGS",
+        "ANAKIN, PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I'm Padme."
+      "quote": "I'm Padme.",
+      "to": [
+        "OWEN, BERU"
+      ]
     },
     {
       "character": 39,
@@ -2631,7 +3108,10 @@
     },
     {
       "character": 15,
-      "quote": "Is my mother here?"
+      "quote": "Is my mother here?",
+      "to": [
+        "OWEN LARS"
+      ]
     },
     {
       "character": 41,
@@ -2651,11 +3131,17 @@
     },
     {
       "character": 39,
-      "quote": "Where are you going?"
+      "quote": "Where are you going?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "To find my mother."
+      "quote": "To find my mother.",
+      "to": [
+        "OWEN LARS"
+      ]
     },
     {
       "character": 0,
@@ -2679,7 +3165,10 @@
     },
     {
       "character": 0,
-      "quote": "Anakin..."
+      "quote": "Anakin...",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -2691,7 +3180,10 @@
     },
     {
       "character": 15,
-      "quote": "I won't be long."
+      "quote": "I won't be long.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 36,
@@ -2699,7 +3191,10 @@
     },
     {
       "character": 35,
-      "quote": "Dad, look!!"
+      "quote": "Dad, look!!",
+      "to": [
+        "JANGO FETT"
+      ]
     },
     {
       "character": 36,
@@ -2771,11 +3266,17 @@
     },
     {
       "character": 38,
-      "quote": "I don't think so. Only Master Annie..."
+      "quote": "I don't think so. Only Master Annie...",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 0,
-      "quote": "Why not? They seem to have a box of old coverings here."
+      "quote": "Why not? They seem to have a box of old coverings here.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 38,
@@ -2871,7 +3372,10 @@
     },
     {
       "character": 4,
-      "quote": "Count Dooku must have made a treaty with them."
+      "quote": "Count Dooku must have made a treaty with them.",
+      "to": [
+        "BAIL ORGANA, SENATOR ASK AAK, MAS AMEDDA, JAR JAR, YODA, MACE WINDU"
+      ]
     },
     {
       "character": 8,
@@ -2947,7 +3451,12 @@
     },
     {
       "character": 38,
-      "quote": "Thank you."
+      "quote": "Thank you.",
+      "to": [
+        "HERMIONE",
+        "NA",
+        "OBI-WAN"
+      ]
     },
     {
       "character": 38,
@@ -2979,11 +3488,17 @@
     },
     {
       "character": 8,
-      "quote": "We will deal with Count Dooku. The most important thing for you, Anakin, is to stay where you are. Protect the Senator at all costs. That is your priority."
+      "quote": "We will deal with Count Dooku. The most important thing for you, Anakin, is to stay where you are. Protect the Senator at all costs. That is your priority.",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 15,
-      "quote": "Understood, Master."
+      "quote": "Understood, Master.",
+      "to": [
+        "MACE WINDU"
+      ]
     },
     {
       "character": 0,
@@ -2991,7 +3506,10 @@
     },
     {
       "character": 15,
-      "quote": "If he's still alive."
+      "quote": "If he's still alive.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -3067,7 +3585,10 @@
     },
     {
       "character": 15,
-      "quote": "No! You're not!"
+      "quote": "No! You're not!",
+      "to": [
+        "CORDE"
+      ]
     },
     {
       "character": 0,
@@ -3183,7 +3704,10 @@
     },
     {
       "character": 0,
-      "quote": "Anakin..."
+      "quote": "Anakin...",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 44,
@@ -3211,19 +3735,31 @@
     },
     {
       "character": 15,
-      "quote": "Don't be afraid."
+      "quote": "Don't be afraid.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I'm not afraid to die. I've been dying a little bit each day since you came back into my life."
+      "quote": "I'm not afraid to die. I've been dying a little bit each day since you came back into my life.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
-      "quote": "What are you talking about?"
+      "quote": "What are you talking about?",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I love you."
+      "quote": "I love you.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -3267,7 +3803,10 @@
     },
     {
       "character": 15,
-      "quote": "What about Padme?"
+      "quote": "What about Padme?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -3287,11 +3826,17 @@
     },
     {
       "character": 15,
-      "quote": "Jump!!!"
+      "quote": "Jump!!!",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 46,
-      "quote": "This isn't how it's supposed to be! Jango, finish her off."
+      "quote": "This isn't how it's supposed to be! Jango, finish her off.",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 43,
@@ -3307,11 +3852,17 @@
     },
     {
       "character": 43,
-      "quote": "Master Windu, how pleasant of you to join us. You're just in time for the moment of truth. I would think these two new boys of yours could use a little more training."
+      "quote": "Master Windu, how pleasant of you to join us. You're just in time for the moment of truth. I would think these two new boys of yours could use a little more training.",
+      "to": [
+        "MACE WINDU"
+      ]
     },
     {
       "character": 8,
-      "quote": "Sorry to disappoint you, Dooku. This party's over."
+      "quote": "Sorry to disappoint you, Dooku. This party's over.",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 43,
@@ -3319,7 +3870,10 @@
     },
     {
       "character": 8,
-      "quote": "I don't think so. One Jedi has to be worth a hundred Geonosians."
+      "quote": "I don't think so. One Jedi has to be worth a hundred Geonosians.",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 43,
@@ -3359,11 +3913,17 @@
     },
     {
       "character": 43,
-      "quote": "Then, I'm sorry, old friend. You will have to be destroyed."
+      "quote": "Then, I'm sorry, old friend. You will have to be destroyed.",
+      "to": [
+        "MACE WINDU"
+      ]
     },
     {
       "character": 0,
-      "quote": "Look!"
+      "quote": "Look!",
+      "to": [
+        "GROUP"
+      ]
     },
     {
       "character": 9,
@@ -3379,7 +3939,10 @@
     },
     {
       "character": 14,
-      "quote": "Hold on! Look over there..."
+      "quote": "Hold on! Look over there...",
+      "to": [
+        "PADME, ANAKIN"
+      ]
     },
     {
       "character": 15,
@@ -3387,15 +3950,24 @@
     },
     {
       "character": 15,
-      "quote": "Padme!!!"
+      "quote": "Padme!!!",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 15,
-      "quote": "Put the ship down! Down!"
+      "quote": "Put the ship down! Down!",
+      "to": [
+        "COMMANDO CAPTAIN"
+      ]
     },
     {
       "character": 14,
-      "quote": "No! Forget her. We have to go after Dooku."
+      "quote": "No! Forget her. We have to go after Dooku.",
+      "to": [
+        "CORDE"
+      ]
     },
     {
       "character": 15,
@@ -3411,7 +3983,11 @@
     },
     {
       "character": 14,
-      "quote": "Anakin! She's all right! Look."
+      "quote": "Anakin! She's all right! Look.",
+      "to": [
+        "ANAKIN",
+        "NA"
+      ]
     },
     {
       "character": 14,
@@ -3431,7 +4007,10 @@
     },
     {
       "character": 15,
-      "quote": "I'm taking him now!"
+      "quote": "I'm taking him now!",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,
@@ -3447,7 +4026,10 @@
     },
     {
       "character": 14,
-      "quote": "I don't think so."
+      "quote": "I don't think so.",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 43,
@@ -3491,15 +4073,25 @@
     },
     {
       "character": 14,
-      "quote": "Anakin!"
+      "quote": "Anakin!",
+      "to": [
+        "ANAKIN",
+        "NA"
+      ]
     },
     {
       "character": 43,
-      "quote": "Master Yoda. At last we shall know who is the most powerful."
+      "quote": "Master Yoda. At last we shall know who is the most powerful.",
+      "to": [
+        "YODA"
+      ]
     },
     {
       "character": 9,
-      "quote": "Count Dooku. No interest in contests, do I have."
+      "quote": "Count Dooku. No interest in contests, do I have.",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 9,
@@ -3511,7 +4103,11 @@
     },
     {
       "character": 0,
-      "quote": "Anakin!"
+      "quote": "Anakin!",
+      "to": [
+        "ANAKIN",
+        "NA"
+      ]
     },
     {
       "character": 49,
@@ -3523,7 +4119,10 @@
     },
     {
       "character": 50,
-      "quote": "Welcome home, Lord Tyranus. You have done well."
+      "quote": "Welcome home, Lord Tyranus. You have done well.",
+      "to": [
+        "COUNT DOOKU"
+      ]
     },
     {
       "character": 43,
@@ -3535,7 +4134,10 @@
     },
     {
       "character": 8,
-      "quote": "Where is your apprentice?"
+      "quote": "Where is your apprentice?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 14,

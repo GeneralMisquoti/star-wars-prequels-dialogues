@@ -1,7 +1,7 @@
 from pathlib import Path
 from bs4 import BeautifulSoup
 
-from movies import movie_dict, name_dict, WhichMovie
+from movies import  name_dict
 from parse_script import parse_script
 from save_quotes import save_quotes
 from here import here

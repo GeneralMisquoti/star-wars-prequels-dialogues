@@ -58,19 +58,33 @@
   "quotes": [
     {
       "character": 0,
-      "quote": "Captain."
+      "quote": "Captain.",
+      "to": [
+        "MAOI MADAKOR",
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 1,
-      "quote": "Yes, sir?"
+      "quote": "Yes, sir?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "Tell them we wish to board at once."
+      "quote": "Tell them we wish to board at once.",
+      "to": [
+        "MAOI MADAKOR"
+      ]
     },
     {
       "character": 1,
-      "quote": "Yes, sir."
+      "quote": "Yes, sir.",
+      "to": [
+        "DAULTY DOFINE",
+        "NUTE"
+      ]
     },
     {
       "character": 1,
@@ -82,11 +96,17 @@
     },
     {
       "character": 3,
-      "quote": "I have a bad feeling about this."
+      "quote": "I have a bad feeling about this.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "I don't sense anything."
+      "quote": "I don't sense anything.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -110,11 +130,17 @@
     },
     {
       "character": 0,
-      "quote": "These Federation types are cowards. The negotiations will be short."
+      "quote": "These Federation types are cowards. The negotiations will be short.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 2,
-      "quote": "What?!? What did you say?"
+      "quote": "What?!? What did you say?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 4,
@@ -134,23 +160,38 @@
     },
     {
       "character": 2,
-      "quote": "Well, not exactly, but I don't... Seal off the bridge."
+      "quote": "Well, not exactly, but I don't... Seal off the bridge.",
+      "to": [
+        "TEY HOW"
+      ]
     },
     {
       "character": 5,
-      "quote": "That won't be enough, sir."
+      "quote": "That won't be enough, sir.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
-      "quote": "I want destroyer droids up here at once!!!"
+      "quote": "I want destroyer droids up here at once!!!",
+      "to": [
+        "TEY HOW"
+      ]
     },
     {
       "character": 5,
-      "quote": "We will not survive this."
+      "quote": "We will not survive this.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
-      "quote": "Close the blast doors!!!"
+      "quote": "Close the blast doors!!!",
+      "to": [
+        "TEY HOW"
+      ]
     },
     {
       "character": 5,
@@ -158,7 +199,10 @@
     },
     {
       "character": 2,
-      "quote": "Impossible!! This is impossible!!"
+      "quote": "Impossible!! This is impossible!!",
+      "to": [
+        "RUNE"
+      ]
     },
     {
       "character": 5,
@@ -178,7 +222,10 @@
     },
     {
       "character": 0,
-      "quote": "It's a standoff! Let's go!"
+      "quote": "It's a standoff! Let's go!",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 5,
@@ -190,7 +237,10 @@
     },
     {
       "character": 0,
-      "quote": "Battle droids."
+      "quote": "Battle droids.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -202,15 +252,24 @@
     },
     {
       "character": 3,
-      "quote": "You were right about one thing, Master. The negotiations were short."
+      "quote": "You were right about one thing, Master. The negotiations were short.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 6,
-      "quote": "Sir, a transmission from the planet."
+      "quote": "Sir, a transmission from the planet.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 5,
-      "quote": "It's Queen Amidala herself."
+      "quote": "It's Queen Amidala herself.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
@@ -250,11 +309,17 @@
     },
     {
       "character": 2,
-      "quote": "Your Highness, we would never do anything without the approval of the Senate. You assume too much."
+      "quote": "Your Highness, we would never do anything without the approval of the Senate. You assume too much.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 7,
-      "quote": "We will see."
+      "quote": "We will see.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 5,
@@ -262,11 +327,17 @@
     },
     {
       "character": 2,
-      "quote": "It's too late now."
+      "quote": "It's too late now.",
+      "to": [
+        "RUNE"
+      ]
     },
     {
       "character": 5,
-      "quote": "Do you think she suspects an attack?"
+      "quote": "Do you think she suspects an attack?",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
@@ -290,7 +361,10 @@
     },
     {
       "character": 9,
-      "quote": "It could be the Federation jamming us. Your Highness."
+      "quote": "It could be the Federation jamming us. Your Highness.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 10,
@@ -298,7 +372,10 @@
     },
     {
       "character": 7,
-      "quote": "Don't jump to conclusions, Governor. The Federation would not dare go that far."
+      "quote": "Don't jump to conclusions, Governor. The Federation would not dare go that far.",
+      "to": [
+        "BIBBLE"
+      ]
     },
     {
       "character": 9,
@@ -306,7 +383,10 @@
     },
     {
       "character": 7,
-      "quote": "We must continue to rely on negotiation."
+      "quote": "We must continue to rely on negotiation.",
+      "to": [
+        "BIBBLE"
+      ]
     },
     {
       "character": 10,
@@ -314,11 +394,17 @@
     },
     {
       "character": 9,
-      "quote": "This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army."
+      "quote": "This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
-      "quote": "I will not condone a course of action that will lead us to war."
+      "quote": "I will not condone a course of action that will lead us to war.",
+      "to": [
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 5,
@@ -350,7 +436,10 @@
     },
     {
       "character": 11,
-      "quote": "I spake."
+      "quote": "I spake.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -358,7 +447,10 @@
     },
     {
       "character": 11,
-      "quote": "No... no! Mesa stay... Mesa yous humble servaunt."
+      "quote": "No... no! Mesa stay... Mesa yous humble servaunt.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -382,7 +474,10 @@
     },
     {
       "character": 0,
-      "quote": "Stay down!"
+      "quote": "Stay down!",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
@@ -410,7 +505,10 @@
     },
     {
       "character": 3,
-      "quote": "What's this?"
+      "quote": "What's this?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -426,7 +524,10 @@
     },
     {
       "character": 0,
-      "quote": "A city! Can you take us there?"
+      "quote": "A city! Can you take us there?",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
@@ -434,7 +535,11 @@
     },
     {
       "character": 0,
-      "quote": "No??!"
+      "quote": "No??!",
+      "to": [
+        "JAR JAR",
+        "MACE WINDU"
+      ]
     },
     {
       "character": 11,
@@ -442,7 +547,10 @@
     },
     {
       "character": 0,
-      "quote": "You hear that?"
+      "quote": "You hear that?",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 0,
@@ -478,11 +586,17 @@
     },
     {
       "character": 12,
-      "quote": "Noah gain, Jar Jar. Yousa goen tada Bosses. Yousa in big dudu this time."
+      "quote": "Noah gain, Jar Jar. Yousa goen tada Bosses. Yousa in big dudu this time.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
-      "quote": "How wude."
+      "quote": "How wude.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 13,
@@ -514,7 +628,10 @@
     },
     {
       "character": 0,
-      "quote": "Then speed us on our way."
+      "quote": "Then speed us on our way.",
+      "to": [
+        "BOSS NASS"
+      ]
     },
     {
       "character": 13,
@@ -538,7 +655,10 @@
     },
     {
       "character": 0,
-      "quote": "A transport, I hope."
+      "quote": "A transport, I hope.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 11,
@@ -562,11 +682,17 @@
     },
     {
       "character": 0,
-      "quote": "What is to become of Jar Jar Binks here?"
+      "quote": "What is to become of Jar Jar Binks here?",
+      "to": [
+        "BOSS NASS"
+      ]
     },
     {
       "character": 13,
-      "quote": "Binkss brokeen the nocombackie law. Hisen to be pune-ished."
+      "quote": "Binkss brokeen the nocombackie law. Hisen to be pune-ished.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -630,7 +756,10 @@
     },
     {
       "character": 3,
-      "quote": "Why were you banished, Jar Jar?"
+      "quote": "Why were you banished, Jar Jar?",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
@@ -662,7 +791,10 @@
     },
     {
       "character": 0,
-      "quote": "There's always a bigger fish."
+      "quote": "There's always a bigger fish.",
+      "to": [
+        "JAR JAR, OBI-WAN"
+      ]
     },
     {
       "character": 2,
@@ -670,7 +802,10 @@
     },
     {
       "character": 14,
-      "quote": "Good. I have the Senate bogged down in procedures. By the time this incident comes up for a vote, they will have no choice but to accept your control of the system."
+      "quote": "Good. I have the Senate bogged down in procedures. By the time this incident comes up for a vote, they will have no choice but to accept your control of the system.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 2,
@@ -678,7 +813,10 @@
     },
     {
       "character": 14,
-      "quote": "Queen Amidala is young and naive. You will find controlling her will not be difficult. You have done well, Viceroy."
+      "quote": "Queen Amidala is young and naive. You will find controlling her will not be difficult. You have done well, Viceroy.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
@@ -706,7 +844,10 @@
     },
     {
       "character": 3,
-      "quote": "Power's back."
+      "quote": "Power's back.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 11,
@@ -718,11 +859,17 @@
     },
     {
       "character": 0,
-      "quote": "Relax."
+      "quote": "Relax.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 3,
-      "quote": "You overdid it."
+      "quote": "You overdid it.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 11,
@@ -730,7 +877,10 @@
     },
     {
       "character": 0,
-      "quote": "Head for that outcropping."
+      "quote": "Head for that outcropping.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 2,
@@ -754,7 +904,10 @@
     },
     {
       "character": 3,
-      "quote": "What is it?"
+      "quote": "What is it?",
+      "to": [
+        "NUTE, DAULTAY"
+      ]
     },
     {
       "character": 11,
@@ -770,7 +923,10 @@
     },
     {
       "character": 0,
-      "quote": "Come on, Jar Jar."
+      "quote": "Come on, Jar Jar.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
@@ -810,11 +966,18 @@
     },
     {
       "character": 2,
-      "quote": "Now, now, your Highness. You are not going to like what we have in store for your people. In time, their suffering will persuade you to see our point of view. Commander. Process them."
+      "quote": "Now, now, your Highness. You are not going to like what we have in store for your people. In time, their suffering will persuade you to see our point of view. Commander. Process them.",
+      "to": [
+        "NUTE",
+        "BATTLE DROID COMMANDER"
+      ]
     },
     {
       "character": 11,
-      "quote": "Yousa guys bombad!"
+      "quote": "Yousa guys bombad!",
+      "to": [
+        "SABE"
+      ]
     },
     {
       "character": 0,
@@ -830,11 +993,17 @@
     },
     {
       "character": 9,
-      "quote": "They've knocked out all our communications."
+      "quote": "They've knocked out all our communications.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "Do you have transports?"
+      "quote": "Do you have transports?",
+      "to": [
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 9,
@@ -846,7 +1015,10 @@
     },
     {
       "character": 0,
-      "quote": "That won't be a problem. Your Highness, under the circumstances, I suggest you come to Coruscant with us."
+      "quote": "That won't be a problem. Your Highness, under the circumstances, I suggest you come to Coruscant with us.",
+      "to": [
+        "SABE"
+      ]
     },
     {
       "character": 7,
@@ -854,11 +1026,17 @@
     },
     {
       "character": 0,
-      "quote": "They will kill you if you stay."
+      "quote": "They will kill you if you stay.",
+      "to": [
+        "SABE"
+      ]
     },
     {
       "character": 10,
-      "quote": "They wouldn't dare."
+      "quote": "They wouldn't dare.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 9,
@@ -866,7 +1044,10 @@
     },
     {
       "character": 0,
-      "quote": "The situation here is not what it seems. There is something else behind all this, Your Highness. There is no logic in the Federation's move here. My feelings tell me they will destroy you."
+      "quote": "The situation here is not what it seems. There is something else behind all this, Your Highness. There is no logic in the Federation's move here. My feelings tell me they will destroy you.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 10,
@@ -874,7 +1055,10 @@
     },
     {
       "character": 9,
-      "quote": "Getting past their blockade is impossible, Your Highness. Any attempt to escape will be dangerous."
+      "quote": "Getting past their blockade is impossible, Your Highness. Any attempt to escape will be dangerous.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 10,
@@ -886,15 +1070,25 @@
     },
     {
       "character": 7,
-      "quote": "We are brave, Your Highness."
+      "quote": "We are brave, Your Highness.",
+      "to": [
+        "SABE",
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "If you are to leave, Your Highness, it must be now."
+      "quote": "If you are to leave, Your Highness, it must be now.",
+      "to": [
+        "SABE"
+      ]
     },
     {
       "character": 7,
-      "quote": "Then, I will plead our case before the Senate. Be careful, Governor."
+      "quote": "Then, I will plead our case before the Senate. Be careful, Governor.",
+      "to": [
+        "BIBBLE"
+      ]
     },
     {
       "character": 9,
@@ -946,7 +1140,10 @@
     },
     {
       "character": 0,
-      "quote": "We'll have to land somewhere to refuel and repair the ship."
+      "quote": "We'll have to land somewhere to refuel and repair the ship.",
+      "to": [
+        "RIC OLIE"
+      ]
     },
     {
       "character": 3,
@@ -954,11 +1151,17 @@
     },
     {
       "character": 9,
-      "quote": "How can you be sure?"
+      "quote": "How can you be sure?",
+      "to": [
+        "QUI-GON, OBI-WAN"
+      ]
     },
     {
       "character": 0,
-      "quote": "It's controlled by the Hutts..."
+      "quote": "It's controlled by the Hutts...",
+      "to": [
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 9,
@@ -982,7 +1185,10 @@
     },
     {
       "character": 14,
-      "quote": "Destroy all high-ranking officials, Viceroy... slowly... quietly. And Queen Amidala, has she signed the treaty?"
+      "quote": "Destroy all high-ranking officials, Viceroy... slowly... quietly. And Queen Amidala, has she signed the treaty?",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
@@ -990,7 +1196,10 @@
     },
     {
       "character": 14,
-      "quote": "Viceroy, find her! I want that treaty signed."
+      "quote": "Viceroy, find her! I want that treaty signed.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
@@ -1014,7 +1223,10 @@
     },
     {
       "character": 5,
-      "quote": "We should not have made this bargain. What will happen when the Jedi become aware of these Sith Lords?"
+      "quote": "We should not have made this bargain. What will happen when the Jedi become aware of these Sith Lords?",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 9,
@@ -1026,7 +1238,10 @@
     },
     {
       "character": 9,
-      "quote": "R2-D2, Your Highness."
+      "quote": "R2-D2, Your Highness.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -1034,7 +1249,11 @@
     },
     {
       "character": 7,
-      "quote": "Continue, Captain."
+      "quote": "Continue, Captain.",
+      "to": [
+        "MAOI MADAKOR",
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 0,
@@ -1042,15 +1261,24 @@
     },
     {
       "character": 9,
-      "quote": "Your Highness, Tatooine is very dangerous. It's controlled by an alliance of gangs called the Hutts. I do not agree with the Jedi on this."
+      "quote": "Your Highness, Tatooine is very dangerous. It's controlled by an alliance of gangs called the Hutts. I do not agree with the Jedi on this.",
+      "to": [
+        "SABE"
+      ]
     },
     {
       "character": 0,
-      "quote": "You must trust my judgement, Your Highness."
+      "quote": "You must trust my judgement, Your Highness.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 11,
-      "quote": "Hidoe!"
+      "quote": "Hidoe!",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 11,
@@ -1066,7 +1294,12 @@
     },
     {
       "character": 7,
-      "quote": "Thank you. This little guy is quite a mess."
+      "quote": "Thank you. This little guy is quite a mess.",
+      "to": [
+        "ANAKIN",
+        "PADME",
+        "QUI-GON"
+      ]
     },
     {
       "character": 11,
@@ -1074,7 +1307,10 @@
     },
     {
       "character": 7,
-      "quote": "I'm Padme, I attend Her Highness, You're a Gungan, aren't you? How did you end up here with us?"
+      "quote": "I'm Padme, I attend Her Highness, You're a Gungan, aren't you? How did you end up here with us?",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
@@ -1086,7 +1322,10 @@
     },
     {
       "character": 17,
-      "quote": "There's a settlement... a spaceport, looks like."
+      "quote": "There's a settlement... a spaceport, looks like.",
+      "to": [
+        "QUI-GON, RIC OLIE"
+      ]
     },
     {
       "character": 0,
@@ -1118,7 +1357,10 @@
     },
     {
       "character": 9,
-      "quote": "Wait!"
+      "quote": "Wait!",
+      "to": [
+        "QUI-GON, OBI-WAN, R2D2, JAR JAR"
+      ]
     },
     {
       "character": 9,
@@ -1126,7 +1368,11 @@
     },
     {
       "character": 0,
-      "quote": "No more commands from Her Highness today, Captain. This spaceport is not going to be pleasant..."
+      "quote": "No more commands from Her Highness today, Captain. This spaceport is not going to be pleasant...",
+      "to": [
+        "MAOI MADAKOR",
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 9,
@@ -1142,7 +1388,10 @@
     },
     {
       "character": 0,
-      "quote": "I don't have time to argue. But this is not a good idea. Stay close to me."
+      "quote": "I don't have time to argue. But this is not a good idea. Stay close to me.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1150,7 +1399,10 @@
     },
     {
       "character": 7,
-      "quote": "Like us."
+      "quote": "Like us.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 11,
@@ -1158,11 +1410,17 @@
     },
     {
       "character": 0,
-      "quote": "We'll try one of the smaller dealers."
+      "quote": "We'll try one of the smaller dealers.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I need parts for a J-type 327 Nubian."
+      "quote": "I need parts for a J-type 327 Nubian.",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 18,
@@ -1174,19 +1432,31 @@
     },
     {
       "character": 0,
-      "quote": "Don't touch anything."
+      "quote": "Don't touch anything.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 19,
-      "quote": "Are you an angel?"
+      "quote": "Are you an angel?",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
-      "quote": "What?"
+      "quote": "What?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "An angel. I've heard the deep space pilots talk about them. They live on the Moons of Iego I think. They are the most beautiful creatures in the universe. They are good and kind, and so pretty they make even the most hardened spice pirate cry."
+      "quote": "An angel. I've heard the deep space pilots talk about them. They live on the Moons of Iego I think. They are the most beautiful creatures in the universe. They are good and kind, and so pretty they make even the most hardened spice pirate cry.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -1198,11 +1468,17 @@
     },
     {
       "character": 7,
-      "quote": "You're a funny little boy. How do you know so much?"
+      "quote": "You're a funny little boy. How do you know so much?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "Since I was very little, three, I think. My Mom and I were sold to Gardulla the Hutt, but she lost us, betting on the Podraces, to Watto, who's a lot better master than Gardulla, I think."
+      "quote": "Since I was very little, three, I think. My Mom and I were sold to Gardulla the Hutt, but she lost us, betting on the Podraces, to Watto, who's a lot better master than Gardulla, I think.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -1210,7 +1486,10 @@
     },
     {
       "character": 19,
-      "quote": "I am a person! My name is Anakin."
+      "quote": "I am a person! My name is Anakin.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 7,
@@ -1226,11 +1505,17 @@
     },
     {
       "character": 18,
-      "quote": "Here it is... a T-14 hyperdrive generator!! Thee in luck, I'm the only one hereabouts who has one... but thee might as well buy a new ship. It would be cheaper, I think... Sying of which, how's thee going to pay for all this?"
+      "quote": "Here it is... a T-14 hyperdrive generator!! Thee in luck, I'm the only one hereabouts who has one... but thee might as well buy a new ship. It would be cheaper, I think... Sying of which, how's thee going to pay for all this?",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "I have 20,000 Republic dataries."
+      "quote": "I have 20,000 Republic dataries.",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 18,
@@ -1246,11 +1531,17 @@
     },
     {
       "character": 0,
-      "quote": "Credits will do fine."
+      "quote": "Credits will do fine.",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 18,
-      "quote": "No, they won'ta. What you think you're some kinda Jedi, waving your hand around like that? I'm a Toydarian. Mind tricks don'ta work on me-only money. No money, no parts! No deal! And no one else has a T-14 hyperdrive, I promise you that."
+      "quote": "No, they won'ta. What you think you're some kinda Jedi, waving your hand around like that? I'm a Toydarian. Mind tricks don'ta work on me-only money. No money, no parts! No deal! And no one else has a T-14 hyperdrive, I promise you that.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 19,
@@ -1258,7 +1549,10 @@
     },
     {
       "character": 0,
-      "quote": "We're leaving."
+      "quote": "We're leaving.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -1266,11 +1560,17 @@
     },
     {
       "character": 19,
-      "quote": "Anakin."
+      "quote": "Anakin.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 7,
-      "quote": "Anakin."
+      "quote": "Anakin.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1302,7 +1602,10 @@
     },
     {
       "character": 0,
-      "quote": "Not likely. We have nothing of value, that's our problem."
+      "quote": "Not likely. We have nothing of value, that's our problem.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 20,
@@ -1322,7 +1625,10 @@
     },
     {
       "character": 19,
-      "quote": "Hi! Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba."
+      "quote": "Hi! Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba.",
+      "to": [
+        "KITSTER"
+      ]
     },
     {
       "character": 11,
@@ -1362,7 +1668,10 @@
     },
     {
       "character": 9,
-      "quote": "We'll be right there."
+      "quote": "We'll be right there.",
+      "to": [
+        "RIC OLIE"
+      ]
     },
     {
       "character": 19,
@@ -1386,7 +1695,10 @@
     },
     {
       "character": 19,
-      "quote": "Whoops, I thought I had more... Make that three, I'm not hungry."
+      "quote": "Whoops, I thought I had more... Make that three, I'm not hungry.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 22,
@@ -1394,7 +1706,10 @@
     },
     {
       "character": 19,
-      "quote": "Do you have shelter?"
+      "quote": "Do you have shelter?",
+      "to": [
+        "QUI-GON, PADME"
+      ]
     },
     {
       "character": 0,
@@ -1402,7 +1717,10 @@
     },
     {
       "character": 19,
-      "quote": "Is it far?"
+      "quote": "Is it far?",
+      "to": [
+        "QUI-GON, PADME"
+      ]
     },
     {
       "character": 7,
@@ -1426,11 +1744,17 @@
     },
     {
       "character": 19,
-      "quote": "These are my friends, Mom. This is Padme, and... gee, I don't know any of your names."
+      "quote": "These are my friends, Mom. This is Padme, and... gee, I don't know any of your names.",
+      "to": [
+        "SHMI"
+      ]
     },
     {
       "character": 0,
-      "quote": "I'm Qui-Gon Jinn, and this is Jar Jar Binks."
+      "quote": "I'm Qui-Gon Jinn, and this is Jar Jar Binks.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 7,
@@ -1438,7 +1762,10 @@
     },
     {
       "character": 19,
-      "quote": "I'm building a droid. You wanna see?"
+      "quote": "I'm building a droid. You wanna see?",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 23,
@@ -1450,7 +1777,10 @@
     },
     {
       "character": 0,
-      "quote": "Your son was kind enough to offer us shelter."
+      "quote": "Your son was kind enough to offer us shelter.",
+      "to": [
+        "SHMI"
+      ]
     },
     {
       "character": 19,
@@ -1490,7 +1820,10 @@
     },
     {
       "character": 7,
-      "quote": "He's perfect."
+      "quote": "He's perfect.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1506,7 +1839,10 @@
     },
     {
       "character": 10,
-      "quote": "...cut off all food supplies until you return... the death toll is catastrophic... we must bow to their wishes, Your Highness... Please tell us what to do! If you can hear us, Your Highness, you must contact me..."
+      "quote": "...cut off all food supplies until you return... the death toll is catastrophic... we must bow to their wishes, Your Highness... Please tell us what to do! If you can hear us, Your Highness, you must contact me...",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 3,
@@ -1518,7 +1854,10 @@
     },
     {
       "character": 0,
-      "quote": "It sounds like bait to establish a connection trace."
+      "quote": "It sounds like bait to establish a connection trace.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -1526,7 +1865,10 @@
     },
     {
       "character": 0,
-      "quote": "Either way, we're running out of time."
+      "quote": "Either way, we're running out of time.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 25,
@@ -1538,7 +1880,10 @@
     },
     {
       "character": 25,
-      "quote": "At last we will reveal ourselves to the Jedi. At last we will have revenge."
+      "quote": "At last we will reveal ourselves to the Jedi. At last we will have revenge.",
+      "to": [
+        "PALPATINE"
+      ]
     },
     {
       "character": 14,
@@ -1554,7 +1899,10 @@
     },
     {
       "character": 23,
-      "quote": "Any attempt to escape..."
+      "quote": "Any attempt to escape...",
+      "to": [
+        "QUI-GON, PADME, JAR JAR"
+      ]
     },
     {
       "character": 19,
@@ -1562,7 +1910,10 @@
     },
     {
       "character": 11,
-      "quote": "How wude."
+      "quote": "How wude.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 7,
@@ -1578,11 +1929,17 @@
     },
     {
       "character": 0,
-      "quote": "They have Podracing on Malastare. Very fast, very dangerous."
+      "quote": "They have Podracing on Malastare. Very fast, very dangerous.",
+      "to": [
+        "ANAKIN, PADME, JAR JAR, SHMI"
+      ]
     },
     {
       "character": 19,
-      "quote": "I'm the only human who can do it."
+      "quote": "I'm the only human who can do it.",
+      "to": [
+        "QUI-GON, PADME, JAR JAR"
+      ]
     },
     {
       "character": 19,
@@ -1594,7 +1951,10 @@
     },
     {
       "character": 0,
-      "quote": "Don't do that again."
+      "quote": "Don't do that again.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 19,
@@ -1602,7 +1962,10 @@
     },
     {
       "character": 0,
-      "quote": "What?"
+      "quote": "What?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1610,7 +1973,10 @@
     },
     {
       "character": 0,
-      "quote": "What makes you think that?"
+      "quote": "What makes you think that?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1626,15 +1992,24 @@
     },
     {
       "character": 0,
-      "quote": "I wish that were so..."
+      "quote": "I wish that were so...",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "I had a dream I was a Jedi. I came back here and freed all the slaves... have you come to free us?"
+      "quote": "I had a dream I was a Jedi. I came back here and freed all the slaves... have you come to free us?",
+      "to": [
+        "QUI-GON, PADME, SHMI"
+      ]
     },
     {
       "character": 0,
-      "quote": "No, I'm afraid not..."
+      "quote": "No, I'm afraid not...",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1650,7 +2025,10 @@
     },
     {
       "character": 7,
-      "quote": "Our ship was damaged, and we're stranded here until we can repair it."
+      "quote": "Our ship was damaged, and we're stranded here until we can repair it.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1662,15 +2040,24 @@
     },
     {
       "character": 11,
-      "quote": "Wit no-nutten mula to trade."
+      "quote": "Wit no-nutten mula to trade.",
+      "to": [
+        "ANAKIN, QUI-GON, PADME, SHMI"
+      ]
     },
     {
       "character": 7,
-      "quote": "These junk dealers must have a weakness of some kind."
+      "quote": "These junk dealers must have a weakness of some kind.",
+      "to": [
+        "ANAKIN, SHMI, QUI-GON, JAR JAR"
+      ]
     },
     {
       "character": 23,
-      "quote": "Gambling. Everything here revolves around betting on those awful races."
+      "quote": "Gambling. Everything here revolves around betting on those awful races.",
+      "to": [
+        "PADME, QUI-GON, JAR JAR"
+      ]
     },
     {
       "character": 0,
@@ -1678,7 +2065,10 @@
     },
     {
       "character": 19,
-      "quote": "I've built a racer! It's the fastest ever... There's a big race tomorrow, on Boonta Eve. You could enter my pod. It's all but finished..."
+      "quote": "I've built a racer! It's the fastest ever... There's a big race tomorrow, on Boonta Eve. You could enter my pod. It's all but finished...",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 23,
@@ -1702,7 +2092,10 @@
     },
     {
       "character": 0,
-      "quote": "Your mother's right. Is there anyone friendly to the Republic who might be able to help us?"
+      "quote": "Your mother's right. Is there anyone friendly to the Republic who might be able to help us?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1734,7 +2127,10 @@
     },
     {
       "character": 7,
-      "quote": "Well, I don't approve."
+      "quote": "Well, I don't approve.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 18,
@@ -1754,11 +2150,17 @@
     },
     {
       "character": 18,
-      "quote": "The boy tells me you wanta sponser hi insa race. You can't afford parts. How can you do this? Not on Republic credits, I think."
+      "quote": "The boy tells me you wanta sponser hi insa race. You can't afford parts. How can you do this? Not on Republic credits, I think.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
-      "quote": "My ship will be the entry fee."
+      "quote": "My ship will be the entry fee.",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 18,
@@ -1778,7 +2180,10 @@
     },
     {
       "character": 18,
-      "quote": "That you did. The boy is good, no doubts there."
+      "quote": "That you did. The boy is good, no doubts there.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
@@ -1786,7 +2191,10 @@
     },
     {
       "character": 18,
-      "quote": "I hope you didn't kill anyone I know for it. So, you supply the Pod and the entry fee; I supply the boy. We split the winnings fifty-fifty, I think."
+      "quote": "I hope you didn't kill anyone I know for it. So, you supply the Pod and the entry fee; I supply the boy. We split the winnings fifty-fifty, I think.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -1814,11 +2222,17 @@
     },
     {
       "character": 0,
-      "quote": "He has special powers."
+      "quote": "He has special powers.",
+      "to": [
+        "SHMI"
+      ]
     },
     {
       "character": 23,
-      "quote": "Yes..."
+      "quote": "Yes...",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -1826,7 +2240,10 @@
     },
     {
       "character": 23,
-      "quote": "He deserves better than a slave's life."
+      "quote": "He deserves better than a slave's life.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -1854,7 +2271,11 @@
     },
     {
       "character": 26,
-      "quote": "What? With this??"
+      "quote": "What? With this??",
+      "to": [
+        "ANAKIN",
+        "QUI-GON"
+      ]
     },
     {
       "character": 28,
@@ -1886,15 +2307,24 @@
     },
     {
       "character": 19,
-      "quote": "It will."
+      "quote": "It will.",
+      "to": [
+        "KITSTER"
+      ]
     },
     {
       "character": 0,
-      "quote": "I think it's time we found out. Use this power charge."
+      "quote": "I think it's time we found out. Use this power charge.",
+      "to": [
+        "KITSTER, ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "Yes, sir!!"
+      "quote": "Yes, sir!!",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -1906,7 +2336,10 @@
     },
     {
       "character": 0,
-      "quote": "Most of them."
+      "quote": "Most of them.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1914,7 +2347,10 @@
     },
     {
       "character": 0,
-      "quote": "Not likely."
+      "quote": "Not likely.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -1930,7 +2366,10 @@
     },
     {
       "character": 19,
-      "quote": "What are you doing?"
+      "quote": "What are you doing?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -1962,11 +2401,17 @@
     },
     {
       "character": 3,
-      "quote": "Wait a minute..."
+      "quote": "Wait a minute...",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "I need a midi-chlorian count."
+      "quote": "I need a midi-chlorian count.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -1998,7 +2443,10 @@
     },
     {
       "character": 0,
-      "quote": "No Jedi has."
+      "quote": "No Jedi has.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -2006,7 +2454,10 @@
     },
     {
       "character": 0,
-      "quote": "I'm not sure."
+      "quote": "I'm not sure.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 7,
@@ -2038,7 +2489,10 @@
     },
     {
       "character": 18,
-      "quote": "Not if your ship belongs to me, I think... I warn you, no funny business."
+      "quote": "Not if your ship belongs to me, I think... I warn you, no funny business.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -2046,7 +2500,10 @@
     },
     {
       "character": 18,
-      "quote": "Don't get me wrongo. I have great faith in the boy. He's a credit to your race, but Sebulba there is going to win, I think."
+      "quote": "Don't get me wrongo. I have great faith in the boy. He's a credit to your race, but Sebulba there is going to win, I think.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -2058,11 +2515,17 @@
     },
     {
       "character": 0,
-      "quote": "I'll take that bet."
+      "quote": "I'll take that bet.",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 18,
-      "quote": "What??!! What do you mean?"
+      "quote": "What??!! What do you mean?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
@@ -2090,7 +2553,10 @@
     },
     {
       "character": 0,
-      "quote": "The boy, then..."
+      "quote": "The boy, then...",
+      "to": [
+        "WATTO"
+      ]
     },
     {
       "character": 18,
@@ -2106,11 +2572,17 @@
     },
     {
       "character": 0,
-      "quote": "I'll tell you later."
+      "quote": "I'll tell you later.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 24,
-      "quote": "Oh my! Space travel sounds rather perilous."
+      "quote": "Oh my! Space travel sounds rather perilous.",
+      "to": [
+        "R2D2"
+      ]
     },
     {
       "character": 24,
@@ -2122,7 +2594,10 @@
     },
     {
       "character": 7,
-      "quote": "Do what?"
+      "quote": "Do what?",
+      "to": [
+        "KITSTER, ANAKIN"
+      ]
     },
     {
       "character": 26,
@@ -2130,7 +2605,10 @@
     },
     {
       "character": 7,
-      "quote": "You've never won a race?"
+      "quote": "You've never won a race?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -2138,7 +2616,10 @@
     },
     {
       "character": 7,
-      "quote": "Not even finished?!"
+      "quote": "Not even finished?!",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -2146,7 +2627,10 @@
     },
     {
       "character": 0,
-      "quote": "Of course you will."
+      "quote": "Of course you will.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 30,
@@ -2198,11 +2682,17 @@
     },
     {
       "character": 23,
-      "quote": "Be safe."
+      "quote": "Be safe.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "I will, Mom. I promise."
+      "quote": "I will, Mom. I promise.",
+      "to": [
+        "SHMI"
+      ]
     },
     {
       "character": 32,
@@ -2226,7 +2716,11 @@
     },
     {
       "character": 0,
-      "quote": "Are you all set, Annie? May the Force be with you."
+      "quote": "Are you all set, Annie? May the Force be with you.",
+      "to": [
+        "ANAKIN",
+        "QUI-GON, OBI-WAN"
+      ]
     },
     {
       "character": 11,
@@ -2242,7 +2736,10 @@
     },
     {
       "character": 23,
-      "quote": "Is he nervous?"
+      "quote": "Is he nervous?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -2258,11 +2755,17 @@
     },
     {
       "character": 7,
-      "quote": "You assume too much."
+      "quote": "You assume too much.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 31,
-      "quote": "Start your engines."
+      "quote": "Start your engines.",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 30,
@@ -2290,7 +2793,10 @@
     },
     {
       "character": 30,
-      "quote": "Sebulba! Ka pa me cheespa wata!"
+      "quote": "Sebulba! Ka pa me cheespa wata!",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 11,
@@ -2306,7 +2812,10 @@
     },
     {
       "character": 7,
-      "quote": "Here he comes!"
+      "quote": "Here he comes!",
+      "to": [
+        "PADME, SHMI, QUI-GON"
+      ]
     },
     {
       "character": 24,
@@ -2430,7 +2939,10 @@
     },
     {
       "character": 0,
-      "quote": "What's this?"
+      "quote": "What's this?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 19,
@@ -2450,7 +2962,10 @@
     },
     {
       "character": 35,
-      "quote": "Yes."
+      "quote": "Yes.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -2466,7 +2981,10 @@
     },
     {
       "character": 19,
-      "quote": "Yes!"
+      "quote": "Yes!",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -2482,11 +3000,17 @@
     },
     {
       "character": 19,
-      "quote": "What?!?"
+      "quote": "What?!?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
-      "quote": "You're no longer a slave."
+      "quote": "You're no longer a slave.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -2498,7 +3022,10 @@
     },
     {
       "character": 23,
-      "quote": "Now you can make your dreams come true, Annie. You're free! Will you take him with you? Is he to become a Jedi?"
+      "quote": "Now you can make your dreams come true, Annie. You're free! Will you take him with you? Is he to become a Jedi?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -2514,7 +3041,10 @@
     },
     {
       "character": 19,
-      "quote": "But it's what I want. What I've always dreamed about. Can I go, Mom?!"
+      "quote": "But it's what I want. What I've always dreamed about. Can I go, Mom?!",
+      "to": [
+        "SHMI"
+      ]
     },
     {
       "character": 0,
@@ -2526,7 +3056,10 @@
     },
     {
       "character": 0,
-      "quote": "Then, pack your things. We haven't much time."
+      "quote": "Then, pack your things. We haven't much time.",
+      "to": [
+        "RIC OLIE, CAPT. PANAKA"
+      ]
     },
     {
       "character": 19,
@@ -2534,7 +3067,10 @@
     },
     {
       "character": 19,
-      "quote": "What about Mom? Is she free too? You're coming, aren't you, Mom"
+      "quote": "What about Mom? Is she free too? You're coming, aren't you, Mom",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -2550,11 +3086,17 @@
     },
     {
       "character": 23,
-      "quote": "Son, my place is here. My future is here. It is time for you to let go... to let go of me. I cannot go with you."
+      "quote": "Son, my place is here. My future is here. It is time for you to let go... to let go of me. I cannot go with you.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "I want to stay with you. I don't want things to change."
+      "quote": "I want to stay with you. I don't want things to change.",
+      "to": [
+        "SHMI"
+      ]
     },
     {
       "character": 23,
@@ -2570,7 +3112,12 @@
     },
     {
       "character": 23,
-      "quote": "Thank you."
+      "quote": "Thank you.",
+      "to": [
+        "ANAKIN",
+        "PADME",
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -2590,11 +3137,17 @@
     },
     {
       "character": 19,
-      "quote": "I'm sorry I wasn't able to finish you, Threepio... give you coverings and all... I'm going to miss working on you. You've been a great pal. I'll make sure Mom doesn't sell you or anything. Bye."
+      "quote": "I'm sorry I wasn't able to finish you, Threepio... give you coverings and all... I'm going to miss working on you. You've been a great pal. I'll make sure Mom doesn't sell you or anything. Bye.",
+      "to": [
+        "THREEPIO"
+      ]
     },
     {
       "character": 24,
-      "quote": "Sell me?!?"
+      "quote": "Sell me?!?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 26,
@@ -2634,11 +3187,17 @@
     },
     {
       "character": 19,
-      "quote": "Will I ever see you again?"
+      "quote": "Will I ever see you again?",
+      "to": [
+        "SHMI"
+      ]
     },
     {
       "character": 23,
-      "quote": "What does your heart tell you?"
+      "quote": "What does your heart tell you?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -2646,7 +3205,10 @@
     },
     {
       "character": 23,
-      "quote": "Then we will see each other again."
+      "quote": "Then we will see each other again.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -2670,7 +3232,10 @@
     },
     {
       "character": 19,
-      "quote": "Sure."
+      "quote": "Sure.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 22,
@@ -2678,7 +3243,10 @@
     },
     {
       "character": 19,
-      "quote": "What is it?"
+      "quote": "What is it?",
+      "to": [
+        "NUTE, DAULTAY"
+      ]
     },
     {
       "character": 0,
@@ -2694,11 +3262,17 @@
     },
     {
       "character": 0,
-      "quote": "Annie, get to the ship! Take off! Go! Go!"
+      "quote": "Annie, get to the ship! Take off! Go! Go!",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 19,
-      "quote": "Qui-Gon's in trouble. He says to take off... now!!"
+      "quote": "Qui-Gon's in trouble. He says to take off... now!!",
+      "to": [
+        "RIC OLIE, OBI-WAN"
+      ]
     },
     {
       "character": 9,
@@ -2722,19 +3296,31 @@
     },
     {
       "character": 19,
-      "quote": "Are you all right?"
+      "quote": "Are you all right?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "I think so... that was a surpirse I wont soon forget."
+      "quote": "I think so... that was a surpirse I wont soon forget.",
+      "to": [
+        "ANAKIN, OBI-WAN"
+      ]
     },
     {
       "character": 3,
-      "quote": "What was it?"
+      "quote": "What was it?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "I don't know... but he was well trained in the Jedi arts. My guess is he was after the Queen..."
+      "quote": "I don't know... but he was well trained in the Jedi arts. My guess is he was after the Queen...",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 19,
@@ -2766,15 +3352,24 @@
     },
     {
       "character": 10,
-      "quote": "This invasion will gain you nothing. We're a democracy. The people have decided... They will not live under your tyranny."
+      "quote": "This invasion will gain you nothing. We're a democracy. The people have decided... They will not live under your tyranny.",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 7,
-      "quote": "Are you all right?"
+      "quote": "Are you all right?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 19,
-      "quote": "It's very cold."
+      "quote": "It's very cold.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -2782,7 +3377,10 @@
     },
     {
       "character": 19,
-      "quote": "You seem sad."
+      "quote": "You seem sad.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -2818,7 +3416,10 @@
     },
     {
       "character": 37,
-      "quote": "Welcome, Your Highness. It is an honor to finally meet you in person. I must relay to you how distressed everyone is over the currant situation. I've called for a special session of the Senate to hear your position."
+      "quote": "Welcome, Your Highness. It is an honor to finally meet you in person. I must relay to you how distressed everyone is over the currant situation. I've called for a special session of the Senate to hear your position.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -2866,7 +3467,10 @@
     },
     {
       "character": 7,
-      "quote": "He has been our strongest supporter. Is there any other way?"
+      "quote": "He has been our strongest supporter. Is there any other way?",
+      "to": [
+        "PALPATINE"
+      ]
     },
     {
       "character": 8,
@@ -2906,7 +3510,10 @@
     },
     {
       "character": 40,
-      "quote": "Hard to see, the dark side is. Discover who this assassin is, we must."
+      "quote": "Hard to see, the dark side is. Discover who this assassin is, we must.",
+      "to": [
+        "MACE WINDU"
+      ]
     },
     {
       "character": 39,
@@ -2922,11 +3529,19 @@
     },
     {
       "character": 38,
-      "quote": "We will use all our resources here to unravel this mystery and discover the identity of your attacker... May the Force be with you."
+      "quote": "We will use all our resources here to unravel this mystery and discover the identity of your attacker... May the Force be with you.",
+      "to": [
+        "ANAKIN",
+        "QUI-GON, OBI-WAN"
+      ]
     },
     {
       "character": 40,
-      "quote": "May the Force be with you."
+      "quote": "May the Force be with you.",
+      "to": [
+        "ANAKIN",
+        "QUI-GON, OBI-WAN"
+      ]
     },
     {
       "character": 40,
@@ -2942,7 +3557,10 @@
     },
     {
       "character": 38,
-      "quote": "Located around a person?"
+      "quote": "Located around a person?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -2974,7 +3592,10 @@
     },
     {
       "character": 38,
-      "quote": "Bring him before us, then."
+      "quote": "Bring him before us, then.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 40,
@@ -3006,15 +3627,24 @@
     },
     {
       "character": 7,
-      "quote": "Who is it?"
+      "quote": "Who is it?",
+      "to": [
+        "HANDMAIDEN"
+      ]
     },
     {
       "character": 41,
-      "quote": "Anakin Skywalker, to see Padme, Your Highness."
+      "quote": "Anakin Skywalker, to see Padme, Your Highness.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
-      "quote": "I've sent Padme on an errand."
+      "quote": "I've sent Padme on an errand.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
@@ -3030,7 +3660,10 @@
     },
     {
       "character": 19,
-      "quote": "Thank you, Your Highness. I'm sorry to have disturbed you."
+      "quote": "Thank you, Your Highness. I'm sorry to have disturbed you.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 8,
@@ -3094,7 +3727,10 @@
     },
     {
       "character": 37,
-      "quote": "The point..."
+      "quote": "The point...",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 8,
@@ -3110,11 +3746,17 @@
     },
     {
       "character": 37,
-      "quote": "What?... No!"
+      "quote": "What?... No!",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 44,
-      "quote": "Order! We shall have order..."
+      "quote": "Order! We shall have order...",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 45,
@@ -3134,7 +3776,10 @@
     },
     {
       "character": 46,
-      "quote": "Vote now! Vote now! Vote now!"
+      "quote": "Vote now! Vote now! Vote now!",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 8,
@@ -3170,7 +3815,10 @@
     },
     {
       "character": 0,
-      "quote": "You still have much to learn, my young apprentice."
+      "quote": "You still have much to learn, my young apprentice.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 19,
@@ -3178,19 +3826,31 @@
     },
     {
       "character": 40,
-      "quote": "Good, good, young one. How feel you?"
+      "quote": "Good, good, young one. How feel you?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "Cold, sir."
+      "quote": "Cold, sir.",
+      "to": [
+        "YODA"
+      ]
     },
     {
       "character": 40,
-      "quote": "Afraid are you?"
+      "quote": "Afraid are you?",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "No, sir."
+      "quote": "No, sir.",
+      "to": [
+        "YODA"
+      ]
     },
     {
       "character": 38,
@@ -3206,19 +3866,31 @@
     },
     {
       "character": 38,
-      "quote": "Be mindful of your feelings..."
+      "quote": "Be mindful of your feelings...",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 39,
-      "quote": "Your thoughts dwell on your mother."
+      "quote": "Your thoughts dwell on your mother.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "I miss her."
+      "quote": "I miss her.",
+      "to": [
+        "KI-ADI-MUNDI"
+      ]
     },
     {
       "character": 40,
-      "quote": "Afraid to lose her... I think."
+      "quote": "Afraid to lose her... I think.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 19,
@@ -3258,7 +3930,10 @@
     },
     {
       "character": 7,
-      "quote": "I don't know."
+      "quote": "I don't know.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
@@ -3266,7 +3941,10 @@
     },
     {
       "character": 7,
-      "quote": "I hope not."
+      "quote": "I hope not.",
+      "to": [
+        "JAR JAR"
+      ]
     },
     {
       "character": 11,
@@ -3286,7 +3964,10 @@
     },
     {
       "character": 9,
-      "quote": "Bail Antilles of Alderaan and Ainlee Teem of Malastare."
+      "quote": "Bail Antilles of Alderaan and Ainlee Teem of Malastare.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 8,
@@ -3310,7 +3991,10 @@
     },
     {
       "character": 7,
-      "quote": "I will sign no treaty, Senator. My fate will be no different from that of our people. Captain!"
+      "quote": "I will sign no treaty, Senator. My fate will be no different from that of our people. Captain!",
+      "to": [
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 9,
@@ -3338,7 +4022,10 @@
     },
     {
       "character": 39,
-      "quote": "The Force is strong with him."
+      "quote": "The Force is strong with him.",
+      "to": [
+        "QUI-GON, ANAKIN, OBI-WAN"
+      ]
     },
     {
       "character": 0,
@@ -3346,15 +4033,25 @@
     },
     {
       "character": 38,
-      "quote": "No. He will not be trained."
+      "quote": "No. He will not be trained.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "No??!!"
+      "quote": "No??!!",
+      "to": [
+        "JAR JAR",
+        "MACE WINDU"
+      ]
     },
     {
       "character": 38,
-      "quote": "He is too old. There is already too much anger in him."
+      "quote": "He is too old. There is already too much anger in him.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -3378,7 +4075,10 @@
     },
     {
       "character": 0,
-      "quote": "Obi-Wan is ready..."
+      "quote": "Obi-Wan is ready...",
+      "to": [
+        "YODA"
+      ]
     },
     {
       "character": 3,
@@ -3414,7 +4114,10 @@
     },
     {
       "character": 40,
-      "quote": "Young Skywalker's fate will be decided later."
+      "quote": "Young Skywalker's fate will be decided later.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -3434,7 +4137,11 @@
     },
     {
       "character": 40,
-      "quote": "May the Force be with you."
+      "quote": "May the Force be with you.",
+      "to": [
+        "ANAKIN",
+        "QUI-GON, OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -3442,7 +4149,10 @@
     },
     {
       "character": 0,
-      "quote": "From your point of view..."
+      "quote": "From your point of view...",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -3478,7 +4188,10 @@
     },
     {
       "character": 19,
-      "quote": "Symbionts?"
+      "quote": "Symbionts?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -3494,7 +4207,10 @@
     },
     {
       "character": 19,
-      "quote": "I don't understand."
+      "quote": "I don't understand.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -3534,7 +4250,10 @@
     },
     {
       "character": 14,
-      "quote": "Good. I will see to it that in the Senate, things stay as they are. I am sending Darth Maul to join you. He will deal with the Jedi."
+      "quote": "Good. I will see to it that in the Senate, things stay as they are. I am sending Darth Maul to join you. He will deal with the Jedi.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 2,
@@ -3558,7 +4277,10 @@
     },
     {
       "character": 17,
-      "quote": "You catch on pretty quick."
+      "quote": "You catch on pretty quick.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 9,
@@ -3574,7 +4296,10 @@
     },
     {
       "character": 9,
-      "quote": "There are only twelve of us, Your Highness... we have no army."
+      "quote": "There are only twelve of us, Your Highness... we have no army.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 0,
@@ -3586,11 +4311,18 @@
     },
     {
       "character": 11,
-      "quote": "Mesa, Your Highness?"
+      "quote": "Mesa, Your Highness?",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
-      "quote": "Yes. I need your help."
+      "quote": "Yes. I need your help.",
+      "to": [
+        "JAR JAR",
+        "QUI-GON"
+      ]
     },
     {
       "character": 9,
@@ -3602,7 +4334,10 @@
     },
     {
       "character": 17,
-      "quote": "I have one battleship on my scope."
+      "quote": "I have one battleship on my scope.",
+      "to": [
+        "OBI-WAN, CAPT. PANAKA"
+      ]
     },
     {
       "character": 3,
@@ -3610,15 +4345,24 @@
     },
     {
       "character": 9,
-      "quote": "They've probably spotted us."
+      "quote": "They've probably spotted us.",
+      "to": [
+        "OBI-WAN, RIC OLIE"
+      ]
     },
     {
       "character": 3,
-      "quote": "We haven't much time."
+      "quote": "We haven't much time.",
+      "to": [
+        "RIC OLIE, CAPT. PANAKA"
+      ]
     },
     {
       "character": 19,
-      "quote": "Hi! Where have you been?"
+      "quote": "Hi! Where have you been?",
+      "to": [
+        "KITSTER"
+      ]
     },
     {
       "character": 7,
@@ -3646,11 +4390,17 @@
     },
     {
       "character": 3,
-      "quote": "Jar Jar is on his way to the Gungan city, Master."
+      "quote": "Jar Jar is on his way to the Gungan city, Master.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
-      "quote": "Good."
+      "quote": "Good.",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
@@ -3682,11 +4432,17 @@
     },
     {
       "character": 3,
-      "quote": "More likely they were wiped out."
+      "quote": "More likely they were wiped out.",
+      "to": [
+        "QUI-GON, OBI-WAN, JAR JAR"
+      ]
     },
     {
       "character": 11,
-      "quote": "No... mesa no tink so. Gungan hiden. When in trouble, go to sacred place. Mackineeks no find them dare."
+      "quote": "No... mesa no tink so. Gungan hiden. When in trouble, go to sacred place. Mackineeks no find them dare.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -3734,7 +4490,10 @@
     },
     {
       "character": 13,
-      "quote": "Whosa dis?"
+      "quote": "Whosa dis?",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 7,
@@ -3774,7 +4533,10 @@
     },
     {
       "character": 19,
-      "quote": "All right. They're here!"
+      "quote": "All right. They're here!",
+      "to": [
+        "PADME, OBI-WAN, QUI-GON"
+      ]
     },
     {
       "character": 13,
@@ -3782,7 +4544,10 @@
     },
     {
       "character": 11,
-      "quote": "Oh, no, no, no..."
+      "quote": "Oh, no, no, no...",
+      "to": [
+        "BOSS NASS"
+      ]
     },
     {
       "character": 13,
@@ -3790,11 +4555,17 @@
     },
     {
       "character": 11,
-      "quote": "General??! Oh, no.."
+      "quote": "General??! Oh, no..",
+      "to": [
+        "BOSS NASS"
+      ]
     },
     {
       "character": 7,
-      "quote": "What is the situation?"
+      "quote": "What is the situation?",
+      "to": [
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 9,
@@ -3806,7 +4577,10 @@
     },
     {
       "character": 7,
-      "quote": "What do you think, Master Jedi?"
+      "quote": "What do you think, Master Jedi?",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -3854,7 +4628,10 @@
     },
     {
       "character": 14,
-      "quote": "The Jedi cannot become involved. They can only protect the Queen. Even Qui-Gon Jinn will not break that conenant... This will work to our advantage..."
+      "quote": "The Jedi cannot become involved. They can only protect the Queen. Even Qui-Gon Jinn will not break that conenant... This will work to our advantage...",
+      "to": [
+        "NUTE"
+      ]
     },
     {
       "character": 2,
@@ -3874,7 +4651,10 @@
     },
     {
       "character": 19,
-      "quote": "Sure."
+      "quote": "Sure.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 0,
@@ -3894,7 +4674,10 @@
     },
     {
       "character": 7,
-      "quote": "Get to your ships!"
+      "quote": "Get to your ships!",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 49,
@@ -3922,7 +4705,10 @@
     },
     {
       "character": 0,
-      "quote": "Stay in that cockpit."
+      "quote": "Stay in that cockpit.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 0,
@@ -3934,7 +4720,10 @@
     },
     {
       "character": 19,
-      "quote": "We gotta do something, Artoo."
+      "quote": "We gotta do something, Artoo.",
+      "to": [
+        "R2D2"
+      ]
     },
     {
       "character": 19,
@@ -3974,7 +4763,10 @@
     },
     {
       "character": 50,
-      "quote": "Roger, Bravo Leader."
+      "quote": "Roger, Bravo Leader.",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 17,
@@ -3986,7 +4778,10 @@
     },
     {
       "character": 19,
-      "quote": "There is no manual override, Artoo. You'll have to rewire it or something."
+      "quote": "There is no manual override, Artoo. You'll have to rewire it or something.",
+      "to": [
+        "R2D2"
+      ]
     },
     {
       "character": 19,
@@ -3994,7 +4789,11 @@
     },
     {
       "character": 7,
-      "quote": "We don't have time for this, Captain."
+      "quote": "We don't have time for this, Captain.",
+      "to": [
+        "MAOI MADAKOR",
+        "CAPT. PANAKA"
+      ]
     },
     {
       "character": 9,
@@ -4022,7 +4821,10 @@
     },
     {
       "character": 19,
-      "quote": "Yes... I've got control. You did it, Artoo!"
+      "quote": "Yes... I've got control. You did it, Artoo!",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 19,
@@ -4050,7 +4852,10 @@
     },
     {
       "character": 50,
-      "quote": "Roger, Bravo Leader."
+      "quote": "Roger, Bravo Leader.",
+      "to": [
+        "NA"
+      ]
     },
     {
       "character": 17,
@@ -4070,15 +4875,24 @@
     },
     {
       "character": 19,
-      "quote": "I'm trying to stop! I'm trying to stop! Whoa!"
+      "quote": "I'm trying to stop! I'm trying to stop! Whoa!",
+      "to": [
+        "R2D2"
+      ]
     },
     {
       "character": 19,
-      "quote": "All right! All right! Get the system started!"
+      "quote": "All right! All right! Get the system started!",
+      "to": [
+        "GUNGAN GUARD"
+      ]
     },
     {
       "character": 19,
-      "quote": "Everything's overheated. All the lights are red."
+      "quote": "Everything's overheated. All the lights are red.",
+      "to": [
+        "R2D2"
+      ]
     },
     {
       "character": 7,
@@ -4102,7 +4916,10 @@
     },
     {
       "character": 2,
-      "quote": "Your little insurrection is at an end, Your Highness. Time for you to sign the treaty... and end this pointless debate in the Senate."
+      "quote": "Your little insurrection is at an end, Your Highness. Time for you to sign the treaty... and end this pointless debate in the Senate.",
+      "to": [
+        "PADME"
+      ]
     },
     {
       "character": 51,
@@ -4154,7 +4971,10 @@
     },
     {
       "character": 19,
-      "quote": "The systems are still overheated, Artoo."
+      "quote": "The systems are still overheated, Artoo.",
+      "to": [
+        "R2D2"
+      ]
     },
     {
       "character": 52,
@@ -4170,7 +4990,10 @@
     },
     {
       "character": 19,
-      "quote": "Yes... we have ignition."
+      "quote": "Yes... we have ignition.",
+      "to": [
+        "QUI-GON"
+      ]
     },
     {
       "character": 52,
@@ -4250,7 +5073,10 @@
     },
     {
       "character": 7,
-      "quote": "Congratulations on your election, Chancellor. It is so good to see you again."
+      "quote": "Congratulations on your election, Chancellor. It is so good to see you again.",
+      "to": [
+        "PALPATINE"
+      ]
     },
     {
       "character": 8,
@@ -4262,7 +5088,10 @@
     },
     {
       "character": 3,
-      "quote": "Qui-Gon believed in him. I believe in Qui-Gon."
+      "quote": "Qui-Gon believed in him. I believe in Qui-Gon.",
+      "to": [
+        "YODA"
+      ]
     },
     {
       "character": 40,
@@ -4270,7 +5099,10 @@
     },
     {
       "character": 3,
-      "quote": "Master Yoda, I gave Qui-Gon my word. I will train Anakin. Without the approval of the Council if I must."
+      "quote": "Master Yoda, I gave Qui-Gon my word. I will train Anakin. Without the approval of the Council if I must.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 40,
@@ -4278,11 +5110,17 @@
     },
     {
       "character": 3,
-      "quote": "He is one with the Force, Anakin... You must let go."
+      "quote": "He is one with the Force, Anakin... You must let go.",
+      "to": [
+        "ANAKIN"
+      ]
     },
     {
       "character": 19,
-      "quote": "What will happen to me now?"
+      "quote": "What will happen to me now?",
+      "to": [
+        "OBI-WAN"
+      ]
     },
     {
       "character": 3,
