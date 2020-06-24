@@ -3,7 +3,7 @@ from typing import Iterable, Callable, List, Union, Type, Dict
 
 from .row_abstract import Row
 from .utils.sentence import Sentence
-from ..overrides import Overrides, InsertInstructions
+from ..overrides import Overrides
 from ..row_csv import CsvRow
 from ..row_json import JsonRow
 
