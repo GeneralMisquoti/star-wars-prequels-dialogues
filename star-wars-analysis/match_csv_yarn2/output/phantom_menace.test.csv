@@ -214,8 +214,8 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 212,129,CAPT. TARPALS,JAR JAR,Yousa goen tada bosses.,"Noah gain, JarJar. Yousa goen tada bosses.",870242
 213,129,CAPT. TARPALS,JAR JAR,Yousa in big dudu dis time.,Yousa in big dudu dis time.,870243
 214,130,JAR JAR,JAR JAR,How wude.,How wude.,870246
-215,131,BOSS NASS,"OBI-WAN, QUI-GON",Yousa cannot bees hair.,How wude.,870246
-216,131,BOSS NASS,"OBI-WAN, QUI-GON",Dis army of Mackineeks up dare is new weesong.,How wude.,870246
+215,131,BOSS NASS,"OBI-WAN, QUI-GON",Yousa cannot bees hair.,Tkk-tkk-tkk-tkk-tkk-tkk-tkk! Yousa cannot bees hair.,870247
+216,131,BOSS NASS,"OBI-WAN, QUI-GON",Dis army of Mackineeks up dare is new weesong.,Dis army of Mackineeks up dare is new weesong.,870248
 217,132,QUI-GON,BOSS NASS,A droid army is about to attack the Naboo.,A droid army is about to attack the Naboo. We must warn them.,870249
 218,132,QUI-GON,BOSS NASS,We must warn them.,A droid army is about to attack the Naboo. We must warn them.,870249
 219,133,BOSS NASS,"OBI-WAN, QUI-GON",Wesa no like da Naboo.,Wesa no like da Naboo. Tkk-tkk-tkk-tkk-tkk.,870250
@@ -232,12 +232,12 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 230,139,BOSS NASS,"OBI-WAN, QUI-GON",Wesa ganna speed yous away.,Wesa ganna speed yous away.,870260
 231,140,QUI-GON,BOSS NASS,We could use a transport.,We could use a transport.,870261
 232,141,BOSS NASS,"OBI-WAN, QUI-GON",Wesa give yousa una bongo.,Wesa give yousa una bongo.,870262
-233,141,BOSS NASS,"OBI-WAN, QUI-GON",Da speediest way tooda Naboo.,Wesa give yousa una bongo.,870262
-234,141,BOSS NASS,"OBI-WAN, QUI-GON",tis goen through the planet core.,Wesa give yousa una bongo.,870262
-235,141,BOSS NASS,"OBI-WAN, QUI-GON",Now.,Wesa give yousa una bongo.,870262
-236,141,BOSS NASS,"OBI-WAN, QUI-GON",go.,Wesa give yousa una bongo.,870262
-237,142,QUI-GON,BOSS NASS,Thank you for your help.,Wesa give yousa una bongo.,870262
-238,142,QUI-GON,BOSS NASS,We leave in peace.,Wesa give yousa una bongo.,870262
+233,141,BOSS NASS,"OBI-WAN, QUI-GON",Da speediest way tooda Naboo.,Hmm? Da speediest way tooda Naboo...,870263
+234,141,BOSS NASS,"OBI-WAN, QUI-GON",tis goen through the planet core.,'tis goen through the planet core.,870264
+235,141,BOSS NASS,"OBI-WAN, QUI-GON",Now.,Now...,870265
+236,141,BOSS NASS,"OBI-WAN, QUI-GON",go.,go.,870266
+237,142,QUI-GON,BOSS NASS,Thank you for your help.,Thank you for your help. We leave in peace.,870267
+238,142,QUI-GON,BOSS NASS,We leave in peace.,Thank you for your help. We leave in peace.,870267
 239,143,OBI-WAN,QUI-GON,"Master, what's a bongo?","Master, what's a bongo?",870268
 240,144,QUI-GON,OBI-WAN,"A transport, I hope.","A transport, I hope.",870269
 241,145,JAR JAR,"OBI-WAN, QUI-GON",Deysa setten yousa up.,Deysa setten yousa up.,870270
