@@ -6,8 +6,9 @@ from .utils.sentence import Sentence
 
 
 class Movie:
-    def __init__(self, name):
+    def __init__(self, name: str, index: int):
         self.name = name
+        self.index = index
         self.sentences: List[Sentence] = []
         self.rows: List[Row] = []
 
@@ -21,9 +22,9 @@ class Movie:
 
 
 class File:
-    def __init__(self, path: Path):
+    def __init__(self, path: Path, movie_index: int):
         self.path = path
-        self.movie = Movie(name=path.name)
+        self.movie = Movie(name=path.name, index=movie_index)
         self._iter = self.movie.sentences
 
     def parse(self, list_of_dialogues: Iterable, creator: Callable):

@@ -41,7 +41,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 39,25,OBI-WAN,ANAKIN,Get to the command ship.,Get to the command ship. Get the chancellor. I'm running out of tricks here.,875876
 40,25,OBI-WAN,ANAKIN,Get the chancellor.,Get to the command ship. Get the chancellor. I'm running out of tricks here.,875876
 41,25,OBI-WAN,ANAKIN,I'm running out of tricks here.,Get to the command ship. Get the chancellor. I'm running out of tricks here.,875876
-42,25,OBI-WAN,ANAKIN,In the name of- Hold your fire!,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
+42,25,OBI-WAN,ANAKIN,In the name of- Hold your fire!,'Oh! In the name of...';'- Hold your fire! You're not helping here. - I agree. Bad idea.',875877;875878
 43,25,OBI-WAN,ANAKIN,You're not helping.,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
 44,26,ANAKIN,OBI-WAN,I agree.,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
 45,26,ANAKIN,OBI-WAN,Bad idea.,- Hold your fire! You're not helping here. - I agree. Bad idea.,875878
@@ -90,8 +90,8 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 88,56,ANAKIN,OBI-WAN,"No, did you?",- Did you press the stop button? - No. Did you?,875909
 89,57,OBI-WAN,ANAKIN,No!,"- No. - Well, there's more than one way out of here.",875910
 90,58,ANAKIN,OBI-WAN,"Well, there's more than one way out of here.","- No. - Well, there's more than one way out of here.",875910
-91,59,OBI-WAN,ANAKIN,"We don't want to get out, we want to get moving.",We don't want to get out.,875911
-92,60,OBI-WAN,R2D2,Artoo.,We don't want to get out.,875911
+91,59,OBI-WAN,ANAKIN,"We don't want to get out, we want to get moving.","'We don't want to get out.';'We want to get moving. R2, activate elevator 31174.'",875911;875912
+92,60,OBI-WAN,R2D2,Artoo.
 93,60,OBI-WAN,R2D2,Activate elevator.,"We want to get moving. R2, activate elevator 31174.",875912
 94,60,OBI-WAN,R2D2,3-1-1-7-4.,"We want to get moving. R2, activate elevator 31174.",875912
 95,60,OBI-WAN,R2D2,"Come in, Artoo.","- Come in, R2. - What that?",875913
@@ -105,26 +105,26 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 103,65,OBI-WAN,OBI-WAN,Always on the move.,Always on the move.,875920
 104,66,OBI-WAN,R2D2,"Artoo, switch on the comlink.","R2, switch on the comlink.",875921
 105,66,OBI-WAN,R2D2,"Artoo, can you hear me?","R2, can you hear me?",875922
-106,66,OBI-WAN,R2D2,Artoo.,"R2, can you hear me?",875922
-107,67,OBI-WAN,R2D2,"Stop, stop!","R2, can you hear me?",875922
-108,67,OBI-WAN,R2D2,"Artoo, we need to be going up.","R2, can you hear me?",875922
-109,68,DROID 1,ANAKIN,"Hands up, Jedi!","R2, can you hear me?",875922
-110,69,OBI-WAN,R2D2,"Artoo, do you copy?","R2, can you hear me?",875922
-111,69,OBI-WAN,R2D2,"Artoo, do you hear me?","R2, can you hear me?",875922
-112,69,OBI-WAN,R2D2,"Artoo, we need to be going up, not down.","R2, can you hear me?",875922
-113,70,SUPER BATTLE DROID 1,R2D2,Hey you!,"R2, can you hear me?",875922
-114,71,OBI-WAN,R2D2,"Now, that's better.","R2, can you hear me?",875922
-115,72,SUPER BATTLE DROID 1,R2D2,You stupid little astro droid!,"R2, can you hear me?",875922
-116,73,DROID 1,NA,Uh oh.,"R2, can you hear me?",875922
-117,74,OBI-WAN,ANAKIN,"Oh, it's you.","R2, can you hear me?",875922
-118,75,SUPER BATTLE DROID,NA,My eyes my eyes!,"R2, can you hear me?",875922
-119,76,ANAKIN,OBI-WAN,What was that all about?,Whoa!,875924
-120,77,OBI-WAN,ANAKIN,"Well, Artoo has been.",Whoa!,875924
-121,78,ANAKIN,OBI-WAN,No loose wire jokes.,Whoa!,875924
-122,79,OBI-WAN,ANAKIN,Did I say anything?,Whoa!,875924
-123,80,ANAKIN,OBI-WAN,He's trying!,"Stop. Stop. R2, we need to be going up.",875926
-124,81,OBI-WAN,ANAKIN,I didn't say anything!,"R2, do you hear me? R2, we need to be going up, not down.",875929
-125,82,OBI-WAN,PALPATINE,Chancellor.,Uh-oh.,875933
+106,66,OBI-WAN,R2D2,Artoo.
+107,67,OBI-WAN,R2D2,"Stop, stop!","Stop. Stop. R2, we need to be going up.",875926
+108,67,OBI-WAN,R2D2,"Artoo, we need to be going up.","Stop. Stop. R2, we need to be going up.",875926
+109,68,DROID 1,ANAKIN,"Hands up, Jedi!","Hands up, Jedi.",875927
+110,69,OBI-WAN,R2D2,"Artoo, do you copy?","R2, do you copy?",875928
+111,69,OBI-WAN,R2D2,"Artoo, do you hear me?","R2, do you hear me? R2, we need to be going up, not down.",875929
+112,69,OBI-WAN,R2D2,"Artoo, we need to be going up, not down.","R2, do you hear me? R2, we need to be going up, not down.",875929
+113,70,SUPER BATTLE DROID 1,R2D2,Hey you!,"Hey, you!",875930
+114,71,OBI-WAN,R2D2,"Now, that's better.","Now, that's better.",875931
+115,72,SUPER BATTLE DROID 1,R2D2,You stupid little astro droid!,You stupid little astro droid.,875932
+116,73,DROID 1,NA,Uh oh.,Uh-oh.,875933
+117,74,OBI-WAN,ANAKIN,"Oh, it's you.","Oh, it's you.",875934
+118,75,SUPER BATTLE DROID,NA,My eyes my eyes!,My eyes! My eyes!,875935
+119,76,ANAKIN,OBI-WAN,What was that all about?,"- What was that all about? - Well, R2 has been...",875936
+120,77,OBI-WAN,ANAKIN,"Well, Artoo has been.","- What was that all about? - Well, R2 has been...",875936
+121,78,ANAKIN,OBI-WAN,No loose wire jokes.,"- Uh, no loose wire jokes. - Did I say anything?",875937
+122,79,OBI-WAN,ANAKIN,Did I say anything?,"- Uh, no loose wire jokes. - Did I say anything?",875937
+123,80,ANAKIN,OBI-WAN,He's trying!,- He's trying. - I didn't say anything.,875938
+124,81,OBI-WAN,ANAKIN,I didn't say anything!,- He's trying. - I didn't say anything.,875938
+125,82,OBI-WAN,PALPATINE,Chancellor.,- Chancellor. - Are you all right?,875939
 126,83,ANAKIN,PALPATINE,Are you all right?,- Chancellor. - Are you all right?,875939
 127,84,PALPATINE,"OBI-WAN, ANAKIN",Count Dooku.,Count Dooku.,875940
 128,85,OBI-WAN,ANAKIN,This time we will do it together.,- This time we will do it together. - I was about to say that.,875941
@@ -202,7 +202,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 200,129,ANAKIN,OBI-WAN,See!,See? No problem.,875996
 201,129,ANAKIN,OBI-WAN,No problem.,See? No problem.,875996
 202,130,SUPER BATTLE DROID,"ANAKIN, OBI-WAN, PALPATINE",Don't move.,Don't move.,875997
-203,131,OBI-WAN,ANAKIN,Do you have a plan B?,"Do you have a plan ""B""?",220
+203,131,OBI-WAN,ANAKIN,Do you have a plan B?,"Do you have a plan ""B""?",875999
 204,132,GENERAL GRIEVOUS,OBI-WAN,Ah yes.,"Ah, yes. The negotiator.",876000
 205,132,GENERAL GRIEVOUS,OBI-WAN,"The Negotiator, General Kenobi.",General Kenobi. We've been waiting for you.,876001
 206,132,GENERAL GRIEVOUS,OBI-WAN,We've been waiting for you.,General Kenobi. We've been waiting for you.,876001
@@ -316,7 +316,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 314,199,PALPATINE,GENERAL GRIEVOUS,I suggest you move the separatist leaders to Mustafar.,I suggest you move the separatist leaders to Mustafar.,876092
 315,200,GENERAL GRIEVOUS,PALPATINE,"It will be done, My Lord.","It will be done, my lord.",876093
 316,201,PALPATINE,GENERAL GRIEVOUS,"The end of the war is near, General.","The end of the war is near, General.",876094
-317,202,GENERAL GRIEVOUS,PALPATINE,But the loss of Count Dooku?,But the loss ofCount Dooku...,876095
+317,202,GENERAL GRIEVOUS,PALPATINE,But the loss of Count Dooku?,But the loss of Count Dooku...,876095
 318,203,PALPATINE,GENERAL GRIEVOUS,His death was a necessary loss.,His death was a necessary loss.,876096
 319,203,PALPATINE,GENERAL GRIEVOUS,Soon I will have a new apprentice- one far younger and more powerful.,one far younger and more powerful.,876098
 320,204,PADME,ANAKIN,"Ani, I want to have our baby back home on Naboo.","Ani, I want to have our baby back home on Naboo.",876099
@@ -665,7 +665,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 663,404,GENERAL GRIEVOUS,OBI-WAN,"Attack, Kenobi.","Attack, Kenobi.",876425
 664,404,GENERAL GRIEVOUS,OBI-WAN,"Army or not, you must realize you are doomed.",you must realize you are doomed.,876427
 665,405,OBI-WAN,GENERAL GRIEVOUS,"Oh, I don't think so.","Oh, I don't think so.",876428
-666,406,CLONE COMMANDER CODY,MACE WINDU,"Master Windu, may I interrupt?","Master Windu, may I interrupt?",765
+666,406,CLONE COMMANDER CODY,MACE WINDU,"Master Windu, may I interrupt?","Master Windu, may I interrupt?",876432
 667,406,CLONE COMMANDER CODY,MACE WINDU,"General Kenobi has made contact with General Grievous, and we have begun our attack.",and we have begun our attack.,876434
 668,407,MACE WINDU,CLONE COMMANDER CODY,"Thank, you Commander.","Thank you, Commander.",876435
 669,408,MACE WINDU,ANAKIN,"Anakin, deliver this report to the chancellor.","Anakin, deliver this report to the chancellor.",876436
@@ -1116,7 +1116,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 1114,655,VADER,OBI-WAN,You will try.,You will try.,876882
 1115,656,YODA,PALPATINE,"I hear a new apprentice, you have.","I hear a new apprentice you have, Emperor.",876883
 1116,656,YODA,PALPATINE,"Emperor, or should I call you Darth Sidious?",Or should I call you Darth Sidious?,876884
-1117,657,PALPATINE,YODA,Master Yoda.,Master Yoda.,1310
+1117,657,PALPATINE,YODA,Master Yoda.,Master Yoda.,876885
 1118,657,PALPATINE,YODA,You survived.,You survived.,876886
 1119,658,YODA,PALPATINE,Surprised?,Surprised?,876887
 1120,659,PALPATINE,YODA,"Your arrogance blinds you, Master Yoda.","Your arrogance blinds you, Master Yoda.",876888

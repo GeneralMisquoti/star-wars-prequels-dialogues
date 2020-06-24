@@ -28,7 +28,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 26,15,PALPATINE,NA,Good.,Good.,873776
 27,15,PALPATINE,NA,Send them in.,Send them in.,873777
 28,16,PALPATINE,"YODA, MACE WINDU, KI-ADI-MUNDI",We will discuss this matter later.,We will discuss this matter later.,873778
-29,17,YODA,PADME,"Senator Amidala, Your tragedy on the landing platform, terrible.","'Senator Amidala, your tragedy on the landing platform.';'terrible.'",873779;873780
+29,17,YODA,PADME,"Senator Amidala, Your tragedy on the landing platform, terrible.","'Senator Amidala, your tragedy on the landing platform...';'terrible.'",873779;873780
 30,17,YODA,PADME,Seeing you alive brings warm feelings to my heart.,Seeing you alive brings warm feelings to my heart.,873781
 31,17,YODA,PADME,brings warm feeling to my heart.,Seeing you alive brings warm feelings to my heart.,873781
 32,18,PADME,YODA,Do you have any idea who was behind this attack?,Do you have any idea who was behind this attack?,873782
@@ -679,7 +679,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 677,376,JANGO FETT,BOBA FETT,We're leaving.,Pack your things. We're leaving.,874356
 678,377,ANAKIN,PADME,"And when I got to them, we went into aggressive negotiations.","And when I got to them, we went into aggressive negotiations.",874357
 679,378,ANAKIN,NA,Thank you.
-680,379,PADME,ANAKIN,Aggressive negotiations?,"""Aggressive negotiations""?",708
+680,379,PADME,ANAKIN,Aggressive negotiations?,"""Aggressive negotiations""? What's that?",874358
 681,379,PADME,ANAKIN,What's that?,"""Aggressive negotiations""? What's that?",874358
 682,380,ANAKIN,PADME,"Uh, well, negotiations with a lightsaber.","Well, negotiations with a lightsaber.",874359
 683,381,PADME,ANAKIN,Oh.
@@ -769,12 +769,12 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 767,409,ANAKIN,ANAKIN,No.,No.,874435
 768,409,ANAKIN,ANAKIN,No.,No.,874435
 769,410,SHMI,NA,"Anakin, help me."
-770,411,ANAKIN,NA,"Mom, no.","Mom, no.",799
+770,411,ANAKIN,NA,"Mom, no.","Mom, no.",874436
 771,412,SHMI,NA,Anakin!
 772,413,ANAKIN,NA,Don't.
 773,413,ANAKIN,NA,No.
 774,413,ANAKIN,NA,No.
-775,414,ANAKIN,PADME,Don't go.,Don't go.,800
+775,414,ANAKIN,PADME,Don't go.,Don't go.,874437
 776,415,PADME,ANAKIN,I don't want to disturb you.,I don't want to disturb you.,874438
 777,416,ANAKIN,PADME,Your presence is soothing.,Your presence is soothing.,874439
 778,417,PADME,ANAKIN,You had another nightmare last night.,You had another nightmare last night.,874440
@@ -989,7 +989,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 987,505,OBI-WAN,NA,"Anakin, do you copy?"
 988,505,OBI-WAN,NA,This is Obi-Wan Kenobi.
 989,505,OBI-WAN,NA,"Retransmit this message-- Anakin, do you copy?"
-990,505,OBI-WAN,NA,Anakin-- My long-range-- has been knocked out.,My long-range transmitter has been knocked out.,1000
+990,505,OBI-WAN,NA,Anakin-- My long-range-- has been knocked out.,My long-range transmitter has been knocked out.,874608
 991,505,OBI-WAN,NA,Retransmit this message to Coruscant.,Retransmit this message to Coruscant.,874609
 992,506,PADME,ANAKIN,I brought you something.,I brought you something.,874610
 993,506,PADME,ANAKIN,Are you hungry?,Are you hungry?,874611

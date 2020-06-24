@@ -12,8 +12,8 @@ module_logger = logging.getLogger(__name__)
 
 
 class CsvFile(File):
-    def __init__(self, path: Path, overrides: Overrides):
-        super().__init__(path)
+    def __init__(self, path: Path, overrides: Overrides, movie_index: int):
+        super().__init__(path, movie_index)
         csv_parsed = reader(path.open('r', encoding='UTF-8'), quotechar='"', delimiter=',')
         self.overrides = overrides
 
@@ -36,27 +36,32 @@ class CsvFile(File):
             if not permission.allow:
                 continue
             if not permission.force_id:
+                try_replace = self.overrides.should_try_replace(sentence)
                 for other_sentence in other_movie.sentences[last_match_id:]:
-                    sentence.match(other_sentence)
+                    sentence.match(other_sentence, alternative_text=try_replace)
                     match = sentence.best_match
                     if (match.ideal_match and len(sentence.matches) >= sentence.THRESHOLD_CHECK_MORE_FOR_FUN) \
                        or match.wont_be_better:
                         break
             else:
+                # Force match rows
                 # FIXME: Id is of row, but we choose sentence
-                sentences = []
+                rows = []
                 for forced_id in permission.force_id:
                     try:
-                        forced_sentence = next(
-                            x for x in other_movie.sentences[last_match_id:] if x.parent_row.yarn_id == forced_id
-                        )
-                        sentences.append(forced_sentence)
-                        last_match_id = forced_sentence.id
+                        forced_rows = []
+                        for x in other_movie.sentences[last_match_id:]:
+                            if x.parent_row.yarn_id == forced_id:
+                                forced_rows.append(x.parent_row)
+                                break
+                        if len(forced_rows) > 0:
+                            rows.extend(forced_rows)
+                            last_match_id = forced_rows[-1].id
                     except StopIteration:
                         print()
                         module_logger.fatal(f"STOPITERATION: {self.movie.name} Not found id {forced_id} in range [{last_match_id}:] ")
                         exit()
-                sentence.force_matches(sentences)
+                sentence.force_matches(rows)
             last_match = sentence.decide_on_match()
             if detect_gaps and last_match:
                 detect_gaps.detect(last_match, sentence)

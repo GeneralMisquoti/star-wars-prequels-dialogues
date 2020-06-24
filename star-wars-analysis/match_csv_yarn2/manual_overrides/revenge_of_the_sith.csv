@@ -1,6 +1,11 @@
 sentence_id, overwritten_json_id, csv_text
+42, 875877;875878
+91, 875911;875912
+92, None
+106, None
+107, 875926
+203, 875999
 642, None, "I'm staying here"
 666, 876432
 722, None, "So uncivilized."
 1117, 876885, "Master Yoda."
-203, 875999

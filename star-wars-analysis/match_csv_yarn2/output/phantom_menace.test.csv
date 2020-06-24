@@ -969,7 +969,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 967,576,FODE,NA,There goes Quadinaros' power coupling.,"Ooh, there goes Quadinaros' power coupling.",870857
 968,577,POD RACER,NA,"Oh, no!"
 969,578,THREEPIO,"R2D2, KITSTER, GREEDO",Where is Master Anakin?
-970,579,PADME,"SHMI, QUI-GON, JAR JAR",Look.,Look.,1029
+970,579,PADME,"SHMI, QUI-GON, JAR JAR",Look.,Look. Here he comes.,870867
 971,579,PADME,"SHMI, QUI-GON, JAR JAR",Here he comes.,Look. Here he comes.,870867
 972,580,FODE,NA,It looks like Skywalker is moving up in the field.,It looks like Skywalker is moving up in the field.,870868
 973,581,KITSTER,NA,Yay!,Yay! Yippee!,870869
@@ -1550,7 +1550,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 1548,878,CAPT. PANAKA,"PADME, QUI-GON","Your Highness, this is a battle I do not think that we can win.","Your Highness, this is a battle I do not think that we can win.",871390
 1549,879,PADME,"QUI-GON, CAPT. PANAKA",The battle is a diversion.,The battle is a diversion.,871391
 1550,879,PADME,"QUI-GON, CAPT. PANAKA",The Gungans must draw the droid army away from the cities.,The Gungans must draw the droid army away from the cities.,871392
-1551,880,PADME,R2D2,Artoo.,R2.,1648
+1551,880,PADME,R2D2,Artoo.,R2.,871393
 1552,881,PADME,"QUI-GON, CAPT. PANAKA",We can enter the city using the secret passages on the waterfall side.,We can enter the city using the secret passages on the waterfall side.,871394
 1553,881,PADME,"QUI-GON, CAPT. PANAKA",Once we get to the main entrance.,"Once we get to the main entrance,",871395
 1554,881,PADME,"QUI-GON, CAPT. PANAKA",Captain Panaka will create a diversion.,Captain Panaka will create a diversion.,871396
@@ -1629,7 +1629,7 @@ sentence_id,csv_id,from,to,dialogue,transcript,yarn_id
 1627,927,PADME,CAPT. PANAKA,"We don't have time for this, Captain.","We don't have time for this, Captain.",871457
 1628,928,ANAKIN,R2D2,"Look, there they are.",Look! There they are.,871458
 1629,928,ANAKIN,R2D2,That's where the autopilot's taking us.,That's where the autopilot's taking us.,871459
-1630,929,JAR JAR,NA,Dumb droid.,Aaah!,1737
+1630,929,JAR JAR,NA,Dumb droid.,Aaah! Hmm! Dumb droid. Take that!,871462
 1631,929,JAR JAR,NA,Take that!,Aaah! Hmm! Dumb droid. Take that!,871462
 1632,929,JAR JAR,NA,Get off!,Get off! Get off! Get off! Get off!,871463
 1633,929,JAR JAR,NA,Get off!,Get off! Get off! Get off! Get off!,871463

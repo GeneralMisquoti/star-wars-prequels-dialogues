@@ -29,15 +29,15 @@ class CsvRow(Row):
             if other:
                 other = other.other
                 yarn_match = [other.parent_row.yarn_id]
-            if sentence.forced_matched_sentences:
-                if len(sentence.forced_matched_sentences) > 1:
+            if sentence.forced_matched_rows:
+                if len(sentence.forced_matched_rows) > 1:
                     yarn_match = [
-                        ';'.join([str(sentence.parent_row.yarn_id) for sentence in sentence.forced_matched_sentences])
+                        ';'.join([str(row.yarn_id) for row in sentence.forced_matched_rows])
                     ]
                 else:
-                    forced_sentence = sentence.forced_matched_sentences[0]
+                    forced_row = sentence.forced_matched_rows[0]
                     yarn_match = [
-                        forced_sentence.id
+                        forced_row.yarn_id
                     ]
             to_be_returned.append(
                 [
@@ -58,17 +58,17 @@ class CsvRow(Row):
             if other:
                 other = other.other
                 yarn_match = [other.parent_row.transcript, other.parent_row.yarn_id]
-            if sentence.forced_matched_sentences:
-                if len(sentence.forced_matched_sentences) > 1:
+            if sentence.forced_matched_rows:
+                if len(sentence.forced_matched_rows) > 1:
                     yarn_match = [
-                        ';'.join([f"'{sentence.sentence}'" for sentence in sentence.forced_matched_sentences]),
-                        ';'.join([str(sentence.parent_row.yarn_id) for sentence in sentence.forced_matched_sentences])
+                        ';'.join([f"'{row.dialogue}'" for row in sentence.forced_matched_rows]),
+                        ';'.join([str(row.yarn_id) for row in sentence.forced_matched_rows])
                     ]
                 else:
-                    forced_sentence = sentence.forced_matched_sentences[0]
+                    forced_row = sentence.forced_matched_rows[0]
                     yarn_match = [
-                        forced_sentence.sentence,
-                        forced_sentence.id
+                        forced_row.dialogue,
+                        forced_row.yarn_id
                     ]
             to_be_returned.append(
                 [
