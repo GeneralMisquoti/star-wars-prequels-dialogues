@@ -1,9 +1,11 @@
-from csv import reader, writer
 from .utils.file_abstract import File
 from .row_csv import CsvRow
-from pathlib import Path
 from .file_json import JsonFile
 from .overrides import Overrides
+from .gaps import DetectGaps
+
+from pathlib import Path
+from csv import reader, writer
 import logging
 
 module_logger = logging.getLogger(__name__)
@@ -23,7 +25,7 @@ class CsvFile(File):
     def __iter__(self):
         return self._iter.__iter__()
 
-    def find_matches(self, json_file: JsonFile, show_progress=False):
+    def find_matches(self, json_file: JsonFile, show_progress=False, detect_gaps: DetectGaps = None):
         this_movie = self.movie
         other_movie = json_file.movie
         last_match_id = 0
@@ -56,6 +58,8 @@ class CsvFile(File):
                         exit()
                 sentence.force_matches(sentences)
             last_match = sentence.decide_on_match()
+            if detect_gaps and last_match:
+                detect_gaps.detect(last_match, sentence)
             if last_match:
                 last_match_id = last_match.other.id
 
@@ -66,11 +70,19 @@ class CsvFile(File):
         if show_progress:
             print()
 
-    def write(self, file):
+        if detect_gaps:
+            detect_gaps.log_count()
+
+    def write(self, file, test=False):
         to_be_dumped = []
-        for row in self.movie.rows:
-            headers, new_dump = row.to_map_prod()
-            to_be_dumped.extend(new_dump)
+        if test:
+            for row in self.movie.rows:
+                headers, new_dump = row.to_map_test()
+                to_be_dumped.extend(new_dump)
+        else:
+            for row in self.movie.rows:
+                headers, new_dump = row.to_map_prod()
+                to_be_dumped.extend(new_dump)
 
         csv_writer = writer(file)
         csv_writer.writerow(headers)

@@ -13,8 +13,8 @@ class Movie:
 
     def make_list(self, list_of_dialogues: Iterable, creator: Type[Row]):
         max_id = 0
-        for row in list_of_dialogues:
-            last_row = creator(row, max_id)
+        for i, row in enumerate(list_of_dialogues):
+            last_row = creator(row, max_id, index=i)
             max_id = last_row.sentences[-1].id + 1
             self.rows.append(last_row)
             self.sentences.extend(last_row)

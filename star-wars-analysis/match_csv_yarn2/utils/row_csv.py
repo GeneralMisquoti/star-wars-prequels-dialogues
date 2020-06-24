@@ -3,10 +3,11 @@ from .utils.row_abstract import Row
 
 
 class CsvRow(Row):
-    def __init__(self, row: List[str], id: int):
+    def __init__(self, row: List[str], id: int, index=None):
         self.speaker = row[0]
         self.addressed = row[1]
         self.lineorder = row[2]
+        self.csv_id = self.lineorder
         self.combinedline = row[3]
         self.numberofrows = row[4]
         self.wordcount = row[5]
@@ -15,7 +16,8 @@ class CsvRow(Row):
             dialogue=self.combinedline,
             id=id,
             from_whom=self.speaker,
-            to_whom=self.addressed
+            to_whom=self.addressed,
+            index=None
         )
 
     def to_map_prod(self):
@@ -49,7 +51,7 @@ class CsvRow(Row):
 
     def to_map_test(self):
         to_be_returned = []
-        headers = ["sentence_id", "from", "to", "dialogue", "transcript", "yarn_id"]
+        headers = ["sentence_id", "csv_id", "from", "to", "dialogue", "transcript", "yarn_id"]
         for sentence in self.sentences:
             other = sentence.best_match
             yarn_match = []
@@ -71,6 +73,7 @@ class CsvRow(Row):
             to_be_returned.append(
                 [
                     sentence.id,
+                    self.lineorder,
                     self.from_whom,
                     self.to_whom,
                     sentence.sentence,
