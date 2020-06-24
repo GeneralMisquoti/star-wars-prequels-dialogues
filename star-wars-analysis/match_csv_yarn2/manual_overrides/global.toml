@@ -6,5 +6,8 @@ blacklist_regexes = [
     # [ Beeping ] [ Whistling ] etc.
     '(\[[\w\s]+\]\s?)*'
 ]
+[[csv.try_replace]]
+original = 'R2'
+replace = 'Artoo'
 
 [json]

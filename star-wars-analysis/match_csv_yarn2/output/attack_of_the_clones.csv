@@ -28,7 +28,7 @@ YODA,PALPATINE,Impossible to see the future is.,873774
 PALPATINE,NA,Good.,873776
 PALPATINE,NA,Send them in.,873777
 PALPATINE,"YODA, MACE WINDU, KI-ADI-MUNDI",We will discuss this matter later.,873778
-YODA,PADME,"Senator Amidala, Your tragedy on the landing platform, terrible.",873780
+YODA,PADME,"Senator Amidala, Your tragedy on the landing platform, terrible.",873779;873780
 YODA,PADME,Seeing you alive brings warm feelings to my heart.,873781
 YODA,PADME,brings warm feeling to my heart.,873781
 PADME,YODA,Do you have any idea who was behind this attack?,873782
@@ -679,7 +679,7 @@ JANGO FETT,BOBA FETT,Pack your things.,874356
 JANGO FETT,BOBA FETT,We're leaving.,874356
 ANAKIN,PADME,"And when I got to them, we went into aggressive negotiations.",874357
 ANAKIN,NA,Thank you.
-PADME,ANAKIN,Aggressive negotiations?,708
+PADME,ANAKIN,Aggressive negotiations?,874358
 PADME,ANAKIN,What's that?,874358
 ANAKIN,PADME,"Uh, well, negotiations with a lightsaber.",874359
 PADME,ANAKIN,Oh.
@@ -769,12 +769,12 @@ YODA,MACE WINDU,multiply our adversaries will.,874434
 ANAKIN,ANAKIN,No.,874435
 ANAKIN,ANAKIN,No.,874435
 SHMI,NA,"Anakin, help me."
-ANAKIN,NA,"Mom, no.",799
+ANAKIN,NA,"Mom, no.",874436
 SHMI,NA,Anakin!
 ANAKIN,NA,Don't.
 ANAKIN,NA,No.
 ANAKIN,NA,No.
-ANAKIN,PADME,Don't go.,800
+ANAKIN,PADME,Don't go.,874437
 PADME,ANAKIN,I don't want to disturb you.,874438
 ANAKIN,PADME,Your presence is soothing.,874439
 PADME,ANAKIN,You had another nightmare last night.,874440
@@ -989,7 +989,7 @@ OBI-WAN,NA,Anakin?
 OBI-WAN,NA,"Anakin, do you copy?"
 OBI-WAN,NA,This is Obi-Wan Kenobi.
 OBI-WAN,NA,"Retransmit this message-- Anakin, do you copy?"
-OBI-WAN,NA,Anakin-- My long-range-- has been knocked out.,1000
+OBI-WAN,NA,Anakin-- My long-range-- has been knocked out.,874608
 OBI-WAN,NA,Retransmit this message to Coruscant.,874609
 PADME,ANAKIN,I brought you something.,874610
 PADME,ANAKIN,Are you hungry?,874611

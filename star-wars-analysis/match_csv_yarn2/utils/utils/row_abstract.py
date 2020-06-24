@@ -40,9 +40,11 @@ class Row:
             id: int,
             from_whom: Character = None,
             to_whom: Character = None,
+            index: int = None
     ):
         self.dialogue = dialogue
         self.id = id
+        self.index = index
         self.sentences = make_sentences(self, id)
         self.from_whom = from_whom
         self.to_whom = to_whom
@@ -50,7 +52,7 @@ class Row:
         self.pair = None
 
     def __repr__(self):
-        return f'<CsvRow from="{self.from_whom}" line="{self.sentences}" to="{self.to_whom}">'
+        return f'<{self.__class__.__name__} from="{self.from_whom}" line="{self.sentences}" to="{self.to_whom}">'
 
     def __iter__(self):
         return self.sentences.__iter__()

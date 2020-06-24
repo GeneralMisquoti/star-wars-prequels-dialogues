@@ -41,7 +41,7 @@ OBI-WAN,ANAKIN,The mission.,875875
 OBI-WAN,ANAKIN,Get to the command ship.,875876
 OBI-WAN,ANAKIN,Get the chancellor.,875876
 OBI-WAN,ANAKIN,I'm running out of tricks here.,875876
-OBI-WAN,ANAKIN,In the name of- Hold your fire!,875878
+OBI-WAN,ANAKIN,In the name of- Hold your fire!,875877;875878
 OBI-WAN,ANAKIN,You're not helping.,875878
 ANAKIN,OBI-WAN,I agree.,875878
 ANAKIN,OBI-WAN,Bad idea.,875878
@@ -90,8 +90,8 @@ OBI-WAN,ANAKIN,Did you press the stop button?,875909
 ANAKIN,OBI-WAN,"No, did you?",875909
 OBI-WAN,ANAKIN,No!,875910
 ANAKIN,OBI-WAN,"Well, there's more than one way out of here.",875910
-OBI-WAN,ANAKIN,"We don't want to get out, we want to get moving.",875911
-OBI-WAN,R2D2,Artoo.,875911
+OBI-WAN,ANAKIN,"We don't want to get out, we want to get moving.",875911;875912
+OBI-WAN,R2D2,Artoo.
 OBI-WAN,R2D2,Activate elevator.,875912
 OBI-WAN,R2D2,3-1-1-7-4.,875912
 OBI-WAN,R2D2,"Come in, Artoo.",875913
@@ -105,26 +105,26 @@ OBI-WAN,R2D2,Artoo?,875918
 OBI-WAN,OBI-WAN,Always on the move.,875920
 OBI-WAN,R2D2,"Artoo, switch on the comlink.",875921
 OBI-WAN,R2D2,"Artoo, can you hear me?",875922
-OBI-WAN,R2D2,Artoo.,875922
-OBI-WAN,R2D2,"Stop, stop!",875922
-OBI-WAN,R2D2,"Artoo, we need to be going up.",875922
-DROID 1,ANAKIN,"Hands up, Jedi!",875922
-OBI-WAN,R2D2,"Artoo, do you copy?",875922
-OBI-WAN,R2D2,"Artoo, do you hear me?",875922
-OBI-WAN,R2D2,"Artoo, we need to be going up, not down.",875922
-SUPER BATTLE DROID 1,R2D2,Hey you!,875922
-OBI-WAN,R2D2,"Now, that's better.",875922
-SUPER BATTLE DROID 1,R2D2,You stupid little astro droid!,875922
-DROID 1,NA,Uh oh.,875922
-OBI-WAN,ANAKIN,"Oh, it's you.",875922
-SUPER BATTLE DROID,NA,My eyes my eyes!,875922
-ANAKIN,OBI-WAN,What was that all about?,875924
-OBI-WAN,ANAKIN,"Well, Artoo has been.",875924
-ANAKIN,OBI-WAN,No loose wire jokes.,875924
-OBI-WAN,ANAKIN,Did I say anything?,875924
-ANAKIN,OBI-WAN,He's trying!,875926
-OBI-WAN,ANAKIN,I didn't say anything!,875929
-OBI-WAN,PALPATINE,Chancellor.,875933
+OBI-WAN,R2D2,Artoo.
+OBI-WAN,R2D2,"Stop, stop!",875926
+OBI-WAN,R2D2,"Artoo, we need to be going up.",875926
+DROID 1,ANAKIN,"Hands up, Jedi!",875927
+OBI-WAN,R2D2,"Artoo, do you copy?",875928
+OBI-WAN,R2D2,"Artoo, do you hear me?",875929
+OBI-WAN,R2D2,"Artoo, we need to be going up, not down.",875929
+SUPER BATTLE DROID 1,R2D2,Hey you!,875930
+OBI-WAN,R2D2,"Now, that's better.",875931
+SUPER BATTLE DROID 1,R2D2,You stupid little astro droid!,875932
+DROID 1,NA,Uh oh.,875933
+OBI-WAN,ANAKIN,"Oh, it's you.",875934
+SUPER BATTLE DROID,NA,My eyes my eyes!,875935
+ANAKIN,OBI-WAN,What was that all about?,875936
+OBI-WAN,ANAKIN,"Well, Artoo has been.",875936
+ANAKIN,OBI-WAN,No loose wire jokes.,875937
+OBI-WAN,ANAKIN,Did I say anything?,875937
+ANAKIN,OBI-WAN,He's trying!,875938
+OBI-WAN,ANAKIN,I didn't say anything!,875938
+OBI-WAN,PALPATINE,Chancellor.,875939
 ANAKIN,PALPATINE,Are you all right?,875939
 PALPATINE,"OBI-WAN, ANAKIN",Count Dooku.,875940
 OBI-WAN,ANAKIN,This time we will do it together.,875941
@@ -202,9 +202,9 @@ ANAKIN,OBI-WAN,"Yes, Artoo will be along in a few moments and then he'll release
 ANAKIN,OBI-WAN,See!,875996
 ANAKIN,OBI-WAN,No problem.,875996
 SUPER BATTLE DROID,"ANAKIN, OBI-WAN, PALPATINE",Don't move.,875997
-OBI-WAN,ANAKIN,Do you have a plan B?,875997
-GENERAL GRIEVOUS,OBI-WAN,Ah yes.,875997
-GENERAL GRIEVOUS,OBI-WAN,"The Negotiator, General Kenobi.",875997
+OBI-WAN,ANAKIN,Do you have a plan B?,875999
+GENERAL GRIEVOUS,OBI-WAN,Ah yes.,876000
+GENERAL GRIEVOUS,OBI-WAN,"The Negotiator, General Kenobi.",876001
 GENERAL GRIEVOUS,OBI-WAN,We've been waiting for you.,876001
 GENERAL GRIEVOUS,OBI-WAN,That wasn't much of a rescue.,876003
 GENERAL GRIEVOUS,ANAKIN,And Anakin Skywalker.,876005
@@ -665,7 +665,7 @@ GENERAL GRIEVOUS,OBI-WAN,I have been trained in your Jedi arts by Count Dooku.,8
 GENERAL GRIEVOUS,OBI-WAN,"Attack, Kenobi.",876425
 GENERAL GRIEVOUS,OBI-WAN,"Army or not, you must realize you are doomed.",876427
 OBI-WAN,GENERAL GRIEVOUS,"Oh, I don't think so.",876428
-CLONE COMMANDER CODY,MACE WINDU,"Master Windu, may I interrupt?",765
+CLONE COMMANDER CODY,MACE WINDU,"Master Windu, may I interrupt?",876432
 CLONE COMMANDER CODY,MACE WINDU,"General Kenobi has made contact with General Grievous, and we have begun our attack.",876434
 MACE WINDU,CLONE COMMANDER CODY,"Thank, you Commander.",876435
 MACE WINDU,ANAKIN,"Anakin, deliver this report to the chancellor.",876436
@@ -1116,7 +1116,7 @@ OBI-WAN,VADER,I will do what I must.,876881
 VADER,OBI-WAN,You will try.,876882
 YODA,PALPATINE,"I hear a new apprentice, you have.",876883
 YODA,PALPATINE,"Emperor, or should I call you Darth Sidious?",876884
-PALPATINE,YODA,Master Yoda.,1310
+PALPATINE,YODA,Master Yoda.,876885
 PALPATINE,YODA,You survived.,876886
 YODA,PALPATINE,Surprised?,876887
 PALPATINE,YODA,"Your arrogance blinds you, Master Yoda.",876888

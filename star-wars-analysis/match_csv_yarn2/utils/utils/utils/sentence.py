@@ -28,19 +28,29 @@ class Sentence:
 
         self.best_match: Optional[Match] = None
         self.parent_row = parent
-        self.forced_matched_sentences = None
+        self.forced_matched_rows = None
 
-    def force_matches(self, forced_sentences: List["Sentence"]):
-        self.forced_matched_sentences = forced_sentences
+    def force_matches(self, forced_rows: List["Row"]):
+        self.forced_matched_rows = forced_rows
 
-    def match(self, other_sentence: "Sentence"):
-        # https://www.datacamp.com/community/tutorials/fuzzy-string-python
-        match_ratio = fuzz.partial_ratio(self.sentence, other_sentence.sentence)
+    def _match(self, first: "Sentence", second: "Sentence", alternative_text: str = None):
+        match_ratio = fuzz.partial_ratio(alternative_text if alternative_text else first.sentence, second.sentence)
         new_match = Match(
             self,
-            other_sentence,
+            second,
             match_ratio,
         )
+        return new_match
+
+    def match(self, other_sentence: "Sentence", alternative_text: str = None):
+        # https://www.datacamp.com/community/tutorials/fuzzy-string-python
+        new_match = self._match(self, other_sentence)
+
+        if alternative_text:
+            alternative_match = self._match(self, other_sentence, alternative_text)
+            if alternative_match.score > new_match.score:
+                new_match = alternative_match
+
         if len(self.matches) > 0:
             best_match = self.matches[0][1]
             # If next match worse than previous don't try to match all after it
