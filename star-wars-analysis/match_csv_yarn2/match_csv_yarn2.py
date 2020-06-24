@@ -2,12 +2,6 @@ import logging
 from time import strftime
 
 from pathlib import Path
-from .utils.file_json import JsonFile
-from .utils.file_csv import CsvFile
-from .utils.overrides import Overrides, GlobalOverride
-from .utils.gaps import DetectGaps
-
-
 HERE = Path(__file__).parent
 
 # Logging
@@ -19,16 +13,22 @@ file_handler = logging.FileHandler(
     filename=log_file,
 )
 file_handler.setLevel(logging.DEBUG)
-stream_handler = logging.StreamHandler(
-)
+stream_handler = logging.StreamHandler()
 stream_handler.setLevel(logging.ERROR)
 logging.basicConfig(
     handlers=[file_handler, stream_handler],
     format='[%(asctime)s,%(msecs)d] %(levelname)s [%(filename)s:%(module)s:%(funcName)s:%(lineno)d] %(message)s',
-    datefmt='%m/%d/%Y %I:%M:%S %p'
+    datefmt='%d/%m/%Y %I:%M:%S %p',
+    level=logging.DEBUG
 )
+
 module_logger = logging.getLogger(__name__)
-module_logger.info('Starting this bitch.')
+module_logger.debug('Starting this bitch.')
+
+from .utils.file_json import JsonFile
+from .utils.file_csv import CsvFile
+from .utils.overrides import Overrides, GlobalOverride
+from .utils.gaps import DetectGaps
 
 CSV_DATA_DIR = HERE.parent / "preprocessed"
 YARN_DATA_DIR = HERE.parent.parent / "yarn" / "parsing_source" / "parsed_sources" / "hand_fixed"
@@ -39,7 +39,9 @@ MOVIE_NAMES = ["phantom_menace", "attack_of_the_clones", "revenge_of_the_sith"]
 CSV_FILES = [
     CsvFile(
         CSV_DATA_DIR / (f"{i+1:02}_" + movie_name + ".csv"),
-        Overrides(OVERRIDES_DIR / (movie_name + ".csv"), GLOBAL_OVERRIDE),
+        Overrides(
+            dir=OVERRIDES_DIR / movie_name,
+            global_override=GLOBAL_OVERRIDE),
         movie_index=i
     ) for i, movie_name in enumerate(MOVIE_NAMES)
 ]
@@ -57,7 +59,11 @@ for i, (csv, yarn) in enumerate(ZIPPED_FILES):
     csv.find_matches(
         yarn,
         show_progress=True,
-        detect_gaps=DetectGaps(log_file.with_name(log_file.stem + f"_gaps_{i}.txt"), movie=yarn.movie)
+        detect_gaps=DetectGaps(
+            log_file.with_name(log_file.stem + f"_gaps_{i}.txt"),
+            yarn=yarn,
+            csv=csv
+        )
     )
 
 

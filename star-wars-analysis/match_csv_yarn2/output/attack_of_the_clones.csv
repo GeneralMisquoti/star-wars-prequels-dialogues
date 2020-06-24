@@ -2,7 +2,7 @@ from,to,dialogue,yarn_id
 LIEUTENANT,PADME,"Senator, we're making our final approach into Coruscant.",873749
 PADME,LIEUTENANT,"Very good, Lieutenant.",873750
 CAPTAIN TYPHO,PADME,We made it.,873751
-CAPTAIN TYPHO,PADME,"I guess I was wrong, there was no danger at all.",873752
+CAPTAIN TYPHO,PADME,"I guess I was wrong, there was no danger at all.",873752;873753
 PADME,CORDE,Corde.,873754
 CORDE,PADME,M'lady I'm so sorry.,873755
 CORDE,PADME,"I've failed you, Senator.",873756
@@ -19,12 +19,13 @@ MACE WINDU,PALPATINE,If they do break away-,873764
 PALPATINE,"YODA, MACE WINDU, KI-ADI-MUNDI",I will not let this Republic.,873765
 PALPATINE,"YODA, MACE WINDU, KI-ADI-MUNDI",that has stood for a thousand years be split in two.,873766
 PALPATINE,"YODA, MACE WINDU, KI-ADI-MUNDI",My negotiations will not fail.,873767
-MACE WINDU,PALPATINE,"If they do, you must realize there aren't enough Jedi to protect the Republic.",873769
+MACE WINDU,PALPATINE,"If they do, you must realize there aren't enough Jedi to protect the Republic.",873768;873769
 MACE WINDU,PALPATINE,"We're keepers of the peace, not soldiers.",873770
 PALPATINE,YODA,Master Yoda.,873771
 PALPATINE,YODA,Do you think it will really come to war?,873772
 YODA,PALPATINE,The dark side clouds everything.,873773
 YODA,PALPATINE,Impossible to see the future is.,873774
+NA,PALPATINE,"The Loyalist Committee has arrived, Your Honor.",873775
 PALPATINE,NA,Good.,873776
 PALPATINE,NA,Send them in.,873777
 PALPATINE,"YODA, MACE WINDU, KI-ADI-MUNDI",We will discuss this matter later.,873778
@@ -56,7 +57,7 @@ OBI-WAN,ANAKIN,You seem a little on edge,873807
 ANAKIN,OBI-WAN,Not at all,873807
 OBI-WAN,ANAKIN,I haven't felt you this tense since we fell into that nest of Gundarks,873808
 ANAKIN,OBI-WAN,"You fell into that nightmare, master And I rescued you remember?",873809
-OBI-WAN,ANAKIN,Oh.,873809
+OBI-WAN,ANAKIN,Oh.,873811
 OBI-WAN,ANAKIN,yes.,873811
 OBI-WAN,ANAKIN,"You're sweating, relax, take a deep breath.",873812
 ANAKIN,OBI-WAN,"I haven't seen her in ten years, Master.",873813
