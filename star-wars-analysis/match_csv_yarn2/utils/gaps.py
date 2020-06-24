@@ -2,7 +2,7 @@ from typing import List, Tuple
 from pathlib import Path
 from .utils.utils.sentence import Match, Sentence
 from .utils.row_abstract import Row
-from .utils.file_abstract import Movie
+from .file_json import JsonFile
 import logging
 from datetime import timedelta
 
@@ -26,15 +26,25 @@ def strfdelta(tdelta, fmt):
 
 
 class Gap:
-    def __init__(self, yarn_ids: Tuple[int, int], row_indexes: Tuple[int, int]):
+    def __init__(
+            self,
+            yarn_ids: Tuple[int, int],
+            json_row_indexes: Tuple[int, int],
+            rows: Tuple[Row, Row],
+            csv_sentence: Sentence
+    ):
         self.yarn_ids = yarn_ids
-        self.row_indexes = row_indexes
+        self.json_row_indexes = json_row_indexes
+        self.rows = rows
+        self.csv_sentence = csv_sentence
 
 
 class DetectGaps:
-    def __init__(self, log_path: Path, movie: Movie):
+    def __init__(self, log_path: Path, yarn: JsonFile, csv: "CsvFile"):
         self.path = log_path
-        self.logger = logging.getLogger("gaps_" + movie.name)
+        self.yarn = yarn
+        self.csv = csv
+        self.logger = logging.getLogger("gaps_" + yarn.movie.name)
         self.logger.propagate = False
         self.log_handler = logging.FileHandler(
             self.path,
@@ -44,9 +54,8 @@ class DetectGaps:
         )
         self.logger.addHandler(self.log_handler)
         self.logger.setLevel(logging.DEBUG)
-        self._log(f'Starting gap detection on movie "{movie.name}"')
+        self._log(f'Starting gap detection on movie "{yarn.movie.name}"')
 
-        self.movie = movie
         self.gap_count = 0
         self.all_count = 0
 
@@ -82,15 +91,17 @@ class DetectGaps:
                 self._log(
                     f"Missed {end - start} sentences between "
                     f"csv_id[{self.prev_sentence.parent_row.csv_id_original}:{sentence.parent_row.csv_id_original}]: "
-                    f"{[x.yarn_id for x in self.movie.rows[start:end]]}."
+                    f"{[x.yarn_id for x in self.yarn.movie.rows[start:end]]}."
                     f"From {start_time} to {end_time}."
                 )
-                for missed_row in self.movie.rows[start:end]:
+                for missed_row in self.yarn.movie.rows[start:end]:
                     self._log_gap(missed_row.sentences)
 
                 found_gap = Gap(
                     yarn_ids=(prev_id, cur_id),
-                    row_indexes=(start, end)
+                    json_row_indexes=(start, end),
+                    rows=(self.yarn.movie.rows[start], self.yarn.movie.rows[end]),
+                    csv_sentence=sentence
                 )
 
         self.prev_match = match
@@ -106,5 +117,8 @@ class DetectGaps:
         self.logger.info(text)
 
     def log_count(self):
-        self._log(f"In total {self.gap_count} sentences were missed out of {self.all_count} ({self.gap_count/self.all_count*100}% missed).")
+        self._log(
+            f"In total {self.gap_count} sentences were missed out"
+            f"of {self.all_count} ({self.gap_count/self.all_count*100}% missed)."
+        )
 

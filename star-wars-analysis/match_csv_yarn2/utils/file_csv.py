@@ -72,6 +72,8 @@ class CsvFile(File):
             if detect_gaps and last_match:
                 # TODO: detect gap and try to mitigate somehow, break on commas etc.
                 gap = detect_gaps.detect(last_match, sentence, movie_index=self.movie.index)
+                if gap:
+                    pass
             if last_match:
                 last_match_id = last_match.other.id
 

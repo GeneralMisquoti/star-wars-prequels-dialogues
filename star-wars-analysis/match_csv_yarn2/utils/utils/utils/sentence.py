@@ -24,7 +24,7 @@ class Sentence:
         self.sentence = sentence
         self.id = id
         if parent.sentence_offset:
-            if parent.offset:
+            if parent.sentence_offset:
                 self.id_original = id - parent.sentence_offset
             else:
                 self.id_original = None

@@ -65,7 +65,7 @@ class CsvRow(Row):
 
     def to_map_test(self):
         to_be_returned = []
-        headers = ["sentence_id", "csv_id", "from", "to", "dialogue", "transcript", "yarn_id"]
+        headers = ["sentence_id", "sentence_id_original", "csv_id", "from", "to", "dialogue", "transcript", "yarn_id"]
         for sentence in self.sentences:
             other = sentence.best_match
             yarn_match = []
@@ -87,6 +87,7 @@ class CsvRow(Row):
             to_be_returned.append(
                 [
                     sentence.id,
+                    sentence.id_original,
                     self.lineorder,
                     self.from_whom,
                     self.to_whom,

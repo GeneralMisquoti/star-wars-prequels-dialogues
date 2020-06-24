@@ -59,7 +59,11 @@ for i, (csv, yarn) in enumerate(ZIPPED_FILES):
     csv.find_matches(
         yarn,
         show_progress=True,
-        detect_gaps=DetectGaps(log_file.with_name(log_file.stem + f"_gaps_{i}.txt"), movie=yarn.movie)
+        detect_gaps=DetectGaps(
+            log_file.with_name(log_file.stem + f"_gaps_{i}.txt"),
+            yarn=yarn,
+            csv=csv
+        )
     )
 
 
