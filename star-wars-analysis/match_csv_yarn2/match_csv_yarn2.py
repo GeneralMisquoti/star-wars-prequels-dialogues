@@ -39,7 +39,9 @@ MOVIE_NAMES = ["phantom_menace", "attack_of_the_clones", "revenge_of_the_sith"]
 CSV_FILES = [
     CsvFile(
         CSV_DATA_DIR / (f"{i+1:02}_" + movie_name + ".csv"),
-        Overrides(OVERRIDES_DIR / (movie_name + ".csv"), GLOBAL_OVERRIDE),
+        Overrides(
+            dir=OVERRIDES_DIR / movie_name,
+            global_override=GLOBAL_OVERRIDE),
         movie_index=i
     ) for i, movie_name in enumerate(MOVIE_NAMES)
 ]

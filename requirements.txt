@@ -1,4 +1,7 @@
-fuzzywuzzy
-whoosh
+fuzzywuzzy~=0.18.0
+whoosh~=2.7.4
 aiohttp==3.6.2
 beautifulsoup4==4.8.2
+
+bs4~=0.0.1
+toml~=0.10.1

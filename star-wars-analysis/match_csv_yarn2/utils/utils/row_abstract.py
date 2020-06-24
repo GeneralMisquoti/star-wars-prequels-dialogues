@@ -14,7 +14,8 @@ def split_row(row: str) -> List[str]:
             for x in new_new_split:
                 x_strip = x.strip()
                 if len(x_strip) != 0:
-                    if x_strip[-1] in splitters:  # 'Yes, Master. How do you think this trade viceroy will deal with the chancellor\'s demands?'
+                    if x_strip[
+                        -1] in splitters:  # 'Yes, Master. How do you think this trade viceroy will deal with the chancellor\'s demands?'
                         new_split.append(x_strip)
                     else:
                         if x_strip[-1] != ',':
@@ -40,11 +41,19 @@ class Row:
             id: int,
             from_whom: Character = None,
             to_whom: Character = None,
-            index: int = None
+            index: int = None,
+            row_offset: int = None,
+            sentence_offset: int = None
     ):
         self.dialogue = dialogue
         self.id = id
-        self.index = index
+        self.original_index = index
+        self.row_offset = row_offset
+        self.sentence_offset = sentence_offset
+        if index:
+            self.index = index + self.row_offset
+        else:
+            self.index = index
         self.sentences = make_sentences(self, id)
         self.from_whom = from_whom
         self.to_whom = to_whom
@@ -56,8 +65,3 @@ class Row:
 
     def __iter__(self):
         return self.sentences.__iter__()
-
-
-
-
-

@@ -23,6 +23,13 @@ class Sentence:
     def __init__(self, sentence: str, id: int, parent: "Row"):
         self.sentence = sentence
         self.id = id
+        if parent.sentence_offset:
+            if parent.offset:
+                self.id_original = id - parent.sentence_offset
+            else:
+                self.id_original = None
+        else:
+            self.id_original = self.id
         self.matches: List[Tuple[int, Match]] = []
         self.THRESHOLD_CHECK_MORE_FOR_FUN = 5
 

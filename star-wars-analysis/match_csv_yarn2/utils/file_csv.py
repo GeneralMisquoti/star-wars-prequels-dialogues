@@ -13,9 +13,9 @@ module_logger = logging.getLogger(__name__)
 
 class CsvFile(File):
     def __init__(self, path: Path, overrides: Overrides, movie_index: int):
-        super().__init__(path, movie_index)
-        csv_parsed = reader(path.open('r', encoding='UTF-8'), quotechar='"', delimiter=',')
         self.overrides = overrides
+        super().__init__(path, movie_index, overrides=overrides)
+        csv_parsed = reader(path.open('r', encoding='UTF-8'), quotechar='"', delimiter=',')
 
         # Skip header
         csv_parsed.__next__()
@@ -45,12 +45,14 @@ class CsvFile(File):
                         break
             else:
                 # Force match rows
-                # FIXME: Id is of row, but we choose sentence
                 rows = []
                 for forced_id in permission.force_id:
                     try:
                         forced_rows = []
-                        for x in other_movie.sentences[last_match_id:]:
+                        range_sentences = other_movie.sentences[last_match_id:]
+                        if range_sentences[0].parent_row.yarn_id > forced_id:
+                            raise Exception('wtf')
+                        for x in range_sentences:
                             if x.parent_row.yarn_id == forced_id:
                                 forced_rows.append(x.parent_row)
                                 break
@@ -59,12 +61,17 @@ class CsvFile(File):
                             last_match_id = forced_rows[-1].id
                     except StopIteration:
                         print()
-                        module_logger.fatal(f"STOPITERATION: {self.movie.name} Not found id {forced_id} in range [{last_match_id}:] ")
+                        module_logger.fatal(
+                            f"STOPITERATION: {self.movie.name} Not found"
+                            f"id {forced_id} in range [{last_match_id}:] "
+                        )
                         exit()
                 sentence.force_matches(rows)
+                detect_gaps.take_note_of_forced_rows(sentence)
             last_match = sentence.decide_on_match()
             if detect_gaps and last_match:
-                detect_gaps.detect(last_match, sentence)
+                # TODO: detect gap and try to mitigate somehow, break on commas etc.
+                gap = detect_gaps.detect(last_match, sentence, movie_index=self.movie.index)
             if last_match:
                 last_match_id = last_match.other.id
 
